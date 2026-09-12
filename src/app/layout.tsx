@@ -34,13 +34,13 @@ export const metadata: Metadata = {
     locale: 'vi_VN',
     title: `${SITE_NAME} — ${SITE_TAGLINE}`,
     description: SITE_DESCRIPTION,
-    images: [{ url: absoluteUrl('/og/home.png'), width: 1200, height: 630, alt: SITE_NAME }],
+    images: [{ url: absoluteUrl('/og/home.jpg'), width: 1200, height: 630, alt: SITE_NAME }],
   },
   twitter: {
     card: 'summary_large_image',
     title: `${SITE_NAME} — ${SITE_TAGLINE}`,
     description: SITE_DESCRIPTION,
-    images: [absoluteUrl('/og/home.png')],
+    images: [absoluteUrl('/og/home.jpg')],
   },
   robots: { index: true, follow: true },
 };

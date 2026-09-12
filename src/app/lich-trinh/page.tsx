@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: `Kế hoạch cho buổi hẹn · ${SITE_NAME}`,
     description: 'Cà phê → đi chơi → ăn tối. Một buổi tối đã được lên sẵn.',
-    images: [{ url: absoluteUrl('/og/home.png'), width: 1200, height: 630, alt: SITE_NAME }],
+    images: [{ url: absoluteUrl('/og/home.jpg'), width: 1200, height: 630, alt: SITE_NAME }],
   },
   // A plan is a personal link, not a search result — every URL here is the same page.
   robots: { index: false, follow: true },

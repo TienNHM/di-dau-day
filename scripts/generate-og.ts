@@ -1,6 +1,6 @@
 import { mkdir, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
-import { renderBrandOgImage, renderPlaceOgImage } from '../src/lib/og/render';
+import { OG_EXTENSION, renderBrandOgImage, renderPlaceOgImage, toJpeg } from '../src/lib/og/render';
 import { getPlaceRepository } from '../src/lib/places/static-repository';
 import { DEFAULT_CITY_ID } from '../src/lib/site';
 
@@ -25,15 +25,12 @@ async function main() {
   let written = 0;
   for (const place of places) {
     const district = await repo.getDistrict(DEFAULT_CITY_ID, place.location.districtId);
-    const image = await renderPlaceOgImage(place, district);
-    const buffer = Buffer.from(await image.arrayBuffer());
-
-    await writeFile(join(outDir, `${place.slug}.png`), buffer);
+    const buffer = await toJpeg(await renderPlaceOgImage(place, district));
+    await writeFile(join(outDir, `${place.slug}.${OG_EXTENSION}`), buffer);
     written += 1;
   }
 
-  const brand = await renderBrandOgImage();
-  await writeFile(join(outDir, 'home.png'), Buffer.from(await brand.arrayBuffer()));
+  await writeFile(join(outDir, `home.${OG_EXTENSION}`), await toJpeg(await renderBrandOgImage()));
 
   console.log(`[og] Đã tạo ${written} ảnh địa điểm + 1 ảnh trang chủ trong public/og/`);
 }

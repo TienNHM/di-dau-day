@@ -48,9 +48,10 @@ export async function generateMetadata({
   // opengraph-image convention emits an extensionless file, which GitHub Pages
   // would serve as application/octet-stream and every crawler would reject.
   const image = {
-    url: absoluteUrl(`/og/${place.slug}.png`),
+    url: absoluteUrl(`/og/${place.slug}.jpg`),
     width: 1200,
     height: 630,
+    type: 'image/jpeg',
     alt: `${place.name} — gợi ý từ ${SITE_NAME}`,
   };
 

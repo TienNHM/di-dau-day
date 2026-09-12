@@ -1,6 +1,7 @@
 import { readFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { ImageResponse } from 'next/og';
+import sharp from 'sharp';
 import { accentFor } from '@/lib/intents/accents';
 import { formatPrice } from '@/components/result/ResultCard';
 import type { District, Place } from '@/lib/places/types';
@@ -18,6 +19,27 @@ import { SITE_NAME, SITE_TAGLINE } from '@/lib/site';
  */
 
 export const OG_SIZE = { width: 1200, height: 630 } as const;
+
+/**
+ * Share images ship as JPEG, not the PNG `ImageResponse` produces.
+ *
+ * These cards are a smooth gradient behind large text — the worst case for PNG,
+ * which stores every shade losslessly. Measured on a real card: PNG 76.4 KB,
+ * JPEG q82 24.7 KB, with no artefacts visible on the type. At thousands of places
+ * that difference is the whole GitHub Pages size budget.
+ *
+ * JPEG rather than WebP (17.7 KB) on purpose: Facebook's documentation commits only
+ * to JPEG, PNG and GIF, and there is no published answer for Zalo — the channel that
+ * matters most here. A preview that silently fails to render breaks the entire share
+ * loop, which is not worth 7 KB.
+ */
+export const OG_CONTENT_TYPE = 'image/jpeg';
+export const OG_EXTENSION = 'jpg';
+
+export async function toJpeg(image: ImageResponse): Promise<Buffer> {
+  const png = Buffer.from(await image.arrayBuffer());
+  return sharp(png).jpeg({ quality: 82, mozjpeg: true }).toBuffer();
+}
 
 const fontPath = (weight: number) =>
   join(process.cwd(), 'src', 'assets', 'fonts', `BeVietnamPro-${weight}.ttf`);
