@@ -28,6 +28,9 @@ type RateLimiter = { limit: (options: { key: string }) => Promise<{ success: boo
 /** Bodies larger than this are abuse, not contributions. */
 const MAX_BODY_BYTES = 8_000;
 
+/** Kept in step with the form's `minLength`; see the check in `fetch`. */
+const MIN_NOTE_LENGTH = 15;
+
 const FIELD_LIMITS = {
   placeName: 120,
   address: 200,
@@ -41,18 +44,25 @@ const FIELD_LIMITS = {
   placeSlug: 120,
 } as const;
 
+/**
+ * A submission after cleaning.
+ *
+ * Every field is a string because `clean()` always returns one — an absent field
+ * becomes `''`, not `undefined`. Callers read `input` as `Partial<Submission>`, which
+ * is where optionality actually belongs.
+ */
 type Submission = {
   kind: 'them-moi' | 'bo-sung' | 'bao-sai';
   placeName: string;
-  placeSlug?: string;
-  address?: string;
-  city?: string;
-  district?: string;
-  price?: string;
-  hours?: string;
-  goodFor?: string;
-  note?: string;
-  contact?: string;
+  placeSlug: string;
+  address: string;
+  city: string;
+  district: string;
+  price: string;
+  hours: string;
+  goodFor: string;
+  note: string;
+  contact: string;
   /** Honeypot: a real person never fills a field they cannot see. */
   website?: string;
   turnstileToken?: string;
@@ -119,10 +129,10 @@ const KIND_LABELS: Record<Submission['kind'], string> = {
 function buildIssue(submission: Submission, origin: string) {
   const title = `[${KIND_LABELS[submission.kind]}] ${submission.placeName}`;
 
-  const rows: [string, string | undefined][] = [
+  const rows: [string, string][] = [
     ['Loại đóng góp', KIND_LABELS[submission.kind]],
     ['Tên địa điểm', submission.placeName],
-    ['Trang', submission.placeSlug ? `${origin}/dia-diem/${submission.placeSlug}/` : undefined],
+    ['Trang', submission.placeSlug ? `${origin}/dia-diem/${submission.placeSlug}/` : ''],
     ['Thành phố', submission.city],
     ['Quận / khu vực', submission.district],
     ['Địa chỉ', submission.address],
@@ -220,11 +230,20 @@ const worker = {
       return json({ error: 'Thiếu tên địa điểm' }, 400, cors);
     }
 
-    // A submission with nothing but a name tells us nothing we did not have.
-    const hasSubstance = [submission.address, submission.note, submission.price, submission.hours]
-      .some((value) => (value ?? '').length >= 3);
-    if (!hasSubstance) {
-      return json({ error: 'Cần thêm ít nhất địa chỉ hoặc một câu mô tả' }, 400, cors);
+    // The description is the point of the whole form. There are already 4,000-odd
+    // places here from open data; what no dataset carries is a sentence from someone
+    // who went. A submission without one is a row we could have imported ourselves.
+    //
+    // Mirrors the form's own `required` and `minLength`, so the two cannot drift into
+    // disagreeing about what a valid contribution is.
+    if (submission.note.length < MIN_NOTE_LENGTH) {
+      return json({ error: 'Cần một câu mô tả — ít nhất vài chữ bằng lời của bạn' }, 400, cors);
+    }
+
+    // Only a brand-new place needs an address: without one it cannot go on a map.
+    // For the other kinds the place already exists and its address is on file.
+    if (kind === 'them-moi' && submission.address.length < 5) {
+      return json({ error: 'Chỗ mới thì cần địa chỉ để tụi mình tìm được' }, 400, cors);
     }
 
     if (env.TURNSTILE_SECRET) {

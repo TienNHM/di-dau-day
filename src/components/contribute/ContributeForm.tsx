@@ -32,6 +32,15 @@ const KIND_OPTIONS: readonly { value: ContributionKind; label: string; hint: str
   { value: 'bao-sai', label: 'Báo thông tin sai', hint: 'Sai địa chỉ, đã đóng cửa…' },
 ];
 
+/**
+ * The shortest description worth filing.
+ *
+ * Below this it is a label, not a description — "ngon", "ok", "đẹp" tell the next
+ * reader nothing they could act on. The number is deliberately low: the point is to
+ * stop empty submissions, not to demand an essay.
+ */
+const MIN_NOTE_LENGTH = 15;
+
 export function ContributeForm({
   defaultKind = 'them-moi',
   place,
@@ -176,20 +185,28 @@ export function ContributeForm({
 
       <Field id={`${formId}-name`} name="placeName" label="Tên địa điểm" required defaultValue={place?.name} />
 
+      {/* Required, and first. Tụi mình đã có hơn 4.000 địa điểm từ dữ liệu mở — thứ
+          không nguồn nào có là một câu của người từng tới. Đây là lý do form này tồn
+          tại, nên nó là trường bắt buộc chứ không phải trường tuỳ chọn nằm cuối. */}
       <Field
         id={`${formId}-note`}
         name="note"
-        label="Một câu mô tả bằng lời của bạn"
-        hint="Phần quan trọng nhất. “Ngồi ngoài bờ sông, chiều muộn có gió” nói được nhiều hơn mọi thông số."
+        label={noteLabel(kind)}
+        hint={noteHint(kind)}
+        required
+        minLength={MIN_NOTE_LENGTH}
         textarea
       />
 
+      {/* Only for a place we do not have yet: without an address we cannot put it on
+          a map, and a place nobody can find is not worth a record. For the other two
+          kinds the place already exists and its address is already on file. */}
       <Field
         id={`${formId}-address`}
         name="address"
         label="Địa chỉ"
         hint="Càng chi tiết càng tốt — tụi mình cần mở được trên bản đồ."
-        {...(place ? {} : { required: false })}
+        required={kind === 'them-moi'}
       />
 
       <div className="grid grid-cols-2 gap-4">
@@ -298,12 +315,36 @@ export function ContributeForm({
   );
 }
 
+/** What the description is asking for depends on why they are writing. */
+function noteLabel(kind: ContributionKind): string {
+  switch (kind) {
+    case 'them-moi':
+      return 'Chỗ này thế nào? Kể bằng lời của bạn';
+    case 'bo-sung':
+      return 'Bạn muốn bổ sung gì?';
+    case 'bao-sai':
+      return 'Thông tin nào đang sai?';
+  }
+}
+
+function noteHint(kind: ContributionKind): string {
+  switch (kind) {
+    case 'them-moi':
+      return '“Ngồi ngoài bờ sông, chiều muộn có gió” nói được nhiều hơn mọi thông số. Đây là phần tụi mình không lấy được từ đâu khác.';
+    case 'bo-sung':
+      return 'Giá, giờ mở cửa, không gian — bất cứ thứ gì trang đang thiếu.';
+    case 'bao-sai':
+      return 'Càng cụ thể càng tốt: sai địa chỉ, đã đóng cửa, đổi tên…';
+  }
+}
+
 function Field({
   id,
   name,
   label,
   hint,
   required,
+  minLength,
   textarea,
   defaultValue,
 }: {
@@ -312,6 +353,7 @@ function Field({
   label: string;
   hint?: string;
   required?: boolean;
+  minLength?: number;
   textarea?: boolean;
   defaultValue?: string;
 }) {
@@ -325,9 +367,25 @@ function Field({
         {required ? <span className="text-brand"> *</span> : null}
       </label>
       {textarea ? (
-        <textarea id={id} name={name} rows={3} required={required} defaultValue={defaultValue} className={shared} />
+        <textarea
+          id={id}
+          name={name}
+          rows={3}
+          required={required}
+          minLength={minLength}
+          defaultValue={defaultValue}
+          className={shared}
+        />
       ) : (
-        <input id={id} name={name} type="text" required={required} defaultValue={defaultValue} className={shared} />
+        <input
+          id={id}
+          name={name}
+          type="text"
+          required={required}
+          minLength={minLength}
+          defaultValue={defaultValue}
+          className={shared}
+        />
       )}
       {hint ? <p className="mt-1 text-xs text-ink-faint">{hint}</p> : null}
     </div>
