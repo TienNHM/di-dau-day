@@ -328,8 +328,8 @@ Mục tiêu: một intent chạy hết luồng, ~25 địa điểm seed, deploy 
 - [x] **0.4** Seed ~25 địa điểm `Outdoor`/`Dating` cho intent "Đi đâu"
 - [x] **0.5** Scoring + weighted selection + unit test
 - [x] **0.6** Landing page với 5 nút intent (tự bật theo seed data)
-- [ ] **0.7** Wizard `/di-dau`: 2 câu hỏi (đi với ai + ngân sách)
-- [ ] **0.8** Spin animation → điều hướng sang `/dia-diem/[slug]`
+- [x] **0.7** Wizard `/di-dau`: 3 câu (đi với ai + ngân sách + khu vực) — dùng chung cho cả 5 intent
+- [x] **0.8** Spin animation → điều hướng sang `/dia-diem/[slug]`
 - [ ] **0.9** Result card + deep link Google Maps + Web Share
 - [ ] **0.10** `generateMetadata` + OG image động
 - [ ] **0.11** Analytics event trên toàn funnel
