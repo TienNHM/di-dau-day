@@ -325,7 +325,7 @@ Mục tiêu: một intent chạy hết luồng, ~25 địa điểm seed, deploy 
 - [x] **0.1** Scaffold: Next.js App Router + TS strict + Tailwind + Vitest + ESLint/Prettier; `git init`
 - [x] **0.2** GitHub Actions workflow deploy lên GitHub Pages (deploy sớm để không bất ngờ về sau)
 - [x] **0.3** Types + Zod schema + `PlaceRepository` + `StaticPlaceRepository`
-- [ ] **0.4** Seed ~25 địa điểm `Outdoor`/`Dating` cho intent "Đi đâu"
+- [x] **0.4** Seed ~25 địa điểm `Outdoor`/`Dating` cho intent "Đi đâu"
 - [ ] **0.5** Scoring + weighted selection + unit test
 - [ ] **0.6** Landing page với 5 nút intent (4 nút disabled/"sắp có")
 - [ ] **0.7** Wizard `/di-dau`: 2 câu hỏi (đi với ai + ngân sách)

@@ -4,6 +4,15 @@
 quan trọng hơn thuật toán** — một gợi ý hay đến từ mô tả đúng và có cá tính,
 không đến từ công thức tính điểm phức tạp.
 
+> [!WARNING]
+> **Seed data hiện tại chưa được kiểm chứng thực địa.** Các địa điểm đều là chỗ có thật
+> và tồn tại lâu năm, nhưng **toạ độ, địa chỉ chi tiết, giá và giờ mở cửa là ước lượng**
+> và cần được đối chiếu trước khi chạy marketing. Sai một toạ độ nghĩa là người dùng bấm
+> "Xem đường đi" rồi chạy tới nhầm chỗ — đó là cách nhanh nhất để mất niềm tin.
+>
+> Cách kiểm chứng: mở Google Maps, tìm địa điểm, chuột phải vào đúng vị trí → copy toạ độ,
+> rồi đối chiếu địa chỉ và giờ mở cửa hiển thị trên đó.
+
 ```
 cities/ho-chi-minh.json    thành phố + danh sách quận (dùng cho khoảng cách & trang SEO)
 places/food.json           quán ăn
