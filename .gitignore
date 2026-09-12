@@ -26,5 +26,9 @@ coverage/
 # generated share images
 public/og/
 
+# generated per-city data shards — rebuilt by `pnpm data:shard`,
+# vouched for by the committed src/lib/places/shard-manifest.ts
+public/data/
+
 # Overture snapshot — regenerate with `pnpm data:fetch`
 .cache/

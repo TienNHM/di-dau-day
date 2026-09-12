@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 import { useCityPreference, writeCityPreference } from '@/lib/places/city-preference';
+import { prefetchCityShard } from '@/lib/places/shard-client';
 import type { City } from '@/lib/places/types';
 
 /**
@@ -27,6 +28,13 @@ export function CityPicker({ options }: { options: readonly CityOption[] }) {
   const stored = useCityPreference();
   const dialogRef = useRef<HTMLDialogElement>(null);
   const [open, setOpen] = useState(false);
+
+  // Warm the chosen city's data from the landing page, where this lives. The wizard
+  // is one tap away and its first two questions need no data, so by the time the
+  // shard is wanted it has usually been in the cache for several seconds.
+  useEffect(() => {
+    prefetchCityShard(stored);
+  }, [stored]);
 
   // A stored city that no longer has places falls back to the first available one
   // rather than rendering an empty trigger.

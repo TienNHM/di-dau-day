@@ -3,38 +3,25 @@ import { notFound } from 'next/navigation';
 import { IntentWizard } from './IntentWizard';
 import { getIntent } from '@/lib/intents/registry';
 import type { IntentId } from '@/lib/intents/registry';
-import { getPlaceRepository } from '@/lib/places/static-repository';
-import { toPlaceSummary } from '@/lib/places/types';
-import { DEFAULT_CITY_ID } from '@/lib/site';
 
 /**
- * Server half of a wizard route: loads exactly the data this intent needs and hands
- * it to the client component as props.
+ * Server half of a wizard route.
  *
- * Only this intent's categories are serialised, and only as summaries, so the payload
- * a phone downloads stays proportional to the one question being asked — the full
- * catalogue never ships to the browser.
+ * It no longer ships any places. It used to serialise TP.HCM's summaries for the
+ * intent into the HTML, which had two problems: the payload was in the critical path
+ * of the first paint even though the first two questions need no data, and the city
+ * was fixed at build time, so the city picker could not change the answer.
+ *
+ * The wizard now fetches its city's shard in the browser while the visitor answers.
+ * All this component decides is which intent is being asked about.
  */
-export async function WizardScreen({ intentId }: { intentId: IntentId }) {
+export function WizardScreen({ intentId }: { intentId: IntentId }) {
   const intent = getIntent(intentId);
   if (!intent) notFound();
 
-  const repo = getPlaceRepository();
-  const [city, places] = await Promise.all([
-    repo.getCity(DEFAULT_CITY_ID),
-    repo.listPlaces({ cityId: DEFAULT_CITY_ID, categories: intent.categories }),
-  ]);
-
-  const summaries = places.map(toPlaceSummary);
-  const withPlaces = new Set(summaries.map((place) => place.districtId));
-
-  // Offering a district with no places for this intent would be a guaranteed
-  // dead end, so the list is narrowed to districts that can actually answer.
-  const districts = (city?.districts ?? []).filter((district) => withPlaces.has(district.id));
-
   return (
     <Suspense fallback={<WizardSkeleton />}>
-      <IntentWizard intent={intent} places={summaries} districts={districts} />
+      <IntentWizard intent={intent} />
     </Suspense>
   );
 }

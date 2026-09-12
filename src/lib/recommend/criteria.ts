@@ -45,6 +45,17 @@ const KEYS = {
   intent: 'tu',
 } as const;
 
+/**
+ * Which city a shared link belongs to.
+ *
+ * Not part of `Criteria`: it selects which data file to read rather than how to
+ * score within it. The itinerary page needs it because a plan is three slugs with
+ * no city attached, and looking them up in the wrong city's shard finds nothing.
+ * Absent on links shared before this existed, which fall back to the stored
+ * preference — those all came from TP.HCM, the only city the wizard then served.
+ */
+export const CITY_QUERY_KEY = 'tp';
+
 export const CRITERIA_QUERY_KEYS = KEYS;
 
 function asMember<T extends string>(value: string | null, allowed: readonly T[]): T | undefined {

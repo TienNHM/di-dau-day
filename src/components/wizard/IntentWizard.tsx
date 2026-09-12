@@ -9,8 +9,9 @@ import { SpinStage } from '@/components/spin/SpinStage';
 import { tagsForVibes } from '@/lib/intents/registry';
 import type { Intent, WizardQuestion } from '@/lib/intents/registry';
 import { COMPANIONS, PRICE_RANGES } from '@/lib/places/types';
-import type { Companion, District, PlaceSummary, PriceRange } from '@/lib/places/types';
-import { encodeCriteria } from '@/lib/recommend/criteria';
+import type { Companion, District, PriceRange } from '@/lib/places/types';
+import { useCityShard } from '@/lib/places/useCityShard';
+import { CITY_QUERY_KEY, encodeCriteria } from '@/lib/recommend/criteria';
 import type { Criteria } from '@/lib/recommend/criteria';
 import { recommendWithFallback } from '@/lib/recommend/select';
 import { composeItinerary, encodeItinerary } from '@/lib/recommend/itinerary';
@@ -83,17 +84,14 @@ function isAnswered(question: WizardQuestion, answers: Answers): boolean {
   }
 }
 
-export function IntentWizard({
-  intent,
-  places,
-  districts,
-}: {
-  intent: Intent;
-  places: readonly PlaceSummary[];
-  districts: readonly District[];
-}) {
+export function IntentWizard({ intent }: { intent: Intent }) {
   const router = useRouter();
   const searchParams = useSearchParams();
+
+  // Loaded in the browser rather than server-rendered, so the answer follows the
+  // visitor's chosen city instead of always being TP.HCM. The request starts on
+  // mount and overlaps the questions that need no data, which is most of them.
+  const { status, places, districts, cityId } = useCityShard(intent.categories);
 
   const [answers, setAnswers] = useState<Answers>(() =>
     readAnswers(new URLSearchParams(searchParams.toString())),
@@ -127,16 +125,20 @@ export function IntentWizard({
 
   const wantsItinerary = intent.supportsItinerary === true && answers.format === 'ca-buoi';
 
+  // Scoring waits for the data. Running it against an empty list would land on the
+  // "chưa tìm được chỗ nào" screen, which is a lie: nothing was searched yet.
+  const ready = status === 'ready';
+
   const itinerary = useMemo(
-    () => (spinning && wantsItinerary ? composeItinerary(places, criteria) : null),
-    [spinning, wantsItinerary, places, criteria],
+    () => (ready && spinning && wantsItinerary ? composeItinerary(places, criteria) : null),
+    [ready, spinning, wantsItinerary, places, criteria],
   );
 
   // The single-place path is also the fallback when a plan cannot be assembled —
   // two stops short of an evening is worse than one good suggestion.
   const outcome = useMemo(
-    () => (spinning && !itinerary ? recommendWithFallback(places, criteria) : null),
-    [spinning, itinerary, places, criteria],
+    () => (ready && spinning && !itinerary ? recommendWithFallback(places, criteria) : null),
+    [ready, spinning, itinerary, places, criteria],
   );
 
   const update = useCallback(
@@ -170,6 +172,9 @@ export function IntentWizard({
     if (itinerary) {
       for (const stop of itinerary.stops) rememberResult(stop.place.id);
       params.set('d', encodeItinerary(itinerary));
+      // The plan is three slugs with no city attached, and the itinerary page has
+      // to know which shard to look them up in.
+      params.set(CITY_QUERY_KEY, cityId);
       router.push(`/lich-trinh/?${params.toString()}` as Route);
       return;
     }
@@ -183,9 +188,18 @@ export function IntentWizard({
 
     rememberResult(winner.place.id);
     router.push(`/dia-diem/${winner.place.slug}/?${params.toString()}` as Route);
-  }, [itinerary, outcome, criteria, intent.id, router]);
+  }, [itinerary, outcome, criteria, intent.id, cityId, router]);
+
+  if (status === 'error') {
+    return <LoadFailedState onRetry={() => window.location.reload()} />;
+  }
 
   if (spinning) {
+    // Someone who answered faster than the network can still be shown the shuffle:
+    // it is the same wait either way, and the animation was always covering the
+    // scoring pass rather than reporting on it.
+    if (!ready) return <PreparingState accent={intent.accent} />;
+
     if (itinerary) {
       const first = itinerary.stops[0]!;
       return (
@@ -260,6 +274,7 @@ export function IntentWizard({
           question={question}
           answers={answers}
           districts={districts}
+          districtsLoading={!ready}
           accentFrom={intent.accent.from}
           onAnswer={(next, shouldAdvance) => {
             update(next);
@@ -304,12 +319,14 @@ function QuestionOptions({
   question,
   answers,
   districts,
+  districtsLoading,
   accentFrom,
   onAnswer,
 }: {
   question: WizardQuestion;
   answers: Answers;
   districts: readonly District[];
+  districtsLoading: boolean;
   accentFrom: string;
   onAnswer: (next: Answers, shouldAdvance: boolean) => void;
 }) {
@@ -412,6 +429,14 @@ function QuestionOptions({
             🗺️ Bất kỳ đâu
           </button>
 
+          {/* "Bất kỳ đâu" stays tappable while the districts arrive, so a slow
+              connection never blocks the one answer that needs no data at all. */}
+          {districtsLoading
+            ? Array.from({ length: 6 }, (_, index) => (
+                <div key={index} className="h-12.5 animate-pulse rounded-2xl bg-cream-deep" aria-hidden />
+              ))
+            : null}
+
           {districts.map((district) => {
             const selected = answers.districtId === district.id;
             return (
@@ -433,6 +458,55 @@ function QuestionOptions({
         </div>
       );
   }
+}
+
+/**
+ * Shown when the answers arrived before the data did.
+ *
+ * Deliberately the same shape and accent as the shuffle that follows, so the wait
+ * reads as part of the spin rather than as a stall — and it carries no percentage or
+ * spinner, because the honest answer is "a moment", not a number.
+ */
+function PreparingState({ accent }: { accent: Intent['accent'] }) {
+  return (
+    <div className="flex flex-1 flex-col items-center justify-center gap-5 text-center">
+      <div
+        className="size-20 animate-pulse rounded-3xl"
+        style={{ backgroundImage: `linear-gradient(120deg, ${accent.from}, ${accent.to})` }}
+        aria-hidden
+      />
+      <p className="text-lg font-semibold" role="status">
+        Đang xáo bài…
+      </p>
+    </div>
+  );
+}
+
+/**
+ * The city's data could not be fetched — offline, or a deploy mid-flight.
+ *
+ * A reload is the honest fix: there is no cached copy to fall back on, and pretending
+ * otherwise would mean recommending from nothing.
+ */
+function LoadFailedState({ onRetry }: { onRetry: () => void }) {
+  return (
+    <div className="flex flex-1 flex-col items-center justify-center gap-4 text-center">
+      <p className="text-5xl" aria-hidden>
+        📡
+      </p>
+      <h1 className="text-2xl font-bold">Chưa tải được dữ liệu</h1>
+      <p className="max-w-xs text-ink-soft">
+        Có vẻ mạng đang trục trặc. Kiểm tra kết nối rồi thử lại nhé.
+      </p>
+      <button
+        type="button"
+        onClick={onRetry}
+        className="rounded-2xl bg-ink px-5 py-3 font-semibold text-cream"
+      >
+        Thử lại
+      </button>
+    </div>
+  );
 }
 
 /**

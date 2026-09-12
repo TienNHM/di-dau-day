@@ -7,15 +7,18 @@ import type { Route } from 'next';
 import { formatDuration, formatPrice } from '@/components/result/ResultCard';
 import { accentFor } from '@/lib/intents/accents';
 import { ITINERARY_SLOTS, decodeItinerarySlugs } from '@/lib/recommend/itinerary';
+import { CITY_QUERY_KEY } from '@/lib/recommend/criteria';
 import { track } from '@/lib/analytics/track';
 import { SITE_NAME } from '@/lib/site';
+import { useItineraryCards } from '@/lib/places/useItineraryCards';
 
 /**
  * A plan the user can follow without thinking again.
  *
- * The itinerary lives entirely in the URL (`?d=slug,slug,slug`), so it is shareable
- * and bookmarkable with no server and no stored state. The page itself is one static
- * file; the stops are looked up client-side from a card index passed in as props.
+ * The itinerary lives entirely in the URL (`?d=slug,slug,slug&tp=city`), so it is
+ * shareable and bookmarkable with no server and no stored state. The page itself is
+ * one static file; the stops are looked up client-side in a card index fetched for
+ * that one city, rather than in an index of everything baked into the HTML.
  */
 
 export type ItineraryCard = {
@@ -30,15 +33,10 @@ export type ItineraryCard = {
   readonly directionsUrl: string;
 };
 
-export function ItineraryTimeline({
-  cards,
-  siteUrl,
-}: {
-  cards: readonly ItineraryCard[];
-  siteUrl: string;
-}) {
+export function ItineraryTimeline({ siteUrl }: { siteUrl: string }) {
   const searchParams = useSearchParams();
   const [copied, setCopied] = useState(false);
+  const { status, cards } = useItineraryCards();
 
   const stops = useMemo(() => {
     const bySlug = new Map(cards.map((card) => [card.slug, card]));
@@ -75,7 +73,13 @@ export function ItineraryTimeline({
   async function handleShare() {
     track('share_click', { kind: 'itinerary' });
 
-    const url = `${siteUrl}/lich-trinh/?d=${stops.map((s) => s.slug).join(',')}`;
+    // The city travels with the link: without it the recipient's own stored city
+    // decides which shard is searched, and these slugs would be missing from it.
+    const shared = new URLSearchParams({ d: stops.map((s) => s.slug).join(',') });
+    const city = searchParams.get(CITY_QUERY_KEY);
+    if (city) shared.set(CITY_QUERY_KEY, city);
+
+    const url = `${siteUrl}/lich-trinh/?${shared.toString()}`;
     const text = `${SITE_NAME} lên kế hoạch giùm: ${stops.map((s) => s.name).join(' → ')}`;
 
     if (typeof navigator !== 'undefined' && navigator.share) {
@@ -96,6 +100,33 @@ export function ItineraryTimeline({
     }
   }
 
+  if (status === 'loading') {
+    return (
+      <div className="flex flex-1 flex-col gap-4" aria-busy>
+        <div className="h-10 w-2/3 animate-pulse rounded-xl bg-cream-deep" />
+        <div className="h-44 animate-pulse rounded-card bg-cream-deep" />
+        <div className="h-44 animate-pulse rounded-card bg-cream-deep" />
+        <div className="h-44 animate-pulse rounded-card bg-cream-deep" />
+      </div>
+    );
+  }
+
+  if (status === 'error') {
+    return (
+      <div className="flex flex-1 flex-col items-center justify-center gap-4 text-center">
+        <p className="text-5xl" aria-hidden>
+          📡
+        </p>
+        <h1 className="text-2xl font-bold">Chưa tải được kế hoạch</h1>
+        <p className="max-w-xs text-ink-soft">
+          Mạng đang trục trặc. Link vẫn còn nguyên — thử tải lại trang nhé.
+        </p>
+      </div>
+    );
+  }
+
+  // Only meaningful once the index has loaded: before that, every plan looks
+  // unreadable simply because nothing has been looked up yet.
   if (stops.length === 0) {
     return (
       <div className="flex flex-1 flex-col items-center justify-center gap-4 text-center">

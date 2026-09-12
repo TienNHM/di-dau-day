@@ -12,15 +12,34 @@ import type { Place } from '@/lib/places/types';
  * whole product depends on.
  */
 export function directionsUrl(place: Place): string {
-  const params = new URLSearchParams({
-    api: '1',
-    destination: `${place.location.lat},${place.location.lng}`,
+  return directionsUrlTo({
+    lat: place.location.lat,
+    lng: place.location.lng,
+    ...(place.location.googleMapsPlaceId === undefined
+      ? {}
+      : { placeId: place.location.googleMapsPlaceId }),
   });
+}
 
-  if (place.location.googleMapsPlaceId) {
-    params.set('destination_place_id', place.location.googleMapsPlaceId);
-  }
-
+/**
+ * The same link built from coordinates alone.
+ *
+ * The itinerary page assembles its cards in the browser from a shard, which carries
+ * coordinates but not a whole `Place`. The place id is passed separately and stays
+ * optional — but it is worth carrying: without it a name search can land on the
+ * wrong branch of a chain.
+ */
+export function directionsUrlTo({
+  lat,
+  lng,
+  placeId,
+}: {
+  lat: number;
+  lng: number;
+  placeId?: string;
+}): string {
+  const params = new URLSearchParams({ api: '1', destination: `${lat},${lng}` });
+  if (placeId) params.set('destination_place_id', placeId);
   return `https://www.google.com/maps/dir/?${params.toString()}`;
 }
 

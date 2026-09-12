@@ -352,7 +352,7 @@ Chi tiết và lý do không dùng OSM/Google ở [`docs/DATA-SOURCES.md`](DATA-
 - [x] **3.1** Pipeline Overture: `data:fetch` → `data:verify` → `data:apply`
 - [x] **3.2** Đa thành phố trong data model + city picker + URL `/thanh-pho/[city]/[district]`
 - [x] **3.2b** Import 4.075 địa điểm từ Overture cho 9 thành phố
-- [ ] **3.3** Shard dữ liệu theo thành phố + cache IndexedDB
+- [x] **3.3** Shard dữ liệu theo thành phố + cache IndexedDB
 - [x] **3.4** ~~Chấm điểm trong Web Worker~~ — **đã đo, không cần**
 
   Đo bằng Chrome có bóp CPU (4×/6× ≈ điện thoại tầm trung). Nút thắt hoá ra không
@@ -370,6 +370,19 @@ Chi tiết và lý do không dùng OSM/Google ở [`docs/DATA-SOURCES.md`](DATA-
   plumbing để **che** bug thay vì sửa nó.
 - [x] **3.5** Result card degrade khi thiếu `editorialNote` + CTA bổ sung thông tin
 - [x] **3.6** Cloudflare Worker + form đóng góp / báo thông tin sai
+
+> **3.3 sửa được một lỗi lớn hơn cả mục tiêu ban đầu.** Wizard vốn nhận sẵn dữ liệu
+> TP.HCM từ server bất kể người dùng là ai, nên **city picker chỉ đổi cái nhãn** —
+> chọn Hà Nội vẫn được gợi ý quán ở Sài Gòn. Tải theo thành phố trong trình duyệt là
+> thứ khiến lựa chọn đó thật sự có tác dụng.
+>
+> Chia theo **thành phố**, không theo thành phố × intent: đã đo cả hai. Chia thêm
+> theo intent cho ra 45 file / 401 KB gz thay vì 9 file / 200 KB, mà chỗ cần nhất lại
+> không lợi gì — "hẹn hò" đã lấy 1.182/1.247 địa điểm của TP.HCM nên shard của nó
+> gần bằng cả thành phố. Một file mỗi thành phố còn được dùng lại cho cả 5 intent.
+>
+> Địa chỉ + mô tả tách ra `<city>.cards.json` cho trang lịch trình, vì wizard không
+> bao giờ đọc tới mà chúng chiếm một phần ba số byte.
 
   **Hai đường song song, cố ý.** Form cho mọi người (gần như không ai biết một quán
   ngon lại có tài khoản GitHub); link GitHub cho dev, những người thích mở issue hoặc
