@@ -3,7 +3,7 @@
 > Tài liệu này là **nguồn tham chiếu duy nhất** cho architecture và tiến độ MVP.
 > Cập nhật checklist ở [§7](#7-progress-tracking) mỗi khi hoàn thành một bước.
 
-**Trạng thái:** Phase 0 — đang triển khai
+**Trạng thái:** Phase 0 xong — đang làm Phase 1
 **Cập nhật lần cuối:** 2026-09-12
 
 ---
@@ -332,7 +332,7 @@ Mục tiêu: một intent chạy hết luồng, ~25 địa điểm seed, deploy 
 - [x] **0.8** Spin animation → điều hướng sang `/dia-diem/[slug]`
 - [x] **0.9** Result card + deep link Google Maps + Web Share
 - [x] **0.10** `generateMetadata` + OG image sinh lúc build (PNG tĩnh)
-- [ ] **0.11** Analytics event trên toàn funnel
+- [x] **0.11** Analytics event trên toàn funnel
 
 ### Phase 1 — Mở rộng
 

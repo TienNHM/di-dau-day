@@ -52,9 +52,22 @@ export const viewport: Viewport = {
   viewportFit: 'cover',
 };
 
+/**
+ * Analytics is opt-in through env vars and absent entirely when unset.
+ *
+ * Umami is cookie-less and collects no personal data, which is why there is no
+ * consent banner — there is nothing to consent to. Swapping in Plausible or GA
+ * means changing these two lines and the branch in lib/analytics/track.ts.
+ */
+const umamiSrc = process.env.NEXT_PUBLIC_UMAMI_SRC;
+const umamiId = process.env.NEXT_PUBLIC_UMAMI_ID;
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="vi" className={beVietnam.variable}>
+      <head>
+        {umamiSrc && umamiId ? <script defer src={umamiSrc} data-website-id={umamiId} /> : null}
+      </head>
       <body className="min-h-dvh antialiased">{children}</body>
     </html>
   );

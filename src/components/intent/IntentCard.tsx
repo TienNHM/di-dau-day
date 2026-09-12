@@ -1,6 +1,9 @@
+'use client';
+
 import Link from 'next/link';
 import type { Route } from 'next';
 import type { Intent } from '@/lib/intents/registry';
+import { track } from '@/lib/analytics/track';
 
 /**
  * One choice on the landing page.
@@ -56,6 +59,7 @@ export function IntentCard({ intent, available }: { intent: Intent; available: b
   return (
     <Link
       href={intent.path as Route}
+      onClick={() => track('intent_select', { intent: intent.id })}
       className={`${shared} hover:-translate-y-0.5 hover:shadow-lg hover:shadow-ink/5 hover:ring-ink/10 active:translate-y-0`}
     >
       {inner}

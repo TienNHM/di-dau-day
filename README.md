@@ -59,6 +59,8 @@ src/lib/         domain logic: places, recommend, intents, geo, time, analytics
 |---|---|---|
 | `NEXT_PUBLIC_SITE_URL` | `https://didauday.tiennhm.io.vn` | Absolute URL cho canonical + Open Graph |
 | `NEXT_PUBLIC_BASE_PATH` | *(rỗng)* | Chỉ cần khi deploy dưới `github.io/<repo>` |
+| `NEXT_PUBLIC_UMAMI_SRC` | *(không có)* | URL script Umami. Không đặt thì không có analytics nào được nạp. |
+| `NEXT_PUBLIC_UMAMI_ID` | *(không có)* | Website ID của Umami |
 
 ## Deploy
 

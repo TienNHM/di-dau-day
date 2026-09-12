@@ -14,6 +14,7 @@ import { encodeCriteria } from '@/lib/recommend/criteria';
 import type { Criteria } from '@/lib/recommend/criteria';
 import { recommendWithFallback } from '@/lib/recommend/select';
 import { readRecentIds, rememberResult } from '@/lib/recommend/recent';
+import { track } from '@/lib/analytics/track';
 
 /**
  * The wizard state machine.
@@ -134,11 +135,16 @@ export function IntentWizard({
 
   const advance = useCallback(() => {
     setStep((current) => {
+      const question = intent.questions[current];
+      if (question) track('wizard_answer', { intent: intent.id, step: current, kind: question.kind });
+
       if (current + 1 < intent.questions.length) return current + 1;
+
+      track('spin_start', { intent: intent.id });
       setSpinning(true);
       return current;
     });
-  }, [intent.questions.length]);
+  }, [intent]);
 
   const handleRevealComplete = useCallback(() => {
     const winner = outcome?.result.winner;
