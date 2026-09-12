@@ -26,6 +26,9 @@ export const metadata: Metadata = {
     'chơi gì',
     'TP.HCM',
     'Sài Gòn',
+    'Hà Nội',
+    'Đà Nẵng',
+    'Đà Lạt',
     'gợi ý địa điểm',
   ],
   openGraph: {

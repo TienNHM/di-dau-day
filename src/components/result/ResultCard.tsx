@@ -1,4 +1,5 @@
 import { Chip } from '@/components/ui/Chip';
+import { factualSummary } from '@/lib/places/describe';
 import type { Accent } from '@/lib/intents/registry';
 import { isSponsorshipActive } from '@/lib/places/types';
 import type { District, Place } from '@/lib/places/types';
@@ -56,11 +57,11 @@ export function ResultCard({
           {place.name}
         </h1>
 
-        {place.editorialNote ? (
-          <p className="mx-auto mt-4 max-w-sm text-base leading-relaxed text-balance opacity-90">
-            {place.editorialNote}
-          </p>
-        ) : null}
+        {/* An imported place has no editorial note. Rather than leaving a hole,
+            state what is actually on record — honest, and still useful. */}
+        <p className="mx-auto mt-4 max-w-sm text-base leading-relaxed text-balance opacity-90">
+          {place.editorialNote ?? factualSummary(place, district)}
+        </p>
 
         <dl className="mt-7 flex flex-wrap justify-center gap-2">
           {district ? <Fact label="Khu vực">📍 {district.shortName}</Fact> : null}

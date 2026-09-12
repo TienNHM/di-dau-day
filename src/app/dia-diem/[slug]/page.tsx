@@ -7,10 +7,11 @@ import { PageShell } from '@/components/ui/PageShell';
 import { ResultCard } from '@/components/result/ResultCard';
 import { ResultInteractions } from '@/components/result/ResultInteractions';
 import { accentFor } from '@/lib/intents/accents';
+import { needsDescription, placeTypeLabel } from '@/lib/places/describe';
 import { getPlaceRepository } from '@/lib/places/static-repository';
 import { TAG_LABELS } from '@/lib/places/types';
 import { directionsUrl } from '@/lib/geo/maps-link';
-import { absoluteUrl, DEFAULT_CITY_ID, SITE_NAME } from '@/lib/site';
+import { absoluteUrl, REPO_URL, SITE_NAME } from '@/lib/site';
 
 /**
  * Result page and place page are the same page.
@@ -37,9 +38,12 @@ export async function generateMetadata({
   const place = await getPlaceRepository().getPlaceBySlug(slug);
   if (!place) return {};
 
+  const city = await getPlaceRepository().getCity(place.location.cityId);
+
   const title = place.name;
   const description =
-    place.editorialNote ?? `${place.name} — gợi ý từ ${SITE_NAME} cho một ngày ở TP.HCM.`;
+    place.editorialNote ??
+    `${place.name} — gợi ý từ ${SITE_NAME} cho một ngày ở ${city?.name ?? 'Việt Nam'}.`;
   const canonical = `/dia-diem/${place.slug}/`;
 
   const shareTitle = `🎲 ${SITE_NAME} vừa chọn: ${place.name}`;
@@ -82,14 +86,17 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
   const place = await repo.getPlaceBySlug(slug);
   if (!place) notFound();
 
-  const [district, cityPlaces] = await Promise.all([
-    repo.getDistrict(DEFAULT_CITY_ID, place.location.districtId),
-    repo.listPlaces({ districtId: place.location.districtId }),
+  const [city, district, nearbyPlaces] = await Promise.all([
+    repo.getCity(place.location.cityId),
+    repo.getDistrict(place.location.cityId, place.location.districtId),
+    // Scoped to the city too: district ids are unique only within one, so an
+    // unscoped lookup would mix in places from a same-named district elsewhere.
+    repo.listPlaces({ cityId: place.location.cityId, districtId: place.location.districtId }),
   ]);
 
   const accent = accentFor(place.category);
   const canonicalPath = `/dia-diem/${place.slug}/`;
-  const nearby = cityPlaces.filter((candidate) => candidate.slug !== place.slug).slice(0, 4);
+  const nearby = nearbyPlaces.filter((candidate) => candidate.slug !== place.slug).slice(0, 4);
 
   return (
     <PageShell>
@@ -110,7 +117,7 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
 
         <ResultCard place={place} district={district} accent={accent} lead="Đi Đâu Đây vừa chọn" />
 
-        <Suspense fallback={<div className="h-[7.5rem]" />}>
+        <Suspense fallback={<div className="h-30" />}>
           <ResultInteractions
             placeSlug={place.slug}
             placeName={place.name}
@@ -122,6 +129,7 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
         <section className="rounded-card bg-white/70 p-5 ring-1 ring-line">
           <h2 className="text-base font-bold">Chi tiết</h2>
           <dl className="mt-3 grid gap-2.5 text-sm">
+            <Row label="Loại">{placeTypeLabel(place)}</Row>
             <Row label="Địa chỉ">{place.location.address}</Row>
             {district ? (
               <Row label="Khu vực">
@@ -146,10 +154,42 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
           </dl>
         </section>
 
+        {/* Most imported places have no description yet, and no dataset can supply
+            one. Asking the person looking at the place — who may well have been
+            there — is the only way this gap ever closes. */}
+        {needsDescription(place) ? (
+          <section className="rounded-card bg-cream-deep/60 p-5 ring-1 ring-line">
+            <h2 className="text-base font-bold">Bạn từng tới đây chưa?</h2>
+            <p className="mt-2 text-sm leading-relaxed text-ink-soft">
+              Chỗ này tụi mình lấy từ dữ liệu bản đồ mở nên chưa có mô tả, giá hay giờ mở cửa. Một
+              câu của bạn đáng giá hơn mọi thông số.
+            </p>
+            <a
+              href={`${REPO_URL}/issues/new?title=${encodeURIComponent(`Bổ sung thông tin: ${place.name}`)}&body=${encodeURIComponent(
+                [
+                  `**Địa điểm:** ${place.name}`,
+                  `**Trang:** /dia-diem/${place.slug}/`,
+                  '',
+                  '**Khoảng giá một người:**',
+                  '**Giờ mở cửa:**',
+                  '**Hợp đi với ai:** (một mình / người yêu / bạn bè / gia đình)',
+                  '**Một câu mô tả bằng lời của bạn:**',
+                ].join('\n'),
+              )}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-4 inline-block rounded-2xl bg-white px-4 py-2.5 text-sm font-semibold ring-1 ring-line transition active:scale-[0.98]"
+            >
+              ✍️ Bổ sung thông tin
+            </a>
+          </section>
+        ) : null}
+
         {nearby.length > 0 ? (
           <section>
             <h2 className="text-base font-bold">
               Gần đó {district ? `ở ${district.shortName}` : ''}
+              {city ? `, ${city.shortName}` : ''}
             </h2>
             <ul className="mt-3 flex flex-col gap-2">
               {nearby.map((other) => (

@@ -354,7 +354,7 @@ Chi tiết và lý do không dùng OSM/Google ở [`docs/DATA-SOURCES.md`](DATA-
 - [x] **3.2b** Import 4.075 địa điểm từ Overture cho 9 thành phố
 - [ ] **3.3** Shard dữ liệu theo thành phố + cache IndexedDB
 - [ ] **3.4** Chấm điểm trong Web Worker (giữ animation mượt khi có hàng nghìn địa điểm)
-- [ ] **3.5** Result card degrade khi thiếu `editorialNote`
+- [x] **3.5** Result card degrade khi thiếu `editorialNote` + CTA bổ sung thông tin
 - [ ] **3.6** Cloudflare Worker + form đóng góp / báo thông tin sai
 
 ### Phase 2 — Chỉ làm nếu viral loop được chứng minh
