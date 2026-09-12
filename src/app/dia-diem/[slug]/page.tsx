@@ -1,0 +1,179 @@
+import { Suspense } from 'react';
+import type { Metadata } from 'next';
+import Link from 'next/link';
+import { notFound } from 'next/navigation';
+import type { Route } from 'next';
+import { PageShell } from '@/components/ui/PageShell';
+import { ResultCard } from '@/components/result/ResultCard';
+import { ResultInteractions } from '@/components/result/ResultInteractions';
+import { accentFor } from '@/lib/intents/accents';
+import { getPlaceRepository } from '@/lib/places/static-repository';
+import { TAG_LABELS } from '@/lib/places/types';
+import { directionsUrl } from '@/lib/geo/maps-link';
+import { absoluteUrl, DEFAULT_CITY_ID, SITE_NAME, SITE_URL } from '@/lib/site';
+
+/**
+ * Result page and place page are the same page.
+ *
+ * That single decision buys the viral loop (a share link renders the result card
+ * with a CTA), SEO (every place is a prerendered, indexable page), and zero infra
+ * (no id storage, no expiry, no KV) — all without a server.
+ */
+
+type Params = { slug: string };
+
+export async function generateStaticParams(): Promise<Params[]> {
+  const repo = getPlaceRepository();
+  const places = await repo.listPlaces();
+  return places.map((place) => ({ slug: place.slug }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<Params>;
+}): Promise<Metadata> {
+  const { slug } = await params;
+  const place = await getPlaceRepository().getPlaceBySlug(slug);
+  if (!place) return {};
+
+  const title = place.name;
+  const description =
+    place.editorialNote ?? `${place.name} — gợi ý từ ${SITE_NAME} cho một ngày ở TP.HCM.`;
+  const canonical = `/dia-diem/${place.slug}/`;
+
+  return {
+    title,
+    description,
+    alternates: { canonical },
+    openGraph: {
+      type: 'article',
+      url: absoluteUrl(canonical),
+      title: `🎲 ${SITE_NAME} vừa chọn: ${place.name}`,
+      description,
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `🎲 ${SITE_NAME} vừa chọn: ${place.name}`,
+      description,
+    },
+  };
+}
+
+export default async function PlacePage({ params }: { params: Promise<Params> }) {
+  const { slug } = await params;
+
+  const repo = getPlaceRepository();
+  const place = await repo.getPlaceBySlug(slug);
+  if (!place) notFound();
+
+  const [district, cityPlaces] = await Promise.all([
+    repo.getDistrict(DEFAULT_CITY_ID, place.location.districtId),
+    repo.listPlaces({ districtId: place.location.districtId }),
+  ]);
+
+  const accent = accentFor(place.category);
+  const canonicalPath = `/dia-diem/${place.slug}/`;
+  const nearby = cityPlaces.filter((candidate) => candidate.slug !== place.slug).slice(0, 4);
+
+  return (
+    <PageShell>
+      <main className="flex flex-1 flex-col gap-6 py-4">
+        <Link
+          href="/"
+          className="self-start text-sm font-medium text-ink-faint underline-offset-4 hover:text-ink hover:underline"
+        >
+          ← {SITE_NAME}
+        </Link>
+
+        {place.status === 'closed' ? (
+          <p className="rounded-2xl bg-brand-soft px-4 py-3 text-sm font-medium text-brand-deep">
+            ⚠️ Chỗ này hình như đã đóng cửa. Tụi mình giữ lại trang để link cũ không bị hỏng — thử
+            chọn chỗ khác nhé.
+          </p>
+        ) : null}
+
+        <ResultCard place={place} district={district} accent={accent} lead="Đi đâu đây chọn" />
+
+        <Suspense fallback={<div className="h-[7.5rem]" />}>
+          <ResultInteractions
+            placeSlug={place.slug}
+            placeName={place.name}
+            canonicalPath={canonicalPath}
+            directionsHref={directionsUrl(place)}
+            siteUrl={SITE_URL}
+          />
+        </Suspense>
+
+        <section className="rounded-card bg-white/70 p-5 ring-1 ring-line">
+          <h2 className="text-base font-bold">Chi tiết</h2>
+          <dl className="mt-3 grid gap-2.5 text-sm">
+            <Row label="Địa chỉ">{place.location.address}</Row>
+            {district ? <Row label="Khu vực">{district.name}</Row> : null}
+            {place.tags.length > 0 ? (
+              <Row label="Đặc điểm">
+                {place.tags.map((tag) => TAG_LABELS[tag]).join(' · ')}
+              </Row>
+            ) : null}
+            {place.rating !== undefined && place.ratingSource ? (
+              <Row label="Đánh giá">
+                {place.rating}/5 <span className="text-ink-faint">({place.ratingSource})</span>
+              </Row>
+            ) : null}
+          </dl>
+        </section>
+
+        {nearby.length > 0 ? (
+          <section>
+            <h2 className="text-base font-bold">
+              Gần đó {district ? `ở ${district.shortName}` : ''}
+            </h2>
+            <ul className="mt-3 flex flex-col gap-2">
+              {nearby.map((other) => (
+                <li key={other.slug}>
+                  <Link
+                    href={`/dia-diem/${other.slug}/` as Route}
+                    className="flex items-center gap-3 rounded-2xl bg-white/70 px-4 py-3 ring-1 ring-line transition hover:ring-ink/15"
+                  >
+                    <span className="min-w-0 flex-1">
+                      <span className="block truncate font-semibold">{other.name}</span>
+                      {other.editorialNote ? (
+                        <span className="block truncate text-sm text-ink-faint">
+                          {other.editorialNote}
+                        </span>
+                      ) : null}
+                    </span>
+                    <span aria-hidden className="text-ink-faint">
+                      →
+                    </span>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </section>
+        ) : null}
+
+        {/* The loop closer: whoever opened this from a shared link gets their own turn. */}
+        <section className="rounded-card border-2 border-dashed border-line p-6 text-center">
+          <p className="text-lg font-bold text-balance">Bạn dám để tụi mình chọn cho không?</p>
+          <p className="mt-1 text-sm text-ink-soft">Vài câu hỏi, mười lăm giây.</p>
+          <Link
+            href="/"
+            className="mt-4 inline-block rounded-2xl bg-ink px-6 py-3.5 font-bold text-cream transition active:scale-[0.98]"
+          >
+            🎲 Thử cho tôi
+          </Link>
+        </section>
+      </main>
+    </PageShell>
+  );
+}
+
+function Row({ label, children }: { label: string; children: React.ReactNode }) {
+  return (
+    <div className="grid grid-cols-[5.5rem_1fr] gap-3">
+      <dt className="text-ink-faint">{label}</dt>
+      <dd className="font-medium">{children}</dd>
+    </div>
+  );
+}
