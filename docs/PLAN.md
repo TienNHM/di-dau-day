@@ -3,7 +3,7 @@
 > Tài liệu này là **nguồn tham chiếu duy nhất** cho architecture và tiến độ MVP.
 > Cập nhật checklist ở [§7](#7-progress-tracking) mỗi khi hoàn thành một bước.
 
-**Trạng thái:** Phase 0 — chưa bắt đầu
+**Trạng thái:** Phase 0 — đang triển khai
 **Cập nhật lần cuối:** 2026-09-12
 
 ---
@@ -21,12 +21,12 @@ Nguyên tắc xuyên suốt: *Build the smallest thing that can go viral.*
 
 ## 1. Architecture
 
-**Một Next.js app duy nhất, App Router, TypeScript, Tailwind, dữ liệu static JSON, deploy Vercel free tier. MVP không có API, không database, không auth.**
+**Một Next.js app duy nhất, App Router, TypeScript, Tailwind, dữ liệu static JSON, **static export** deploy lên GitHub Pages. MVP không có API, không database, không auth.**
 
 ```
 Browser (mobile-first)
    │
-   ├─ Static/ISR pages ──────────► Next.js App Router (RSC)
+   ├─ Static HTML (prerender) ───► Next.js App Router (RSC, output: 'export')
    │                                   │
    │                                   ├─ src/lib/places/   ← PlaceRepository (interface)
    │                                   │      └─ StaticPlaceRepository (đọc /data JSON lúc build)
@@ -34,7 +34,7 @@ Browser (mobile-first)
    │
    ├─ Wizard + spin animation ────► Client Components (state machine bằng reducer)
    │
-   └─ /api/og/[slug] ─────────────► next/og → Open Graph image động
+   └─ opengraph-image.tsx ───────► next/og → PNG sinh lúc build, serve tĩnh
 ```
 
 Ba quy tắc giữ cho MVP rẻ mà vẫn mở rộng được:
@@ -47,6 +47,36 @@ Ba quy tắc giữ cho MVP rẻ mà vẫn mở rộng được:
    sau này port sang C# được nếu cần chạy server-side.
 3. **Wizard là URL-driven state machine** — back button, refresh, share đều đúng,
    và mỗi bước funnel đều đo được bằng analytics.
+
+### Ràng buộc từ GitHub Pages
+
+GitHub Pages là static hosting thuần — không Node server, không edge runtime, không ISR.
+Hệ quả với codebase:
+
+- `next.config.ts` dùng `output: 'export'`; không có route handler (`app/api/**`),
+  không `revalidate`, không middleware, không server action.
+- **OG image sinh lúc build** qua `opengraph-image.tsx` + `generateStaticParams`,
+  xuất ra PNG tĩnh — không phải edge function.
+- **Custom domain `didauday.tiennhm.io.vn`** (GitHub Pages → DNS qua Cloudflare), nên site
+  phục vụ ở root và **không cần `basePath`**. Vẫn đọc từ `NEXT_PUBLIC_BASE_PATH` (mặc định
+  rỗng) để chạy được cả trên `github.io/di-dau-day` khi cần preview.
+- File `public/CNAME` chứa domain — GitHub Pages đọc file này để gắn custom domain.
+- `NEXT_PUBLIC_SITE_URL=https://didauday.tiennhm.io.vn` dùng cho canonical URL và
+  absolute URL trong OG metadata (share preview bắt buộc phải là absolute URL).
+- `trailingSlash: true` để mỗi route xuất ra `<route>/index.html` — cách GitHub Pages
+  phục vụ file tĩnh.
+- `images.unoptimized = true` (không có image optimizer). MVP không dùng ảnh nên không mất gì.
+- File `.nojekyll` ở thư mục xuất bản, nếu không Jekyll sẽ nuốt thư mục `_next`.
+- Analytics: không có Vercel Analytics. `lib/analytics/track.ts` mặc định no-op, nạp
+  provider ngoài (Umami/Plausible/GA) qua biến môi trường khi cần.
+
+Kiến trúc còn lại không đổi: wizard giữ state trong query param nên chạy hoàn toàn
+client-side, và share URL = place URL vốn đã là trang tĩnh prerender.
+
+**Lưu ý DNS:** ở Cloudflare, đặt record `didauday` là `CNAME → <user>.github.io` và để
+**DNS only (không bật proxy)** cho tới khi GitHub cấp xong chứng chỉ HTTPS; bật proxy quá
+sớm sẽ làm GitHub không xác thực được domain. Sau khi có cert, muốn bật proxy thì đặt
+SSL/TLS mode là **Full (strict)**.
 
 ### Vì sao chưa dùng monorepo
 
@@ -73,8 +103,8 @@ URL tiếng Việt, dễ đọc, có giá trị SEO:
 | `/hen-ho` | Static | Wizard: Hẹn hò (có thể trả mini-itinerary) |
 | `/choi-gi` | Static | Wizard: Chơi gì |
 | `/di-dau` | Static | Wizard: Đi đâu |
-| `/dia-diem/[slug]` | SSG + ISR | **Result page = place page.** Đích của share |
-| `/api/og/[slug]` | Edge runtime | OG image 1200×630 |
+| `/dia-diem/[slug]` | SSG | **Result page = place page.** Đích của share |
+| `/dia-diem/[slug]/opengraph-image` | SSG (PNG lúc build) | OG image 1200×630 |
 | `/quan/[district]` | SSG | SEO landing: "Ăn gì ở Bình Thạnh" |
 | `/ve-chung-toi`, `/dong-gop` | Static | Giới thiệu + form gợi ý địa điểm (Google Form ở MVP) |
 
@@ -259,7 +289,7 @@ spin reel chạy qua, nên animation hiển thị **lựa chọn thật**, khôn
 | Styling | Tailwind CSS |
 | Dữ liệu | Static JSON trong `/data`, validate bằng Zod |
 | Test | Vitest (tập trung vào recommendation engine) |
-| Hosting | Vercel free tier |
+| Hosting | GitHub Pages (static export, deploy bằng GitHub Actions) |
 | Maps | Deep link Google Maps (không nhúng map SDK ở MVP) |
 | Ảnh ở Phase 0 | Card gradient + typography lớn, **không dùng ảnh** |
 | Auth / payment / review | Không có trong MVP |
@@ -293,7 +323,7 @@ Mục tiêu: một intent chạy hết luồng, ~25 địa điểm seed, deploy 
 Đây chính là toàn bộ giả thuyết sản phẩm — ship rồi gửi cho 20 người trước khi xây thêm gì.
 
 - [ ] **0.1** Scaffold: Next.js App Router + TS strict + Tailwind + Vitest + ESLint/Prettier; `git init`
-- [ ] **0.2** Deploy trang rỗng lên Vercel (để deploy không thành bất ngờ về sau)
+- [ ] **0.2** GitHub Actions workflow deploy lên GitHub Pages (deploy sớm để không bất ngờ về sau)
 - [ ] **0.3** Types + Zod schema + `PlaceRepository` + `StaticPlaceRepository`
 - [ ] **0.4** Seed ~25 địa điểm `Outdoor`/`Dating` cho intent "Đi đâu"
 - [ ] **0.5** Scoring + weighted selection + unit test
