@@ -2,14 +2,10 @@
 
 import { useId, useRef, useState } from 'react';
 import Script from 'next/script';
-import {
-  CONTRIBUTE_ENDPOINT,
-  TURNSTILE_SITE_KEY,
-  githubIssueUrl,
-  kindLabel,
-} from '@/lib/contribute';
+import { CONTRIBUTE_ENDPOINT, githubIssueUrl, kindLabel } from '@/lib/contribute';
 import type { ContributionKind } from '@/lib/contribute';
 import { track } from '@/lib/analytics/track';
+import { useTurnstile } from './useTurnstile';
 import { REPO_URL } from '@/lib/site';
 
 /**
@@ -47,6 +43,8 @@ export function ContributeForm({
   const formRef = useRef<HTMLFormElement>(null);
   const [kind, setKind] = useState<ContributionKind>(defaultKind);
   const [status, setStatus] = useState<Status>({ state: 'idle' });
+  const turnstileRef = useRef<HTMLDivElement>(null);
+  const turnstile = useTurnstile(turnstileRef);
 
   async function handleSubmit(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
@@ -66,7 +64,7 @@ export function ContributeForm({
       note: String(data.get('note') ?? ''),
       contact: String(data.get('contact') ?? ''),
       website: String(data.get('website') ?? ''),
-      turnstileToken: String(data.get('cf-turnstile-response') ?? ''),
+      turnstileToken: turnstile.token ?? '',
     };
 
     setStatus({ state: 'sending' });
@@ -135,11 +133,18 @@ export function ContributeForm({
   }
 
   const sending = status.state === 'sending';
+  const waitingForVerification = turnstile.required && turnstile.token === null && !turnstile.failed;
 
   return (
     <form ref={formRef} onSubmit={handleSubmit} className="flex flex-col gap-5">
-      {TURNSTILE_SITE_KEY ? (
-        <Script src="https://challenges.cloudflare.com/turnstile/v0/api.js" defer />
+      {turnstile.required ? (
+        // Explicit render: the hook needs the API before it can hand over its
+        // expiry and error callbacks.
+        <Script
+          src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit"
+          strategy="afterInteractive"
+          onLoad={turnstile.onScriptLoad}
+        />
       ) : null}
 
       <fieldset>
@@ -224,8 +229,15 @@ export function ContributeForm({
         </label>
       </div>
 
-      {TURNSTILE_SITE_KEY ? (
-        <div className="cf-turnstile" data-sitekey={TURNSTILE_SITE_KEY} data-size="flexible" />
+      {turnstile.required ? (
+        <div>
+          <div ref={turnstileRef} />
+          {turnstile.failed ? (
+            <p className="mt-2 text-sm text-brand-deep">
+              Không chạy được bước xác minh. Thử tải lại trang, hoặc gửi qua GitHub bên dưới.
+            </p>
+          ) : null}
+        </div>
       ) : null}
 
       {status.state === 'error' ? (
@@ -234,12 +246,19 @@ export function ContributeForm({
         </p>
       ) : null}
 
+      {/* Blocked until Turnstile has produced a token. Letting the submit through
+          early would send an empty token, and the user would get a verification
+          error after having typed everything — the worst possible moment. */}
       <button
         type="submit"
-        disabled={sending}
+        disabled={sending || waitingForVerification}
         className="rounded-2xl bg-ink px-6 py-4 text-lg font-bold text-cream transition active:scale-[0.98] disabled:opacity-50"
       >
-        {sending ? 'Đang gửi…' : `Gửi ${kindLabel(kind).toLowerCase()}`}
+        {sending
+          ? 'Đang gửi…'
+          : waitingForVerification
+            ? 'Đang xác minh…'
+            : `Gửi ${kindLabel(kind).toLowerCase()}`}
       </button>
 
       <p className="text-center text-xs text-ink-faint">

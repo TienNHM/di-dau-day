@@ -32,7 +32,9 @@ jobs:
       # break, but the Worker is deployed, so point at it.
       # See workers/contribute/README.md.
       NEXT_PUBLIC_CONTRIBUTE_ENDPOINT: https://didauday-contribute.tiennhm-it.workers.dev
-      NEXT_PUBLIC_TURNSTILE_SITE_KEY: ''
+      # Site key is public — it ships in the page source. The matching secret
+      # lives only as a Worker secret.
+      NEXT_PUBLIC_TURNSTILE_SITE_KEY: 0x4AAAAAAExbnWCiRLmr49vP
     steps:
       - uses: actions/checkout@v4
 
