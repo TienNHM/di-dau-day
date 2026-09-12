@@ -7,6 +7,15 @@ import hoChiMinhRaw from '@data/cities/ho-chi-minh.json';
 import hueRaw from '@data/cities/hue.json';
 import nhaTrangRaw from '@data/cities/nha-trang.json';
 import vungTauRaw from '@data/cities/vung-tau.json';
+import importedCanThoRaw from '@data/places/imported/can-tho.json';
+import importedDaLatRaw from '@data/places/imported/da-lat.json';
+import importedDaNangRaw from '@data/places/imported/da-nang.json';
+import importedHaNoiRaw from '@data/places/imported/ha-noi.json';
+import importedHaiPhongRaw from '@data/places/imported/hai-phong.json';
+import importedHoChiMinhRaw from '@data/places/imported/ho-chi-minh.json';
+import importedHueRaw from '@data/places/imported/hue.json';
+import importedNhaTrangRaw from '@data/places/imported/nha-trang.json';
+import importedVungTauRaw from '@data/places/imported/vung-tau.json';
 import activityRaw from '@data/places/activity.json';
 import cafeRaw from '@data/places/cafe.json';
 import datingRaw from '@data/places/dating.json';
@@ -46,6 +55,18 @@ const PLACE_SOURCES = [
   ['data/places/dating.json', datingRaw],
   ['data/places/family.json', familyRaw],
   ['data/places/activity.json', activityRaw],
+
+  // Imported last so a curated record always wins a slug race — the curated slug is
+  // the one that may already be shared, and the import reserves around it anyway.
+  ['data/places/imported/ho-chi-minh.json', importedHoChiMinhRaw],
+  ['data/places/imported/ha-noi.json', importedHaNoiRaw],
+  ['data/places/imported/da-nang.json', importedDaNangRaw],
+  ['data/places/imported/da-lat.json', importedDaLatRaw],
+  ['data/places/imported/nha-trang.json', importedNhaTrangRaw],
+  ['data/places/imported/can-tho.json', importedCanThoRaw],
+  ['data/places/imported/hue.json', importedHueRaw],
+  ['data/places/imported/hai-phong.json', importedHaiPhongRaw],
+  ['data/places/imported/vung-tau.json', importedVungTauRaw],
 ] as const;
 
 let citiesCache: City[] | null = null;

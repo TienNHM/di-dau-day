@@ -103,6 +103,8 @@ export const placeSchema = z
       .optional(),
     status: z.enum(['active', 'hidden', 'closed']),
     updatedAt: z.iso.date(),
+    source: z.literal('overture').optional(),
+    sourceId: z.string().min(1).optional(),
   })
   .strict();
 

@@ -1,0 +1,4349 @@
+[
+  {
+    "id": "ovt-c8cba7f9-7d51-4d",
+    "slug": "pizza-hut-ninh-kieu",
+    "name": "Pizza Hut",
+    "category": "food",
+    "subCategory": "pizza-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "66 Nguyễn Thái Học",
+      "lat": 10.032763,
+      "lng": 105.785172
+    },
+    "images": [],
+    "popularity": 85,
+    "source": "overture",
+    "sourceId": "c8cba7f9-7d51-4d8a-a8bc-bed5fd4c515b",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-e77be5aa-b152-49",
+    "slug": "pizza-hut-ninh-kieu-2",
+    "name": "Pizza Hut",
+    "category": "food",
+    "subCategory": "pizza-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "202 Đ. Nguyễn Văn Cừ",
+      "lat": 10.051659,
+      "lng": 105.773201
+    },
+    "images": [],
+    "popularity": 85,
+    "source": "overture",
+    "sourceId": "e77be5aa-b152-4926-a756-e1c87d5fad3b",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-f23b35cb-e202-4d",
+    "slug": "l-escale",
+    "name": "L'Escale",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "1 Đ. Ngô Quyền",
+      "lat": 10.033615,
+      "lng": 105.7882
+    },
+    "images": [],
+    "popularity": 85,
+    "source": "overture",
+    "sourceId": "f23b35cb-e202-4dd7-9b2d-26a29317312f",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-dca62b31-68af-40",
+    "slug": "cafe-1985",
+    "name": "Cafe 1985",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "138a Đ. Huỳnh Cương",
+      "lat": 10.036526,
+      "lng": 105.779686
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "dca62b31-68af-4056-b1b2-df6a5f8f8f64",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-75ba0207-210c-45",
+    "slug": "quan-ca-loc-an",
+    "name": "Quán Cá Lóc An",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "15 Đ. Trần Văn Hoài",
+      "lat": 10.025048,
+      "lng": 105.773216
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "75ba0207-210c-454b-ba92-dcbf355b9e03",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-32f181fe-0114-40",
+    "slug": "trung-nguyen-e-coffee-ninh-kieu",
+    "name": "Trung Nguyên E-Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "Tòa Án Nhân Dân Thành Phố Cần Thơ, 12 Đường Phan Đình Phùng",
+      "lat": 10.033504,
+      "lng": 105.786781
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "32f181fe-0114-4081-8038-14b711f50677",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-32ea4462-5ec8-4b",
+    "slug": "trung-nguyen-24-vo-van-kiet",
+    "name": "Trung Nguyên 24 Võ Văn Kiệt",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "24 Đường Võ Văn Kiệt",
+      "lat": 10.044726,
+      "lng": 105.76384
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "32ea4462-5ec8-4b98-aada-a5e5cebee910",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-685a348b-202d-4b",
+    "slug": "puka-coffee-tea",
+    "name": "Puka Coffee & Tea",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "1200 Nguyễn Văn Cừ Nối Dài",
+      "lat": 9.999942,
+      "lng": 105.717499
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "685a348b-202d-4b4c-ab25-5198ba724ede",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d8dd7fd4-6685-41",
+    "slug": "lotteria-can-tho",
+    "name": "Lotteria Cần Thơ",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "Lô 1F11, Lottemart, Số 84 Mậu Thân/84 Đ. Mậu Thân",
+      "lat": 10.042315,
+      "lng": 105.766685
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "d8dd7fd4-6685-41c7-8ad8-1835817f1ba6",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-207efec2-9add-4d",
+    "slug": "coffee-sport-1",
+    "name": "Coffee Sport 1",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "188 Đ. Nguyễn Văn Cừ",
+      "lat": 10.047733,
+      "lng": 105.769165
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "207efec2-9add-4de8-964a-d5ea47a6ad9a",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-9fc0e335-1c20-4d",
+    "slug": "wood-house-coffee",
+    "name": "Wood House Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "40 Đ. Phạm Ngọc Thạch",
+      "lat": 10.044237,
+      "lng": 105.785728
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "9fc0e335-1c20-4d1d-8bab-f942c20f626d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-33167728-4914-43",
+    "slug": "hoa-cau-coffee",
+    "name": "Hoa Cau Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "04 Đ. Hai Bà Trưng",
+      "lat": 10.034883,
+      "lng": 105.78894
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "33167728-4914-430f-9dd0-ec14695baaf2",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-6bfacd92-d40c-43",
+    "slug": "dreibar-craftbeer-cocktail",
+    "name": "Dreibar Craftbeer & Cocktail",
+    "category": "entertainment",
+    "subCategory": "cocktail-bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "G2 Đ.Đinh Công Tráng",
+      "lat": 10.03482,
+      "lng": 105.772049
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "6bfacd92-d40c-431f-a366-4c07ef2a9b55",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2f26903a-ea0b-47",
+    "slug": "trung-nguyen-e-coffee-ninh-kieu-ninh-kieu",
+    "name": "Trung Nguyen E-Coffee Ninh Kieu",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "56A Đ. Nam Kỳ Khởi Nghĩa",
+      "lat": 10.032246,
+      "lng": 105.784248
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "2f26903a-ea0b-4721-9b5d-50a476b551e0",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-00937b53-1c46-47",
+    "slug": "mossy-coffee-and-tea",
+    "name": "Mossy Coffee and Tea",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "178 Đ. Huỳnh Cương",
+      "lat": 10.035095,
+      "lng": 105.779671
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "00937b53-1c46-47fe-999a-201fe860f615",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-a07123ce-8281-42",
+    "slug": "the-lighthouse",
+    "name": "The Lighthouse",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "120 Đ. Hai Bà Trưng",
+      "lat": 10.032005,
+      "lng": 105.78788
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "a07123ce-8281-420b-8814-4e25579c696d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-acf54481-a0e9-48",
+    "slug": "cafe-them-xua",
+    "name": "Cafe Thềm Xưa",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "07 Đ. Phạm Ngọc Thạch",
+      "lat": 10.044768,
+      "lng": 105.785507
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "acf54481-a0e9-48ad-b5fb-706adc119db2",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-372e08b2-468a-45",
+    "slug": "cgv-cinemas-vietnam-ninh-kieu",
+    "name": "CGV Cinemas Vietnam",
+    "category": "entertainment",
+    "subCategory": "cinema",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "VINCOM, 209 Đường 30 Tháng 4",
+      "lat": 10.024597,
+      "lng": 105.774529
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "372e08b2-468a-45e2-88ff-8e7ce1bb7657",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-096cb65e-adff-4c",
+    "slug": "nha-hang-chay-quy-lien",
+    "name": "Nhà Hàng Chay Quý Liên",
+    "category": "food",
+    "subCategory": "vegetarian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "4 Trần Văn Trà",
+      "lat": 10.01615,
+      "lng": 105.784622
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "096cb65e-adff-4cbc-9be7-2e8b75aba162",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-a53532d7-c6f3-40",
+    "slug": "rio-gym-center",
+    "name": "Rio Gym Center",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "377 Trần Hưng Đạo",
+      "lat": 9.998343,
+      "lng": 105.753571
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "a53532d7-c6f3-4067-bba8-29c1958735e5",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-43931fe7-d428-4e",
+    "slug": "ctland-coffee",
+    "name": "CTLAND Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "28B Đ. Trần Hoàng Na",
+      "lat": 10.02409,
+      "lng": 105.750793
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "43931fe7-d428-4eed-b67c-b4e1fb580012",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-ceb83366-d85c-4a",
+    "slug": "quan-moc-que",
+    "name": "Quan Moc Que",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "127 Võ Văn Kiệt",
+      "lat": 10.046297,
+      "lng": 105.760849
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "ceb83366-d85c-4aa5-a758-2db78f2e1268",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-abc8f9d2-1ba5-4f",
+    "slug": "deja-vu-cocktail-bar",
+    "name": "Déjà Vu Cocktail Bar",
+    "category": "entertainment",
+    "subCategory": "cocktail-bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "142 Đ. Huỳnh Cương",
+      "lat": 10.036434,
+      "lng": 105.779541
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "abc8f9d2-1ba5-4f05-b67f-42aa9689881f",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d5a4b7a4-6b45-40",
+    "slug": "quan-phuc-hu-tieu-muc",
+    "name": "Quán Phúc- Hủ tiếu mực",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "Cháo Sò Huyết Metro, 91B Đường Nguyễn Văn Linh",
+      "lat": 10.021658,
+      "lng": 105.760818
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "d5a4b7a4-6b45-40c0-8dbf-57d62a5fa03f",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2534fb6c-933d-44",
+    "slug": "kfc-cai-rang",
+    "name": "KFC",
+    "category": "food",
+    "subCategory": "chicken-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "Siêu thị Big C Cần Thơ,KDC Phú 1, Hưng",
+      "lat": 10.013917,
+      "lng": 105.784081
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "2534fb6c-933d-4493-9b95-d8d241c1b703",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-94c3be87-e3d4-40",
+    "slug": "777-club",
+    "name": "777 CLUB",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "127 Đường Trần Văn Khéo",
+      "lat": 10.046045,
+      "lng": 105.786339
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "94c3be87-e3d4-4023-963e-9f7b649e0b40",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-e7c0cae9-3fc1-4a",
+    "slug": "karaoke-kingdom-can-tho",
+    "name": "Karaoke Kingdom Cần Thơ",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "38 Đ. Lê Bình",
+      "lat": 10.022453,
+      "lng": 105.767677
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "e7c0cae9-3fc1-4a76-b289-da495d27a518",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-90321c6e-b13a-4e",
+    "slug": "bodybas-gym-fitness-basketball",
+    "name": "BodyBas Gym - Fitness & Basketball",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "170 Đường Trần Văn Trà",
+      "lat": 10.018996,
+      "lng": 105.78817
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "90321c6e-b13a-4ea5-a679-e72e1833b3f3",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-b4121d7f-aa44-4e",
+    "slug": "dee-coffee",
+    "name": "DEE Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "TP, 299A Đường Đồng Văn Cống, phường An Thới, Q",
+      "lat": 10.055841,
+      "lng": 105.761635
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "b4121d7f-aa44-4ef4-aa6c-f91f0a9d436a",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-65c83738-6ef5-47",
+    "slug": "com-tam-ba-tu",
+    "name": "Cơm Tấm Bà Tư",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "154/1, Phan Đình Phùng",
+      "lat": 10.028595,
+      "lng": 105.786125
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "65c83738-6ef5-4791-8786-972c1eb1ee1c",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-cc7e9774-6c13-4c",
+    "slug": "perfect-gym",
+    "name": "Perfect Gym",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "32 Đ. Mậu Thân",
+      "lat": 10.040545,
+      "lng": 105.768112
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "cc7e9774-6c13-4c21-ad5d-c6285a839776",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-48ac5c07-bcb4-40",
+    "slug": "busan-club-can-tho-can-tho",
+    "name": "Busan Club Can Tho | Can Tho",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "16 Lê Lợi",
+      "lat": 10.04934,
+      "lng": 105.787262
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "48ac5c07-bcb4-40d1-add9-f73afb04da97",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-0e22e8a0-65b4-4c",
+    "slug": "he-thong-nha-hang-cay-buoi",
+    "name": "Hệ Thống Nhà Hàng Cây Bưởi",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "9 Đường Lý Thái Tổ",
+      "lat": 10.019025,
+      "lng": 105.784668
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "0e22e8a0-65b4-4c73-8f83-ab469ae4aed4",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2a7c356e-507b-46",
+    "slug": "the-heo-bistro",
+    "name": "The heo bistro",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "11/46A Đ. Mậu Thân",
+      "lat": 10.042208,
+      "lng": 105.766052
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "2a7c356e-507b-4649-accc-c7d72e4ffa35",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-dcf0a55b-e5bd-4c",
+    "slug": "karaoke-tit-tot-can-tho-2",
+    "name": "Karaoke Tít Tót Cần Thơ 2",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "25 Đ. Phạm Ngọc Thạch",
+      "lat": 10.044456,
+      "lng": 105.785698
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "dcf0a55b-e5bd-4ca8-9d90-ae7eb77ccdc6",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-7bba1aa4-6b85-44",
+    "slug": "fitness-gym-dai-ngan-can-tho",
+    "name": "Fitness Gym Đại Ngân Cần Thơ",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "36 Đường số 3",
+      "lat": 10.03771,
+      "lng": 105.761612
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "7bba1aa4-6b85-44d7-8302-6d7eb3c80c28",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3f7636a7-3a41-4a",
+    "slug": "galaxy-cafe-and-beer-chill-out",
+    "name": "Galaxy Cafe and Beer Chill Out",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "127b Võ Văn Kiệt",
+      "lat": 10.045386,
+      "lng": 105.762039
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "3f7636a7-3a41-4a1e-b9f3-5af23fe218ab",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-8233cd30-cfd5-46",
+    "slug": "hoa-lan-vien-coffee-food",
+    "name": "Hoa Lan Viên Coffee Food",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "218 Đ. Lý Thái Tổ",
+      "lat": 10.018278,
+      "lng": 105.783875
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "8233cd30-cfd5-46db-8879-e823e4aab928",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-79e6ce16-c5a6-43",
+    "slug": "milano-coffee-vo-van-kiet",
+    "name": "Milano Coffee - Võ Văn Kiệt",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "36 Võ Văn Kiệt",
+      "lat": 10.045033,
+      "lng": 105.763252
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "79e6ce16-c5a6-43a6-9dbb-5275d641d736",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-aa8f239c-c6fe-4d",
+    "slug": "bo-to-nam-sanh",
+    "name": "Bò tơ Năm Sánh",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "Đường Võ Văn Kiệt",
+      "lat": 10.04708,
+      "lng": 105.760361
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "aa8f239c-c6fe-4df9-b3bc-f435f579108e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c23b627c-8a28-4f",
+    "slug": "minh-long-gym",
+    "name": "Minh Long GYM",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "70 Đường Nguyễn Truyền Thanh",
+      "lat": 10.070633,
+      "lng": 105.747429
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "c23b627c-8a28-4f36-a4fb-8dce8d001ca4",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-0d2d7597-7052-43",
+    "slug": "2k-s-billiards-coffee-football",
+    "name": "2K'S Billiards | Coffee | Football",
+    "category": "entertainment",
+    "subCategory": "pool-billiards",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "24 Trần Chiên",
+      "lat": 10.004801,
+      "lng": 105.754028
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "0d2d7597-7052-4346-9624-f6bfddd9d7c6",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-ee6595cd-da1d-43",
+    "slug": "apple-coffee",
+    "name": "Apple Coffee",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "323 Đường Đồng Văn Cống",
+      "lat": 10.057058,
+      "lng": 105.761871
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "ee6595cd-da1d-436a-9844-75d48201f707",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-cf809277-dca2-4f",
+    "slug": "kan-center-dance-and-yoga-fitness",
+    "name": "KAN Center Dance and Yoga Fitness",
+    "category": "activity",
+    "subCategory": "yoga-studio",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "3b Đ. Mậu Thân",
+      "lat": 10.033158,
+      "lng": 105.77404
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "cf809277-dca2-4f48-971d-01262753fc72",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-fd5d9e9b-cfac-4c",
+    "slug": "omega-binh-minh",
+    "name": "Omega Bình Minh",
+    "category": "food",
+    "subCategory": "noodles-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Võ Văn Kiệt",
+      "lat": 10.067333,
+      "lng": 105.814102
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "fd5d9e9b-cfac-4c5f-91e4-c5a2974fd270",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-7c44bbd6-0d1f-42",
+    "slug": "am-thuc-lang-tho",
+    "name": "Ẩm Thực Làng Thỏ",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "363/14 KDC Bình Nhựt, phường Long Hòa, quận Bình Thủy",
+      "lat": 10.051668,
+      "lng": 105.75087
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "7c44bbd6-0d1f-42e0-a9ae-9b95e92e4216",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-505f5fe0-b074-4a",
+    "slug": "karaoke-vip",
+    "name": "Karaoke VIP",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "156 Ba Tháng Hai",
+      "lat": 10.019193,
+      "lng": 105.762581
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "505f5fe0-b074-4af3-be27-465289bf450b",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d42ffe5b-8087-4a",
+    "slug": "city-karaoke-can-tho",
+    "name": "City Karaoke Cần Thơ",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "40 Đường Lê Lợi",
+      "lat": 10.048356,
+      "lng": 105.787582
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "d42ffe5b-8087-4ad7-aa79-9c77427519e2",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-1384aaa2-0be5-46",
+    "slug": "gym-le-binh",
+    "name": "Gym Lê Bình",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "Đ. Lê Bình",
+      "lat": 10.021106,
+      "lng": 105.769325
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "1384aaa2-0be5-4658-b2b1-d0f88d1b99e9",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-0aef6aea-e597-46",
+    "slug": "coffee-co-ngoan-can-tho",
+    "name": "Coffee Cổ Ngoạn Cần Thơ",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": " Đường Xuân Hồng, Phường Long Tuyền, Quận Bình Thủy, Thành Phố Cần Thơ",
+      "lat": 10.022656,
+      "lng": 105.736725
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "0aef6aea-e597-46e2-aefd-b1d3244ee1f3",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3dc6a922-9b3e-4d",
+    "slug": "xanh-coffee",
+    "name": "Xanh Coffee",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "Đ. Số 4",
+      "lat": 10.006338,
+      "lng": 105.790169
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "3dc6a922-9b3e-4d23-9a5a-b679eae7c1d4",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-213cbfac-453a-4b",
+    "slug": "bao-ky-gym",
+    "name": "Bảo Kỳ Gym",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "528 Cach Mang Thang 8, Binh Thuy",
+      "lat": 10.069561,
+      "lng": 105.756485
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "213cbfac-453a-4bbf-89f5-a74fab008ca6",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-eb10dad8-a628-4b",
+    "slug": "hongkong-gym-fitness",
+    "name": "HongKong Gym & Fitness",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "179 Đường Nguyễn Văn Linh",
+      "lat": 10.038597,
+      "lng": 105.76001
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "eb10dad8-a628-4b18-b3c4-4b501cc16d0c",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-e475b8c3-4b5d-42",
+    "slug": "bun-dau-huong-viet",
+    "name": "Bún Đậu Hương Việt",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "249/9A Hẻm 249 Vành Đai Phi Trường",
+      "lat": 10.055131,
+      "lng": 105.761063
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "e475b8c3-4b5d-4231-b4fd-f2c78d12849d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-46ca04f4-c60b-43",
+    "slug": "milano-coffee-binh-thuy",
+    "name": "Milano Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "573 Trần Quang Diệu",
+      "lat": 10.058651,
+      "lng": 105.763184
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "46ca04f4-c60b-43bc-8b2f-f8c35072a22b",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-88507ef1-805f-4f",
+    "slug": "am-thuc-thanh-tra",
+    "name": "Ẩm Thực Thanh Trà",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Đường 3 Tháng 2, Phường Cái Vồn, Thị xã Bình Minh",
+      "lat": 10.066959,
+      "lng": 105.814247
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "88507ef1-805f-4fd8-bed0-4ceda5de77e3",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-9ad3568f-0c38-4f",
+    "slug": "minh-triet-private-gym",
+    "name": "Minh Triet Private Gym",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "58A Đ. 30 Tháng 4",
+      "lat": 10.030225,
+      "lng": 105.780334
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "9ad3568f-0c38-4f7c-a2e5-b1270d2896c0",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-5edf2596-49d5-48",
+    "slug": "body-and-fit-gym",
+    "name": "Body and Fit Gym",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "55 Đường Nguyễn Truyền Thanh",
+      "lat": 10.073461,
+      "lng": 105.74897
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "5edf2596-49d5-48bb-be34-9fa3e0650958",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-b244a971-96f8-44",
+    "slug": "karaoke-opera-can-tho",
+    "name": "Karaoke Opera Can Tho",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "06 Võ Nguyên Giáp",
+      "lat": 10.00733,
+      "lng": 105.794624
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "b244a971-96f8-4488-bb00-0723c94cbb05",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-134e70c5-6ee7-4d",
+    "slug": "coffee-cali",
+    "name": "Coffee Cali",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "8 Đường Quang Trung",
+      "lat": 10.015093,
+      "lng": 105.782394
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "134e70c5-6ee7-4da9-a07e-2b41acf74264",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-dffb513e-1b9f-4c",
+    "slug": "com-chay-trang-phan",
+    "name": "Cơm Chay Tràng Phan",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "noi dai ) P, 127 Đ. Mậu Thân",
+      "lat": 10.045316,
+      "lng": 105.763611
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "dffb513e-1b9f-4c8e-b387-890a3abcf5f7",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c6d3d569-0959-45",
+    "slug": "hu-tieu-de-hong-ky",
+    "name": "Hủ tiếu dê Hồng Ký",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "24 Đường A4",
+      "lat": 10.015603,
+      "lng": 105.785355
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "c6d3d569-0959-456e-9c2b-589e6bbba33e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d761e0ec-508f-4d",
+    "slug": "tigon-cafe",
+    "name": "Tigôn café",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "1 Đường Trần Văn Trà",
+      "lat": 10.017169,
+      "lng": 105.785789
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "d761e0ec-508f-4d80-ad58-bafffb290b9b",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-7b7f988b-7595-49",
+    "slug": "california-fitness-yoga-centers-vietnam",
+    "name": "California Fitness & Yoga Centers Vietnam",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "209F Đường 30/4",
+      "lat": 10.024574,
+      "lng": 105.774612
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "7b7f988b-7595-493f-86aa-5123269048e1",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3d75006e-b1c2-4d",
+    "slug": "infinity-strength-and-fitness",
+    "name": "Infinity Strength and Fitness",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "Búng Xáng",
+      "lat": 10.028111,
+      "lng": 105.763206
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "3d75006e-b1c2-4d49-8726-7ecefb73003a",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-a184fef8-8a62-4a",
+    "slug": "red-door-wine-boutique",
+    "name": "Red door Wine boutique",
+    "category": "entertainment",
+    "subCategory": "wine-bar",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "Số E6 Đường số 5, KDC Miền Nam ( Lô 3C",
+      "lat": 10.024713,
+      "lng": 105.788277
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "a184fef8-8a62-4ac9-8785-e4fb6a22cc41",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-cbccf294-e49f-47",
+    "slug": "an-nhien-coffee",
+    "name": "An Nhiên Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "Số 179, Đường Võ Văn Kiệt, (Đối diện Bò Tơ Năm Sánh)",
+      "lat": 10.046782,
+      "lng": 105.759972
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "cbccf294-e49f-47ea-bdaf-ba6b5ecf9dd3",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-9191c103-b3d7-48",
+    "slug": "trung-tam-phuc-hop-the-thao-thai-son",
+    "name": "Trung tâm phức hợp thể thao Thái Sơn",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "54/2D Hùng Vương",
+      "lat": 10.043878,
+      "lng": 105.778549
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "9191c103-b3d7-481a-bcda-eb29d9156d95",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-18867d47-06be-4c",
+    "slug": "dalagi-coffee",
+    "name": "Dalagi Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "168 Đ. Phạm Hùng",
+      "lat": 9.997603,
+      "lng": 105.749664
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "18867d47-06be-4cae-81e7-390d3cc0b492",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-4e840bf5-2903-45",
+    "slug": "mi-cay-itada",
+    "name": "Mì Cay ITADA",
+    "category": "food",
+    "subCategory": "korean-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "59 Nguyễn Chí Thanh",
+      "lat": 10.096746,
+      "lng": 105.714165
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "4e840bf5-2903-45f3-aeba-097886aa75de",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-287f11bc-6460-41",
+    "slug": "am-thuc-campuchia",
+    "name": "Ẩm thực Campuchia",
+    "category": "food",
+    "subCategory": "cambodian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "294 Đường Đồng Văn Cống",
+      "lat": 10.055385,
+      "lng": 105.761429
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "287f11bc-6460-41c7-a497-9752e518b75e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-1e413966-a9b3-47",
+    "slug": "rex-coffee",
+    "name": "Rex coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "75 Hậu Thạnh Mỹ",
+      "lat": 10.000717,
+      "lng": 105.757912
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "1e413966-a9b3-47a1-add8-455f441602de",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-135836d7-6e0e-4d",
+    "slug": "nha-hang-tay-do-cai-rang",
+    "name": "Nhà Hàng Tây Đô",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "05 Đ. Lý Thái Tổ",
+      "lat": 10.018733,
+      "lng": 105.783279
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "135836d7-6e0e-4d4b-ae8c-00a95a676122",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-6669b7c6-4356-4a",
+    "slug": "coffee-ruby",
+    "name": "Coffee Ruby",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "Đ. Nguyễn Văn Lưu",
+      "lat": 10.008641,
+      "lng": 105.780861
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "6669b7c6-4356-4a29-9627-39a3ff5a996d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-8682ff50-53f6-4e",
+    "slug": "qanchun",
+    "name": "QanChun",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "72 Quang Trung",
+      "lat": 10.018665,
+      "lng": 105.781532
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "8682ff50-53f6-4e84-8854-ba14d130a378",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-8725c0ba-b4f8-4e",
+    "slug": "la-rose-kafe",
+    "name": "La Rose Kafe",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "Y58, Đường số 10 , KĐTM Nam sông Cần Thơ, P Q, Đường số 10",
+      "lat": 10.01229,
+      "lng": 105.792534
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "8725c0ba-b4f8-4ea8-bebb-cc401263a200",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d228b6f0-aee9-40",
+    "slug": "quan-ga-da-ham-xa-ngoc-ngan",
+    "name": "Quán gà đá hầm xã Ngọc Ngân",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "Đường Số 3",
+      "lat": 10.008348,
+      "lng": 105.779213
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "d228b6f0-aee9-408d-9ab6-6eace4994f21",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-0c88b6a7-c608-4a",
+    "slug": "bo-ne-a-quan",
+    "name": "Bò Né A Quắn",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "Võ Văn Kiệt",
+      "lat": 10.046202,
+      "lng": 105.762375
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "0c88b6a7-c608-4a9f-9f58-3a47190beaca",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d1c738d8-fe72-46",
+    "slug": "la-haye-kitchen-bar",
+    "name": "La Haye Kitchen & Bar",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "16 đường số 3, KDC8C",
+      "lat": 10.005029,
+      "lng": 105.784439
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "d1c738d8-fe72-46a1-abe1-f14da69d969d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-7e838528-8cfe-40",
+    "slug": "cafe-pho-le-binh",
+    "name": "Cafe Phố Le Binh",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "368 Đường Lê Bình",
+      "lat": 9.998734,
+      "lng": 105.752571
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "7e838528-8cfe-403f-8c19-ca6e7e867377",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-485e76f0-2e42-41",
+    "slug": "cu-lao-quan-binh-minh",
+    "name": "Cù Lao Quán - Bình Minh",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Số 129, đường 3/2, phường Cái Vồn, thị xã Bình Minh",
+      "lat": 10.063832,
+      "lng": 105.815239
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "485e76f0-2e42-41bc-bf1a-90ae5171cd1d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d1a56fdc-12d0-45",
+    "slug": "gold-tea-binh-minh",
+    "name": "Gold Tea Bình Minh",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Nguyễn Văn Thảnh",
+      "lat": 10.068212,
+      "lng": 105.810753
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "d1a56fdc-12d0-45f5-bda1-d08c9eec092f",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-245d6762-c88d-44",
+    "slug": "tra-sua-nho",
+    "name": "Trà Sữa Nhỏ",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "141 Đường Nguyễn Văn Thảnh",
+      "lat": 10.067936,
+      "lng": 105.810684
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "245d6762-c88d-445a-b658-871d1f0fac54",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-095a9591-e34c-4a",
+    "slug": "sushi-sachi",
+    "name": "Sushi SaChi",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "22 Đường Lý Thái Tổ",
+      "lat": 10.020689,
+      "lng": 105.787476
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "095a9591-e34c-4a71-826c-a880ba45731d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c5e183d4-0424-47",
+    "slug": "napoleon-coffee",
+    "name": "Napoleon Coffee",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "340A Đ. Cách Mạng Tháng 8",
+      "lat": 10.062341,
+      "lng": 105.763275
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "c5e183d4-0424-478f-927f-345f87afe375",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-8d1f3da1-cc8c-48",
+    "slug": "fpt-arena-multimedia-can-tho",
+    "name": "FPT Arena Multimedia Cần Thơ",
+    "category": "activity",
+    "subCategory": "art-school",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "52 Đường Cách Mạng Tháng Tám",
+      "lat": 10.046329,
+      "lng": 105.77951
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "8d1f3da1-cc8c-48ab-b761-4d5e350fa08e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-baffd815-188c-47",
+    "slug": "banh-canh-cua-586",
+    "name": "Bánh Canh Cua 586",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "33 Đường Lê Văn Tưởng",
+      "lat": 10.005117,
+      "lng": 105.800964
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "baffd815-188c-47f0-bfc7-34ffdca07f89",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-aa9e736b-0e68-41",
+    "slug": "quang-trung-quan",
+    "name": "Quang Trung Quán",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "16 Đường Quang Trung",
+      "lat": 10.020237,
+      "lng": 105.781334
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "aa9e736b-0e68-412f-977d-e7430a528715",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-efa46008-e79a-4a",
+    "slug": "hai-san-huong-cang",
+    "name": "Hải sản Hương Cảng",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Đuờng 3/2, phường cái vồn, thị xã Bình Minh, Vĩnh long",
+      "lat": 10.064638,
+      "lng": 105.815262
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "efa46008-e79a-4a8a-ad86-ed34747edcbb",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-96938a80-3fdc-47",
+    "slug": "museum-of-tarot",
+    "name": "Museum of Tarot",
+    "category": "outdoor",
+    "subCategory": "museum",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "44 Đ. Nguyễn Khuyến",
+      "lat": 10.034389,
+      "lng": 105.78318
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "96938a80-3fdc-470f-84be-46addbe7ae12",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-eb3c0829-89f1-42",
+    "slug": "ca-phe-369-2",
+    "name": "Cà Phê 369-2",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "Phan Văn Trị",
+      "lat": 9.997046,
+      "lng": 105.669525
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "eb3c0829-89f1-4215-85bc-cdbe383c6770",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-5917638a-89e3-4b",
+    "slug": "jollibee-binh-thuy",
+    "name": "Jollibee",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "15A Cách Mạng Tháng 8, P.An Thới, Q.Bình Thủy, Cần Thơ",
+      "lat": 10.058437,
+      "lng": 105.766876
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "5917638a-89e3-4b28-b7d9-48581a75644b",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d0be8635-e95c-48",
+    "slug": "binh-minh-coffee",
+    "name": "Bình Minh Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Khóm 5, Phường Thành Phước, Thị Xã Bình Minh\\n\\n",
+      "lat": 10.069345,
+      "lng": 105.812714
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "d0be8635-e95c-48c7-b1ec-c518aec8dcc2",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-125fcbd3-b8fd-49",
+    "slug": "tra-sua-phuc-tea-binh-minh",
+    "name": "Trà sữa Phúc Tea Bình Minh",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "138 Đường Nguyễn Văn Thảnh",
+      "lat": 10.070385,
+      "lng": 105.81958
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "125fcbd3-b8fd-49c9-ae89-99dd81dbf3cf",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3312e274-b292-4a",
+    "slug": "quan-hai-san-ba-cua-2",
+    "name": "Quán Hải Sản Ba Cua 2",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "176 Đường Cách Mạng Tháng 8",
+      "lat": 10.056978,
+      "lng": 105.768608
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "3312e274-b292-4af4-a444-800bba302648",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-a8a074e7-4d28-47",
+    "slug": "tam-an-yoga-can-tho",
+    "name": "Tâm An Yoga Cần Thơ",
+    "category": "activity",
+    "subCategory": "yoga-studio",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "71/5 Hẻm, 71 Đ. Cách Mạng Tháng 8",
+      "lat": 10.063416,
+      "lng": 105.761551
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "a8a074e7-4d28-478f-978f-abfc00f362c9",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c701ea1e-b236-49",
+    "slug": "nha-tho-duc-me-vo-nhiem",
+    "name": "Nha Tho Duc Me Vo Nhiem",
+    "category": "outdoor",
+    "subCategory": "church-cathedral",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "357 Đ. Nguyễn Văn Cừ",
+      "lat": 10.044928,
+      "lng": 105.766747
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "c701ea1e-b236-498d-a842-725c6b0807be",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-a19ea840-80ee-46",
+    "slug": "chua-dong-phuoc",
+    "name": "Chùa Đông Phước",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Phường Đông Thuận",
+      "lat": 10.05151,
+      "lng": 105.828026
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "a19ea840-80ee-4699-93e6-ae39b0ded146",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-0327483a-345d-45",
+    "slug": "sky-coffee",
+    "name": "Sky Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "43 Đ. Cách Mạng Tháng 8",
+      "lat": 10.060995,
+      "lng": 105.764221
+    },
+    "images": [],
+    "popularity": 79,
+    "source": "overture",
+    "sourceId": "0327483a-345d-4504-8adb-fb789df8fec2",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-6b039593-4086-49",
+    "slug": "chua-buu-tri",
+    "name": "Chùa Bửu Trì",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "67 Đường Mậu Thân",
+      "lat": 10.042839,
+      "lng": 105.765617
+    },
+    "images": [],
+    "popularity": 79,
+    "source": "overture",
+    "sourceId": "6b039593-4086-49d9-9151-fab41ad12241",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-accc6223-9667-41",
+    "slug": "lo-thit-bo-sil-my",
+    "name": "Lò Thịt Bò Sìl Mỳ",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "o-mon",
+      "address": "563 QL91",
+      "lat": 10.107616,
+      "lng": 105.663445
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "accc6223-9667-41e3-a49f-efe07dcdc960",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-9d33bcab-9f22-4d",
+    "slug": "quang-tien-gym",
+    "name": "Quang Tiến Gym",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Tổ 1 khóm 5 phường thành phước thị xã bình minh",
+      "lat": 10.069775,
+      "lng": 105.81469
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "9d33bcab-9f22-4d4e-9eba-7ccbbca97fd7",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-dd04e385-e4c0-45",
+    "slug": "1996-s-coffee",
+    "name": "1996's Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "3 tháng 2",
+      "lat": 10.065355,
+      "lng": 105.815163
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "dd04e385-e4c0-45ac-91c6-7869250effe8",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-04b858f5-5f1e-44",
+    "slug": "chua-buu-lien-ninh-kieu",
+    "name": "Chùa Bửu Liên",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "4 Hẻm 22/71 Đ. Mạc Đĩnh Chi",
+      "lat": 10.037995,
+      "lng": 105.782112
+    },
+    "images": [],
+    "popularity": 78,
+    "source": "overture",
+    "sourceId": "04b858f5-5f1e-44a7-947f-d8c94e6c7641",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-86863ea4-1eae-48",
+    "slug": "goc-cafe-binh-thuy",
+    "name": "Góc Cafe",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "97 Đường Lê Hồng Phong",
+      "lat": 10.088891,
+      "lng": 105.729523
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "86863ea4-1eae-48a3-b421-18fa1e7c48cb",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-42fab32d-ffe2-4a",
+    "slug": "coffee-thuan-giang",
+    "name": "coffee Thuận Giang",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "865 Đ. Bùi Hữu Nghĩa",
+      "lat": 10.059896,
+      "lng": 105.724594
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "42fab32d-ffe2-4a5d-bce9-529329f4ebfe",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c8fb1444-1d34-42",
+    "slug": "bay-bun-bo",
+    "name": "Bảy bún bò",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "QL54",
+      "lat": 10.048334,
+      "lng": 105.834259
+    },
+    "images": [],
+    "popularity": 78,
+    "source": "overture",
+    "sourceId": "c8fb1444-1d34-4213-8326-56adc4e656cc",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-fb2ec6dc-e07e-4b",
+    "slug": "ao-dai-xinh-can-tho",
+    "name": "Áo Dài Xinh - Cần Thơ",
+    "category": "outdoor",
+    "subCategory": "church-cathedral",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "60 Đường B2",
+      "lat": 10.021552,
+      "lng": 105.786575
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "fb2ec6dc-e07e-4ba2-9448-e22654a975ee",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-7e4a9eb4-2a45-45",
+    "slug": "ca-phe-viva",
+    "name": "Cà Phê Viva",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Vòng xoay Khu hành chánh Bình Minh",
+      "lat": 10.068579,
+      "lng": 105.813683
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "7e4a9eb4-2a45-45f1-a747-f9247513b1ce",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-7f0f6230-c4c3-43",
+    "slug": "dai-ngan-center-khu-do-thi-moi-dai-ngan",
+    "name": "Đại Ngân Center - Khu đô thị mới Đại Ngân",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "Nguyễn Văn Cừ, Quận Ninh Kiều",
+      "lat": 10.03748,
+      "lng": 105.760956
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "7f0f6230-c4c3-43ee-a2b7-f7feaae18d50",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-cb12b7f2-bb16-42",
+    "slug": "cho-viec-lam-can-tho",
+    "name": "Chợ việc làm Cần Thơ",
+    "category": "food",
+    "subCategory": "korean-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "239 Đường Trần Quang Diệu",
+      "lat": 10.063108,
+      "lng": 105.745277
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "cb12b7f2-bb16-42dd-8cfc-e873158dbea1",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c3b84188-1e9d-49",
+    "slug": "chua-quang-xuan-ninh-kieu",
+    "name": "Chùa Quang Xuân Ninh Kiều",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "89/16 Hẻm 89 Huỳnh Thúc Kháng",
+      "lat": 10.039358,
+      "lng": 105.774963
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "c3b84188-1e9d-4941-b1cd-e9cd09764406",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-badd3955-c6f4-45",
+    "slug": "chua-ba-thien-hau",
+    "name": "Chùa Bà Thiên Hậu",
+    "category": "outdoor",
+    "subCategory": "church-cathedral",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Đường Ngô Quyền",
+      "lat": 10.065608,
+      "lng": 105.822403
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "badd3955-c6f4-4575-b27e-19dc304aba16",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-83321b07-8455-4c",
+    "slug": "tam-viet-special-coffee",
+    "name": "Tâm Việt special coffee",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "06 Đ 3 Tháng 2",
+      "lat": 10.068082,
+      "lng": 105.81385
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "83321b07-8455-4c4c-a5c5-2e530ef24788",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-0dbe2c2f-ec18-4e",
+    "slug": "nha-tho-thoi-hoa",
+    "name": "Nhà Thờ Thới Hoà",
+    "category": "outdoor",
+    "subCategory": "church-cathedral",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "85 Đ. Phạm Ngũ Lão",
+      "lat": 10.044763,
+      "lng": 105.775528
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "0dbe2c2f-ec18-4edf-94c6-c2091e59a97f",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-591d6e44-8c14-4d",
+    "slug": "phong-gym",
+    "name": "Phong GYM",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "297 Nguyễn Đệ, 67 Đường Đồng Văn Cống",
+      "lat": 10.049046,
+      "lng": 105.764282
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "591d6e44-8c14-4d5f-8851-90babe745b4a",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-bf22cf35-7228-45",
+    "slug": "anna-coffee",
+    "name": "Anna Coffee",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Đ 3 Tháng 2",
+      "lat": 10.067847,
+      "lng": 105.813934
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "bf22cf35-7228-45f2-abf7-53ca9f82614d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-e90a7a49-f196-4f",
+    "slug": "gym-anh-tuan-binh-minh",
+    "name": "Gym Anh TuẤN",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "17 Cầu Cái Vồn Nhỏ",
+      "lat": 10.069758,
+      "lng": 105.823387
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "e90a7a49-f196-4f5d-958b-f0b7f76b38f9",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-402cb864-dcd2-4f",
+    "slug": "de-nhat-quan",
+    "name": "Dệ Nhất Quan",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "đường 3/2",
+      "lat": 10.066355,
+      "lng": 105.814774
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "402cb864-dcd2-4f22-a689-d3b439bf3cd9",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-ca1b2c0d-faca-46",
+    "slug": "airlands-coffee",
+    "name": "Airlands Coffee",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "o-mon",
+      "address": "Cà phê Airlands, 496",
+      "lat": 10.106671,
+      "lng": 105.667519
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "ca1b2c0d-faca-46a3-ba7a-6a800c3b0070",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-a4a610f0-d8b5-45",
+    "slug": "ele-thy",
+    "name": "ELE THY",
+    "category": "activity",
+    "subCategory": "yoga-studio",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "307/30 Nguyễn Đệ, An Hòa, Ninh Kiều",
+      "lat": 10.048239,
+      "lng": 105.763924
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "a4a610f0-d8b5-456c-a7b7-c89deefbe776",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2c8367c9-bc0a-41",
+    "slug": "chua-long-quang-co-tu",
+    "name": "Chùa Long Quang Cổ Tự",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "Bình Thủy",
+      "lat": 10.056266,
+      "lng": 105.726974
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "2c8367c9-bc0a-4189-b7c2-ce42381a4d0a",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2d2eb939-28ce-45",
+    "slug": "victoria-fitness-can-tho",
+    "name": "Victoria Fitness Cần Thơ",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "31 Đường A3",
+      "lat": 10.007217,
+      "lng": 105.791878
+    },
+    "images": [],
+    "popularity": 76,
+    "source": "overture",
+    "sourceId": "2d2eb939-28ce-4522-944b-69320a5e90b4",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-570d0b36-c641-4a",
+    "slug": "victory-yoga-binh-minh",
+    "name": "Victory Yoga Binh Minh",
+    "category": "activity",
+    "subCategory": "yoga-studio",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "102 Lê Văn Vị",
+      "lat": 10.06691,
+      "lng": 105.817146
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "570d0b36-c641-4aff-ae01-66aa403cb5e8",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-b4fc8c34-f2eb-44",
+    "slug": "cafe-mai-vang",
+    "name": "CAFE Mai Vàng",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Binh Minh",
+      "lat": 10.070308,
+      "lng": 105.819344
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "b4fc8c34-f2eb-44a1-82c6-3105aa6acd6c",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-9aca4ec4-68ab-46",
+    "slug": "caphe-hoa-anh-dao",
+    "name": "Càphê HOA ANH ĐÀO",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Cafe Hoa Anh Đào",
+      "lat": 10.048187,
+      "lng": 105.833527
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "9aca4ec4-68ab-4674-aab6-3caa17ce57bb",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-ee7456ec-d7f3-4a",
+    "slug": "forever-meeting-room",
+    "name": "Forever Meeting Room",
+    "category": "outdoor",
+    "subCategory": "church-cathedral",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "200 Đ. Nguyễn Hiền",
+      "lat": 10.0217,
+      "lng": 105.754723
+    },
+    "images": [],
+    "popularity": 76,
+    "source": "overture",
+    "sourceId": "ee7456ec-d7f3-4aa1-a3c0-e008396ee3f4",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-518840d2-fe71-4b",
+    "slug": "tiem-cay-loi-nho",
+    "name": "Tiệm cây Lối Nhỏ",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "333 Quốc Lộ 91B",
+      "lat": 10.02544,
+      "lng": 105.754272
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "518840d2-fe71-4b9a-b9d2-adef1cd16cb0",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-56c4f45f-eedf-44",
+    "slug": "clb-the-hinh-olympic-gym-fitness-can-tho",
+    "name": "CLB thể hình Olympic Gym & Fitness -  Cần Thơ",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "26/2 Hẻm 26 Đường Võ Tánh",
+      "lat": 9.999778,
+      "lng": 105.744385
+    },
+    "images": [],
+    "popularity": 76,
+    "source": "overture",
+    "sourceId": "56c4f45f-eedf-4469-b337-d36aa26bd74e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-8a10062f-52c1-41",
+    "slug": "ca-phe-man-thi",
+    "name": "Cà Phê Mẫn Thi",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "o-mon",
+      "address": "50 ĐT920",
+      "lat": 10.123484,
+      "lng": 105.685738
+    },
+    "images": [],
+    "popularity": 76,
+    "source": "overture",
+    "sourceId": "8a10062f-52c1-41a2-91e5-f16c63786ec7",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d857efc9-ccf1-4c",
+    "slug": "long-gym",
+    "name": "Long Gym",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "Đường B8",
+      "lat": 10.016605,
+      "lng": 105.785179
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "d857efc9-ccf1-4ca7-a814-f96ec974e783",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-f1509b0f-6ad9-43",
+    "slug": "padthai-am-thuc-thai-lan",
+    "name": "PadThai - Ẩm Thực Thái Lan",
+    "category": "entertainment",
+    "subCategory": "beer-garden",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "239 Đường Đồng Văn Cống",
+      "lat": 10.054135,
+      "lng": 105.759979
+    },
+    "images": [],
+    "popularity": 75,
+    "source": "overture",
+    "sourceId": "f1509b0f-6ad9-4387-b537-6ef528eae035",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-367c811b-364d-45",
+    "slug": "khu-do-thi-my-hung-q-cai-rang-tp-can-tho-kdc-hong-loan",
+    "name": "Khu đô thị Mỹ Hưng, Q Cái Răng, TP Cần Thơ - KDC Hồng Loan",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "87 D15, KĐT Mỹ Hưng, P Hưng Thạnh, Q Cái Răng, TP Cần Thơ (KDC Hồng Loan)",
+      "lat": 10.004522,
+      "lng": 105.771904
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "367c811b-364d-4556-90f1-6031cffeae13",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2218cb22-7bd4-48",
+    "slug": "gym-dac-luyen-nam-nu-can-tho",
+    "name": "Gym Đắc Luyện Nam Nữ Cần Thơ",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "9 Đường Nguyễn Đệ",
+      "lat": 10.051724,
+      "lng": 105.769638
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "2218cb22-7bd4-485a-be1c-e713bd48d103",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-49e5d2d4-902a-48",
+    "slug": "h-gym",
+    "name": "H-GYM",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "Chung cư Cadif, Đ. Lý Thái Tổ",
+      "lat": 10.019691,
+      "lng": 105.78672
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "49e5d2d4-902a-4893-92b9-adeeb5e76ba5",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-aa3db5de-f727-42",
+    "slug": "lan-anh-yoga-and-more",
+    "name": "Lan Anh Yoga And More",
+    "category": "activity",
+    "subCategory": "yoga-studio",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "Số 177 Khu vực 2, Phường Cái Răng",
+      "lat": 9.969922,
+      "lng": 105.737663
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "aa3db5de-f727-4209-a0bb-b011ae4aef20",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-204779ca-0000-47",
+    "slug": "tiem-tra-nuoc-ep-sun-s-tea",
+    "name": "Tiệm trà, Nước Ép Sun’s Tea",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "Ngã 3 cầu Tây Đô,đối diện bánh mì que,xã Phong Điền",
+      "lat": 9.996041,
+      "lng": 105.666512
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "204779ca-0000-4721-8d59-a4a751ce73ae",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-559df6da-c8ec-47",
+    "slug": "cong-vien-van-hoa-mien-tay",
+    "name": "Cong vien Van hoa Mien Tay",
+    "category": "family",
+    "subCategory": "amusement-park",
+    "tags": [
+      "tre-em"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "45 Đường Cách Mạng Tháng 8",
+      "lat": 10.054749,
+      "lng": 105.770195
+    },
+    "images": [],
+    "popularity": 75,
+    "source": "overture",
+    "sourceId": "559df6da-c8ec-47d3-825c-2f8e989eb908",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-6c65ce27-5bd3-4b",
+    "slug": "chua-quan-am-ninh-kieu",
+    "name": "Chùa Quan Âm",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "Hẻm 108 Đ. 30 Tháng 4",
+      "lat": 10.029757,
+      "lng": 105.778847
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "6c65ce27-5bd3-4bb6-a491-8c1162134322",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-60a70268-cfe1-44",
+    "slug": "chung-cu-khu-c-mau-than-an-hoa-tp-can-tho",
+    "name": "Chung Cư Khu C Mậu Thân, An Hòa, Tp Cần Thơ",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "Chung Cư C Mậu Thân, An Hòa, Ninh Kiều, Cần Thoe",
+      "lat": 10.045012,
+      "lng": 105.764824
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "60a70268-cfe1-44dd-83bf-5f705672a3b7",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-dd714b7c-300a-45",
+    "slug": "tiem-banh-kem-thuy-tien-phong-dien",
+    "name": "Tiệm Bánh Kem Thủy Tiên, Phong Điền",
+    "category": "food",
+    "subCategory": "bakery",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "TTTM Phong Điền , TT. Phong Điền , H. Phong Điền",
+      "lat": 9.997273,
+      "lng": 105.670547
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "dd714b7c-300a-4541-a603-ef387e756f20",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-779d6863-2f11-48",
+    "slug": "hung-phat-bakery",
+    "name": "Hưng Phát Bakery",
+    "category": "food",
+    "subCategory": "bakery",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "421 Thuận tiến A, phường Bình Minh ",
+      "lat": 10.070848,
+      "lng": 105.829659
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "779d6863-2f11-48ce-ae29-d50e57fccec0",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-48c035c8-62b6-40",
+    "slug": "mewtea",
+    "name": "MewTea",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "165 Đường Nguyễn Văn Thảnh",
+      "lat": 10.065088,
+      "lng": 105.814743
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "48c035c8-62b6-401b-8a54-d68af92b88b4",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-22f5dc61-f56c-4f",
+    "slug": "cafe-lucky",
+    "name": "Cafe Lucky",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "đường 26, KDC Mặt Trời Đỏ, Mỹ Lộc xã Mỹ Khánh, Phong Điền, ",
+      "lat": 9.998665,
+      "lng": 105.714882
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "22f5dc61-f56c-4f18-a46a-511ab20976de",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-1500300f-8e0e-45",
+    "slug": "khu-du-lich-lung-cot-cau",
+    "name": "Khu Du Lịch Lung Cột Cầu",
+    "category": "family",
+    "subCategory": "amusement-park",
+    "tags": [
+      "tre-em"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "QL61C, ấp Nhơn Thành, xã Nhơn Nghĩa, huyện Phong Điền",
+      "lat": 9.969604,
+      "lng": 105.697502
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "1500300f-8e0e-45c9-aca3-74b4f90993d9",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-e60c53cc-4099-46",
+    "slug": "the-rum-bar-ctrl-alt-del",
+    "name": "The Rum Bar Ctrl Alt Del",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "170 Võ Văn Kiệt",
+      "lat": 10.046488,
+      "lng": 105.761353
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "e60c53cc-4099-4644-ab65-df62dcee15e9",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3b1f890c-c4c5-47",
+    "slug": "yoga-tri-lieu-hung-phu",
+    "name": "Yoga Trị Liệu Hưng Phú",
+    "category": "activity",
+    "subCategory": "yoga-studio",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "Chung cư Hưng Phú Lô B, Lý Thái Tổ, KDC Hưng Phú 1, Hưng Phú",
+      "lat": 10.0212,
+      "lng": 105.787064
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "3b1f890c-c4c5-4711-b53a-322ce610e9d0",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-6058c57f-001d-41",
+    "slug": "yoga-home",
+    "name": "Yoga Home",
+    "category": "activity",
+    "subCategory": "yoga-studio",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "30-32B24 KDC Hùng Phú 1 Cái Răng , Can Tho, Vietnam Cantho Can Tho City",
+      "lat": 10.018437,
+      "lng": 105.788574
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "6058c57f-001d-416b-b05e-a12fa627e6a9",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-f09a09ff-a5f9-47",
+    "slug": "bun-dau-mam-tom-changs",
+    "name": "Bún Đậu Mắm Tôm Changs",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Tổ 1 khóm 5",
+      "lat": 10.069098,
+      "lng": 105.81279
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "f09a09ff-a5f9-4782-8dfa-4cb2bb020d54",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-34bd2a15-d19f-4b",
+    "slug": "tiem-ca-phe-may",
+    "name": "Tiệm cà phê MAY",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "KDC, 01-B7 Đ. A1",
+      "lat": 10.001383,
+      "lng": 105.799995
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "34bd2a15-d19f-4bbe-829d-fb485d78236f",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-fe4990f4-e844-4f",
+    "slug": "karaoke-168",
+    "name": "Karaoke 168",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "196 Nguyễn Chí Thanh",
+      "lat": 10.092358,
+      "lng": 105.71048
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "fe4990f4-e844-4f94-a961-fada8da054fa",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-1268ce4f-3fea-4d",
+    "slug": "san-cau-long-tu-nghia-phong-dien-can-tho",
+    "name": "Sân cầu lông Tư Nghĩa - Phong Điền Cần Thơ",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "923 Lộ Vòng Cung",
+      "lat": 9.987644,
+      "lng": 105.688049
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "1268ce4f-3fea-4d1a-b692-14c7bcfe3dfc",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-28d9e930-8b1c-4c",
+    "slug": "chua-dat-set",
+    "name": "Chùa Đất Sét",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Ấp mỹ hưng",
+      "lat": 10.049165,
+      "lng": 105.806259
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "28d9e930-8b1c-4c1b-8de9-6ec8f4c5387b",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2ac78905-b05b-46",
+    "slug": "chua-phuoc-thanh",
+    "name": "chùa Phước Thạnh",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "Hàng Gòn",
+      "lat": 9.97106,
+      "lng": 105.754128
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "2ac78905-b05b-46e6-ac3d-9b48d5aa3759",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3590ecd1-bb43-44",
+    "slug": "chua-phuoc-khanh",
+    "name": "Chùa Phước Khánh",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "ĐƯỜNG Trường Tiền-Bông Vang",
+      "lat": 9.997658,
+      "lng": 105.713722
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "3590ecd1-bb43-448a-abe4-ecfa4ee887d4",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-9c6365f6-916c-44",
+    "slug": "gym-viet-thong",
+    "name": "Gym Việt Thống",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "447 Đường Trần Chiên",
+      "lat": 9.997592,
+      "lng": 105.760567
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "9c6365f6-916c-4434-9c19-cccdedb073a7",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-06592b65-26b9-4d",
+    "slug": "mi-cay-seoul-binh-minh",
+    "name": "Mì Cay SEOUL Bình Minh",
+    "category": "food",
+    "subCategory": "korean-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "93 Nguyễn Văn Thảnh",
+      "lat": 10.068725,
+      "lng": 105.81501
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "06592b65-26b9-4d23-b563-e8b27054bc71",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-51639169-859c-43",
+    "slug": "khu-vui-choi-khi-con-can-tho",
+    "name": "Khu vui chơi Khỉ Con Cần Thơ",
+    "category": "family",
+    "subCategory": "amusement-park",
+    "tags": [
+      "tre-em"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "291/91B Nguyễn Văn Linh, P. Long Hòa, Q. Bình Thủy, Thành Phố Cần Thơ (xéo KDC Cửu Long)",
+      "lat": 10.032868,
+      "lng": 105.749458
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "51639169-859c-430f-beed-9cd8f59e1945",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-01396b11-68d6-42",
+    "slug": "hoa-vien-hoang-phat",
+    "name": "Hoa Viên Hoàng Phát",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "Nguyễn Văn Cừ",
+      "lat": 9.993991,
+      "lng": 105.71299
+    },
+    "images": [],
+    "popularity": 55,
+    "source": "overture",
+    "sourceId": "01396b11-68d6-42ac-8f97-4c8d585ba306",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-a26266c9-7e56-4b",
+    "slug": "hoi-thanh-tin-lanh-cai-rang",
+    "name": "Hội Thánh Tin Lành Cái Răng",
+    "category": "outdoor",
+    "subCategory": "church-cathedral",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "266D Đường Hàng Gòn",
+      "lat": 9.991721,
+      "lng": 105.750679
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "a26266c9-7e56-4bb8-b16a-5a6b69c579a6",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-4a6f89f1-8df9-41",
+    "slug": "de-tuoi-can-tho-79-si-va-le",
+    "name": "Dê Tươi Cần Thơ 79 sĩ và lẽ",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "o-mon",
+      "address": "78 Đường Trương Văn Diễn",
+      "lat": 10.032226,
+      "lng": 105.787949
+    },
+    "images": [],
+    "popularity": 54,
+    "source": "overture",
+    "sourceId": "4a6f89f1-8df9-41ec-8c7a-1d8ddacfefcf",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-842825be-7804-47",
+    "slug": "chep-phim-4k-3d-can-tho",
+    "name": "Chép Phim 4K-3D Cần Thơ",
+    "category": "entertainment",
+    "subCategory": "cinema",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "134/4B Đặng Thị Nhường, Bùi Hữu Nghĩa, Bình Thuỷ, Cần Thơ",
+      "lat": 10.055211,
+      "lng": 105.770538
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "842825be-7804-4779-82ec-1864438f0c99",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3cb30f22-16aa-43",
+    "slug": "dong-dao-coffee",
+    "name": "Đồng Dao Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "Phan Văn Trị, TT. Phong Điền, H.Phong Điền, TP. Cần Thơ",
+      "lat": 9.998802,
+      "lng": 105.666512
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "3cb30f22-16aa-43fe-85f7-a8086aefb297",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-6e3fdf48-75a2-46",
+    "slug": "chung-cu-nhip-dieu-xanh-dreamhouse",
+    "name": "Chung Cư Nhịp Điệu Xanh DreamHouse",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "Lô DH6 - Đường Nguyễn Minh Quang, Khu nhà ở Nam Long, Hưng Thạnh, Cái Răng, Cần Thơ",
+      "lat": 10.009269,
+      "lng": 105.787231
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "6e3fdf48-75a2-46ab-a28a-9ae6846d9ff7",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-306b62b7-90cf-4a",
+    "slug": "tiem-tam",
+    "name": "TIỆM TÁM",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "Cầu Giai Xuân - Phong Điền - Cần Thơ",
+      "lat": 10.027621,
+      "lng": 105.688904
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "306b62b7-90cf-4a5b-a5be-4b25500f3420",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-b287c6f2-5f92-4d",
+    "slug": "nhac-song-quoc-bao",
+    "name": "Nhạc Sống Quốc Bảo",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Ấp Thuận Phú A Xã thuận An bình minh Vinh long ",
+      "lat": 10.090725,
+      "lng": 105.832748
+    },
+    "images": [],
+    "popularity": 52,
+    "source": "overture",
+    "sourceId": "b287c6f2-5f92-4d38-9d94-7abe00e790dc",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-fa2c2577-b36a-43",
+    "slug": "du-du-quan",
+    "name": "Đu Đủ Quán",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "o-mon",
+      "address": "531 QL91",
+      "lat": 10.106788,
+      "lng": 105.665169
+    },
+    "images": [],
+    "popularity": 56,
+    "source": "overture",
+    "sourceId": "fa2c2577-b36a-4367-9d3a-b036611ace3b",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-96aa9cfa-3ec0-44",
+    "slug": "chua-phuoc-long-cai-rang",
+    "name": "Chùa Phước Long Cái Răng",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "56 Quốc Lộ 1A",
+      "lat": 10,
+      "lng": 105.75
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "96aa9cfa-3ec0-44d4-af86-746bfb990a6e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3e69841a-7f86-49",
+    "slug": "khu-dan-cu-586",
+    "name": "Khu Dân Cư 586",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "Phường Phú Thứ, quận Cái Răng, Cần Thơ",
+      "lat": 10.006893,
+      "lng": 105.804848
+    },
+    "images": [],
+    "popularity": 50,
+    "source": "overture",
+    "sourceId": "3e69841a-7f86-4998-8869-d658a883b014",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2862f312-e709-4a",
+    "slug": "cafe-ngoc",
+    "name": "Cafe Ngọc",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "o-mon",
+      "address": "534 QL91",
+      "lat": 10.10756,
+      "lng": 105.664101
+    },
+    "images": [],
+    "popularity": 55,
+    "source": "overture",
+    "sourceId": "2862f312-e709-4a29-9c1a-1a319cee582e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-4d4fd5b6-2d42-4f",
+    "slug": "haca-seafood",
+    "name": "Haca-Seafood",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "o-mon",
+      "address": "Lô 2.17 KCN Trà Nóc 2, P. Phước Thới, Q. Ô môn, TP. Cần Thơ",
+      "lat": 10.118641,
+      "lng": 105.693848
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "4d4fd5b6-2d42-4f3c-a5be-16c59bce787b",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c83af42d-1167-4d",
+    "slug": "quan-an-gia-dinh-huong-que",
+    "name": "Quán Ăn gia đình Hương Quê",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "o-mon",
+      "address": "Đường Trương Văn Diễn, KV Thới Ngươn B, phường Phước Thới, Quận Ô Môn, Tp Cần Thơ",
+      "lat": 10.111577,
+      "lng": 105.678871
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "c83af42d-1167-4d36-bb56-0990634dfb7d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-fd96b7fb-9706-48",
+    "slug": "quan-lau-de-xu-nghe-42",
+    "name": "Quán Lẩu Dê Xứ Nghệ 42",
+    "category": "food",
+    "subCategory": "chinese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "o-mon",
+      "address": "Kv Bình Hoà A _ phước thới _ Ô Môn",
+      "lat": 10.105507,
+      "lng": 105.668755
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "fd96b7fb-9706-4857-aa5f-f2fb113f3b71",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-74d39f8a-1a80-47",
+    "slug": "cong-vien-ngan-thuan",
+    "name": "Công Viên Ngân Thuận",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "Khu Dân Cư Ngân Thuận",
+      "lat": 10.067356,
+      "lng": 105.756683
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "74d39f8a-1a80-478e-9f2a-f198aa68d77f",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-a918e9c3-5e8f-42",
+    "slug": "tra-sua-my-cay-sky",
+    "name": "Trà Sữa Mỳ Cay SKY",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "545 Lộ Vòng Cung",
+      "lat": 9.987426,
+      "lng": 105.688591
+    },
+    "images": [],
+    "popularity": 52,
+    "source": "overture",
+    "sourceId": "a918e9c3-5e8f-4241-810e-ad53aec96454",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-127cf107-316f-41",
+    "slug": "quang-truong-tay-do-can-tho",
+    "name": "Quảng Trường Tây Đô Cần Thơ",
+    "category": "family",
+    "subCategory": "amusement-park",
+    "tags": [
+      "tre-em"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "Quảng Trường Tây Đô Cần Thơ, đường Mai Chí Thọ, phường Phú Thứ, quận Cái Răng",
+      "lat": 10.015256,
+      "lng": 105.808594
+    },
+    "images": [],
+    "popularity": 46,
+    "source": "overture",
+    "sourceId": "127cf107-316f-412a-a00f-6280fbc55115",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c11bc58b-5864-49",
+    "slug": "tra-sua-josu",
+    "name": "Trà sữa JOSU",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "o-mon",
+      "address": "466 Tôn Đức Thắng",
+      "lat": 10.105845,
+      "lng": 105.670731
+    },
+    "images": [],
+    "popularity": 51,
+    "source": "overture",
+    "sourceId": "c11bc58b-5864-49eb-8756-b5b5dbaa9c1e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-eaafa943-4d20-46",
+    "slug": "hoa-do-coffee-tea",
+    "name": "Hoa Đô Coffee & Tea",
+    "category": "cafe",
+    "subCategory": "internet-cafe",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "520 Đ. Nguyễn Văn Cừ",
+      "lat": 10.001279,
+      "lng": 105.718086
+    },
+    "images": [],
+    "popularity": 51,
+    "source": "overture",
+    "sourceId": "eaafa943-4d20-4630-88c8-1c743e732905",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-cce9bf1c-c83d-4e",
+    "slug": "bo-ke-tay-nam-bo",
+    "name": "Bờ Kè Tây Nam Bộ",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "Bờ Kè Tây Nam Bộ",
+      "lat": 10.015141,
+      "lng": 105.808563
+    },
+    "images": [],
+    "popularity": 46,
+    "source": "overture",
+    "sourceId": "cce9bf1c-c83d-4e58-80ea-48f035fb4862",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-4d02eee9-9fb9-4b",
+    "slug": "kdl-ong-de",
+    "name": "KDL Ông Đề",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "Nguyễn Văn Cừ",
+      "lat": 9.993533,
+      "lng": 105.708321
+    },
+    "images": [],
+    "popularity": 45,
+    "source": "overture",
+    "sourceId": "4d02eee9-9fb9-4b3e-98ce-45d8e6033bce",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-bf84ff53-3a1e-4c",
+    "slug": "chung-cu-hung-phu-lo-a",
+    "name": "Chung Cư Hưng Phú Lô A",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "Hưng Phú Block A, Đ. Lý Thái Tổ",
+      "lat": 10.020482,
+      "lng": 105.786362
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "bf84ff53-3a1e-4c8c-a8f6-b2cfe1f9d611",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-342c6b7d-bd33-4a",
+    "slug": "nha-hang-luu-dong-kim-lien-gia-binh-dan",
+    "name": "Nhà Hàng Lưu Động KIM LIÊN giá bình dân",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "Rạch Lò Rèn, xã Giai Xuân, huyện Phong Điền ",
+      "lat": 10.030513,
+      "lng": 105.699371
+    },
+    "images": [],
+    "popularity": 49,
+    "source": "overture",
+    "sourceId": "342c6b7d-bd33-4a45-8d0c-1ff7429be899",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-31da47c5-156b-42",
+    "slug": "karaoke-queen-bee",
+    "name": "Karaoke Queen Bee",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "404 Đường Lê Hồng Phong",
+      "lat": 10.07737,
+      "lng": 105.746529
+    },
+    "images": [],
+    "popularity": 44,
+    "source": "overture",
+    "sourceId": "31da47c5-156b-42f8-80d2-e0d8e89ca865",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-0e34966a-2c7c-44",
+    "slug": "nha-hang-luu-dong-thanh-tung",
+    "name": "Nhà Hàng Lưu Động THANH TÙNG",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "o-mon",
+      "address": "169/26",
+      "lat": 10.09941,
+      "lng": 105.688225
+    },
+    "images": [],
+    "popularity": 49,
+    "source": "overture",
+    "sourceId": "0e34966a-2c7c-4430-9725-22f0f72154e3",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-19353a2b-0054-4d",
+    "slug": "thi-tran-mua-dong-winter-town-can-tho",
+    "name": "Thị Trấn Mùa Đông - Winter Town Cần Thơ",
+    "category": "entertainment",
+    "subCategory": "arcade",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "Lô số 1 Hưng Phú, quận Cái Răng , SIÊU THỊ GO CẦN THƠ",
+      "lat": 10.015949,
+      "lng": 105.78347
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "19353a2b-0054-4d30-8c6b-d818456f7f21",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-ff04f14f-aa57-4d",
+    "slug": "khu-vui-choi-thieu-nhi",
+    "name": "Khu Vui Chơi Thiếu Nhi",
+    "category": "family",
+    "subCategory": "amusement-park",
+    "tags": [
+      "tre-em"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "134 Đường Cách Mạng Tháng 8",
+      "lat": 10.055328,
+      "lng": 105.770088
+    },
+    "images": [],
+    "popularity": 43,
+    "source": "overture",
+    "sourceId": "ff04f14f-aa57-4d15-8f3b-e4b9204cff20",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-7b96d811-9324-4b",
+    "slug": "noy-kafe",
+    "name": "Nọy Kafé",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "Nguyễn văn cừ nối dài",
+      "lat": 9.997778,
+      "lng": 105.716133
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "7b96d811-9324-4b71-9abb-8aeb5d1d4ebb",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c1a9c069-d384-4d",
+    "slug": "candy-kids-coffee",
+    "name": "Candy KIDS Coffee",
+    "category": "entertainment",
+    "subCategory": "arcade",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "84 Đường Nguyễn Truyền Thanh",
+      "lat": 10.068327,
+      "lng": 105.747177
+    },
+    "images": [],
+    "popularity": 47,
+    "source": "overture",
+    "sourceId": "c1a9c069-d384-4db6-b9b7-76cc34982bec",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-ccc52b08-2c28-4a",
+    "slug": "vuon-du-lich-sinh-thai-phong-dien",
+    "name": "Vườn Du Lịch Sinh Thái Phong Điền",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "ĐƯỜNG Lộ Vòng Cung",
+      "lat": 9.990383,
+      "lng": 105.681458
+    },
+    "images": [],
+    "popularity": 47,
+    "source": "overture",
+    "sourceId": "ccc52b08-2c28-4a3b-a191-460fe7daba65",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-30cfad64-ac78-49",
+    "slug": "tiem-dtdd-thanh-tu",
+    "name": "Tiem Dtdđ Thanh Tú",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "2/10a",
+      "lat": 10.01725,
+      "lng": 105.704185
+    },
+    "images": [],
+    "popularity": 46,
+    "source": "overture",
+    "sourceId": "30cfad64-ac78-49b9-a5f1-1415ec8068b4",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-e6a27022-a3ed-45",
+    "slug": "nha-tho-dong-ho-nguyen-tran",
+    "name": "Nhà Thờ Dòng Họ Nguyễn Trần.",
+    "category": "outdoor",
+    "subCategory": "church-cathedral",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "324. Bùi Hữu Nghĩa",
+      "lat": 10.06363,
+      "lng": 105.739357
+    },
+    "images": [],
+    "popularity": 41,
+    "source": "overture",
+    "sourceId": "e6a27022-a3ed-45c9-9ece-317bedb2dcaa",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  }
+]

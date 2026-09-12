@@ -196,6 +196,16 @@ export type Place = {
   readonly affiliate?: readonly AffiliateLink[];
   readonly status: PlaceStatus;
   readonly updatedAt: string;
+  /**
+   * Where the record came from.
+   *
+   * Absent means hand-curated. Imported records can be regenerated wholesale from a
+   * newer Overture release; curated ones carry human judgement and must never be
+   * overwritten by a script, so the two are kept apart in both files and code.
+   */
+  readonly source?: 'overture';
+  /** Upstream id, so a record can be re-matched against a future release. */
+  readonly sourceId?: string;
 };
 
 /**

@@ -1,0 +1,3528 @@
+[
+  {
+    "id": "ovt-9a8c5900-f109-41",
+    "slug": "no1-karaoke-beer-club",
+    "name": "No1 Karaoke Beer Club",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "72 Đường Hai Bà Trưng",
+      "lat": 16.458769,
+      "lng": 107.589066
+    },
+    "images": [],
+    "popularity": 85,
+    "source": "overture",
+    "sourceId": "9a8c5900-f109-4182-bc6b-f12d671cb9c8",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-cc535134-7de7-45",
+    "slug": "com-nieu-spice-viet-hue",
+    "name": "Cơm Niêu Spice Viet Huế",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "15 Lý Thường Kiệt",
+      "lat": 16.460773,
+      "lng": 107.59156
+    },
+    "images": [],
+    "popularity": 85,
+    "source": "overture",
+    "sourceId": "cc535134-7de7-4535-b8cc-5cbb5564fe76",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-1ed702b3-9d7c-48",
+    "slug": "madam-thu-restaurant",
+    "name": "Madam Thu Restaurant",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "45 Vo Thi Sau Street",
+      "lat": 16.470263,
+      "lng": 107.595947
+    },
+    "images": [],
+    "popularity": 85,
+    "source": "overture",
+    "sourceId": "1ed702b3-9d7c-4822-8a11-522e6ac72c06",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-1964d29f-fe3d-4b",
+    "slug": "la-paix-bistro",
+    "name": "La Paix Bistro",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "57 Võ Thị Sáu",
+      "lat": 16.470335,
+      "lng": 107.595955
+    },
+    "images": [],
+    "popularity": 85,
+    "source": "overture",
+    "sourceId": "1964d29f-fe3d-4b2c-a953-80a95bd56ad0",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3e8c9e5a-2420-4f",
+    "slug": "park-view-restaurant",
+    "name": "Park View Restaurant",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Đường Ngô Quyền",
+      "lat": 16.462318,
+      "lng": 107.589188
+    },
+    "images": [],
+    "popularity": 85,
+    "source": "overture",
+    "sourceId": "3e8c9e5a-2420-4fd9-bd55-e4a45ed146c8",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-5be258eb-b2df-47",
+    "slug": "gecko-restaurant",
+    "name": "Gecko Restaurant",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "9 Phạm Ngũ Lão",
+      "lat": 16.469509,
+      "lng": 107.594376
+    },
+    "images": [],
+    "popularity": 85,
+    "source": "overture",
+    "sourceId": "5be258eb-b2df-4707-9686-ce4ed95b5b0a",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-21a736f6-e4e2-45",
+    "slug": "ta-ke-japanese-restaurant",
+    "name": "Ta.ke Japanese Restaurant",
+    "category": "food",
+    "subCategory": "japanese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "34 Trần Cao Vân",
+      "lat": 16.465729,
+      "lng": 107.59198
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "21a736f6-e4e2-45e2-a868-258631057759",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3d254e9e-f43c-40",
+    "slug": "an-nhien-garden-vegetarian",
+    "name": "An Nhien Garden Vegetarian",
+    "category": "food",
+    "subCategory": "vegetarian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Kiệt 11 Tỉnh lộ 10",
+      "lat": 16.493483,
+      "lng": 107.599426
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "3d254e9e-f43c-4083-a4bc-723860ad5e45",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-bea41497-b291-43",
+    "slug": "elegant-restaurant",
+    "name": "Elegant Restaurant",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "City, 46 Phạm Ngũ Lão",
+      "lat": 16.468752,
+      "lng": 107.59491
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "bea41497-b291-438f-9f49-4d158dbd863d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-bc1792d5-f156-4b",
+    "slug": "brown-eyes-bar",
+    "name": "Brown Eyes Bar",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "56 Chu Văn An",
+      "lat": 16.468575,
+      "lng": 107.596298
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "bc1792d5-f156-4b16-a168-8f368982edb4",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d8706e57-e2ab-4b",
+    "slug": "song-huong-floating-restaurant",
+    "name": "Song Huong Floating Restaurant",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Công Viên 3, 2 Lê Lợi",
+      "lat": 16.469072,
+      "lng": 107.59095
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "d8706e57-e2ab-4b8d-81eb-e4c7172c9010",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-b908bbf0-90ea-4b",
+    "slug": "the-pizza-company-vincom-hue",
+    "name": "The Pizza Company Vincom Huế",
+    "category": "food",
+    "subCategory": "pizza-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "TTTM Vincom Huế:, 50A Hùng Vương",
+      "lat": 16.463003,
+      "lng": 107.594597
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "b908bbf0-90ea-4be7-96b7-661cd56530da",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c6459cd2-1b7c-45",
+    "slug": "khong-gian-xua",
+    "name": "Không Gian Xưa",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "205 Điện Biên Phủ",
+      "lat": 16.447319,
+      "lng": 107.581703
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "c6459cd2-1b7c-4539-9f93-61c2728eb5b7",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-339bd99d-42c7-49",
+    "slug": "nina-s-cafe",
+    "name": "Nina's Cafe",
+    "category": "food",
+    "subCategory": "asian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "16/34 Nguyễn Tri Phương",
+      "lat": 16.464745,
+      "lng": 107.592567
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "339bd99d-42c7-49f8-9a42-2c0bfd2a5257",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-b54809c5-8e44-42",
+    "slug": "lago-coffee-house",
+    "name": "Lago Coffee House",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "10 Lê Hồng Phong",
+      "lat": 16.460657,
+      "lng": 107.595116
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "b54809c5-8e44-4246-8b2b-29ac64097812",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-6b0a78df-b7a9-45",
+    "slug": "giay-cau-long-chinh-hang-he-thong-cua-hang-vu-bao-sport",
+    "name": "Giày Cầu Lông Chính Hãng -Hệ Thống Cửa Hàng Vũ Bảo Sport",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "1 Đường Nguyễn Phong Sắc",
+      "lat": 16.461519,
+      "lng": 107.602158
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "6b0a78df-b7a9-4579-9b14-889f4b8590e1",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c9983696-aab3-4f",
+    "slug": "tiem-ca-phe-81",
+    "name": "Tiệm Cà Phê 81",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "81 Huyền Trân Công Chúa",
+      "lat": 16.430746,
+      "lng": 107.563026
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "c9983696-aab3-4fb7-8694-1d05917cf81e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-9ebf74f6-80fc-43",
+    "slug": "doan-coffee-beers",
+    "name": "Doan Coffee & Beers",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "16l Hai Bà Trưng",
+      "lat": 16.460928,
+      "lng": 107.58918
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "9ebf74f6-80fc-43b4-bc81-4d7bdb92630c",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-1d50ddf8-72f0-41",
+    "slug": "olympic-royal-center-92-mai-thuc-loan",
+    "name": "Olympic Royal Center - 92 Mai Thúc Loan",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "92 Đường Mai Thúc Loan",
+      "lat": 16.476965,
+      "lng": 107.58213
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "1d50ddf8-72f0-4152-b0a6-17c7260d76aa",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-780c59f3-5315-4a",
+    "slug": "lantana-coffee-and-milktea",
+    "name": "Lantana Coffee and Milktea",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "45 Nguyễn Biểu",
+      "lat": 16.475634,
+      "lng": 107.582008
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "780c59f3-5315-4a3f-a4d5-e7b751c5c019",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-55378b6d-a9f3-45",
+    "slug": "o2-coffee-tea",
+    "name": "O2 Coffee & Tea",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "83 Đường Yết Kiêu",
+      "lat": 16.469389,
+      "lng": 107.572121
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "55378b6d-a9f3-4567-9a6a-e4bf780599cc",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-ae211f38-1074-46",
+    "slug": "karaoke-winwin",
+    "name": "Karaoke Winwin",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "86 Lê Lợi",
+      "lat": 16.47064,
+      "lng": 107.594742
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "ae211f38-1074-4657-b627-0a0ce109f93d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-a0234b1f-7067-4e",
+    "slug": "moon-s-coffee-and-milk-tea",
+    "name": "Moon's Coffee and Milk Tea",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "168 ĐT10A",
+      "lat": 16.492983,
+      "lng": 107.60231
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "a0234b1f-7067-4ea7-840b-233bd8a1d553",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-dcf99f3d-56e4-4a",
+    "slug": "ngang-cafe",
+    "name": "Ngang cafe",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "21/235, Bà Triệu",
+      "lat": 16.460024,
+      "lng": 107.600861
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "dcf99f3d-56e4-4ad6-b824-ede27a943067",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d5b417bc-57fc-47",
+    "slug": "quan-cafe-leaf",
+    "name": "Quán cafe Leaf",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "125 Trường Chinh",
+      "lat": 16.459761,
+      "lng": 107.605644
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "d5b417bc-57fc-4738-8f9d-9e17a6b843db",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c248ce7e-26da-43",
+    "slug": "noi-coffee-and-milk-tea",
+    "name": "Noi Coffee and Milk Tea",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "6/11 Đường Lý Thường Kiệt",
+      "lat": 16.461775,
+      "lng": 107.591354
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "c248ce7e-26da-43c0-a99a-12f33700612a",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-585f19f8-9359-41",
+    "slug": "paris-palace",
+    "name": "Paris Palace",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "5 Trưng Nữ Vương",
+      "lat": 16.405615,
+      "lng": 107.675529
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "585f19f8-9359-41b3-9049-476c9e8d8d3d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-45341c13-9679-48",
+    "slug": "de-po-cafe",
+    "name": "Đề-Pô Cafe",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Chợ Đông Ba, 02 Trần Hưng Đạo",
+      "lat": 16.473156,
+      "lng": 107.588531
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "45341c13-9679-48d7-8a7a-dea08560df5f",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-cdf95024-a152-46",
+    "slug": "nghia-cafe",
+    "name": "Nghĩa Cafe",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Khu tập thể, Số nhà 19, phòng 206 Nguyễn Trường Tộ",
+      "lat": 16.455782,
+      "lng": 107.586777
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "cdf95024-a152-4651-bcb5-330f6ee895bf",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c5a96c57-e280-43",
+    "slug": "la-porte-cafe-and-tea",
+    "name": "La Porte Cafe and Tea",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "02 Nguyễn Trãi",
+      "lat": 16.464256,
+      "lng": 107.575371
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "c5a96c57-e280-4391-bdde-fb6f312e9dd8",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-bc899dc5-fbd7-44",
+    "slug": "sline-coffee-signature",
+    "name": "Sline Coffee Signature",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "7 Phạm Hồng Thái",
+      "lat": 16.464375,
+      "lng": 107.58979
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "bc899dc5-fbd7-446d-aae6-84c3bfff9cf6",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-f4f58fd6-9081-41",
+    "slug": "truong-dai-hoc-nghe-thuat-hue",
+    "name": "Trường Đại học Nghệ thuật Huế",
+    "category": "activity",
+    "subCategory": "art-school",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "10 Đường Tô Ngọc Vân",
+      "lat": 16.478552,
+      "lng": 107.57486
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "f4f58fd6-9081-41df-9e96-4914cbe862ec",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-b9582bf3-987b-4c",
+    "slug": "dong-bar",
+    "name": "Dong Bar",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "03 Phạm Ngũ Lão",
+      "lat": 16.469589,
+      "lng": 107.594269
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "b9582bf3-987b-4cb2-a6f8-5bd73693f8ff",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3b7ae3ea-6f17-41",
+    "slug": "star-fitness-va-yoga",
+    "name": "Star Fitness và Yoga",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "117 Lê Thánh Tôn",
+      "lat": 16.478405,
+      "lng": 107.579369
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "3b7ae3ea-6f17-4132-a6a2-c835172e035d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-e10f5273-647a-42",
+    "slug": "the-cham-craft-beer-and-whisky",
+    "name": "The Cham Craft Beer and Whisky",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "56 Nguyễn Tri Phương",
+      "lat": 16.465868,
+      "lng": 107.59417
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "e10f5273-647a-421d-b5c7-cecf682cac9e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-1e7da6f5-1b0c-40",
+    "slug": "gym-trong-dong",
+    "name": "Gym Trống Đồng",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "50 Xuân Thủy",
+      "lat": 16.474344,
+      "lng": 107.603218
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "1e7da6f5-1b0c-403c-bdab-7618209b7e6d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-41271440-af7d-47",
+    "slug": "olympic-fitness-center",
+    "name": "Olympic Fitness Center",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "29 Đường Nguyễn Thái Học",
+      "lat": 16.46837,
+      "lng": 107.597397
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "41271440-af7d-47e0-870b-8bed0f1783fa",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-13f2aa70-5121-4c",
+    "slug": "mew-secret",
+    "name": "Méw Secret",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "35 Võ Thị Sáu",
+      "lat": 16.469189,
+      "lng": 107.595627
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "13f2aa70-5121-4c6a-a50a-bc0f17d53258",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-02c403c7-1a5f-40",
+    "slug": "cafe-loc-uyen",
+    "name": "Cafe Lộc Uyển",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "11 Đường Nguyễn Thanh Ái",
+      "lat": 16.410883,
+      "lng": 107.676613
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "02c403c7-1a5f-40f6-9968-d8974c7ea0f5",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-0aff973a-21c8-43",
+    "slug": "karaoke-thanh-hang",
+    "name": "Karaoke Thanh Hằng",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "116 Trần Phú",
+      "lat": 16.451725,
+      "lng": 107.590515
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "0aff973a-21c8-435c-8f5f-752fa9fdb10c",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-ef798521-44bc-4c",
+    "slug": "ocb-bar",
+    "name": "OCB Bar",
+    "category": "entertainment",
+    "subCategory": "pub",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "48b Chu Văn An",
+      "lat": 16.46892,
+      "lng": 107.596031
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "ef798521-44bc-4c72-850f-465b7b34355c",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-cd025929-5c5f-4c",
+    "slug": "912-factory-bar",
+    "name": "912 Factory Bar",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "38 Chu Văn An",
+      "lat": 16.469444,
+      "lng": 107.595573
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "cd025929-5c5f-4c5f-866f-ae6d86e3e27a",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c1dc524e-c5e0-4b",
+    "slug": "olympic-fitness-center-hue",
+    "name": "Olympic Fitness Center",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "52 Phan Chu Trinh",
+      "lat": 16.455379,
+      "lng": 107.581802
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "c1dc524e-c5e0-4ba5-bbf7-df54efd992f0",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-7b0284a6-1091-46",
+    "slug": "huong-que-cafe",
+    "name": "Hương Quê cafe",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "Công Lương, Thủy Vân, Hương Thủy, Thừa Thiên Huế",
+      "lat": 16.490585,
+      "lng": 107.622215
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "7b0284a6-1091-462f-8a98-74f865c4d7da",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-b5734bfe-cafe-4b",
+    "slug": "suntea-tea",
+    "name": "Suntea tea",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "155 Đường Sóng Hồng",
+      "lat": 16.414801,
+      "lng": 107.674141
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "b5734bfe-cafe-4b4a-9a64-0bd83c9e76df",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d1862c99-1f8a-47",
+    "slug": "secret-lounge-hue",
+    "name": "Secret Lounge Hue",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "15 Kiệt 42 Nguyễn Công Trứ",
+      "lat": 16.470512,
+      "lng": 107.597313
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "d1862c99-1f8a-4746-a039-71e9dbb6abae",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-30b7e981-6ebd-4c",
+    "slug": "thuan-coffee",
+    "name": "THUẬN Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "16 Nguyễn Đăng Thịnh",
+      "lat": 16.452751,
+      "lng": 107.52327
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "30b7e981-6ebd-4c21-83dc-775a50ad0f0b",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-810c0cd0-87d1-42",
+    "slug": "alibaba-cafe",
+    "name": "Alibaba cafe",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "2 Đường Thanh Tịnh",
+      "lat": 16.485559,
+      "lng": 107.598038
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "810c0cd0-87d1-422b-aa96-39295e46912b",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-9d273c69-3d2c-41",
+    "slug": "ta-vet-coffee-pub",
+    "name": "Ta Vet Coffee & Pub",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "11 Võ Thị Sáu",
+      "lat": 16.468225,
+      "lng": 107.594711
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "9d273c69-3d2c-410e-b405-6a26ac6d6ee3",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2b758c5d-85d3-46",
+    "slug": "nha-hang-duyen-anh",
+    "name": "Nhà Hàng Duyên Anh",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "Tỉnh lộ 10A, Thôn Vinh Vệ, Xã Phú Mỹ, Huyện Phú Vang",
+      "lat": 16.494034,
+      "lng": 107.623474
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "2b758c5d-85d3-4657-ad9e-93328ac65b01",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d0626d21-2f5f-4f",
+    "slug": "truc-chi-garden",
+    "name": "Trúc Chỉ Garden",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "301 Đường Bùi Thị Xuân",
+      "lat": 16.468414,
+      "lng": 107.567459
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "d0626d21-2f5f-4f38-9e07-90e0f90b8a78",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3320fcb3-a481-49",
+    "slug": "star-fitness-hue",
+    "name": "Star Fitness Huế",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Tầng 5,KĐT The Manor Crown,Huế, Tố Hữu",
+      "lat": 16.463491,
+      "lng": 107.607498
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "3320fcb3-a481-493f-bcc9-d70159ce317a",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-e4df746b-f27b-48",
+    "slug": "chua-mau-tai",
+    "name": "Chùa Mậu Tài",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "Kiệt 13 Mậu Tài, Phường Dương Nỗ",
+      "lat": 16.514019,
+      "lng": 107.582962
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "e4df746b-f27b-4819-8140-6a9a81ec5634",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-bc256516-b0ef-44",
+    "slug": "thor-gym-center",
+    "name": "Thor Gym Center",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "148 Phạm Thị Liên",
+      "lat": 16.462902,
+      "lng": 107.556625
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "bc256516-b0ef-4494-9e93-8de25e956970",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-f0c15948-a61a-44",
+    "slug": "dai-ly-sua-bim-thao-oanh",
+    "name": "Đại Lý Sữa Bỉm Thảo Oanh",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "689 Nguyễn Tất Thành - TX Hương Thuỷ -TT-Huế. (Đối Diện Chợ Thần Phù)",
+      "lat": 16.424576,
+      "lng": 107.656647
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "f0c15948-a61a-44e5-89e6-4fa34b0e6f43",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-ac4b7aad-0c80-42",
+    "slug": "quyen-ai-87-song-hong",
+    "name": "Quyền Ai -87 Sóng Hồng",
+    "category": "cafe",
+    "subCategory": "smoothie-juice-bar",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "87 Đường Sóng Hồng",
+      "lat": 16.409735,
+      "lng": 107.679276
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "ac4b7aad-0c80-425c-8152-87a9c0372cd3",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-4b0347b6-b2a6-40",
+    "slug": "mai-bonsai-cafe",
+    "name": "Mai Bonsai Cafe",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "132 Phạm Văn Đồng",
+      "lat": 16.483946,
+      "lng": 107.603783
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "4b0347b6-b2a6-40ab-980c-2d3f68dc92b1",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-496a0fae-9510-40",
+    "slug": "chua-duc-buu",
+    "name": "Chùa Đức Bưu",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Phường Hương Sơ, Thành Phố Huế, Tỉnh Thừa Thiên Huế",
+      "lat": 16.490746,
+      "lng": 107.559654
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "496a0fae-9510-40da-9620-890f16bbdecb",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-1db71830-50a7-4d",
+    "slug": "onus-hue-private-fitness",
+    "name": "ONUS Huế - Private Fitness",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "7 Đường Phùng Chí Kiên",
+      "lat": 16.462873,
+      "lng": 107.603493
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "1db71830-50a7-4d52-a39c-25b978f5981c",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-329c5715-5290-4e",
+    "slug": "quan-vit-trieu-tay-kim-cuc",
+    "name": "Quán Vịt Triều Tây Kim Cúc",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "300 Lý Thái Tổ",
+      "lat": 16.493664,
+      "lng": 107.533646
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "329c5715-5290-4ee7-b9a2-bc2c7c7d85ad",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2adbb9c1-cd50-49",
+    "slug": "chua-dieu-vien",
+    "name": "Chùa Diệu Viên",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "4/126 D. Nguyễn Hữu Cảnh",
+      "lat": 16.438553,
+      "lng": 107.611153
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "2adbb9c1-cd50-49b5-9ef5-76ce6280b0ef",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-702ebaf0-7619-44",
+    "slug": "nha-hang-duyen-que",
+    "name": "Nhà hàng Duyên Quê",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "Thôn Ngọc Anh, Phú Vang, Huế",
+      "lat": 16.488052,
+      "lng": 107.606461
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "702ebaf0-7619-44ef-942a-18aeaf6f499c",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-79d954c8-2e02-41",
+    "slug": "nha-hang-hai-san-song-nhu-y",
+    "name": "Nhà hàng Hải Sản Sống Như Ý",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "425 Phạm Văn Đồng",
+      "lat": 16.493551,
+      "lng": 107.601852
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "79d954c8-2e02-41c7-99f5-3799be77d414",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2b935fb5-c0a5-4d",
+    "slug": "cafe-gamer-beer",
+    "name": "Cafe Gamer Beer",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "81 Hai Tháng Chín",
+      "lat": 16.405722,
+      "lng": 107.6763
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "2b935fb5-c0a5-4d44-83cb-d9092c33590b",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-73fb3465-187a-48",
+    "slug": "trieu-tan-dancesport-hue",
+    "name": "Triều Tấn Dancesport - Huế",
+    "category": "activity",
+    "subCategory": "art-school",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "1 Đường Lê Lợi",
+      "lat": 16.457733,
+      "lng": 107.57933
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "73fb3465-187a-4825-a55d-7c063e9dc3a5",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-0926796b-3243-4e",
+    "slug": "cong-vien-kim-dong-hue",
+    "name": "Công viên Kim Đồng - Huế",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "3 Đường Hà Nội",
+      "lat": 16.463301,
+      "lng": 107.588501
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "0926796b-3243-4e5c-9be1-a2e5201b2725",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-a91e4afc-a50d-4a",
+    "slug": "tu-vien-phuoc-duyen-tp-hue",
+    "name": "Tự Viện Phước Duyên - Tp.Huế",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "9/1/75 Kiệt 1 Phạm Tu",
+      "lat": 16.459318,
+      "lng": 107.541
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "a91e4afc-a50d-4a44-88f9-e11b92a4701a",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-544aec3a-5905-49",
+    "slug": "trung-tam-to-chuc-su-kien-duyen-anh-palace",
+    "name": "Trung Tâm Tổ Chức Sự Kiện - Duyên Anh Palace",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "Đường tỉnh lộ 10A, Thôn Vinh Vệ, Xã Phú Mỹ, Huyện Phú Vang, TT Huế.",
+      "lat": 16.493979,
+      "lng": 107.623871
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "544aec3a-5905-49ab-999b-c5b5b95cc294",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-ebd1253a-a9af-4d",
+    "slug": "nha-nam-piano",
+    "name": "Nhà Nấm - Piano",
+    "category": "activity",
+    "subCategory": "art-school",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "11 Đường Phùng Hưng",
+      "lat": 16.473043,
+      "lng": 107.574791
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "ebd1253a-a9af-4d03-adf1-ac2ff9a7897e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-f07003c7-d287-4a",
+    "slug": "ong-ca-phe",
+    "name": "Ong Cà Phê",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "KQH Vinh Vệ",
+      "lat": 16.494259,
+      "lng": 107.625938
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "f07003c7-d287-4ab1-bee3-d9e5591e6920",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-4e9c5d36-29cc-4b",
+    "slug": "chua-thanh-noi",
+    "name": "Chùa Thành Nội",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "107 Đ. Ông Ích Khiêm",
+      "lat": 16.470631,
+      "lng": 107.584618
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "4e9c5d36-29cc-4b5f-bba2-0f4acdab39f8",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-8e55318e-335b-4b",
+    "slug": "cochincung",
+    "name": "Cochincung",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "Nguyễn Thị Định",
+      "lat": 16.469763,
+      "lng": 107.603447
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "8e55318e-335b-4b72-a183-5ae985c1a00b",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-6ac806c9-0b46-43",
+    "slug": "karaoke-huy-hoang",
+    "name": "Karaoke Huy Hoàng",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "158 nguyễn hữu cảnh , thuỷ dương , hương thuỷ, 158 D. Nguyễn Hữu Cảnh",
+      "lat": 16.440685,
+      "lng": 107.612595
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "6ac806c9-0b46-43e1-a730-85838cff4a01",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-079b7994-1c9d-4a",
+    "slug": "tra-sua-pho",
+    "name": "Trà sữa Phố",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "1027 Nguyễn Tất Thành",
+      "lat": 16.413643,
+      "lng": 107.671913
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "079b7994-1c9d-4a3d-98ee-4c396fc1a4e7",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-46ff2f45-600f-4b",
+    "slug": "h-coffee-milk-tea",
+    "name": "H Coffee Milk Tea",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "13 Bùi Xuân Phái",
+      "lat": 16.439989,
+      "lng": 107.615387
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "46ff2f45-600f-4b08-88d8-429c24866d58",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-5f65d574-c3dd-48",
+    "slug": "vector-coffee-milk-tea",
+    "name": "Vector Coffee - Milk tea",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "126 Kinh Dương Vương- phường Thuận An. Thành phố Huế- tỉnn Thừa Thiên Huế ",
+      "lat": 16.542078,
+      "lng": 107.635231
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "5f65d574-c3dd-48d1-928e-774cb01b4263",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-8b297d91-4b7f-4a",
+    "slug": "b-coffee",
+    "name": "B Coffee",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "136 Khúc Thừa Dụ",
+      "lat": 16.439358,
+      "lng": 107.628899
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "8b297d91-4b7f-4af6-8ede-2e346018ff54",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-57e398b1-93b2-47",
+    "slug": "the-moon-coffee",
+    "name": "The Moon Coffee",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "LKV7, 16",
+      "lat": 16.482365,
+      "lng": 107.611816
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "57e398b1-93b2-4716-8e7f-7967b565b7cf",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-89717e6d-9d81-47",
+    "slug": "olympic-diamond-14-nguyen-van-sieu",
+    "name": "Olympic Diamond - 14 Nguyễn Văn Siêu",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "14 Đường Nguyễn Văn Siêu",
+      "lat": 16.491795,
+      "lng": 107.590164
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "89717e6d-9d81-475d-96db-ebbeae29b19d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-4de4803f-8b71-4c",
+    "slug": "dam-chuon",
+    "name": "Đầm Chuồn",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "Đường Đê Tây",
+      "lat": 16.518183,
+      "lng": 107.644493
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "4de4803f-8b71-4c4c-8470-b9ec88eca6e4",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-8d1f5a26-14ae-42",
+    "slug": "chua-truc-lam",
+    "name": "Chùa Trúc Lâm",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Võ Văn Kiệt",
+      "lat": 16.426825,
+      "lng": 107.583878
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "8d1f5a26-14ae-4276-9e20-2f4d3dbeba4e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-638203ef-a556-4b",
+    "slug": "den-coffee",
+    "name": "Den Coffee",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "94 Sóng Hồng",
+      "lat": 16.41161,
+      "lng": 107.67807
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "638203ef-a556-4b9c-b1cd-4bd46b57a9ab",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-81b1a6de-8e50-47",
+    "slug": "koi-garden-coffe",
+    "name": "KOI Garden Coffe",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "6 Đường Nguyễn Văn Chính",
+      "lat": 16.425491,
+      "lng": 107.648521
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "81b1a6de-8e50-4711-967f-e53258bfe7a7",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-fb64b705-e04d-4c",
+    "slug": "cau-chuyen-vtj-hue",
+    "name": "Câu Chuyện VTJ Huế",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "KCN PHÚ ĐA - ĐƯỜNG TÂY HỒ - XÃ PHÚ VANG - TP. HUẾ",
+      "lat": 16.511318,
+      "lng": 107.600845
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "fb64b705-e04d-4c2e-b3b3-e28b1994a743",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-b759731a-9a3a-4c",
+    "slug": "nha-hang-tiec-cuoi-my-phuong",
+    "name": "Nhà Hàng Tiệc Cưới Mỹ Phương",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "Kiệt 8 TDP Công Lương",
+      "lat": 16.487623,
+      "lng": 107.617073
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "b759731a-9a3a-4c9d-9bf1-b54717fe5898",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2fa99e7b-428a-4e",
+    "slug": "new-space-arts-foundation",
+    "name": "New Space Arts Foundation",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "9 Xóm 3 Lại Thế",
+      "lat": 16.485579,
+      "lng": 107.598953
+    },
+    "images": [],
+    "popularity": 78,
+    "source": "overture",
+    "sourceId": "2fa99e7b-428a-4e2f-b6bc-e26e18aabab4",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-61f561e8-c7e6-45",
+    "slug": "chua-thien-minh",
+    "name": "Chùa Thiên Minh",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "91 Điện Biên Phủ",
+      "lat": 16.453209,
+      "lng": 107.581245
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "61f561e8-c7e6-45ba-82a2-b34cf6429107",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-5042141a-cbf5-42",
+    "slug": "nera-garden-hue-dau-an-thuong-luu",
+    "name": "Nera Garden Huế - Dấu ấn Thượng Lưu",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "17 Đường Tố Hữu",
+      "lat": 16.463343,
+      "lng": 107.616722
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "5042141a-cbf5-428f-9832-c8e5acc91666",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-f6620b42-d9f7-47",
+    "slug": "vien-duong-lao-chua-tinh-duc-tp-hue",
+    "name": "Viện Dưỡng Lão Chùa Tịnh Đức -Tp.huế",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Địa chỉ :  Thôn Thương Mộ, Xã Thủy Xuân, tây bắc TP Huế, Thừa Thiên - Huế",
+      "lat": 16.425386,
+      "lng": 107.58165
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "f6620b42-d9f7-477f-8872-099409da219a",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-72fdd7de-c6ef-45",
+    "slug": "pool-master",
+    "name": "Pool Master",
+    "category": "family",
+    "subCategory": "playground",
+    "tags": [
+      "tre-em"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "70 Đường Thạch Hãn",
+      "lat": 16.470003,
+      "lng": 107.570236
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "72fdd7de-c6ef-45c7-819b-81cd5501a0b0",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-bf657623-ed8a-45",
+    "slug": "dien-truong-quan-chuyen-hai-san",
+    "name": "Diên Trường Quán - Chuyên Hải Sản",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "Đặng Do",
+      "lat": 16.534943,
+      "lng": 107.627754
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "bf657623-ed8a-4530-8a6a-808d25e1f7ce",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-62e46826-facc-48",
+    "slug": "kid-s-kingdom-khu-vui-choi-tre-em",
+    "name": "Kid's Kingdom - Khu Vui Chơi Trẻ Em",
+    "category": "family",
+    "subCategory": "amusement-park",
+    "tags": [
+      "tre-em"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "120 Đường Triệu Quang Phục",
+      "lat": 16.474216,
+      "lng": 107.573311
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "62e46826-facc-483c-add5-636bd7f35fc3",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-84cd22a7-8fd6-46",
+    "slug": "alo-coffee",
+    "name": "Alo Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "La Chữ",
+      "lat": 16.483957,
+      "lng": 107.518593
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "84cd22a7-8fd6-4648-a48e-2724090d6a35",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-ff63f39a-80fb-4a",
+    "slug": "minh-linh-group",
+    "name": "Minh Linh Group",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "Lô A1-A2, Khu đô thị Đông Nam Thủy An, phường Thủy Dương, thị xã Hương Thủy",
+      "lat": 16.446253,
+      "lng": 107.616615
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "ff63f39a-80fb-4ab6-9714-03ef41473c64",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-14a23e7a-f841-48",
+    "slug": "rem-tuan-han",
+    "name": "Rèm Tuấn Hân",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Điện Quang, 194 Đường Phan Đăng Lưu",
+      "lat": 16.46804,
+      "lng": 107.610039
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "14a23e7a-f841-48f5-af96-39587dfff0e2",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c77975e4-e6cb-46",
+    "slug": "van-chieu-quan",
+    "name": "Van chieu quan",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "Xuân Hòa - Xã Thủy Vân - Huyện Hương Thủy",
+      "lat": 16.485548,
+      "lng": 107.612228
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "c77975e4-e6cb-46e9-852d-55ce5284d779",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-37a0442a-138e-4f",
+    "slug": "dong-thanh-tam-hue",
+    "name": "Dòng Thánh Tâm Huế",
+    "category": "outdoor",
+    "subCategory": "church-cathedral",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "67 Đường Phan Đình Phùng",
+      "lat": 16.455099,
+      "lng": 107.58548
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "37a0442a-138e-4ff6-b153-b821f40cb37c",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-a77a865a-efdf-47",
+    "slug": "tra-sua-e-can-an-vat-kim-tra-hue",
+    "name": "Trà Sữa Ê Cận - Ăn Vặt Kim Trà, Huế",
+    "category": "cafe",
+    "subCategory": "tea-room",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "38 Đường Hà Công",
+      "lat": 16.490679,
+      "lng": 107.515388
+    },
+    "images": [],
+    "popularity": 76,
+    "source": "overture",
+    "sourceId": "a77a865a-efdf-47d0-b25a-424bec980bac",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-13344f6f-ff7b-41",
+    "slug": "moc-nhien-coffee",
+    "name": "Mộc Nhiên coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "87 Đường Sông Bồ",
+      "lat": 16.437571,
+      "lng": 107.574768
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "13344f6f-ff7b-41a2-9dd6-0e55356006cc",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-1632ce7b-e55b-47",
+    "slug": "nha-hang-phuong-mai",
+    "name": "Nhà hàng Phương Mai",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "179 Khải Định, Thủy Bằng, TP. Huế",
+      "lat": 16.406473,
+      "lng": 107.589554
+    },
+    "images": [],
+    "popularity": 75,
+    "source": "overture",
+    "sourceId": "1632ce7b-e55b-472b-aec2-f42d09343442",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-14b31f68-2500-43",
+    "slug": "chua-huyen-khong",
+    "name": "Chùa Huyền Không",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "Nguyễn Trọng Nhân, phường Hương Hồ, thành phố Huế",
+      "lat": 16.452635,
+      "lng": 107.52729
+    },
+    "images": [],
+    "popularity": 75,
+    "source": "overture",
+    "sourceId": "14b31f68-2500-432e-90e5-64e64ea8fdf3",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-db795504-530c-47",
+    "slug": "dam-chuon-lagoon",
+    "name": "Đầm Chuồn Lagoon",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "Đầm Chuồn, Phú An",
+      "lat": 16.527756,
+      "lng": 107.63797
+    },
+    "images": [],
+    "popularity": 75,
+    "source": "overture",
+    "sourceId": "db795504-530c-47bb-9dd2-0d47e28c4b02",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-84c75137-5d4a-49",
+    "slug": "bull-caffe",
+    "name": "Bull Caffe",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "10a Cao Văn Khánh",
+      "lat": 16.466166,
+      "lng": 107.521317
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "84c75137-5d4a-493c-b69f-3754e0c619ff",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-00dac592-bf91-4a",
+    "slug": "thanh-quan",
+    "name": "Thành Quán",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "Thanh Lam",
+      "lat": 16.425489,
+      "lng": 107.645393
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "00dac592-bf91-4a17-8038-84821a54083a",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3362b4b6-69e4-4d",
+    "slug": "thao-nguyen-xanh",
+    "name": "Thảo Nguyên Xanh",
+    "category": "outdoor",
+    "subCategory": "botanical-garden",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "8 Đường Phú Thượng",
+      "lat": 16.49926,
+      "lng": 107.599342
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "3362b4b6-69e4-4d6b-bd29-656dd20604e3",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-f052ab98-ab4b-44",
+    "slug": "truongphat-food-beer",
+    "name": "Trườngphát_food&beer",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "Thủy Vân - Hương Thủy - TP.Huế",
+      "lat": 16.464188,
+      "lng": 107.587196
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "f052ab98-ab4b-44d4-9f7a-204ea4d16381",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-948397ec-54cb-4d",
+    "slug": "com-hen-hue-dung-quan",
+    "name": "Com Hen Hue Dung Quan",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "Xóm Tân Lập, Thôn Dưỡng Mong, Xã Phú Mỹ, Huyện Phú Vang, TT Huế",
+      "lat": 16.494572,
+      "lng": 107.620956
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "948397ec-54cb-4d15-ae20-362b8bde44eb",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c7bf4232-4bf3-49",
+    "slug": "oanh-kim-coffee",
+    "name": "Oanh Kim Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "Tỉnh lộ 10",
+      "lat": 16.492676,
+      "lng": 107.605965
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "c7bf4232-4bf3-49d6-bb6f-57d40683a1eb",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-733428f0-641d-4a",
+    "slug": "phuong-ngoai-am",
+    "name": "Phương Ngoại Am",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "250 Sóng Hồng",
+      "lat": 16.422279,
+      "lng": 107.664909
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "733428f0-641d-4a3a-a04d-08445a4e453d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-7134d080-f5f5-48",
+    "slug": "huong-an-vien",
+    "name": "Hương An Viên",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "Phường Hương An",
+      "lat": 16.450863,
+      "lng": 107.512367
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "7134d080-f5f5-4875-b135-cd00f1786221",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-ab06e3e7-c5f3-44",
+    "slug": "chua-kim-son",
+    "name": "Chùa Kim Sơn",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "238 Nguyễn Tất Thành",
+      "lat": 16.437824,
+      "lng": 107.627403
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "ab06e3e7-c5f3-441a-8f81-9fdce0d87810",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-0e708030-9ad5-4f",
+    "slug": "mr-tao-bar-restaurant-31-chu-van-an-tp-hue",
+    "name": "Mr. TÁO  Bar-Restaurant, 31 Chu Văn An, tp Huế",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "Thôn Hải Cát, Xã Hương Thọ, Thành phố Huế",
+      "lat": 16.469517,
+      "lng": 107.59584
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "0e708030-9ad5-4f30-b043-9fd6d761a788",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-a9b70631-4f5f-4a",
+    "slug": "parc-des-princes-restaurant",
+    "name": "Parc Des Princes Restaurant",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "KĐT Phú Mỹ Thượng",
+      "lat": 16.494398,
+      "lng": 107.60862
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "a9b70631-4f5f-4ae2-ae46-f72700ae37b2",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c5a34e63-9cb6-44",
+    "slug": "coi-cafe",
+    "name": "Cối Cafe",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "Unnamed Road",
+      "lat": 16.492033,
+      "lng": 107.611755
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "c5a34e63-9cb6-44f0-a7fa-fcdc205259a7",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d8a6ac18-3e71-44",
+    "slug": "passion-fitness-center",
+    "name": "Passion Fitness Center",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "35 Kinh Dương Vương",
+      "lat": 16.547998,
+      "lng": 107.640884
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "d8a6ac18-3e71-4413-bfb5-9481df6dbb6d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-5cbce67b-32b6-42",
+    "slug": "hanh-kem-nem-cha-tre-hue",
+    "name": "Hạnh Kem - Nem Chả Tré Huế",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "Tỉnh Lộ 10A, Huế, Việt Nam",
+      "lat": 16.494034,
+      "lng": 107.62574
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "5cbce67b-32b6-42e6-80ae-24179696dbca",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-82ace6cf-075d-46",
+    "slug": "phong-tra-music-art",
+    "name": "Phòng trà Music Art",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "02 Đ. Nguyễn Lữ",
+      "lat": 16.548208,
+      "lng": 107.643501
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "82ace6cf-075d-46fa-b71b-a462856e0d08",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-983eddc8-a03d-47",
+    "slug": "phong-tuy-bien-quan-cong",
+    "name": "Phòng Tuy Biên Quận Công",
+    "category": "outdoor",
+    "subCategory": "church-cathedral",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "01 Thôn Nam Thượng, P. Phú Thượng, Tp. Huế - Tỉnh Thừa thiên Huế",
+      "lat": 16.494474,
+      "lng": 107.597939
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "983eddc8-a03d-47dd-b714-5773aaf1234e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-80e3c590-975a-47",
+    "slug": "the-rail-chicken-and-tea",
+    "name": "The Rail - Chicken and Tea",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "128 Nguyễn Tất Thành",
+      "lat": 16.440884,
+      "lng": 107.620796
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "80e3c590-975a-4766-915c-8239c61bd382",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-30cc8320-844a-40",
+    "slug": "ngo-cafe-phu-vang",
+    "name": "Ngo Cafe",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "Lô F1, Đường số 2, KQH Chiết Bi, TP Huế, TT Huế",
+      "lat": 16.492002,
+      "lng": 107.609413
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "30cc8320-844a-4036-bf55-2b0a9d9ac81e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-b540edc4-206a-47",
+    "slug": "nha-tho-tan-my-hue",
+    "name": "Nhà Thờ Tân Mỹ - Huế",
+    "category": "outdoor",
+    "subCategory": "church-cathedral",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "Tân Mỹ - Phú Tân",
+      "lat": 16.546139,
+      "lng": 107.63253
+    },
+    "images": [],
+    "popularity": 55,
+    "source": "overture",
+    "sourceId": "b540edc4-206a-4735-bcfd-e73ff971c9cd",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-5e8162f4-67f0-4f",
+    "slug": "tra-sua-nha-mit",
+    "name": "Trà sữa “Nhà Mít”",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "Xóm 14 Định Cư, xã Phú An , huyện Phú Vang",
+      "lat": 16.508718,
+      "lng": 107.635986
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "5e8162f4-67f0-4f3c-aa6f-8d6841d6e614",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-9aae4696-64ae-43",
+    "slug": "nha-khoa-paris-hue",
+    "name": "Nha khoa Paris Huế",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "1099 Nguyễn Tất Thành",
+      "lat": 16.412254,
+      "lng": 107.673477
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "9aae4696-64ae-43ca-9eb0-2128ca5fc8b5",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-ce9584b1-5c87-4d",
+    "slug": "cay-sung-quan-569nguyen-tat-thanh-thuy-phuong",
+    "name": "Cây Sung Quán-569Nguyễn Tất Thành ,Thủy Phương",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "569 Đường Nguyễn Tất Thành",
+      "lat": 16.424809,
+      "lng": 107.655899
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "ce9584b1-5c87-4df7-8bbe-8af16fe7370d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3892379f-1c37-49",
+    "slug": "chua-khanh-van",
+    "name": "Chùa Khánh Vân",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "Lựu Bảo",
+      "lat": 16.455637,
+      "lng": 107.527756
+    },
+    "images": [],
+    "popularity": 54,
+    "source": "overture",
+    "sourceId": "3892379f-1c37-4933-93c4-37e082721f6e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-f28bf371-817b-4f",
+    "slug": "de-dong-quan",
+    "name": "Dê Đồng Quán",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "2 Đường Thanh Tịnh",
+      "lat": 16.493246,
+      "lng": 107.611038
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "f28bf371-817b-4fd2-affd-37627359c0f8",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c9ba7da3-440d-4c",
+    "slug": "xgympro-private-center",
+    "name": "XGymPro - Private Center",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "Lô B76 Khu Đô Thị Mới, Phú Mĩ Thượng, Phường Phú Thượng, Tp. Huế, Thừa Thiên Huế",
+      "lat": 16.496597,
+      "lng": 107.609016
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "c9ba7da3-440d-4c06-bc07-dc78a5937e22",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2e39b78e-657d-4c",
+    "slug": "quan-dau-gio",
+    "name": "Quán Đầu Gió",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "92 Triệu Việt Vương",
+      "lat": 16.538237,
+      "lng": 107.640282
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "2e39b78e-657d-4c60-960b-3e8523f164a4",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-f3cd110a-764f-4c",
+    "slug": "cherry-999",
+    "name": "Cherry 999",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "VÕ VĂN KIỆT-Cầu Vượt Thủy Dương",
+      "lat": 16.446884,
+      "lng": 107.616989
+    },
+    "images": [],
+    "popularity": 56,
+    "source": "overture",
+    "sourceId": "f3cd110a-764f-4c86-8996-bfcb6a0c930b",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-bec0399f-0c6d-4d",
+    "slug": "chua-thien-mu-tp-hue",
+    "name": "Chùa Thiên Mụ - TP Huế",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "Hương Hòa",
+      "lat": 16.45248,
+      "lng": 107.545547
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "bec0399f-0c6d-4d96-b080-afd2be0bb511",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-bc87212b-f440-4e",
+    "slug": "lang-khai-dinh",
+    "name": "Lăng Khải Định",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "Thủy Bằng, Hương Thủy",
+      "lat": 16.406803,
+      "lng": 107.58979
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "bc87212b-f440-4e8f-8a12-c37932e80cb4",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-84334490-5c80-4c",
+    "slug": "rich-coffee",
+    "name": "Rich Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "5/1 Đường Lại Thế",
+      "lat": 16.47765,
+      "lng": 107.588608
+    },
+    "images": [],
+    "popularity": 56,
+    "source": "overture",
+    "sourceId": "84334490-5c80-4cc1-840d-d51ff4593843",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-081220f8-42e0-45",
+    "slug": "nha-hang-hoang-mai-hue",
+    "name": "Nhà hàng Hoàng Mai - Huế",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "ĐƯỜNG ĐẠI NAM. PHƯỜNG THỦY XUÂN. ",
+      "lat": 16.411228,
+      "lng": 107.588287
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "081220f8-42e0-4581-a825-869b5b6c418f",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-7208e627-d8a5-46",
+    "slug": "penta-gaming",
+    "name": "Penta Gaming",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "2 Đường Trường Thi",
+      "lat": 16.488592,
+      "lng": 107.518372
+    },
+    "images": [],
+    "popularity": 55,
+    "source": "overture",
+    "sourceId": "7208e627-d8a5-4670-baa1-520570ae482c",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-0edaf581-74ef-4d",
+    "slug": "cau-ngoi-thanh-toan-historical-site",
+    "name": "Cầu Ngoi Thanh Toan Historical Site",
+    "category": "outdoor",
+    "subCategory": "museum",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "Chợ cầu ngói Thanh Toàn",
+      "lat": 16.466249,
+      "lng": 107.64296
+    },
+    "images": [],
+    "popularity": 49,
+    "source": "overture",
+    "sourceId": "0edaf581-74ef-4d0c-89ab-5513d50a7b3c",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-0828f2d8-2b52-46",
+    "slug": "karaoke-binh-minh",
+    "name": "Karaoke Bình Minh",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "Kiệt 243 Nguyễn Tất Thành, 25/A Nguyễn Tất Thành, Phú Bài",
+      "lat": 16.412756,
+      "lng": 107.675285
+    },
+    "images": [],
+    "popularity": 49,
+    "source": "overture",
+    "sourceId": "0828f2d8-2b52-4648-aa84-403bcec6f1fd",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-6f9a2202-f15c-4d",
+    "slug": "abandoned-waterpark-hue",
+    "name": "Abandoned Waterpark, Hue",
+    "category": "family",
+    "subCategory": "water-park",
+    "tags": [
+      "tre-em"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "Thuy Tien Lake, Thủy Bằng, Hương Thủy, Thua Thien Hue",
+      "lat": 16.407906,
+      "lng": 107.578362
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "6f9a2202-f15c-4d0a-8e8f-e05c4d8934ef",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-e0c2269f-df0e-45",
+    "slug": "chua-ngoc-anh",
+    "name": "Chùa Ngọc Anh",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "2 Đường Lại Thế",
+      "lat": 16.490534,
+      "lng": 107.596977
+    },
+    "images": [],
+    "popularity": 53,
+    "source": "overture",
+    "sourceId": "e0c2269f-df0e-455a-b986-5c50a5570255",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-e78eb0a3-f22b-49",
+    "slug": "khu-vui-choi-tre-em-thuy-duong",
+    "name": "Khu vui chơi Trẻ em Thủy Dương",
+    "category": "entertainment",
+    "subCategory": "arcade",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "Trung tâm Văn hóa Phường Thủy Dương",
+      "lat": 16.442442,
+      "lng": 107.626076
+    },
+    "images": [],
+    "popularity": 47,
+    "source": "overture",
+    "sourceId": "e78eb0a3-f22b-498b-a351-de3128a4625c",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-e27ecce0-9977-43",
+    "slug": "quan-o-tuyen",
+    "name": "Quán Ô Tuyến",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "Đường về kiệt",
+      "lat": 16.501663,
+      "lng": 107.520134
+    },
+    "images": [],
+    "popularity": 52,
+    "source": "overture",
+    "sourceId": "e27ecce0-9977-4312-9ea0-895b0f3a4bd1",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2b3e2088-7d4b-48",
+    "slug": "quan-chez-pub-coffee",
+    "name": "Quán Chez Pub & Coffee",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "155 đường Sóng Hồng, Hương Thuỷ, Thừa Thiên Huế",
+      "lat": 16.415047,
+      "lng": 107.674179
+    },
+    "images": [],
+    "popularity": 52,
+    "source": "overture",
+    "sourceId": "2b3e2088-7d4b-4847-ad24-8d54d18f2b08",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-1f78628b-6d58-4a",
+    "slug": "huegatex",
+    "name": "Huegatex",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "122 Dương Thiệu Tước - Thuỷ Phương - Hương Thuỷ",
+      "lat": 16.440128,
+      "lng": 107.619995
+    },
+    "images": [],
+    "popularity": 47,
+    "source": "overture",
+    "sourceId": "1f78628b-6d58-4aa0-9c81-96215927e580",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-20a5ccb0-d13f-4a",
+    "slug": "cong-vien-nuoc",
+    "name": "Công Viên Nước",
+    "category": "family",
+    "subCategory": "water-park",
+    "tags": [
+      "tre-em"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "782-808 Nguyễn Tất Thành",
+      "lat": 16.417534,
+      "lng": 107.666733
+    },
+    "images": [],
+    "popularity": 51,
+    "source": "overture",
+    "sourceId": "20a5ccb0-d13f-4acc-bbee-c1bbf3e8ef07",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-89a612c3-ff6d-49",
+    "slug": "rung-dong-lam-tx-huong-thuy",
+    "name": "Rừng Đông Lâm - tx Hương Thủy",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "Chánh Đông",
+      "lat": 16.449476,
+      "lng": 107.660744
+    },
+    "images": [],
+    "popularity": 46,
+    "source": "overture",
+    "sourceId": "89a612c3-ff6d-4909-ae66-eacdbb35bcf9",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-a0bf9fb5-f531-48",
+    "slug": "mimi-coffee",
+    "name": "Mimi Coffee",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "180 Nguyễn Văn Linh",
+      "lat": 16.487768,
+      "lng": 107.543404
+    },
+    "images": [],
+    "popularity": 50,
+    "source": "overture",
+    "sourceId": "a0bf9fb5-f531-483b-9438-96ccc1a09e16",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-ec34c707-ba3a-4e",
+    "slug": "cau-di-bo-go-lim",
+    "name": "Cầu Đi Bộ Gỗ Lim",
+    "category": "family",
+    "subCategory": "amusement-park",
+    "tags": [
+      "tre-em"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Cầu Đi Bộ Gỗ Lim",
+      "lat": 16.463882,
+      "lng": 107.585686
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "ec34c707-ba3a-4ece-ad15-311bc1d8dd9a",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-34555e38-88e8-44",
+    "slug": "huyen-khong-son-thuong",
+    "name": "Huyền Không Sơn Thượng",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "Hương Hồ",
+      "lat": 16.452312,
+      "lng": 107.527489
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "34555e38-88e8-4450-8e96-5aa7aa00d821",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-761f5fb3-eaff-44",
+    "slug": "tinh-nghiem-pagoda",
+    "name": "Tinh Nghiem Pagoda",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "Thôn Tây Thượng, Xã Phú Thượng, Huyện Phú Vang",
+      "lat": 16.493416,
+      "lng": 107.595619
+    },
+    "images": [],
+    "popularity": 47,
+    "source": "overture",
+    "sourceId": "761f5fb3-eaff-4485-bd67-50290a4a2948",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-a4e566f2-fe74-48",
+    "slug": "c-vid-coffee-beer-garden",
+    "name": "C.Vid Coffee & Beer Garden",
+    "category": "entertainment",
+    "subCategory": "beer-garden",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "phu-vang",
+      "address": "225 Kinh Dương Vương, phường Thuận An ",
+      "lat": 16.53537,
+      "lng": 107.632141
+    },
+    "images": [],
+    "popularity": 47,
+    "source": "overture",
+    "sourceId": "a4e566f2-fe74-4865-9bd9-0ac7b1180c02",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2b144919-133c-4a",
+    "slug": "hue-abandoned-water-park-hue-scooter-rental",
+    "name": "Hue abandoned water park - Hue scooter rental",
+    "category": "family",
+    "subCategory": "water-park",
+    "tags": [
+      "tre-em"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Thủy Bằng, Hương Thủy, Thừa Thiên Huế",
+      "lat": 16.429638,
+      "lng": 107.570183
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "2b144919-133c-4a3f-9ef5-464b43d96715",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-1dce13ea-50e6-4a",
+    "slug": "cafe-diem-xua",
+    "name": "Cafe Diễm Xưa",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "Hầ Công",
+      "lat": 16.489561,
+      "lng": 107.518173
+    },
+    "images": [],
+    "popularity": 42,
+    "source": "overture",
+    "sourceId": "1dce13ea-50e6-4ab7-9666-43b5ff45514f",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3408aee1-2177-47",
+    "slug": "huong-sen-dong",
+    "name": "Hương Sen Đồng",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "Đường Trà Kệ.phường Kim Trà Tp Huế ",
+      "lat": 16.509911,
+      "lng": 107.504959
+    },
+    "images": [],
+    "popularity": 46,
+    "source": "overture",
+    "sourceId": "3408aee1-2177-47a6-aea3-e11291c0e256",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-156b025e-a1f5-4b",
+    "slug": "huu-van-gym",
+    "name": "Hữu Văn Gym",
+    "category": "activity",
+    "subCategory": "gym",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-tra",
+      "address": "Kiệt 31 Phan Kế Toại, Kim Trà, TP Huế",
+      "lat": 16.488062,
+      "lng": 107.514923
+    },
+    "images": [],
+    "popularity": 46,
+    "source": "overture",
+    "sourceId": "156b025e-a1f5-4b98-a835-a214f7fdc7ac",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d68000b7-d6d4-49",
+    "slug": "can-ho-de-1st-quantum-hue",
+    "name": "Căn Hộ De 1ST Quantum Huế",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "huong-thuy",
+      "address": "QL49B, Thủy Dương, thị xã Hương Thủy",
+      "lat": 16.44026,
+      "lng": 107.626175
+    },
+    "images": [],
+    "popularity": 55,
+    "source": "overture",
+    "sourceId": "d68000b7-d6d4-496d-ab6b-a75f9904d59f",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  }
+]
