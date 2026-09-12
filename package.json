@@ -25,7 +25,8 @@
     "data:verify": "tsx scripts/overture/verify.ts",
     "data:apply": "tsx scripts/overture/apply.ts",
     "data:cities": "tsx scripts/overture/cities.ts",
-    "data:import": "tsx scripts/overture/import.ts"
+    "data:import": "tsx scripts/overture/import.ts",
+    "data:taxonomy": "tsx scripts/overture/taxonomy.ts"
   },
   "dependencies": {
     "next": "^16.3.5",

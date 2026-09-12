@@ -60,21 +60,37 @@ export function getCityBox(id: string): CityBox | undefined {
 const CATEGORY_RULES: readonly { readonly test: RegExp; readonly category: Category }[] = [
   // Cafés before restaurants: "coffee_shop" would otherwise be caught by nothing,
   // but "internet_cafe" and "cat_cafe" must not fall through to food.
-  { test: /^(coffee_shop|cafe|internet_cafe|tea_room|bubble_tea|smoothie_juice_bar)$/, category: 'cafe' },
+  { test: /^(coffee_shop|cafe|internet_cafe|tea_room|bubble_tea|smoothie_juice_bar|juice_bar|dessert_shop)$/, category: 'cafe' },
 
   { test: /(^|_)(bar|pub|cocktail_bar|beer_garden|night_club|brewery|wine_bar)$/, category: 'entertainment' },
   { test: /^(cinema|movie_theater|karaoke|pool_billiards|bowling|arcade|escape_game|comedy_club|music_venue)$/, category: 'entertainment' },
+  // Theatres, which the taxonomy was missing entirely — a water-puppet show or a
+  // night at the opera is exactly the kind of outing this product should suggest.
+  { test: /^(performing_arts_theater|performing_arts|theatre|theater|opera_house|concert_hall|amphitheater|cultural_center)$/, category: 'entertainment' },
 
-  { test: /^(amusement_park|water_park|aquarium|zoo|playground|theme_park)$/, category: 'family' },
+  { test: /^(amusement_park|water_park|aquarium|zoo|playground|theme_park|petting_zoo|planetarium)$/, category: 'family' },
 
-  { test: /^(park|garden|botanical_garden|beach|hiking_trail|lake|scenic_lookout)$/, category: 'outdoor' },
-  { test: /^(landmark_and_historical_building|monument|buddhist_temple|church_cathedral|pagoda|shrine|museum|art_gallery|historic_site)$/, category: 'outdoor' },
+  { test: /^(park|garden|botanical_garden|beach|hiking_trail|lake|scenic_lookout|national_park|nature_preserve|waterfall|cave|island|hot_spring|viewpoint|observation_deck)$/, category: 'outdoor' },
+  { test: /^(landmark_and_historical_building|monument|buddhist_temple|church_cathedral|pagoda|shrine|historic_site|castle|palace|fort|tourist_attraction|tourist_information_center)$/, category: 'outdoor' },
+  { test: /(^|_)(museum|art_gallery)$/, category: 'outdoor' },
 
-  { test: /^(gym|yoga_studio|climbing|martial_arts|dance_school|cooking_school|art_school|pottery)$/, category: 'activity' },
+  // Markets and malls, filling the `shopping` category that existed in the model but
+  // was never populated. A night market here is a destination, not errands.
+  { test: /^(night_market|market|farmers_market|flea_market|shopping_center|bookstore|library)$/, category: 'shopping' },
+
+  /*
+   * Gyms and schools are gone, and that is the point of this revision.
+   *
+   * They were 687 of 4,189 imported places — 16% of the catalogue and the largest
+   * single group in it. A gym is a subscription you attend, not somewhere to go
+   * tonight, and it was crowding out the museums, parks and cinemas this product
+   * exists to suggest. What stays is the handful you would actually take someone to.
+   */
+  { test: /^(climbing|cooking_school|pottery_studio|escape_game)$/, category: 'activity' },
 
   // Broadest rule last: anything ending in _restaurant, plus the standalone food types.
   { test: /(^|_)restaurant$/, category: 'food' },
-  { test: /^(diner|casual_eatery|bakery|food_truck|food|noodles|street_vendor|ice_cream_shop|dessert_shop|bistro|buffet)$/, category: 'food' },
+  { test: /^(diner|casual_eatery|bakery|food_truck|food|noodles|street_vendor|ice_cream_shop|bistro|buffet|hot_pot|barbecue|street_food)$/, category: 'food' },
 ];
 
 export function mapCategory(overtureCategory: string | null): Category | null {
@@ -88,15 +104,21 @@ export function mapCategory(overtureCategory: string | null): Category | null {
 /** SQL fragment listing every Overture category we care about, for server-side filtering. */
 export const CATEGORY_SQL_FILTER = `(
   regexp_matches(categories.primary, '(^|_)restaurant$')
+  OR regexp_matches(categories.primary, '(^|_)(museum|art_gallery)$')
   OR categories.primary IN (
-    'coffee_shop','cafe','internet_cafe','tea_room','bubble_tea','smoothie_juice_bar',
+    'coffee_shop','cafe','internet_cafe','tea_room','bubble_tea','smoothie_juice_bar','juice_bar','dessert_shop',
     'bar','pub','cocktail_bar','beer_garden','night_club','brewery','wine_bar',
     'cinema','movie_theater','karaoke','pool_billiards','bowling','arcade','escape_game','comedy_club','music_venue',
-    'amusement_park','water_park','aquarium','zoo','playground','theme_park',
+    'performing_arts_theater','performing_arts','theatre','theater','opera_house','concert_hall','amphitheater','cultural_center',
+    'amusement_park','water_park','aquarium','zoo','playground','theme_park','petting_zoo','planetarium',
     'park','garden','botanical_garden','beach','hiking_trail','lake','scenic_lookout',
-    'landmark_and_historical_building','monument','buddhist_temple','church_cathedral','pagoda','shrine','museum','art_gallery','historic_site',
-    'gym','yoga_studio','climbing','martial_arts','dance_school','cooking_school','art_school','pottery',
-    'diner','casual_eatery','bakery','food_truck','food','noodles','street_vendor','ice_cream_shop','dessert_shop','bistro','buffet'
+    'national_park','nature_preserve','waterfall','cave','island','hot_spring','viewpoint','observation_deck',
+    'landmark_and_historical_building','monument','buddhist_temple','church_cathedral','pagoda','shrine','historic_site',
+    'castle','palace','fort','tourist_attraction','tourist_information_center',
+    'night_market','market','farmers_market','flea_market','shopping_center','bookstore','library',
+    'climbing','cooking_school','pottery_studio',
+    'diner','casual_eatery','bakery','food_truck','food','noodles','street_vendor','ice_cream_shop','bistro','buffet',
+    'hot_pot','barbecue','street_food'
   )
 )`;
 

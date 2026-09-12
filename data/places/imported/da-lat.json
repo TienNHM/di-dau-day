@@ -1,10 +1,10 @@
 [
   {
-    "id": "ovt-5bf497a8-b825-4f",
-    "slug": "on-the-rocks-cocktail-bar-modern-cocktail-bar",
-    "name": "On The Rocks Cocktail Bar - Modern Cocktail Bar",
+    "id": "ovt-88149855-f865-47",
+    "slug": "coco-garden",
+    "name": "COCO Garden",
     "category": "entertainment",
-    "subCategory": "bar",
+    "subCategory": "beer-garden",
     "tags": [
       "trong-nha",
       "mo-khuya"
@@ -12,1211 +12,37 @@
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "Đường Trương Công Định",
-      "lat": 11.944395,
-      "lng": 108.43428
+      "address": "251 Đường Phù Đổng Thiên Vương",
+      "lat": 11.971826,
+      "lng": 108.440849
     },
     "images": [],
-    "popularity": 85,
+    "popularity": 57,
     "source": "overture",
-    "sourceId": "5bf497a8-b825-4f3b-9d30-c72ada5b60cd",
+    "sourceId": "88149855-f865-47e3-8358-891ad3d2d675",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-7c1c5196-05c4-43",
-    "slug": "highlands-coffee-01-hai-ba-trung-dl",
-    "name": "Highlands Coffee 01 Hai Ba Trung DL",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "01 - 03 Đường Hai Bà Trưng",
-      "lat": 11.942554,
-      "lng": 108.431244
-    },
-    "images": [],
-    "popularity": 85,
-    "source": "overture",
-    "sourceId": "7c1c5196-05c4-43cb-913a-27d3cfe97795",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-faf27542-58e7-43",
-    "slug": "lotteria-da-lat-hoa-binh",
-    "name": "Lotteria Đà Lạt Hoà Bình",
-    "category": "food",
-    "subCategory": "fast-food-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "2 Đường Nguyễn Thị Minh Khai",
-      "lat": 11.94066,
-      "lng": 108.437599
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "faf27542-58e7-43a9-854c-ba20ecbc860d",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d59d9c93-27c7-45",
-    "slug": "tiem-nuong-thuong-thuong",
-    "name": "Tiệm nướng Thương Thương",
-    "category": "food",
-    "subCategory": "diner",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "30 Đường Đặng Thái Thân",
-      "lat": 11.928653,
-      "lng": 108.451408
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "d59d9c93-27c7-45fc-b42a-41d6f97be702",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-3bdf240d-05d0-44",
-    "slug": "mimi-sushi-pizza",
-    "name": "MiMi Sushi & Pizza",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "103 Đường Bùi Thị Xuân",
-      "lat": 11.946427,
-      "lng": 108.440163
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "3bdf240d-05d0-44f0-b7b4-98379ab89ec2",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-24d50f52-dca7-4f",
-    "slug": "kfc-da-lat",
-    "name": "KFC",
-    "category": "food",
-    "subCategory": "fast-food-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "10 Phan Bội Châu",
-      "lat": 11.944393,
-      "lng": 108.43779
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "24d50f52-dca7-4fad-a51f-e96911bd4315",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-1377b201-b14b-49",
-    "slug": "the-married-beans",
-    "name": "The Married Beans",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "06 Nguyen Van Troi Street",
-      "lat": 11.944957,
-      "lng": 108.43576
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "1377b201-b14b-491b-84cc-861a6e268a37",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-f83bd1ed-f863-45",
-    "slug": "nhat-ly-restaurant",
-    "name": "Nhật Ly Restaurant",
-    "category": "food",
-    "subCategory": "vietnamese-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "88 Đường Phan Đình Phùng",
-      "lat": 11.94573,
-      "lng": 108.434875
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "f83bd1ed-f863-4512-a156-5b82ba77e2ac",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-75de9514-06af-4d",
-    "slug": "lang-thang-cafe-beer",
-    "name": "Lang Thang Cafe Beer",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "76 Đường Hoàng Văn Thụ",
-      "lat": 11.940863,
-      "lng": 108.421288
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "75de9514-06af-4db6-a2d3-e7969f3cc4e1",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-aa7a0618-8bfd-4b",
-    "slug": "quan-nuong-ngoi-cu-tay",
-    "name": "Quán Nướng Ngói Cu Tây",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "53 Đường An Dương Vương",
-      "lat": 11.952308,
-      "lng": 108.435501
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "aa7a0618-8bfd-4bbf-9928-2618f3d4ffb6",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-e22b9efe-9912-44",
-    "slug": "suoi-mo",
-    "name": "Suối Mơ",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "Hoa Cẩm Tú Cầu",
-      "lat": 11.901703,
-      "lng": 108.439301
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "e22b9efe-9912-4415-be9a-d8ea4e4d346c",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-4deb2ad9-b7f4-4a",
-    "slug": "mot-coffee-books",
-    "name": "Mọt Coffee & Books",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "44 Trần Thái Tông",
-      "lat": 11.946608,
-      "lng": 108.466751
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "4deb2ad9-b7f4-4a55-b97b-18ca5d957cd0",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-8fb719f4-0789-41",
-    "slug": "tiem-nuong-trong-rung",
-    "name": "tiệm nướng trong rừng",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "3 bis Đống Đa",
-      "lat": 11.92363,
-      "lng": 108.444496
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "8fb719f4-0789-4136-96cc-e55b204580b8",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-151aaa85-ada7-40",
-    "slug": "the-dome-coffee-tea",
-    "name": "The Dome Coffee & Tea",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "118 Nguyễn Công Trứ",
-      "lat": 11.956501,
-      "lng": 108.439308
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "151aaa85-ada7-405d-97d2-069d6d88f6e9",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-97406c01-270f-46",
-    "slug": "viva-coffee",
-    "name": "Viva coffee",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "46 Đ Phạm Ngũ Lão",
-      "lat": 11.938015,
-      "lng": 108.434654
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "97406c01-270f-4679-8d34-84b2b017d73c",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-e2e160ff-afd1-4f",
-    "slug": "wee-cafe",
-    "name": "Wee Cafe",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "86 Đường Hoàng Hoa Thám",
-      "lat": 11.933201,
-      "lng": 108.464684
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "e2e160ff-afd1-4f46-b336-5daddbf6748a",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-51e2fbee-f6de-46",
-    "slug": "nha-hang-bar-monaco",
-    "name": "Nha Hang Bar Monaco",
+    "id": "ovt-c16cf20d-2aa4-4c",
+    "slug": "car-rental-dalat",
+    "name": "Car Rental Dalat",
     "category": "entertainment",
-    "subCategory": "bar",
+    "subCategory": "music-venue",
     "tags": [
-      "trong-nha",
-      "mo-khuya"
+      "trong-nha"
     ],
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "156 Nguyễn Công Trứ",
-      "lat": 11.956613,
-      "lng": 108.438011
+      "address": "21 Đường Khe Sanh",
+      "lat": 11.933518,
+      "lng": 108.45739
     },
     "images": [],
-    "popularity": 74,
+    "popularity": 72,
     "source": "overture",
-    "sourceId": "51e2fbee-f6de-4615-ab2e-79aaf7357df7",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d4e43b64-d50b-47",
-    "slug": "lubu-s-house",
-    "name": "Lubu's House",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "12 Đường Võ Thị Sáu",
-      "lat": 11.948195,
-      "lng": 108.43856
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "d4e43b64-d50b-4794-9e79-8991cce30fec",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-1c4cab30-06c8-4c",
-    "slug": "morning-in-town-cafe-da-lat",
-    "name": "Morning in Town Cafe Đà Lạt",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "4 Đường Đống Đa",
-      "lat": 11.9283,
-      "lng": 108.448158
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "1c4cab30-06c8-4cff-8b96-7e4815779241",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-4152964f-8f2d-4f",
-    "slug": "d-lart-garden",
-    "name": "D'Lart Garden",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "41 Đường Đào Duy Từ",
-      "lat": 11.93372,
-      "lng": 108.43396
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "4152964f-8f2d-4fdc-9559-01c1764c19d4",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-f4beed9a-203d-4d",
-    "slug": "uu-dam-tinh-quan",
-    "name": "Ưu Đàm Tịnh Quán",
-    "category": "food",
-    "subCategory": "health-food-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "26 Đ. Huỳnh Thúc Kháng",
-      "lat": 11.935382,
-      "lng": 108.428627
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "f4beed9a-203d-4ddd-8f7d-db5ced845d75",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-3f56fe95-cd41-43",
-    "slug": "gare-de-cafe",
-    "name": "Gare de Café",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "17/1 Nguyễn Trãi, P10",
-      "lat": 11.94072,
-      "lng": 108.45208
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "3f56fe95-cd41-435e-8eeb-dd7ab4e54eff",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-16ba3056-4401-46",
-    "slug": "lo-ghim-bbq-coffee",
-    "name": "Lơ-Ghim BBQ & Coffee",
-    "category": "food",
-    "subCategory": "barbecue-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "38 Đường Võ Trường Toản",
-      "lat": 11.959415,
-      "lng": 108.445763
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "16ba3056-4401-46d0-8d05-9a1ad8b144d7",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-e6619616-b620-4f",
-    "slug": "ghe",
-    "name": "Ghé",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "30 Đường Võ Trường Toản",
-      "lat": 11.959493,
-      "lng": 108.445152
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "e6619616-b620-4fbc-90de-7e1bd161fd09",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-cac963c3-9129-45",
-    "slug": "ca-phe-but-chi",
-    "name": "Cà Phê Bút Chì",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "80 Đường Thi Sách",
-      "lat": 11.949833,
-      "lng": 108.43177
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "cac963c3-9129-452f-ac5e-e9995c4a1746",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-0676fc4a-9540-47",
-    "slug": "nui-coffee",
-    "name": "Núi Coffee",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "2 Huyền Trân Công Chúa",
-      "lat": 11.938514,
-      "lng": 108.424484
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "0676fc4a-9540-47a1-a3a4-4120f2eba48e",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-1cf1f961-926d-44",
-    "slug": "vuon-sen",
-    "name": "Vườn Sen",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "92 Đường Cao Bá Quát",
-      "lat": 11.962521,
-      "lng": 108.431755
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "1cf1f961-926d-44f9-b700-10226180b4cb",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-6cac7891-af73-48",
-    "slug": "lau-ech-117",
-    "name": "Lẩu Ếch 117",
-    "category": "food",
-    "subCategory": "chinese-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "117 Nguyễn Công Trứ",
-      "lat": 11.956654,
-      "lng": 108.438751
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "6cac7891-af73-488d-b668-517a0584b2c3",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-5e80de90-030e-41",
-    "slug": "hana-mushroom-restaurant",
-    "name": "Hana Mushroom Restaurant",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "99 Đường Bùi Thị Xuân",
-      "lat": 11.946364,
-      "lng": 108.440094
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "5e80de90-030e-418a-8866-ca17c8fcdc29",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-4333f331-fca9-4a",
-    "slug": "bicycle-up-specialty-coffee-antique-store",
-    "name": "Bicycle up Specialty coffee & Antique store",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "82 Đường Trương Công Định",
-      "lat": 11.944739,
-      "lng": 108.434906
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "4333f331-fca9-4ac5-8d00-164c00193368",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-e9079f15-6bb9-4c",
-    "slug": "german-beer-house-dalat",
-    "name": "German Beer House Dalat",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "72 Đường Mai Anh Đào",
-      "lat": 11.977019,
-      "lng": 108.446365
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "e9079f15-6bb9-4c1e-b703-d7bfde7bbeab",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d1ad056f-751c-43",
-    "slug": "tiem-ca-phe-trung-co-ba-da-lat",
-    "name": "Tiệm Cà Phê Trứng Cô Ba - Đà Lạt",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "105 Đường Hai Bà Trưng",
-      "lat": 11.945021,
-      "lng": 108.433167
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "d1ad056f-751c-436b-8ae7-468c978ebcfa",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-82d39818-928f-46",
-    "slug": "carrot-restaurant",
-    "name": "Carrot Restaurant",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "36 Đường Bà Triệu",
-      "lat": 11.937322,
-      "lng": 108.433586
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "82d39818-928f-460a-a507-9e63faf05bfd",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d2faae63-a0e2-49",
-    "slug": "highlands-coffee-bui-thi-xuan",
-    "name": "Highlands Coffee Bui Thi Xuan",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "285 Đ. Bùi Thị Xuân",
-      "lat": 11.954435,
-      "lng": 108.441864
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "d2faae63-a0e2-4965-a44b-2033280f3c8c",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-cd7e715c-409d-4f",
-    "slug": "tiem-banh-mi-cafe-chu-duoc",
-    "name": "Tiệm Bánh Mì - Cafe Chú Được",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "49 Đồng Tâm, phường 4, Đà Lạt",
-      "lat": 11.937515,
-      "lng": 108.428749
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "cd7e715c-409d-4f84-bfb4-d5aad91beb90",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-768d3a8a-7542-43",
-    "slug": "quan-khuong-duy-ga-nuong-com-lam",
-    "name": "Quán Khương Duy - Gà nướng cơm lam",
-    "category": "food",
-    "subCategory": "chicken-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "Quốc lộ 722 , tổ Mangline",
-      "lat": 11.982258,
-      "lng": 108.39846
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "768d3a8a-7542-4333-a647-8bcc1ddbcdaa",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-e6f32c43-32a8-4f",
-    "slug": "cafe-sac-mau-da-lat",
-    "name": "CaFe Sắc Màu Đà Lạt",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "1 Đường Yên Thế",
-      "lat": 11.941047,
-      "lng": 108.461533
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "e6f32c43-32a8-4f90-9267-60cfb962c862",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-019186fc-85f0-44",
-    "slug": "le-petit-dalat-restaurant",
-    "name": "Le Petit Dalat Restaurant",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "Golf Valley",
-      "lat": 11.945786,
-      "lng": 108.44059
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "019186fc-85f0-44d3-941d-bba3d1914b76",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-35660dcc-5e1c-44",
-    "slug": "cafe-tung",
-    "name": "Cafe Tùng",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "6 Khu Hoà Bình",
-      "lat": 11.944192,
-      "lng": 108.435875
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "35660dcc-5e1c-442e-a3da-53acefe5d78f",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-a673f855-0075-46",
-    "slug": "beercorner",
-    "name": "BeerCorner",
-    "category": "entertainment",
-    "subCategory": "pub",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "77 Đ. Thủ Khoa Huân",
-      "lat": 11.940385,
-      "lng": 108.433861
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "a673f855-0075-4696-a417-93d35c49f167",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d7873dd7-0e7c-42",
-    "slug": "rung-na-uy",
-    "name": "Rừng Na Uy",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "Unnamed",
-      "lat": 11.93813,
-      "lng": 108.483261
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "d7873dd7-0e7c-4244-9938-ea3136030739",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-27ed16bc-eb23-44",
-    "slug": "yahe-cafe",
-    "name": "Yahe Cafe",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "Đường Lâm Văn Thạnh",
-      "lat": 11.934649,
-      "lng": 108.487816
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "27ed16bc-eb23-44c1-ac17-f27e1a759fa4",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-2369cd5f-a283-45",
-    "slug": "down-under-dalat",
-    "name": "Down Under Dalat",
-    "category": "food",
-    "subCategory": "australian-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "55 Ba Tháng Hai",
-      "lat": 11.942357,
-      "lng": 108.434273
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "2369cd5f-a283-45b0-88f9-f7247144bad9",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-b654ee59-4e70-4b",
-    "slug": "nha-hang-nguyen-khang",
-    "name": "Nhà hàng Nguyên Khang",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "253 Đường Phù Đổng Thiên Vương",
-      "lat": 11.972137,
-      "lng": 108.44072
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "b654ee59-4e70-4b47-b0fa-fa6110a26625",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-7227ff6b-117e-48",
-    "slug": "chao-long-2-xi",
-    "name": "Cháo Lòng 2 Xí",
-    "category": "food",
-    "subCategory": "diner",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "4c Yersin",
-      "lat": 11.940241,
-      "lng": 108.448257
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "7227ff6b-117e-4846-a1e2-8ea6c4b570db",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-e8f13adb-662a-49",
-    "slug": "com-nieu-huong-viet",
-    "name": "Cơm niêu Hương Việt",
-    "category": "food",
-    "subCategory": "vietnamese-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "2F6 Đ. Trần Nhân Tông",
-      "lat": 11.951004,
-      "lng": 108.446609
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "e8f13adb-662a-49c0-bdd9-c5c5c482c159",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-2f4f7d37-374d-4f",
-    "slug": "nha-hang-chau-loan-langbiang",
-    "name": "Nha Hang Chau Loan Langbiang",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "lac-duong",
-      "address": "287 Langbiang",
-      "lat": 12.018381,
-      "lng": 108.424225
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "2f4f7d37-374d-4f8f-bcb4-7b102e719500",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-f5517f5d-4787-4c",
-    "slug": "b21-bar",
-    "name": "B21 Bar",
-    "category": "entertainment",
-    "subCategory": "bar",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "68 Đường Trương Công Định",
-      "lat": 11.944649,
-      "lng": 108.434586
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "f5517f5d-4787-4c5f-ab7f-60e5748fef72",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-31b868b4-6f15-42",
-    "slug": "le-alpi",
-    "name": "Le Alpi",
-    "category": "food",
-    "subCategory": "italian-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "87 Đường An Dương Vương",
-      "lat": 11.954774,
-      "lng": 108.435646
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "31b868b4-6f15-4269-b965-4ae40a471982",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-83813bf3-36ba-4c",
-    "slug": "lau-ga-la-e",
-    "name": "Lau Ga La E",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "27 Đường Lê Đại Hành",
-      "lat": 11.938266,
-      "lng": 108.43779
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "83813bf3-36ba-4cfb-8aec-614ea7b8ef5f",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-cfc9c8ff-cebb-4b",
-    "slug": "lau-ga-la-e-tao-ngo-quan-so-10-bis-duong-3-4-da-lat",
-    "name": "Lẩu Gà Lá É - Tao Ngộ Quán Số 10 Bis đường 3-4 Đà Lạt",
-    "category": "food",
-    "subCategory": "diner",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "4 Đường Đống Đa",
-      "lat": 11.931443,
-      "lng": 108.445305
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "cfc9c8ff-cebb-4b13-b06a-126d1af9a97b",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d506f210-b60e-4a",
-    "slug": "barn-house-bbq-and-beer",
-    "name": "Barn House BBQ And Beer",
-    "category": "food",
-    "subCategory": "barbecue-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "198 Nguyễn Công Trứ",
-      "lat": 11.956785,
-      "lng": 108.435219
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "d506f210-b60e-4a76-99c3-7d790b3ad1d2",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-3ddfba85-0c78-41",
-    "slug": "indiagate-indian-restaurant",
-    "name": "Indiagate Indian Restaurant 인도 레스토랑",
-    "category": "food",
-    "subCategory": "indian-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "19 Đường Bùi Thị Xuân",
-      "lat": 11.94437,
-      "lng": 108.439865
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "3ddfba85-0c78-41d5-b4e8-c09a98109a9f",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-811a6d29-115d-4b",
-    "slug": "sense-coffee-acoustic-da-lat",
-    "name": "Sense Coffee Acoustic Đà Lạt",
-    "category": "entertainment",
-    "subCategory": "bar",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "304 Đường Hai Bà Trưng",
-      "lat": 11.951768,
-      "lng": 108.431671
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "811a6d29-115d-4bb6-b7df-5b90ff26cf25",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-40db275a-1b84-46",
-    "slug": "woody-classic-bar",
-    "name": "Woody Classic Bar",
-    "category": "entertainment",
-    "subCategory": "bar",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "49a Đường Trương Công Định",
-      "lat": 11.943815,
-      "lng": 108.4347
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "40db275a-1b84-466c-b56d-8ceeec6536b4",
+    "sourceId": "c16cf20d-2aa4-4c17-a65d-e358f47249e3",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
@@ -1245,32 +71,57 @@
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-828665a3-e844-40",
-    "slug": "lan-anh-fitness",
-    "name": "Lan Anh Fitness",
-    "category": "activity",
-    "subCategory": "gym",
+    "id": "ovt-5bf497a8-b825-4f",
+    "slug": "on-the-rocks-cocktail-bar-modern-cocktail-bar",
+    "name": "On The Rocks Cocktail Bar - Modern Cocktail Bar",
+    "category": "entertainment",
+    "subCategory": "bar",
     "tags": [
-      "van-dong"
+      "trong-nha",
+      "mo-khuya"
     ],
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "27/6 Hai Bà Trưng",
-      "lat": 11.943577,
-      "lng": 108.431702
+      "address": "Đường Trương Công Định",
+      "lat": 11.944395,
+      "lng": 108.43428
     },
     "images": [],
-    "popularity": 73,
+    "popularity": 85,
     "source": "overture",
-    "sourceId": "828665a3-e844-4086-aff8-fafe46fed8cd",
+    "sourceId": "5bf497a8-b825-4f3b-9d30-c72ada5b60cd",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-c16cf20d-2aa4-4c",
-    "slug": "car-rental-dalat",
-    "name": "Car Rental Dalat",
+    "id": "ovt-e33c73aa-62e8-4c",
+    "slug": "tiem-an-giao-thoi",
+    "name": "Tiệm Ăn Giao Thời",
+    "category": "entertainment",
+    "subCategory": "beer-garden",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "144b Vòng Lâm Viên",
+      "lat": 11.979869,
+      "lng": 108.45652
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "e33c73aa-62e8-4ce2-a330-28d51d277b0f",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-4a1227e0-24bc-42",
+    "slug": "toa-an-nhan-dan-thanh-pho-da-lat",
+    "name": "Toa An Nhan Dan Thanh Pho Da Lat",
     "category": "entertainment",
     "subCategory": "music-venue",
     "tags": [
@@ -1279,14 +130,14 @@
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "21 Đường Khe Sanh",
-      "lat": 11.933518,
-      "lng": 108.45739
+      "address": "Lô 1, Đường Pasteur",
+      "lat": 11.936571,
+      "lng": 108.428894
     },
     "images": [],
-    "popularity": 72,
+    "popularity": 61,
     "source": "overture",
-    "sourceId": "c16cf20d-2aa4-4c17-a65d-e358f47249e3",
+    "sourceId": "4a1227e0-24bc-42f2-9d45-c82d7d866935",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
@@ -1315,25 +166,49 @@
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-823f18ca-db52-43",
-    "slug": "y-dance-studio",
-    "name": "Y Dance Studio",
-    "category": "activity",
-    "subCategory": "dance-school",
+    "id": "ovt-51e2fbee-f6de-46",
+    "slug": "nha-hang-bar-monaco",
+    "name": "Nha Hang Bar Monaco",
+    "category": "entertainment",
+    "subCategory": "bar",
     "tags": [
-      "van-dong"
+      "trong-nha",
+      "mo-khuya"
     ],
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "413 Phan Đình Phùng",
-      "lat": 11.951832,
-      "lng": 108.432884
+      "address": "156 Nguyễn Công Trứ",
+      "lat": 11.956613,
+      "lng": 108.438011
     },
     "images": [],
-    "popularity": 72,
+    "popularity": 74,
     "source": "overture",
-    "sourceId": "823f18ca-db52-4310-8e6d-60045bbe0eed",
+    "sourceId": "51e2fbee-f6de-4615-ab2e-79aaf7357df7",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-b0a5ab34-ed93-4f",
+    "slug": "l-music",
+    "name": "L. Music",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "327 Đường Hai Bà Trưng",
+      "lat": 11.948898,
+      "lng": 108.432945
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "b0a5ab34-ed93-4f33-893e-b9cf7d7f7ce1",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
@@ -1362,27 +237,287 @@
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-7a47a611-8c2c-47",
-    "slug": "thung-lung-hoa-dao-muoi-loi",
-    "name": "Thung Lũng Hoa Đào Mười Lời",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
+    "id": "ovt-a673f855-0075-46",
+    "slug": "beercorner",
+    "name": "BeerCorner",
+    "category": "entertainment",
+    "subCategory": "pub",
     "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
+      "trong-nha",
+      "mo-khuya"
     ],
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "15 Đường Lê Hồng Phong",
-      "lat": 11.932513,
-      "lng": 108.429062
+      "address": "77 Đ. Thủ Khoa Huân",
+      "lat": 11.940385,
+      "lng": 108.433861
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "a673f855-0075-4696-a417-93d35c49f167",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2252b823-bced-47",
+    "slug": "dalat-opera-house",
+    "name": "Dalat Opera House",
+    "category": "entertainment",
+    "subCategory": "theatre",
+    "tags": [
+      "trong-nha",
+      "nghe-thuat"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "Quảng Trường Lâm Viên, Tp. Đà Lạt",
+      "lat": 11.93857,
+      "lng": 108.445457
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "2252b823-bced-47d9-b176-301026ef1fe9",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-9d276512-c84b-4e",
+    "slug": "karaoke-nhat-quang-da-lat",
+    "name": "Karaoke Nhật Quang Đà Lạt",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "72 Đ. Tô Ngọc Vân",
+      "lat": 11.942603,
+      "lng": 108.432625
     },
     "images": [],
     "popularity": 72,
     "source": "overture",
-    "sourceId": "7a47a611-8c2c-477f-bf3e-8a87c97b7f2f",
+    "sourceId": "9d276512-c84b-4ef9-9efc-5d81d14948b2",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-f5517f5d-4787-4c",
+    "slug": "b21-bar",
+    "name": "B21 Bar",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "68 Đường Trương Công Định",
+      "lat": 11.944649,
+      "lng": 108.434586
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "f5517f5d-4787-4c5f-ab7f-60e5748fef72",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-6c08f14d-4d95-4f",
+    "slug": "dream-lake-music",
+    "name": "Dream Lake Music",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "11 Đường Khe Sanh",
+      "lat": 11.933375,
+      "lng": 108.460449
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "6c08f14d-4d95-4ff6-8f41-394cea58c6ee",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d7961ea7-fc88-44",
+    "slug": "karaoke-mic",
+    "name": "Karaoke Mic",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "65 Ba Tháng Hai",
+      "lat": 11.941467,
+      "lng": 108.433311
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "d7961ea7-fc88-442a-9734-83ccc785beac",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-811a6d29-115d-4b",
+    "slug": "sense-coffee-acoustic-da-lat",
+    "name": "Sense Coffee Acoustic Đà Lạt",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "304 Đường Hai Bà Trưng",
+      "lat": 11.951768,
+      "lng": 108.431671
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "811a6d29-115d-4bb6-b7df-5b90ff26cf25",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-55060cd9-20e2-48",
+    "slug": "trung-tam-am-nhac-family-music-da-lat",
+    "name": "Trung tâm âm nhạc Family music Đà Lạt",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "5 Đường Thông Thiên Học",
+      "lat": 11.951216,
+      "lng": 108.433083
+    },
+    "images": [],
+    "popularity": 54,
+    "source": "overture",
+    "sourceId": "55060cd9-20e2-48f6-9cc8-9d75c1733dd9",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-bc2bc8ef-ccf8-4e",
+    "slug": "karaoke-linh",
+    "name": "Karaoke Linh",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "21 Đường An Dương Vương",
+      "lat": 11.951347,
+      "lng": 108.43486
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "bc2bc8ef-ccf8-4e5e-b882-59603df0701e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-40db275a-1b84-46",
+    "slug": "woody-classic-bar",
+    "name": "Woody Classic Bar",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "49a Đường Trương Công Định",
+      "lat": 11.943815,
+      "lng": 108.4347
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "40db275a-1b84-466c-b56d-8ceeec6536b4",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d98ea4e5-0855-4e",
+    "slug": "nhac-quan-dong-thoi-gian",
+    "name": "Nhạc quán Dòng Thời Gian",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "14 Huyền Trân Công Chúa",
+      "lat": 11.938143,
+      "lng": 108.42453
+    },
+    "images": [],
+    "popularity": 53,
+    "source": "overture",
+    "sourceId": "d98ea4e5-0855-4ec8-992b-bf5ff108a6ed",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-472e2a2c-7ed9-43",
+    "slug": "luxury-karaoke",
+    "name": "Luxury Karaoke",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "179 Đường Hai Bà Trưng",
+      "lat": 11.947536,
+      "lng": 108.433609
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "472e2a2c-7ed9-439c-8a4f-2b561e9c15b9",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
@@ -1411,6 +546,53 @@
     "updatedAt": "2026-09-12"
   },
   {
+    "id": "ovt-3fd01d69-ac05-46",
+    "slug": "ho-xuan-huong-luc-rang-sang",
+    "name": "Hồ Xuân Hương Lúc Rạng Sáng",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "Đường Yersin",
+      "lat": 11.949682,
+      "lng": 108.455811
+    },
+    "images": [],
+    "popularity": 47,
+    "source": "overture",
+    "sourceId": "3fd01d69-ac05-4691-8348-bb643b82ca2b",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-4b0f789f-123a-4a",
+    "slug": "karaoke-thien-duong",
+    "name": "Karaoke Thiên Đường",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "2 Ngô Gia Tự",
+      "lat": 11.965481,
+      "lng": 108.474701
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "4b0f789f-123a-4aa5-9cf8-82a470c91509",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
     "id": "ovt-8612a9eb-7670-4a",
     "slug": "blue-rose",
     "name": "Blue Rose",
@@ -1435,33 +617,32 @@
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-3a56346c-20ab-46",
-    "slug": "fox-s-den",
-    "name": "Fox's Den",
+    "id": "ovt-a8303f95-47b9-45",
+    "slug": "h31-nguyen-cong-tru-p8-da-lat",
+    "name": "H31, Nguyễn Công Trứ, P8, Đà Lạt",
     "category": "entertainment",
-    "subCategory": "cocktail-bar",
+    "subCategory": "music-venue",
     "tags": [
-      "trong-nha",
-      "mo-khuya"
+      "trong-nha"
     ],
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "56 Đường Tăng Bạt Hổ",
-      "lat": 11.944249,
-      "lng": 108.434631
+      "address": "NHÀ NGHỈ THANH NGA ĐÀ LẠT",
+      "lat": 11.95493,
+      "lng": 108.440025
     },
     "images": [],
-    "popularity": 72,
+    "popularity": 45,
     "source": "overture",
-    "sourceId": "3a56346c-20ab-4680-96ea-37bb8ca5a1ac",
+    "sourceId": "a8303f95-47b9-45fe-b4e7-4454f050bcab",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-9d276512-c84b-4e",
-    "slug": "karaoke-nhat-quang-da-lat",
-    "name": "Karaoke Nhật Quang Đà Lạt",
+    "id": "ovt-62f54b7b-4573-42",
+    "slug": "karaoke-son",
+    "name": "Karaoke Sơn",
     "category": "entertainment",
     "subCategory": "karaoke",
     "tags": [
@@ -1471,14 +652,1367 @@
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "72 Đ. Tô Ngọc Vân",
-      "lat": 11.942603,
-      "lng": 108.432625
+      "address": "214 Nguyễn Công Trứ",
+      "lat": 11.95518,
+      "lng": 108.433182
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "62f54b7b-4573-42a4-a597-99fc7feac782",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-13e224f3-4162-48",
+    "slug": "annie-foods-drinks",
+    "name": "Annie Foods & Drinks",
+    "category": "cafe",
+    "subCategory": "smoothie-juice-bar",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "16 Đường Bùi Thị Xuân",
+      "lat": 11.943757,
+      "lng": 108.440552
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "13e224f3-4162-48ac-8688-b57ec4028d8e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c0207dec-d5b1-41",
+    "slug": "tra-sua-8678",
+    "name": "Trà Sữa 8678",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "244 Đ. Bùi Thị Xuân",
+      "lat": 11.952847,
+      "lng": 108.439903
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "c0207dec-d5b1-412f-9c49-f9fa633e8115",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-7c1c5196-05c4-43",
+    "slug": "highlands-coffee-01-hai-ba-trung-dl",
+    "name": "Highlands Coffee 01 Hai Ba Trung DL",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "01 - 03 Đường Hai Bà Trưng",
+      "lat": 11.942554,
+      "lng": 108.431244
+    },
+    "images": [],
+    "popularity": 85,
+    "source": "overture",
+    "sourceId": "7c1c5196-05c4-43cb-913a-27d3cfe97795",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d2c2a27c-5501-44",
+    "slug": "moc-trang-studio-coffe",
+    "name": "Mộc Trang Studio Coffe",
+    "category": "cafe",
+    "subCategory": "smoothie-juice-bar",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "Nguyễn Trung Trực",
+      "lat": 11.945588,
+      "lng": 108.464256
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "d2c2a27c-5501-4473-8d50-96af3a62c390",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d8c8483a-184d-45",
+    "slug": "phong-tra-diem-xua-da-lat",
+    "name": "Phòng Trà Diễm Xưa - Đà Lạt",
+    "category": "cafe",
+    "subCategory": "tea-room",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "21 Đường Khe Sanh",
+      "lat": 11.933593,
+      "lng": 108.457298
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "d8c8483a-184d-45c7-8739-98e1bd3a6517",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-1377b201-b14b-49",
+    "slug": "the-married-beans",
+    "name": "The Married Beans",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "06 Nguyen Van Troi Street",
+      "lat": 11.944957,
+      "lng": 108.43576
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "1377b201-b14b-491b-84cc-861a6e268a37",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c680870b-1ebe-4b",
+    "slug": "cam-da-lat",
+    "name": "CAM - Đà Lạt",
+    "category": "cafe",
+    "subCategory": "smoothie-juice-bar",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": " 205 Bùi Thị Xuân, phường 8, Đà Lạt.",
+      "lat": 11.943329,
+      "lng": 108.436287
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "c680870b-1ebe-4b4a-8760-cbe1711abb64",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-7219a61a-de45-47",
+    "slug": "roll-s-house",
+    "name": "Roll's House",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "24 Xô Viết Nghệ Tĩnh",
+      "lat": 11.955659,
+      "lng": 108.432793
     },
     "images": [],
     "popularity": 72,
     "source": "overture",
-    "sourceId": "9d276512-c84b-4ef9-9efc-5d81d14948b2",
+    "sourceId": "7219a61a-de45-47a5-ba8f-a19acec07f41",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-75de9514-06af-4d",
+    "slug": "lang-thang-cafe-beer",
+    "name": "Lang Thang Cafe Beer",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "76 Đường Hoàng Văn Thụ",
+      "lat": 11.940863,
+      "lng": 108.421288
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "75de9514-06af-4db6-a2d3-e7969f3cc4e1",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2e80bc17-3d94-44",
+    "slug": "dalat-juicy",
+    "name": "Dalat Juicy",
+    "category": "cafe",
+    "subCategory": "smoothie-juice-bar",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "79 Đường Nguyễn Văn Trỗi",
+      "lat": 11.947399,
+      "lng": 108.436974
+    },
+    "images": [],
+    "popularity": 52,
+    "source": "overture",
+    "sourceId": "2e80bc17-3d94-44d9-b49a-f37d7924da75",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-25d5be85-8432-49",
+    "slug": "moc-tra-da-lat",
+    "name": "Mộc Trà Đà Lạt",
+    "category": "cafe",
+    "subCategory": "tea-room",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "34B Đường Gio An",
+      "lat": 11.949602,
+      "lng": 108.449234
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "25d5be85-8432-49a5-9646-47c2c9ba9471",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-e22b9efe-9912-44",
+    "slug": "suoi-mo",
+    "name": "Suối Mơ",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "Hoa Cẩm Tú Cầu",
+      "lat": 11.901703,
+      "lng": 108.439301
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "e22b9efe-9912-4415-be9a-d8ea4e4d346c",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3cf282a5-ef38-4c",
+    "slug": "sua-dau-nanh-co-lan",
+    "name": "Sữa Đậu Nành Cô Lan",
+    "category": "cafe",
+    "subCategory": "smoothie-juice-bar",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "1 Đường Nam Kỳ Khởi Nghĩa",
+      "lat": 11.942531,
+      "lng": 108.4356
+    },
+    "images": [],
+    "popularity": 44,
+    "source": "overture",
+    "sourceId": "3cf282a5-ef38-4c7d-a304-0b501ac1e687",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d3513724-e115-46",
+    "slug": "om-sua-160-nguyen-cong-tru",
+    "name": "Ốm Sữa - 160 Nguyễn Công Trứ",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "160 Nguyễn Công Trứ",
+      "lat": 11.956659,
+      "lng": 108.437645
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "d3513724-e115-4615-91e3-aa773b956f27",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-4deb2ad9-b7f4-4a",
+    "slug": "mot-coffee-books",
+    "name": "Mọt Coffee & Books",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "44 Trần Thái Tông",
+      "lat": 11.946608,
+      "lng": 108.466751
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "4deb2ad9-b7f4-4a55-b97b-18ca5d957cd0",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-eb5591eb-693b-49",
+    "slug": "ep-pheee-n-juice-effect",
+    "name": "ÉP PHÊÊÊ (n): juice effect",
+    "category": "cafe",
+    "subCategory": "smoothie-juice-bar",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "bờ kè, 42 Đoàn Thị Điểm",
+      "lat": 11.939121,
+      "lng": 108.433105
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "eb5591eb-693b-49e5-a95a-6aed24d6e0b1",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-9a10d114-9db0-4e",
+    "slug": "tea-flow-vietnam-specialty-tea",
+    "name": "TEA FLOW - Vietnam Specialty Tea",
+    "category": "cafe",
+    "subCategory": "tea-room",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "39/13/3 Ngô Quyền, Phường Cam Ly - Đà Lạt",
+      "lat": 11.95053,
+      "lng": 108.432381
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "9a10d114-9db0-4ef1-8ed0-fd4e26cee390",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-151aaa85-ada7-40",
+    "slug": "the-dome-coffee-tea",
+    "name": "The Dome Coffee & Tea",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "118 Nguyễn Công Trứ",
+      "lat": 11.956501,
+      "lng": 108.439308
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "151aaa85-ada7-405d-97d2-069d6d88f6e9",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-78bbf2ab-8641-47",
+    "slug": "an-lac-tra",
+    "name": "An Lạc Trà",
+    "category": "cafe",
+    "subCategory": "tea-room",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "15 Đ. Lữ Gia",
+      "lat": 11.955906,
+      "lng": 108.462379
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "78bbf2ab-8641-470f-b676-30b3a03e11c6",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-97406c01-270f-46",
+    "slug": "viva-coffee",
+    "name": "Viva coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "46 Đ Phạm Ngũ Lão",
+      "lat": 11.938015,
+      "lng": 108.434654
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "97406c01-270f-4679-8d34-84b2b017d73c",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-42eb672f-17c0-4a",
+    "slug": "dam-coffee",
+    "name": "ĐẬM Coffee",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "46 Đường Hoàng Diệu",
+      "lat": 11.942739,
+      "lng": 108.427238
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "42eb672f-17c0-4acd-b332-a145630a34e0",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-e2e160ff-afd1-4f",
+    "slug": "wee-cafe",
+    "name": "Wee Cafe",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "86 Đường Hoàng Hoa Thám",
+      "lat": 11.933201,
+      "lng": 108.464684
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "e2e160ff-afd1-4f46-b336-5daddbf6748a",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-daf6234d-8877-40",
+    "slug": "dulsis-milk-tea",
+    "name": "Dulsis Milk Tea",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "19 Đ. Phạm Hồng Thái",
+      "lat": 11.939843,
+      "lng": 108.452492
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "daf6234d-8877-405c-9d7e-18a7e78ca01a",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d4e43b64-d50b-47",
+    "slug": "lubu-s-house",
+    "name": "Lubu's House",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "12 Đường Võ Thị Sáu",
+      "lat": 11.948195,
+      "lng": 108.43856
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "d4e43b64-d50b-4794-9e79-8991cce30fec",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-4885e9a6-c3ba-49",
+    "slug": "tra-sua-kos",
+    "name": "Trà Sữa KOS",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "2/10, Đ. Nguyễn Văn Cừ",
+      "lat": 11.939355,
+      "lng": 108.434219
+    },
+    "images": [],
+    "popularity": 78,
+    "source": "overture",
+    "sourceId": "4885e9a6-c3ba-4934-bd1c-144a3d61fd92",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-1c4cab30-06c8-4c",
+    "slug": "morning-in-town-cafe-da-lat",
+    "name": "Morning in Town Cafe Đà Lạt",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "4 Đường Đống Đa",
+      "lat": 11.9283,
+      "lng": 108.448158
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "1c4cab30-06c8-4cff-8b96-7e4815779241",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-135a7809-0786-49",
+    "slug": "hutea",
+    "name": "HUTEA",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "Hồ Xuân Hương, 22 Đường Nguyễn Trãi",
+      "lat": 11.948199,
+      "lng": 108.449814
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "135a7809-0786-4930-b117-42dd49f904d3",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-4152964f-8f2d-4f",
+    "slug": "d-lart-garden",
+    "name": "D'Lart Garden",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "41 Đường Đào Duy Từ",
+      "lat": 11.93372,
+      "lng": 108.43396
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "4152964f-8f2d-4fdc-9559-01c1764c19d4",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-25f5bd6a-cefe-4e",
+    "slug": "nha-hang-thuan-chay-vegan-heaven",
+    "name": "Nhà hàng thuần chay Vegan Heaven",
+    "category": "food",
+    "subCategory": "vegetarian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "43 Đ. Nguyễn Văn Cừ",
+      "lat": 11.939503,
+      "lng": 108.43322
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "25f5bd6a-cefe-4e40-85fc-bca5f36cc914",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-43332c0a-ffb1-40",
+    "slug": "hai-san-thao-hien",
+    "name": "Hải Sản Thảo Hiền",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "17 Nguyễn Đình Chiểu, Phường 9, TP. Đà Lạt",
+      "lat": 11.95072,
+      "lng": 108.459557
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "43332c0a-ffb1-4017-a001-734d584cafca",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-faf27542-58e7-43",
+    "slug": "lotteria-da-lat-hoa-binh",
+    "name": "Lotteria Đà Lạt Hoà Bình",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "2 Đường Nguyễn Thị Minh Khai",
+      "lat": 11.94066,
+      "lng": 108.437599
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "faf27542-58e7-43a9-854c-ba20ecbc860d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-16ba3056-4401-46",
+    "slug": "lo-ghim-bbq-coffee",
+    "name": "Lơ-Ghim BBQ & Coffee",
+    "category": "food",
+    "subCategory": "barbecue-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "38 Đường Võ Trường Toản",
+      "lat": 11.959415,
+      "lng": 108.445763
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "16ba3056-4401-46d0-8d05-9a1ad8b144d7",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-ebf6f706-53bd-41",
+    "slug": "3-ngon-da-lat",
+    "name": "3 Ngon ĐÀ LẠT",
+    "category": "food",
+    "subCategory": "ice-cream-shop",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "2/3 Đường Nguyễn Văn Cừ",
+      "lat": 11.939319,
+      "lng": 108.434433
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "ebf6f706-53bd-41d7-939a-1e4aba93c0a6",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-6cac7891-af73-48",
+    "slug": "lau-ech-117",
+    "name": "Lẩu Ếch 117",
+    "category": "food",
+    "subCategory": "chinese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "117 Nguyễn Công Trứ",
+      "lat": 11.956654,
+      "lng": 108.438751
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "6cac7891-af73-488d-b668-517a0584b2c3",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-f83bd1ed-f863-45",
+    "slug": "nhat-ly-restaurant",
+    "name": "Nhật Ly Restaurant",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "88 Đường Phan Đình Phùng",
+      "lat": 11.94573,
+      "lng": 108.434875
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "f83bd1ed-f863-4512-a156-5b82ba77e2ac",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d59d9c93-27c7-45",
+    "slug": "tiem-nuong-thuong-thuong",
+    "name": "Tiệm nướng Thương Thương",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "30 Đường Đặng Thái Thân",
+      "lat": 11.928653,
+      "lng": 108.451408
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "d59d9c93-27c7-45fc-b42a-41d6f97be702",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-28c796f0-392d-4e",
+    "slug": "guru-chay-restaurant-coffee",
+    "name": "Guru Chay Restaurant & Coffee",
+    "category": "food",
+    "subCategory": "vegetarian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "51 Đ. Hoàng Diệu",
+      "lat": 11.942823,
+      "lng": 108.427505
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "28c796f0-392d-4ef6-8015-e7d66dacb032",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-ab3ce602-a390-47",
+    "slug": "lit-bbq-beer",
+    "name": "LIT BBQ Beer",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "Tô Hiệu",
+      "lat": 11.968093,
+      "lng": 108.434547
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "ab3ce602-a390-4744-a416-b2c90e597044",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-24d50f52-dca7-4f",
+    "slug": "kfc-da-lat",
+    "name": "KFC",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "10 Phan Bội Châu",
+      "lat": 11.944393,
+      "lng": 108.43779
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "24d50f52-dca7-4fad-a51f-e96911bd4315",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d506f210-b60e-4a",
+    "slug": "barn-house-bbq-and-beer",
+    "name": "Barn House BBQ And Beer",
+    "category": "food",
+    "subCategory": "barbecue-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "198 Nguyễn Công Trứ",
+      "lat": 11.956785,
+      "lng": 108.435219
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "d506f210-b60e-4a76-99c3-7d790b3ad1d2",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-cf3270d8-374b-4c",
+    "slug": "now-bistro-coffee",
+    "name": "NOW Bistro & Coffee",
+    "category": "food",
+    "subCategory": "bakery",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "2 Đường Huỳnh Thúc Kháng",
+      "lat": 11.935546,
+      "lng": 108.429886
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "cf3270d8-374b-4c39-89cf-9331e36be41b",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3ddfba85-0c78-41",
+    "slug": "indiagate-indian-restaurant",
+    "name": "Indiagate Indian Restaurant 인도 레스토랑",
+    "category": "food",
+    "subCategory": "indian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "19 Đường Bùi Thị Xuân",
+      "lat": 11.94437,
+      "lng": 108.439865
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "3ddfba85-0c78-41d5-b4e8-c09a98109a9f",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-e8f13adb-662a-49",
+    "slug": "com-nieu-huong-viet",
+    "name": "Cơm niêu Hương Việt",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "2F6 Đ. Trần Nhân Tông",
+      "lat": 11.951004,
+      "lng": 108.446609
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "e8f13adb-662a-49c0-bdd9-c5c5c482c159",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3bdf240d-05d0-44",
+    "slug": "mimi-sushi-pizza",
+    "name": "MiMi Sushi & Pizza",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "103 Đường Bùi Thị Xuân",
+      "lat": 11.946427,
+      "lng": 108.440163
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "3bdf240d-05d0-44f0-b7b4-98379ab89ec2",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-50555419-27ed-4e",
+    "slug": "lau-chay-hang-thien-da-lat",
+    "name": "Lẩu chay Hằng Thiện Đà Lạt",
+    "category": "food",
+    "subCategory": "vegetarian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "265/4 Đ. Bùi Thị Xuân",
+      "lat": 11.954014,
+      "lng": 108.440193
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "50555419-27ed-4efe-84da-7cd924ed114e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-10005a24-315f-46",
+    "slug": "nha-hang-hoang-phat",
+    "name": "Nhà hàng Hoàng Phát",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "28 Đường Pasteur",
+      "lat": 11.936169,
+      "lng": 108.427414
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "10005a24-315f-46ff-90d3-65ebca37fca4",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-31b868b4-6f15-42",
+    "slug": "le-alpi",
+    "name": "Le Alpi",
+    "category": "food",
+    "subCategory": "italian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "87 Đường An Dương Vương",
+      "lat": 11.954774,
+      "lng": 108.435646
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "31b868b4-6f15-4269-b965-4ae40a471982",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-4cd7e3ce-d6dd-49",
+    "slug": "quan-gio",
+    "name": "Quán Gió",
+    "category": "food",
+    "subCategory": "barbecue-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "184_2 Đường Bùi Thị Xuân",
+      "lat": 11.949887,
+      "lng": 108.43885
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "4cd7e3ce-d6dd-499b-a24a-85f8d04f4384",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c373dd34-4f2d-43",
+    "slug": "kem-bo-da-lat",
+    "name": "Kem Bơ Đà Lạt",
+    "category": "food",
+    "subCategory": "ice-cream-shop",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "74C Nguyễn Văn Trỗi",
+      "lat": 11.947333,
+      "lng": 108.437019
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "c373dd34-4f2d-43e6-bd42-39f890ef11c2",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-fc5996ec-d1dc-44",
+    "slug": "fungi-chingu",
+    "name": "Fungi Chingu",
+    "category": "food",
+    "subCategory": "korean-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "29 Đường Võ Thị Sáu",
+      "lat": 11.949511,
+      "lng": 108.438599
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "fc5996ec-d1dc-4438-a61f-631c9350211c",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-647ba996-0f69-41",
+    "slug": "lau-bo-mam-ruoc-99",
+    "name": "Lẩu Bò Mắm Ruốc 99",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "Lô D2 KQH Huỳnh Tấn Phát, phường Xuân Trường (ngay khu Xóm Lèo, kế bên cạnh Xuân Homestay)",
+      "lat": 11.944796,
+      "lng": 108.453583
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "647ba996-0f69-4149-bdab-046b75bd2769",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-aa7a0618-8bfd-4b",
+    "slug": "quan-nuong-ngoi-cu-tay",
+    "name": "Quán Nướng Ngói Cu Tây",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "53 Đường An Dương Vương",
+      "lat": 11.952308,
+      "lng": 108.435501
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "aa7a0618-8bfd-4bbf-9928-2618f3d4ffb6",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-121f0bb2-afd5-42",
+    "slug": "buffet-chay-now-and-here",
+    "name": "Buffet chay NOW and HERE",
+    "category": "food",
+    "subCategory": "vegetarian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "1A Đường Thi Sách",
+      "lat": 11.946808,
+      "lng": 108.432549
+    },
+    "images": [],
+    "popularity": 76,
+    "source": "overture",
+    "sourceId": "121f0bb2-afd5-4279-a1a2-df964b9c6475",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-4ae59eb8-3917-4d",
+    "slug": "hai-san-hai-chau-da-lat",
+    "name": "Hải Sản Hải Châu Đà Lạt",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "75 Đường Phù Đổng Thiên Vương",
+      "lat": 11.958697,
+      "lng": 108.442467
+    },
+    "images": [],
+    "popularity": 76,
+    "source": "overture",
+    "sourceId": "4ae59eb8-3917-4da8-8ab3-23c3b47811f6",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-36b6d6c6-9b8f-49",
+    "slug": "jollibee-da-lat",
+    "name": "Jollibee",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "49BS2 Đinh Tiên Hoàng, Phường 2, Thành phố Đà Lạt, tỉnh Lâm Đồng",
+      "lat": 11.954181,
+      "lng": 108.442322
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "36b6d6c6-9b8f-49a4-9ce0-eaee6054dd27",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-d2e13388-af6b-40",
+    "slug": "suon-cay-bbq",
+    "name": "Sườn Cay BBQ",
+    "category": "food",
+    "subCategory": "barbecue-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "17A Đường Nguyễn Trãi",
+      "lat": 11.940722,
+      "lng": 108.451965
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "d2e13388-af6b-40fa-b15f-ddc562ec2788",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-27c451fb-1118-42",
+    "slug": "tiem-banh-mi-ba-le",
+    "name": "Tiệm Bánh Mì Bá Lê",
+    "category": "food",
+    "subCategory": "bakery",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "lac-duong",
+      "address": "số nhà 95 , Đường 19 tháng 5 ",
+      "lat": 12.007151,
+      "lng": 108.415314
+    },
+    "images": [],
+    "popularity": 53,
+    "source": "overture",
+    "sourceId": "27c451fb-1118-4253-81b1-64bea777d71b",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-2f4f7d37-374d-4f",
+    "slug": "nha-hang-chau-loan-langbiang",
+    "name": "Nha Hang Chau Loan Langbiang",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "lac-duong",
+      "address": "287 Langbiang",
+      "lat": 12.018381,
+      "lng": 108.424225
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "2f4f7d37-374d-4f8f-bcb4-7b102e719500",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-0eb7b046-acda-48",
+    "slug": "vuon-dau-my-hoa-thang-thinh",
+    "name": "Vườn Dâu Mỹ Hoa Thắng Thịnh",
+    "category": "food",
+    "subCategory": "food",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "lac-duong",
+      "address": "Vườn Dâu Hoa Thắng Thịnh 090 205 01 26 https://goo.gl/maps/aNcxmtHqunLx7nYj8",
+      "lat": 11.998775,
+      "lng": 108.433784
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "0eb7b046-acda-48b2-955a-65d5d8089c49",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-9e34a0e5-69e6-4e",
+    "slug": "nha-hang-bigboy-k-ho",
+    "name": "Nha Hang Bigboy K'ho",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "lac-duong",
+      "address": "65 Đường Mười Chín Tháng Năm",
+      "lat": 12.007803,
+      "lng": 108.416656
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "9e34a0e5-69e6-4ec3-b86b-263eba9d6c7f",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-b8a18c07-9bb7-4d",
+    "slug": "do-an-vat-milk-tea-mi-cay-10-cap-do-bingo",
+    "name": "Đồ ăn vặt - Milk Tea - Mì Cay 10 cấp độ BinGo",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "lac-duong",
+      "address": "75 Đường Thống Nhất",
+      "lat": 12.012333,
+      "lng": 108.422523
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "b8a18c07-9bb7-4d03-aa1d-5ea25a4fb6c4",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-64a02a6c-b110-40",
+    "slug": "pang-yo-hoi-quan-am-thuc-tay-nguyen",
+    "name": "Pàng Yô Hội Quán | Ẩm thực Tây Nguyên",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "lac-duong",
+      "address": "283 Langbiang",
+      "lat": 12.017011,
+      "lng": 108.423805
+    },
+    "images": [],
+    "popularity": 56,
+    "source": "overture",
+    "sourceId": "64a02a6c-b110-4099-9203-ecb112bdcff7",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-f3551cc6-6f1c-47",
+    "slug": "pho-hieu-langbiang",
+    "name": "Phở Hiếu Langbiang",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "lac-duong",
+      "address": "131 Đường Langbiang",
+      "lat": 12.009253,
+      "lng": 108.418709
+    },
+    "images": [],
+    "popularity": 44,
+    "source": "overture",
+    "sourceId": "f3551cc6-6f1c-474c-a99c-16d0f5942380",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
@@ -1508,411 +2042,14 @@
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-d7961ea7-fc88-44",
-    "slug": "karaoke-mic",
-    "name": "Karaoke Mic",
-    "category": "entertainment",
-    "subCategory": "karaoke",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "65 Ba Tháng Hai",
-      "lat": 11.941467,
-      "lng": 108.433311
-    },
-    "images": [],
-    "popularity": 82,
-    "source": "overture",
-    "sourceId": "d7961ea7-fc88-442a-9734-83ccc785beac",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-20f31f2f-79a2-42",
-    "slug": "le-retour",
-    "name": "Le Retour",
-    "category": "entertainment",
-    "subCategory": "wine-bar",
-    "tags": [
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "38 Phan Bội Châu",
-      "lat": 11.943949,
-      "lng": 108.439667
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "20f31f2f-79a2-42d6-b9c9-59736d8b35d2",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-dc1363e3-f2b5-45",
-    "slug": "am-thuc-action",
-    "name": "Ẩm Thực Action",
-    "category": "entertainment",
-    "subCategory": "bar",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "35 Đ Phạm Ngũ Lão",
-      "lat": 11.937869,
-      "lng": 108.434769
-    },
-    "images": [],
-    "popularity": 81,
-    "source": "overture",
-    "sourceId": "dc1363e3-f2b5-4527-8e3b-ce4980c8f589",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-50dae8e3-4cac-48",
-    "slug": "277-chilling-basement-beer-and-cocktail",
-    "name": "277 Chilling Basement Beer and Cocktail",
-    "category": "entertainment",
-    "subCategory": "bar",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "33 Đường Bà Triệu",
-      "lat": 11.937276,
-      "lng": 108.433807
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "50dae8e3-4cac-48e2-9f7f-bfeb69e8c92f",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-fc79028f-1057-4e",
-    "slug": "langbiang-mountain-brewery",
-    "name": "Langbiang Mountain Brewery",
-    "category": "entertainment",
-    "subCategory": "brewery",
-    "tags": [
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "229 Đường Langbiang",
-      "lat": 11.99766,
-      "lng": 108.418907
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "fc79028f-1057-4e02-ad45-89362f9e4d9d",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-bc2bc8ef-ccf8-4e",
-    "slug": "karaoke-linh",
-    "name": "Karaoke Linh",
-    "category": "entertainment",
-    "subCategory": "karaoke",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "21 Đường An Dương Vương",
-      "lat": 11.951347,
-      "lng": 108.43486
-    },
-    "images": [],
-    "popularity": 81,
-    "source": "overture",
-    "sourceId": "bc2bc8ef-ccf8-4e5e-b882-59603df0701e",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d9dd5503-ce5d-4a",
-    "slug": "khanh-gym",
-    "name": "Khanh Gym",
-    "category": "activity",
-    "subCategory": "gym",
-    "tags": [
-      "van-dong"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "25 Đường Thông Thiên Học",
-      "lat": 11.952425,
-      "lng": 108.437088
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "d9dd5503-ce5d-4a4b-a9b0-b574110d5621",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-a6dca9fb-b981-46",
-    "slug": "kyama-homebar",
-    "name": "KYAMA Homebar",
-    "category": "entertainment",
-    "subCategory": "wine-bar",
-    "tags": [
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "17/17 Đường Mẫu Tâm",
-      "lat": 11.935196,
-      "lng": 108.419472
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "a6dca9fb-b981-4617-8485-f02931c6164e",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-0eb7b046-acda-48",
-    "slug": "vuon-dau-my-hoa-thang-thinh",
-    "name": "Vườn Dâu Mỹ Hoa Thắng Thịnh",
-    "category": "food",
-    "subCategory": "food",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "lac-duong",
-      "address": "Vườn Dâu Hoa Thắng Thịnh 090 205 01 26 https://goo.gl/maps/aNcxmtHqunLx7nYj8",
-      "lat": 11.998775,
-      "lng": 108.433784
-    },
-    "images": [],
-    "popularity": 81,
-    "source": "overture",
-    "sourceId": "0eb7b046-acda-48b2-955a-65d5d8089c49",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-f439aeab-bdc3-4a",
-    "slug": "the-hilley",
-    "name": "The Hilley",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "67/9 Hải Thượng",
-      "lat": 11.943806,
-      "lng": 108.429527
-    },
-    "images": [],
-    "popularity": 81,
-    "source": "overture",
-    "sourceId": "f439aeab-bdc3-4aff-84a8-23ef89733cfe",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-880b9140-7f57-42",
-    "slug": "saigon-taste",
-    "name": "Saigon Taste",
-    "category": "entertainment",
-    "subCategory": "cocktail-bar",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "08 Đường Hoàng Văn Thụ",
-      "lat": 11.939648,
-      "lng": 108.428131
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "880b9140-7f57-4297-8093-acf7f65b0133",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-472e2a2c-7ed9-43",
-    "slug": "luxury-karaoke",
-    "name": "Luxury Karaoke",
-    "category": "entertainment",
-    "subCategory": "karaoke",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "179 Đường Hai Bà Trưng",
-      "lat": 11.947536,
-      "lng": 108.433609
-    },
-    "images": [],
-    "popularity": 81,
-    "source": "overture",
-    "sourceId": "472e2a2c-7ed9-439c-8a4f-2b561e9c15b9",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-5cc0c243-caa2-40",
-    "slug": "vbox-center-trung-tam-the-thao-da-lat",
-    "name": "VBOX Center - Trung Tâm Thể Thao Đà Lạt",
-    "category": "activity",
-    "subCategory": "gym",
-    "tags": [
-      "van-dong"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "1 Đường Xô Viết Nghệ Tĩnh",
-      "lat": 11.946813,
-      "lng": 108.435455
-    },
-    "images": [],
-    "popularity": 81,
-    "source": "overture",
-    "sourceId": "5cc0c243-caa2-4067-84a0-b33314e1d1c3",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-ade4a7fa-48e9-47",
-    "slug": "lament-cocktail-bar",
-    "name": "Lament Cocktail Bar",
-    "category": "entertainment",
-    "subCategory": "cocktail-bar",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "85 Tô Vĩnh Diện",
-      "lat": 11.959104,
-      "lng": 108.423691
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "ade4a7fa-48e9-476b-abf0-f1db6361f306",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-afb63db8-25c9-47",
-    "slug": "yoga-da-lat",
-    "name": "Yoga ĐÀ LẠT",
-    "category": "activity",
-    "subCategory": "yoga-studio",
-    "tags": [
-      "van-dong"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "Phòng A1 Nhà thiếu nhi, số 13 Đinh Tiên Hoàng, Phường 2\\nLầu 1 Phòng 2.3 Nhà Văn Hoá, số 1 Trần Quốc Toản, p.10",
-      "lat": 11.946833,
-      "lng": 108.443245
-    },
-    "images": [],
-    "popularity": 70,
-    "source": "overture",
-    "sourceId": "afb63db8-25c9-4719-b9c9-25ca160afe76",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-b3f6d7ad-b9ca-43",
-    "slug": "89kilo-private-fitness",
-    "name": "89Kilo Private Fitness",
-    "category": "activity",
-    "subCategory": "gym",
-    "tags": [
-      "van-dong"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "105 Đường Hai Bà Trưng",
-      "lat": 11.945021,
-      "lng": 108.433075
-    },
-    "images": [],
-    "popularity": 70,
-    "source": "overture",
-    "sourceId": "b3f6d7ad-b9ca-431a-ac8c-34a8b2a8372e",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-5a40055e-4c6a-46",
-    "slug": "khu-du-lich-thac-datanla-datanla-waterfall",
-    "name": "Khu Du Lịch Thác Datanla - Datanla Waterfall",
-    "category": "family",
-    "subCategory": "amusement-park",
-    "tags": [
-      "tre-em"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "3 Đường Đèo Prenn",
-      "lat": 11.902739,
-      "lng": 108.44883
-    },
-    "images": [],
-    "popularity": 80,
-    "source": "overture",
-    "sourceId": "5a40055e-4c6a-46d4-b7b5-e2625e0ec469",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
     "id": "ovt-536a5bfb-2ffc-4f",
     "slug": "khu-du-lich-ho-thuy-quai-kappa-lake",
     "name": "Khu Du Lịch Hồ Thủy Quái - Kappa Lake",
     "category": "outdoor",
     "subCategory": "lake",
     "tags": [
-      "ngoai-troi"
+      "ngoai-troi",
+      "view-dep"
     ],
     "location": {
       "cityId": "da-lat",
@@ -1925,6 +2062,31 @@
     "popularity": 80,
     "source": "overture",
     "sourceId": "536a5bfb-2ffc-4f98-be6c-81ea9cf01ec6",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-7a47a611-8c2c-47",
+    "slug": "thung-lung-hoa-dao-muoi-loi",
+    "name": "Thung Lũng Hoa Đào Mười Lời",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "15 Đường Lê Hồng Phong",
+      "lat": 11.932513,
+      "lng": 108.429062
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "7a47a611-8c2c-477f-bf3e-8a87c97b7f2f",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
@@ -1954,55 +2116,58 @@
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-dc2ec553-0306-47",
-    "slug": "vinh-xuan-yoga",
-    "name": "Vĩnh Xuân yoga",
-    "category": "activity",
-    "subCategory": "gym",
+    "id": "ovt-dd48a0ef-bc7f-4d",
+    "slug": "lop-ve-art-house-da-lat",
+    "name": "Lớp Vẽ Art House Đà Lạt",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
     "tags": [
-      "van-dong"
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
     ],
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "18/12 Đ. Huỳnh Thúc Kháng",
-      "lat": 11.935781,
-      "lng": 108.429733
+      "address": "187 Nguyễn Công Trứ",
+      "lat": 11.956915,
+      "lng": 108.435753
     },
     "images": [],
-    "popularity": 70,
+    "popularity": 79,
     "source": "overture",
-    "sourceId": "dc2ec553-0306-4775-84eb-13ccef0b280a",
+    "sourceId": "dd48a0ef-bc7f-4db3-b313-dbfb688ea55b",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-c0c5cb03-1557-43",
-    "slug": "gym-trung-kien-da-lat",
-    "name": "Gym Trung Kiên Đà Lạt",
-    "category": "activity",
-    "subCategory": "gym",
+    "id": "ovt-3c5aa77a-8e62-46",
+    "slug": "vuon-hoa-cam-tu-cau-moi",
+    "name": "Vườn Hoa Cẩm Tú Cầu Mới",
+    "category": "outdoor",
+    "subCategory": "park",
     "tags": [
-      "van-dong"
+      "ngoai-troi",
+      "cay-xanh"
     ],
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "hẻm cạnh cơm gà, 30 Nguyễn Công Trứ",
-      "lat": 11.955054,
-      "lng": 108.441391
+      "address": "tổ tự/519b Đường Tự Tạo",
+      "lat": 11.948833,
+      "lng": 108.505135
     },
     "images": [],
-    "popularity": 80,
+    "popularity": 79,
     "source": "overture",
-    "sourceId": "c0c5cb03-1557-439a-bf51-3ac6a8abda71",
+    "sourceId": "3c5aa77a-8e62-4631-b082-57f5376bde1b",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-732b6e27-b8a3-4b",
-    "slug": "tada-dalat-apartments",
-    "name": "Tada Dalat Apartments",
+    "id": "ovt-f439aeab-bdc3-4a",
+    "slug": "the-hilley",
+    "name": "The Hilley",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -2013,58 +2178,14 @@
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "90/12/2 Đ. Lữ Gia",
-      "lat": 11.955866,
-      "lng": 108.459572
+      "address": "67/9 Hải Thượng",
+      "lat": 11.943806,
+      "lng": 108.429527
     },
     "images": [],
-    "popularity": 70,
+    "popularity": 81,
     "source": "overture",
-    "sourceId": "732b6e27-b8a3-4b47-a416-b503d554802c",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-eae08475-6512-4e",
-    "slug": "ngoc-bao-private-fitness-phong-tap-huan-luyen-vien-1-1",
-    "name": "Ngoc Bao Private Fitness - Phòng Tập Huấn Luyện Viên 1-1",
-    "category": "activity",
-    "subCategory": "gym",
-    "tags": [
-      "van-dong"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "200/17 Đường Nguyễn Công Trứ",
-      "lat": 11.955442,
-      "lng": 108.432999
-    },
-    "images": [],
-    "popularity": 79,
-    "source": "overture",
-    "sourceId": "eae08475-6512-4e7d-b539-0c03a7bff665",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-9e34a0e5-69e6-4e",
-    "slug": "nha-hang-bigboy-k-ho",
-    "name": "Nha Hang Bigboy K'ho",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "lac-duong",
-      "address": "65 Đường Mười Chín Tháng Năm",
-      "lat": 12.007803,
-      "lng": 108.416656
-    },
-    "images": [],
-    "popularity": 69,
-    "source": "overture",
-    "sourceId": "9e34a0e5-69e6-4ec3-b86b-263eba9d6c7f",
+    "sourceId": "f439aeab-bdc3-4aff-84a8-23ef89733cfe",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
@@ -2094,9 +2215,32 @@
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-3c5aa77a-8e62-46",
-    "slug": "vuon-hoa-cam-tu-cau-moi",
-    "name": "Vườn Hoa Cẩm Tú Cầu Mới",
+    "id": "ovt-aaa6f029-caf8-47",
+    "slug": "phim-truong-3d-world-da-lat",
+    "name": "Phim Trường 3D World Da Lat",
+    "category": "outdoor",
+    "subCategory": "art-museum",
+    "tags": [
+      "ngoai-troi"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "3 Đường Lê Thị Hồng Gấm",
+      "lat": 11.942066,
+      "lng": 108.43811
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "aaa6f029-caf8-4770-a4d1-8cb0d9aa91c6",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c6f98f51-f56f-4b",
+    "slug": "la-garden",
+    "name": "Lá Garden",
     "category": "outdoor",
     "subCategory": "park",
     "tags": [
@@ -2106,14 +2250,39 @@
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "tổ tự/519b Đường Tự Tạo",
-      "lat": 11.948833,
-      "lng": 108.505135
+      "address": "Hẻm 86 Khe Sanh",
+      "lat": 11.930445,
+      "lng": 108.454697
     },
     "images": [],
-    "popularity": 79,
+    "popularity": 68,
     "source": "overture",
-    "sourceId": "3c5aa77a-8e62-4631-b082-57f5376bde1b",
+    "sourceId": "c6f98f51-f56f-4bf1-99ba-2083ea2f2506",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-732b6e27-b8a3-4b",
+    "slug": "tada-dalat-apartments",
+    "name": "Tada Dalat Apartments",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "90/12/2 Đ. Lữ Gia",
+      "lat": 11.955866,
+      "lng": 108.459572
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "732b6e27-b8a3-4b47-a416-b503d554802c",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
@@ -2143,9 +2312,9 @@
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-dd48a0ef-bc7f-4d",
-    "slug": "lop-ve-art-house-da-lat",
-    "name": "Lớp Vẽ Art House Đà Lạt",
+    "id": "ovt-67075a01-7368-4b",
+    "slug": "pho-ben-doi",
+    "name": "Phố Bên Đồi",
     "category": "outdoor",
     "subCategory": "art-gallery",
     "tags": [
@@ -2156,155 +2325,61 @@
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "187 Nguyễn Công Trứ",
-      "lat": 11.956915,
-      "lng": 108.435753
+      "address": "10 Đường Lý Tự Trọng",
+      "lat": 11.947705,
+      "lng": 108.438087
     },
     "images": [],
-    "popularity": 79,
+    "popularity": 75,
     "source": "overture",
-    "sourceId": "dd48a0ef-bc7f-4db3-b313-dbfb688ea55b",
+    "sourceId": "67075a01-7368-4b1d-8004-6df18eae538e",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-8e962a62-3d1e-4b",
-    "slug": "lang-biang-coffee-project",
-    "name": "Lang Biang Coffee Project",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "lac-duong",
-      "address": "37 Đường Duy Tân",
-      "lat": 12.011484,
-      "lng": 108.413811
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "8e962a62-3d1e-4bac-baaa-0aa67e59ac1e",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-21d341c4-67e0-45",
-    "slug": "wonderland-gym-and-coffee",
-    "name": "Wonderland Gym and Coffee",
-    "category": "activity",
-    "subCategory": "gym",
-    "tags": [
-      "van-dong"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "Hẻm 27 Lê Hồng Phong",
-      "lat": 11.931755,
-      "lng": 108.425659
-    },
-    "images": [],
-    "popularity": 68,
-    "source": "overture",
-    "sourceId": "21d341c4-67e0-4557-af2d-af93f56a3e2a",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-2a64a3af-0617-4b",
-    "slug": "ziczac-gym-da-lat",
-    "name": "Ziczac Gym Đà Lạt",
-    "category": "activity",
-    "subCategory": "gym",
-    "tags": [
-      "van-dong"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "204d Phan Đình Phùng",
-      "lat": 11.948967,
-      "lng": 108.435944
-    },
-    "images": [],
-    "popularity": 68,
-    "source": "overture",
-    "sourceId": "2a64a3af-0617-4b67-9193-7649e004a597",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-c6f98f51-f56f-4b",
-    "slug": "la-garden",
-    "name": "Lá Garden",
+    "id": "ovt-f51002c1-d3dc-43",
+    "slug": "tuyen-lam-lake",
+    "name": "Tuyen Lam LaKe",
     "category": "outdoor",
-    "subCategory": "park",
+    "subCategory": "lake",
     "tags": [
       "ngoai-troi",
-      "cay-xanh"
+      "view-dep"
     ],
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "Hẻm 86 Khe Sanh",
-      "lat": 11.930445,
-      "lng": 108.454697
+      "address": "Phường 4, Tp. Đà Lạt, Lâm Đồng, Việt Nam",
+      "lat": 11.898996,
+      "lng": 108.437866
     },
     "images": [],
-    "popularity": 68,
+    "popularity": 67,
     "source": "overture",
-    "sourceId": "c6f98f51-f56f-4bf1-99ba-2083ea2f2506",
+    "sourceId": "f51002c1-d3dc-4378-b49e-c49d5f710eb0",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-25842159-e45e-4c",
-    "slug": "gym-tai-nguyen-da-lat-1",
-    "name": "Gym Tài Nguyên Đà Lạt 1",
-    "category": "activity",
-    "subCategory": "gym",
-    "tags": [
-      "van-dong"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "8 Đường Nguyễn Văn Cừ",
-      "lat": 11.9397,
-      "lng": 108.432953
-    },
-    "images": [],
-    "popularity": 63,
-    "source": "overture",
-    "sourceId": "25842159-e45e-4ccd-9ad8-6812286fe10c",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-93a30ff5-bfd8-4c",
-    "slug": "khu-du-lich-lang-biang",
-    "name": "Khu Du Lịch Lang Biang",
+    "id": "ovt-1304efff-6def-4f",
+    "slug": "nu-no-house",
+    "name": "Nu Nơ House",
     "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
+    "subCategory": "palace",
     "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
+      "ngoai-troi"
     ],
     "location": {
       "cityId": "da-lat",
-      "districtId": "lac-duong",
-      "address": "305 Langbiang",
-      "lat": 12.019312,
-      "lng": 108.424385
+      "districtId": "da-lat",
+      "address": "38A Đường Trần Thái Tông",
+      "lat": 11.94708,
+      "lng": 108.467117
     },
     "images": [],
-    "popularity": 78,
+    "popularity": 66,
     "source": "overture",
-    "sourceId": "93a30ff5-bfd8-4c74-87c0-11ec47a1f60d",
+    "sourceId": "1304efff-6def-4f0b-9f1b-9fb5295f3cda",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
@@ -2334,94 +2409,27 @@
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-1be982a8-e836-43",
-    "slug": "xe-dvdl-bi-dang",
-    "name": "Xe Dvdl Bi Đặng",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "lac-duong",
-      "address": "60 Biddoup",
-      "lat": 12.011248,
-      "lng": 108.427216
-    },
-    "images": [],
-    "popularity": 67,
-    "source": "overture",
-    "sourceId": "1be982a8-e836-43dc-b0dc-5c5218e6dd53",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-f51002c1-d3dc-43",
-    "slug": "tuyen-lam-lake",
-    "name": "Tuyen Lam LaKe",
+    "id": "ovt-d41221c3-d052-47",
+    "slug": "bao-tang-lam-dong-lam-dong-museum",
+    "name": "Bảo tàng Lâm Đồng - Lam Dong museum",
     "category": "outdoor",
-    "subCategory": "lake",
+    "subCategory": "museum",
     "tags": [
-      "ngoai-troi"
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
     ],
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "Phường 4, Tp. Đà Lạt, Lâm Đồng, Việt Nam",
-      "lat": 11.898996,
-      "lng": 108.437866
+      "address": "4 Đường Hùng Vương",
+      "lat": 11.93952,
+      "lng": 108.481628
     },
     "images": [],
-    "popularity": 67,
+    "popularity": 75,
     "source": "overture",
-    "sourceId": "f51002c1-d3dc-4378-b49e-c49d5f710eb0",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-0e0080b3-dd5a-4b",
-    "slug": "om-yoga-homestay-da-lat",
-    "name": "OM Yoga & Homestay Đà Lạt",
-    "category": "activity",
-    "subCategory": "yoga-studio",
-    "tags": [
-      "van-dong"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "86 Đ. An Sơn",
-      "lat": 11.923037,
-      "lng": 108.428474
-    },
-    "images": [],
-    "popularity": 66,
-    "source": "overture",
-    "sourceId": "0e0080b3-dd5a-4b5b-ba40-99bab2644d57",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-e58105ba-3f05-46",
-    "slug": "boxing-dalat",
-    "name": "Boxing Dalat",
-    "category": "activity",
-    "subCategory": "gym",
-    "tags": [
-      "van-dong"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "9 Đinh Tiên Hoàng",
-      "lat": 11.948338,
-      "lng": 108.441689
-    },
-    "images": [],
-    "popularity": 66,
-    "source": "overture",
-    "sourceId": "e58105ba-3f05-46ed-be7a-b4e336b10386",
+    "sourceId": "d41221c3-d052-47e0-895c-b691be3232e8",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
@@ -2446,52 +2454,6 @@
     "popularity": 61,
     "source": "overture",
     "sourceId": "2a03a6b2-f572-4ec7-98e7-184688b0db56",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-67075a01-7368-4b",
-    "slug": "pho-ben-doi",
-    "name": "Phố Bên Đồi",
-    "category": "outdoor",
-    "subCategory": "art-gallery",
-    "tags": [
-      "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "10 Đường Lý Tự Trọng",
-      "lat": 11.947705,
-      "lng": 108.438087
-    },
-    "images": [],
-    "popularity": 75,
-    "source": "overture",
-    "sourceId": "67075a01-7368-4b1d-8004-6df18eae538e",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-3903f9cb-e980-4e",
-    "slug": "lop-ve-sang-tao-lala-art-studio",
-    "name": "Lớp vẽ sáng tạo Lala Art Studio",
-    "category": "activity",
-    "subCategory": "art-school",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "27/16 Đường Hai Bà Trưng",
-      "lat": 11.943043,
-      "lng": 108.432129
-    },
-    "images": [],
-    "popularity": 75,
-    "source": "overture",
-    "sourceId": "3903f9cb-e980-4e1d-a88e-35d9ed8800f0",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
@@ -2546,27 +2508,27 @@
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-12f3a3d4-7be3-40",
-    "slug": "chung-cu-mac-dinh-chi",
-    "name": "Chung cư Mạc Định Chi",
+    "id": "ovt-8b27c714-00f6-4a",
+    "slug": "stop-and-go-art-space",
+    "name": "Stop And Go Art Space",
     "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
+    "subCategory": "art-gallery",
     "tags": [
       "ngoai-troi",
-      "lich-su",
-      "chup-anh"
+      "nghe-thuat",
+      "trong-nha"
     ],
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "Đ. Mạc Đĩnh Chi",
-      "lat": 11.940315,
-      "lng": 108.425674
+      "address": "21 Hẻm 9 Đường Lý Tự Trọng",
+      "lat": 11.946322,
+      "lng": 108.438469
     },
     "images": [],
-    "popularity": 65,
+    "popularity": 69,
     "source": "overture",
-    "sourceId": "12f3a3d4-7be3-40b6-abe9-4d5a441bf554",
+    "sourceId": "8b27c714-00f6-4a1d-8616-cfa3919fcab2",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
@@ -2595,50 +2557,27 @@
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-d41221c3-d052-47",
-    "slug": "bao-tang-lam-dong-lam-dong-museum",
-    "name": "Bảo tàng Lâm Đồng - Lam Dong museum",
+    "id": "ovt-12f3a3d4-7be3-40",
+    "slug": "chung-cu-mac-dinh-chi",
+    "name": "Chung cư Mạc Định Chi",
     "category": "outdoor",
-    "subCategory": "museum",
+    "subCategory": "landmark-and-historical-building",
     "tags": [
       "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
+      "lich-su",
+      "chup-anh"
     ],
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "4 Đường Hùng Vương",
-      "lat": 11.93952,
-      "lng": 108.481628
+      "address": "Đ. Mạc Đĩnh Chi",
+      "lat": 11.940315,
+      "lng": 108.425674
     },
     "images": [],
-    "popularity": 75,
+    "popularity": 65,
     "source": "overture",
-    "sourceId": "d41221c3-d052-47e0-895c-b691be3232e8",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-cd547e6d-7c70-49",
-    "slug": "moon-light-coffee",
-    "name": "Moon Light coffee",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "lac-duong",
-      "address": "01 Đường Thăng Long",
-      "lat": 12.008672,
-      "lng": 108.421944
-    },
-    "images": [],
-    "popularity": 64,
-    "source": "overture",
-    "sourceId": "cd547e6d-7c70-49fa-b2de-39dc2916e4fb",
+    "sourceId": "12f3a3d4-7be3-40b6-abe9-4d5a441bf554",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
@@ -2668,6 +2607,55 @@
     "updatedAt": "2026-09-12"
   },
   {
+    "id": "ovt-d12df9e0-3c2f-46",
+    "slug": "tranh-but-lua-ngo-binh",
+    "name": "Tranh Bút Lửa Ngô Bình",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "Hẽm 27 Lê Hồng Phong",
+      "lat": 11.950074,
+      "lng": 108.440086
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "d12df9e0-3c2f-46b5-bdb0-61ebf199b479",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-55cc0a2f-f153-45",
+    "slug": "vuon-thuy-tinh",
+    "name": "Vườn Thủy Tinh",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "95 Đường Trần Thánh Tông",
+      "lat": 11.903842,
+      "lng": 108.436676
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "55cc0a2f-f153-458c-9144-09d3c34caa62",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
     "id": "ovt-f6697df0-5125-48",
     "slug": "chua-thien-vuong-co-sat-da-lat-lam-dong",
     "name": "Chùa Thiên Vương Cổ Sát - Đà Lạt - Lâm Đồng",
@@ -2689,29 +2677,6 @@
     "popularity": 69,
     "source": "overture",
     "sourceId": "f6697df0-5125-48a7-bd91-d34f4bd48caf",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-1555b0a8-6e93-45",
-    "slug": "v-passion-zumba-yoga",
-    "name": "V Passion Zumba & Yoga",
-    "category": "activity",
-    "subCategory": "gym",
-    "tags": [
-      "van-dong"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "Nhà Văn Hóa Lao Động, 1 Đ. Trần Quốc Toản",
-      "lat": 11.943169,
-      "lng": 108.449432
-    },
-    "images": [],
-    "popularity": 64,
-    "source": "overture",
-    "sourceId": "1555b0a8-6e93-454b-b60f-fae3f9249375",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
@@ -2741,343 +2706,350 @@
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-6d639351-f70a-4f",
-    "slug": "tuong-phat-ba-quan-am",
-    "name": "Tượng Phật Bà Quan Âm",
-    "category": "outdoor",
-    "subCategory": "church-cathedral",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "40 Đ. Ngô Thì Sỹ",
-      "lat": 11.931134,
-      "lng": 108.424881
-    },
-    "images": [],
-    "popularity": 58,
-    "source": "overture",
-    "sourceId": "6d639351-f70a-4fb4-a492-3ab1bf47f500",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-a056acaf-7a60-43",
-    "slug": "uyen-vo-yoga-fitness",
-    "name": "Uyên Võ Yoga & Fitness",
-    "category": "activity",
-    "subCategory": "yoga-studio",
-    "tags": [
-      "van-dong"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "56 Đ. Ngô Thì Sỹ",
-      "lat": 11.931875,
-      "lng": 108.423485
-    },
-    "images": [],
-    "popularity": 63,
-    "source": "overture",
-    "sourceId": "a056acaf-7a60-436e-b4c1-f191fd86f845",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-8d0409f1-5517-43",
-    "slug": "khoe-dep-gym-center",
-    "name": "Khoẻ Đẹp Gym Center",
-    "category": "activity",
-    "subCategory": "gym",
-    "tags": [
-      "van-dong"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "32-34 Đ. Hùng Vương",
-      "lat": 11.947034,
-      "lng": 108.465637
-    },
-    "images": [],
-    "popularity": 61,
-    "source": "overture",
-    "sourceId": "8d0409f1-5517-43a0-91bc-63dfa2aa7c04",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-8270aeff-dbfd-41",
-    "slug": "em-oi-cafe",
-    "name": "Em ơi cafe",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "lac-duong",
-      "address": "01 Đường Thống Nhất",
-      "lat": 12.009139,
-      "lng": 108.419731
-    },
-    "images": [],
-    "popularity": 60,
-    "source": "overture",
-    "sourceId": "8270aeff-dbfd-41bc-87b7-824a7aee460d",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-b8a18c07-9bb7-4d",
-    "slug": "do-an-vat-milk-tea-mi-cay-10-cap-do-bingo",
-    "name": "Đồ ăn vặt - Milk Tea - Mì Cay 10 cấp độ BinGo",
-    "category": "food",
-    "subCategory": "restaurant",
+    "id": "ovt-b18e7be5-a58c-46",
+    "slug": "con-cung-lam-dong-287b-phan-dinh-phung",
+    "name": "Con Cưng Lâm Đồng - 287B Phan Đình Phùng",
+    "category": "shopping",
+    "subCategory": "shopping-center",
     "tags": [],
     "location": {
       "cityId": "da-lat",
-      "districtId": "lac-duong",
-      "address": "75 Đường Thống Nhất",
-      "lat": 12.012333,
-      "lng": 108.422523
+      "districtId": "da-lat",
+      "address": "Con Cưng, 287 Đường Phan Đình Phùng",
+      "lat": 11.949805,
+      "lng": 108.434883
     },
     "images": [],
-    "popularity": 60,
+    "popularity": 55,
     "source": "overture",
-    "sourceId": "b8a18c07-9bb7-4d03-aa1d-5ea25a4fb6c4",
+    "sourceId": "b18e7be5-a58c-4692-9320-51480479e50d",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-8a711020-4635-4d",
-    "slug": "vo-thuat-da-lat-cau-lac-bo-htl-vo-co-truyen-kickboxing-muay",
-    "name": "VÕ THUẬT ĐÀ LẠT - CÂU LẠC BỘ HTL , Võ cổ truyền,  Kickboxing,  Muay Thái",
-    "category": "activity",
-    "subCategory": "gym",
+    "id": "ovt-33e2efae-5ecd-45",
+    "slug": "thu-vien-lam-dong",
+    "name": "Thư viện Lâm Đồng",
+    "category": "shopping",
+    "subCategory": "library",
     "tags": [
-      "van-dong"
+      "yen-tinh",
+      "trong-nha"
     ],
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "1 Đường Xô Viết Nghệ Tĩnh",
-      "lat": 11.95927,
-      "lng": 108.432755
+      "address": "14 Đường Trần Phú",
+      "lat": 11.936723,
+      "lng": 108.435585
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "33e2efae-5ecd-4565-ba61-a2df5f079129",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-4fa1f37f-c42e-43",
+    "slug": "dalat-market",
+    "name": "Dalat Market",
+    "category": "shopping",
+    "subCategory": "night-market",
+    "tags": [
+      "ngoai-troi",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "Nguyen Thi Minh Khai street",
+      "lat": 11.942616,
+      "lng": 108.437019
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "4fa1f37f-c42e-436f-b787-f8b64136c048",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-c0990f9b-65c3-40",
+    "slug": "vuon-dau-dung-hong",
+    "name": "Vườn dâu Dũng Hồng",
+    "category": "shopping",
+    "subCategory": "shopping-center",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "39 Đường đa Phú",
+      "lat": 11.977966,
+      "lng": 108.414764
+    },
+    "images": [],
+    "popularity": 53,
+    "source": "overture",
+    "sourceId": "c0990f9b-65c3-40d2-aa99-232788aeb7d3",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-cb4ad64e-6213-4f",
+    "slug": "phien-cho-nong-san-xanh-da-lat-green-farmer-s-market-dalat",
+    "name": "Phiên chợ nông sản XANH Đà Lạt - Green Farmer's Market Dalat",
+    "category": "shopping",
+    "subCategory": "farmers-market",
+    "tags": [
+      "ngoai-troi",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "85 Đường Xô Viết Nghệ Tĩnh",
+      "lat": 11.964254,
+      "lng": 108.431282
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "cb4ad64e-6213-4f82-be27-ba266b2e6e72",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-3fa6dad7-4fcc-4e",
+    "slug": "aquashrimp-da-lat",
+    "name": "Aquashrimp Da Lat",
+    "category": "shopping",
+    "subCategory": "shopping-center",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "67/4 Đường An Dương Vương",
+      "lat": 11.953638,
+      "lng": 108.435844
+    },
+    "images": [],
+    "popularity": 51,
+    "source": "overture",
+    "sourceId": "3fa6dad7-4fcc-4e59-a843-cf5a652f8fc3",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-08af7cd5-50d5-48",
+    "slug": "tiem-sach-cu-nha-yen-da-lat",
+    "name": "Tiệm sách cũ nhà Yên - Đà Lạt",
+    "category": "shopping",
+    "subCategory": "bookstore",
+    "tags": [
+      "yen-tinh",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "4 Đường Nguyễn Biểu",
+      "lat": 11.943231,
+      "lng": 108.434532
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "08af7cd5-50d5-488a-a738-084adccb6f7c",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-a059a517-379f-48",
+    "slug": "sieu-thi-dien-may-xanh",
+    "name": "Siêu thị Điện máy XANH",
+    "category": "shopping",
+    "subCategory": "farmers-market",
+    "tags": [
+      "ngoai-troi",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "33 Phan Chu Trinh, Phường 9",
+      "lat": 11.951767,
+      "lng": 108.465866
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "a059a517-379f-48c1-a5a4-c897cbc15e64",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-a3d7052c-2297-4b",
+    "slug": "banh-mi-nam-thien",
+    "name": "Bánh Mì Nam Thiên",
+    "category": "shopping",
+    "subCategory": "shopping-center",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "26 Đường Hoàng Văn Thụ",
+      "lat": 11.939723,
+      "lng": 108.425056
+    },
+    "images": [],
+    "popularity": 49,
+    "source": "overture",
+    "sourceId": "a3d7052c-2297-4bdc-afe3-af42745402ce",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-16573191-6c90-45",
+    "slug": "nha-sach-fahasa-go",
+    "name": "Nha Sach Fahasa GO",
+    "category": "shopping",
+    "subCategory": "bookstore",
+    "tags": [
+      "yen-tinh",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "GO! Đà Lạt -Quảng trường Lâm Viên",
+      "lat": 11.938447,
+      "lng": 108.444954
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "16573191-6c90-4553-bd62-4519b7026bac",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-feec173c-e200-4a",
+    "slug": "da-lat-gara-sale",
+    "name": "Đà Lạt Gara Sale",
+    "category": "shopping",
+    "subCategory": "flea-market",
+    "tags": [
+      "ngoai-troi",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "35 Đường Lý Tự Trọng",
+      "lat": 11.946398,
+      "lng": 108.438141
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "feec173c-e200-4af9-83ff-240242bb70ad",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-66f62b36-2598-49",
+    "slug": "da-lat-art-architecture-library",
+    "name": "Da Lat Art Architecture Library",
+    "category": "shopping",
+    "subCategory": "library",
+    "tags": [
+      "yen-tinh",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "85E Nguyễn Văn Trỗi",
+      "lat": 11.948353,
+      "lng": 108.437012
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "66f62b36-2598-498d-82eb-6b7872573998",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-0e59568d-99fa-40",
+    "slug": "seco-da-lat",
+    "name": "SECO Da Lat",
+    "category": "shopping",
+    "subCategory": "farmers-market",
+    "tags": [
+      "ngoai-troi",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "12 Đường Mê Linh",
+      "lat": 11.959612,
+      "lng": 108.470886
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "0e59568d-99fa-40d6-8f56-95233096fe17",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-4fc661f3-0efa-41",
+    "slug": "chong-trom-xe-may-da-lat",
+    "name": "Chống Trộm Xe Máy Đà Lạt",
+    "category": "shopping",
+    "subCategory": "flea-market",
+    "tags": [
+      "ngoai-troi",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "4 Đường Đống Đa",
+      "lat": 11.932858,
+      "lng": 108.444542
     },
     "images": [],
     "popularity": 59,
     "source": "overture",
-    "sourceId": "8a711020-4635-4d56-b16f-3b18ce153923",
+    "sourceId": "4fc661f3-0efa-4154-9bb4-1c364707c71f",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-1c478689-2bc9-41",
-    "slug": "namaste-yoga-da-lat",
-    "name": "Namaste Yoga Đà Lạt",
-    "category": "activity",
-    "subCategory": "yoga-studio",
+    "id": "ovt-d733f17b-e915-4c",
+    "slug": "ednafarm",
+    "name": "EdnaFarm",
+    "category": "shopping",
+    "subCategory": "farmers-market",
     "tags": [
-      "van-dong"
+      "ngoai-troi",
+      "mo-khuya"
     ],
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "14 Đường Mê Linh",
-      "lat": 11.958906,
-      "lng": 108.470352
-    },
-    "images": [],
-    "popularity": 64,
-    "source": "overture",
-    "sourceId": "1c478689-2bc9-4184-9850-63a4cc43a1d6",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-287cd05e-d769-41",
-    "slug": "ohana-yoga-studio-da-lat",
-    "name": "Ohana Yoga Studio Đà Lạt",
-    "category": "activity",
-    "subCategory": "gym",
-    "tags": [
-      "van-dong"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "Số 22/3 Đường An Dương Vương",
-      "lat": 11.951269,
-      "lng": 108.435143
+      "address": "503 Đường Nguyên Tử Lực",
+      "lat": 11.975328,
+      "lng": 108.452698
     },
     "images": [],
     "popularity": 58,
     "source": "overture",
-    "sourceId": "287cd05e-d769-41a2-9aff-0194760b539a",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-5d34766f-7ec3-41",
-    "slug": "anh-thu-gym-club",
-    "name": "Anh Thư Gym Club",
-    "category": "activity",
-    "subCategory": "gym",
-    "tags": [
-      "van-dong"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "31 Đường Bùi Thị Xuân",
-      "lat": 11.944649,
-      "lng": 108.439468
-    },
-    "images": [],
-    "popularity": 53,
-    "source": "overture",
-    "sourceId": "5d34766f-7ec3-414c-8a8e-a958beb63f8d",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-01b0277f-aabf-46",
-    "slug": "hoang-vu-gym-da-lat",
-    "name": "Hoàng Vũ Gym - Đà Lạt",
-    "category": "activity",
-    "subCategory": "gym",
-    "tags": [
-      "van-dong"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "3 Đ. Lê Thị Hồng Gấm",
-      "lat": 11.942644,
-      "lng": 108.437927
-    },
-    "images": [],
-    "popularity": 67,
-    "source": "overture",
-    "sourceId": "01b0277f-aabf-462f-ba01-117cc2d5e8c1",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-9007118d-aa9c-4e",
-    "slug": "sivananda-yoga-vedanta-center-dalat",
-    "name": "Sivananda Yoga Vedanta Center Dalat",
-    "category": "activity",
-    "subCategory": "yoga-studio",
-    "tags": [
-      "van-dong"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "B2-11 Khu Quy Hoạch Golf Valley",
-      "lat": 11.947115,
-      "lng": 108.441238
-    },
-    "images": [],
-    "popularity": 67,
-    "source": "overture",
-    "sourceId": "9007118d-aa9c-4e20-8a39-ead48e524412",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-64a02a6c-b110-40",
-    "slug": "pang-yo-hoi-quan-am-thuc-tay-nguyen",
-    "name": "Pàng Yô Hội Quán | Ẩm thực Tây Nguyên",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "lac-duong",
-      "address": "283 Langbiang",
-      "lat": 12.017011,
-      "lng": 108.423805
-    },
-    "images": [],
-    "popularity": 56,
-    "source": "overture",
-    "sourceId": "64a02a6c-b110-4099-9203-ecb112bdcff7",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-27c451fb-1118-42",
-    "slug": "tiem-banh-mi-ba-le",
-    "name": "Tiệm Bánh Mì Bá Lê",
-    "category": "food",
-    "subCategory": "bakery",
-    "tags": [],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "lac-duong",
-      "address": "số nhà 95 , Đường 19 tháng 5 ",
-      "lat": 12.007151,
-      "lng": 108.415314
-    },
-    "images": [],
-    "popularity": 53,
-    "source": "overture",
-    "sourceId": "27c451fb-1118-4253-81b1-64bea777d71b",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-0307c6e5-51b0-4b",
-    "slug": "babros-coffee-roaster",
-    "name": "Babros Coffee Roaster",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "lac-duong",
-      "address": "37 Duy Tan",
-      "lat": 12.011142,
-      "lng": 108.413788
-    },
-    "images": [],
-    "popularity": 53,
-    "source": "overture",
-    "sourceId": "0307c6e5-51b0-4bdd-a063-2f41ff639ccc",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-e733e725-b555-44",
-    "slug": "delight-park-dalat",
-    "name": "Delight Park Dalat",
-    "category": "family",
-    "subCategory": "amusement-park",
-    "tags": [
-      "tre-em"
-    ],
-    "location": {
-      "cityId": "da-lat",
-      "districtId": "da-lat",
-      "address": "113 Hồ Xuân Hương",
-      "lat": 11.958263,
-      "lng": 108.474396
-    },
-    "images": [],
-    "popularity": 63,
-    "source": "overture",
-    "sourceId": "e733e725-b555-4483-87d7-19f0dc6e1bd0",
+    "sourceId": "d733f17b-e915-4c9b-a47d-a0ebcf05ac52",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
@@ -3105,23 +3077,48 @@
     "updatedAt": "2026-09-12"
   },
   {
-    "id": "ovt-f3551cc6-6f1c-47",
-    "slug": "pho-hieu-langbiang",
-    "name": "Phở Hiếu Langbiang",
-    "category": "food",
-    "subCategory": "diner",
-    "tags": [],
+    "id": "ovt-5a40055e-4c6a-46",
+    "slug": "khu-du-lich-thac-datanla-datanla-waterfall",
+    "name": "Khu Du Lịch Thác Datanla - Datanla Waterfall",
+    "category": "family",
+    "subCategory": "amusement-park",
+    "tags": [
+      "tre-em"
+    ],
     "location": {
       "cityId": "da-lat",
-      "districtId": "lac-duong",
-      "address": "131 Đường Langbiang",
-      "lat": 12.009253,
-      "lng": 108.418709
+      "districtId": "da-lat",
+      "address": "3 Đường Đèo Prenn",
+      "lat": 11.902739,
+      "lng": 108.44883
     },
     "images": [],
-    "popularity": 44,
+    "popularity": 80,
     "source": "overture",
-    "sourceId": "f3551cc6-6f1c-474c-a99c-16d0f5942380",
+    "sourceId": "5a40055e-4c6a-46d4-b7b5-e2625e0ec469",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-e733e725-b555-44",
+    "slug": "delight-park-dalat",
+    "name": "Delight Park Dalat",
+    "category": "family",
+    "subCategory": "amusement-park",
+    "tags": [
+      "tre-em"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "113 Hồ Xuân Hương",
+      "lat": 11.958263,
+      "lng": 108.474396
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "e733e725-b555-4483-87d7-19f0dc6e1bd0",
     "status": "active",
     "updatedAt": "2026-09-12"
   },
@@ -3145,6 +3142,217 @@
     "popularity": 49,
     "source": "overture",
     "sourceId": "82e16f06-3eb4-4c4a-aa10-d6dd6b15a9c8",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-8e962a62-3d1e-4b",
+    "slug": "lang-biang-coffee-project",
+    "name": "Lang Biang Coffee Project",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "lac-duong",
+      "address": "37 Đường Duy Tân",
+      "lat": 12.011484,
+      "lng": 108.413811
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "8e962a62-3d1e-4bac-baaa-0aa67e59ac1e",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-1be982a8-e836-43",
+    "slug": "xe-dvdl-bi-dang",
+    "name": "Xe Dvdl Bi Đặng",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "lac-duong",
+      "address": "60 Biddoup",
+      "lat": 12.011248,
+      "lng": 108.427216
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "1be982a8-e836-43dc-b0dc-5c5218e6dd53",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-cd547e6d-7c70-49",
+    "slug": "moon-light-coffee",
+    "name": "Moon Light coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "lac-duong",
+      "address": "01 Đường Thăng Long",
+      "lat": 12.008672,
+      "lng": 108.421944
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "cd547e6d-7c70-49fa-b2de-39dc2916e4fb",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-8270aeff-dbfd-41",
+    "slug": "em-oi-cafe",
+    "name": "Em ơi cafe",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "lac-duong",
+      "address": "01 Đường Thống Nhất",
+      "lat": 12.009139,
+      "lng": 108.419731
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "8270aeff-dbfd-41bc-87b7-824a7aee460d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-0307c6e5-51b0-4b",
+    "slug": "babros-coffee-roaster",
+    "name": "Babros Coffee Roaster",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "lac-duong",
+      "address": "37 Duy Tan",
+      "lat": 12.011142,
+      "lng": 108.413788
+    },
+    "images": [],
+    "popularity": 53,
+    "source": "overture",
+    "sourceId": "0307c6e5-51b0-4bdd-a063-2f41ff639ccc",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-93a30ff5-bfd8-4c",
+    "slug": "khu-du-lich-lang-biang",
+    "name": "Khu Du Lịch Lang Biang",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "lac-duong",
+      "address": "305 Langbiang",
+      "lat": 12.019312,
+      "lng": 108.424385
+    },
+    "images": [],
+    "popularity": 78,
+    "source": "overture",
+    "sourceId": "93a30ff5-bfd8-4c74-87c0-11ec47a1f60d",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-22373eae-fb8e-46",
+    "slug": "life-in-laugh-cooking-class",
+    "name": "Life In Laugh Cooking Class",
+    "category": "activity",
+    "subCategory": "cooking-school",
+    "tags": [
+      "van-dong"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "9 Nguyễn Thị Nghĩa",
+      "lat": 11.947978,
+      "lng": 108.440323
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "22373eae-fb8e-4668-8d52-5d2eb6473480",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-342fda44-3055-47",
+    "slug": "trung-tam-van-hoa-the-thao-huyen-lac-duong",
+    "name": "Trung tâm văn hóa thể thao huyện Lạc Dương",
+    "category": "entertainment",
+    "subCategory": "cultural-center",
+    "tags": [
+      "trong-nha",
+      "nghe-thuat"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "lac-duong",
+      "address": "130 Langbiang",
+      "lat": 12.011885,
+      "lng": 108.420647
+    },
+    "images": [],
+    "popularity": 47,
+    "source": "overture",
+    "sourceId": "342fda44-3055-47b6-8868-c1fe6dec80f2",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "ovt-5aca50de-948e-46",
+    "slug": "dau-rung-langbianf",
+    "name": "Dâu Rừng LangbianF",
+    "category": "shopping",
+    "subCategory": "farmers-market",
+    "tags": [
+      "ngoai-troi",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "lac-duong",
+      "address": "Tổ Đăng Gia Rít B - Huyện Lạc Dương",
+      "lat": 12.011464,
+      "lng": 108.418976
+    },
+    "images": [],
+    "popularity": 56,
+    "source": "overture",
+    "sourceId": "5aca50de-948e-46b1-aeb2-8442ac0f61c5",
     "status": "active",
     "updatedAt": "2026-09-12"
   }

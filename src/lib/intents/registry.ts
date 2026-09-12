@@ -159,7 +159,7 @@ export const INTENTS: readonly Intent[] = [
     label: 'Hẹn hò',
     title: 'Hẹn hò ở đâu?',
     subtitle: 'Khỏi phải nghĩ nhiều.',
-    categories: ['dating', 'cafe', 'outdoor', 'entertainment', 'food', 'activity'],
+    categories: ['dating', 'cafe', 'outdoor', 'entertainment', 'food', 'activity', 'shopping'],
     accent: { from: '#8b3a86', to: '#ef4d23', on: '#ffffff' },
     resultLead: 'Rủ người ta tới đây',
     supportsItinerary: true,
@@ -205,7 +205,7 @@ export const INTENTS: readonly Intent[] = [
     label: 'Chơi gì',
     title: 'Chơi gì đây?',
     subtitle: 'Khi ngồi cafe mãi cũng chán.',
-    categories: ['entertainment', 'activity'],
+    categories: ['entertainment', 'activity', 'shopping'],
     accent: { from: '#0f9d8f', to: '#0ea5b7', on: '#ffffff' },
     resultLead: 'Thử cái này xem',
     questions: [
@@ -221,7 +221,7 @@ export const INTENTS: readonly Intent[] = [
     label: 'Đi đâu',
     title: 'Đi đâu bây giờ?',
     subtitle: 'Ra khỏi nhà đã, tính sau.',
-    categories: ['outdoor', 'dating', 'family'],
+    categories: ['outdoor', 'dating', 'family', 'shopping'],
     accent: { from: '#0f9d8f', to: '#7cb342', on: '#ffffff' },
     resultLead: 'Tụi mình chọn cho bạn',
     questions: [

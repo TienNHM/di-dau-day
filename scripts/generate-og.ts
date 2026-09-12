@@ -1,5 +1,5 @@
 import { cpus } from 'node:os';
-import { mkdir, writeFile } from 'node:fs/promises';
+import { mkdir, rm, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { OG_EXTENSION, renderBrandOgImage, renderPlaceOgImage, toJpeg } from '../src/lib/og/render';
 import { getPlaceRepository } from '../src/lib/places/static-repository';
@@ -17,6 +17,15 @@ import { getPlaceRepository } from '../src/lib/places/static-repository';
  */
 async function main() {
   const outDir = join(process.cwd(), 'public', 'og');
+  /*
+   * Cleared, not merged.
+   *
+   * These files are named by slug, so a re-import that renames or drops places leaves
+   * the old images behind — and nothing ever deletes them. One rebalanced import left
+   * 6,231 images for 4,183 places: 2,048 orphans, 66 MB, published and served to
+   * nobody, growing with every data change against a 1 GB hosting cap.
+   */
+  await rm(outDir, { recursive: true, force: true });
   await mkdir(outDir, { recursive: true });
 
   const repo = getPlaceRepository();

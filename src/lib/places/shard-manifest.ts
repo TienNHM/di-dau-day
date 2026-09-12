@@ -6,13 +6,13 @@
 import type { ShardManifest } from './shard';
 
 export const SHARD_MANIFEST: ShardManifest = {
-  'ho-chi-minh': { hash: '8e371c43', cardsHash: '0f7f9cce', placeCount: 1247 },
-  'ha-noi': { hash: '1d9e83b6', cardsHash: 'a224f9d5', placeCount: 1165 },
-  'da-nang': { hash: 'ff3653f7', cardsHash: '833fa43e', placeCount: 409 },
-  'da-lat': { hash: '00200784', cardsHash: '114b7293', placeCount: 137 },
-  'nha-trang': { hash: 'd9e74ef4', cardsHash: '9d5f32ec', placeCount: 239 },
-  'can-tho': { hash: '27e5ec3e', cardsHash: 'a4f8d655', placeCount: 191 },
-  'hue': { hash: '85ec2537', cardsHash: '82168625', placeCount: 154 },
-  'hai-phong': { hash: 'fb8f2a93', cardsHash: 'b65d4dbe', placeCount: 406 },
-  'vung-tau': { hash: '67d788e6', cardsHash: '9f1c2809', placeCount: 241 },
+  'ho-chi-minh': { hash: '53082fe7', cardsHash: '597a5d0c', placeCount: 1245 },
+  'ha-noi': { hash: '41cd0357', cardsHash: '2eb98d27', placeCount: 1154 },
+  'da-nang': { hash: 'eb5d4cd2', cardsHash: '3697b6f2', placeCount: 400 },
+  'da-lat': { hash: 'da86a33f', cardsHash: '1092d2dd', placeCount: 147 },
+  'nha-trang': { hash: '3eee943a', cardsHash: '05a12a17', placeCount: 250 },
+  'can-tho': { hash: 'cd0adb5f', cardsHash: 'c042d944', placeCount: 179 },
+  'hue': { hash: 'df204280', cardsHash: '68a4e90e', placeCount: 171 },
+  'hai-phong': { hash: '7ec57c69', cardsHash: '4212cbc2', placeCount: 389 },
+  'vung-tau': { hash: 'dbd82700', cardsHash: '8d88df62', placeCount: 247 },
 };
