@@ -1,0 +1,73 @@
+{
+  "id": "da-nang",
+  "name": "Đà Nẵng",
+  "shortName": "Đà Nẵng",
+  "slug": "da-nang",
+  "lat": 16.03462,
+  "lng": 108.20948,
+  "districts": [
+    {
+      "id": "hai-chau",
+      "name": "Quận Hải Châu",
+      "shortName": "Hải Châu",
+      "lat": 16.05895,
+      "lng": 108.21876
+    },
+    {
+      "id": "son-tra",
+      "name": "Quận Sơn Trà",
+      "shortName": "Sơn Trà",
+      "lat": 16.07335,
+      "lng": 108.23921
+    },
+    {
+      "id": "ngu-hanh-son",
+      "name": "Quận Ngũ Hành Sơn",
+      "shortName": "Ngũ Hành Sơn",
+      "lat": 16.03377,
+      "lng": 108.24585
+    },
+    {
+      "id": "thanh-khe",
+      "name": "Quận Thanh Khê",
+      "shortName": "Thanh Khê",
+      "lat": 16.06484,
+      "lng": 108.19804
+    },
+    {
+      "id": "cam-le",
+      "name": "Quận Cẩm Lệ",
+      "shortName": "Cẩm Lệ",
+      "lat": 16.02354,
+      "lng": 108.20578
+    },
+    {
+      "id": "lien-chieu",
+      "name": "Quận Liên Chiểu",
+      "shortName": "Liên Chiểu",
+      "lat": 16.07301,
+      "lng": 108.1554
+    },
+    {
+      "id": "hoa-vang",
+      "name": "Huyện Hòa Vang",
+      "shortName": "Hòa Vang",
+      "lat": 15.99619,
+      "lng": 108.16421
+    },
+    {
+      "id": "dien-ban",
+      "name": "Thị xã Điện Bàn",
+      "shortName": "Điện Bàn",
+      "lat": 15.94073,
+      "lng": 108.25614
+    },
+    {
+      "id": "da-nang",
+      "name": "Da Nang",
+      "shortName": "Da Nang",
+      "lat": 16.04724,
+      "lng": 108.20194
+    }
+  ]
+}

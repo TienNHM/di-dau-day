@@ -11,6 +11,7 @@
     "avgPrice": 350000,
     "durationMinutes": [300, 480],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "thu-duc",
       "address": "120 Xa lộ Hà Nội, Tân Phú, TP. Thủ Đức",
       "lat": 10.8677,
@@ -38,6 +39,7 @@
     "avgPrice": 30000,
     "durationMinutes": [90, 150],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-1",
       "address": "2 Nguyễn Bỉnh Khiêm, P. Bến Nghé, Quận 1",
       "lat": 10.784849,
@@ -65,6 +67,7 @@
     "avgPrice": 50000,
     "durationMinutes": [90, 180],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-3",
       "address": "36 Lê Quý Đôn, P.7, Quận 3",
       "lat": 10.7823,
@@ -93,6 +96,7 @@
     "avgPrice": 320000,
     "durationMinutes": [180, 300],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-4",
       "address": "quận 4, TP.HCM",
       "lat": 10.7571,
@@ -120,6 +124,7 @@
     "avgPrice": 200000,
     "durationMinutes": [60, 120],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "thu-duc",
       "address": "Vincom Mega Mall Thảo Điền, TP. Thủ Đức",
       "lat": 10.8028,
@@ -148,6 +153,7 @@
     "avgPrice": 250000,
     "durationMinutes": [240, 420],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "cu-chi",
       "address": "Củ Chi, TP.HCM",
       "lat": 10.9702,
@@ -175,6 +181,7 @@
     "avgPrice": 0,
     "durationMinutes": [45, 90],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-4",
       "address": "Hoàng Diệu, P.8, Quận 4",
       "lat": 10.7591,
@@ -203,6 +210,7 @@
     "avgPrice": 350000,
     "durationMinutes": [120, 240],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "binh-thanh",
       "address": "720A Điện Biên Phủ, P.22, Bình Thạnh",
       "lat": 10.7943,
@@ -230,6 +238,7 @@
     "avgPrice": 100000,
     "durationMinutes": [90, 150],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "thu-duc",
       "address": "206/19/30 Long Thuận, Long Phước, TP. Thủ Đức",
       "lat": 10.8422,
@@ -257,6 +266,7 @@
     "avgPrice": 120000,
     "durationMinutes": [120, 240],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "binh-thanh",
       "address": "48/10 Điện Biên Phủ, P.22, Bình Thạnh",
       "lat": 10.79777,

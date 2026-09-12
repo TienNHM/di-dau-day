@@ -1,0 +1,80 @@
+{
+  "id": "hai-phong",
+  "name": "Hải Phòng",
+  "shortName": "Hải Phòng",
+  "slug": "hai-phong",
+  "lat": 20.84867,
+  "lng": 106.66046,
+  "districts": [
+    {
+      "id": "le-chan",
+      "name": "Quận Lê Chân",
+      "shortName": "Lê Chân",
+      "lat": 20.8443,
+      "lng": 106.67933
+    },
+    {
+      "id": "ngo-quyen",
+      "name": "Quận Ngô Quyền",
+      "shortName": "Ngô Quyền",
+      "lat": 20.85115,
+      "lng": 106.69518
+    },
+    {
+      "id": "hong-bang",
+      "name": "Quận Hồng Bàng",
+      "shortName": "Hồng Bàng",
+      "lat": 20.86458,
+      "lng": 106.66561
+    },
+    {
+      "id": "hai-an",
+      "name": "Quận Hải An",
+      "shortName": "Hải An",
+      "lat": 20.83855,
+      "lng": 106.71217
+    },
+    {
+      "id": "an-duong",
+      "name": "Huyện An Dương",
+      "shortName": "An Dương",
+      "lat": 20.86797,
+      "lng": 106.61355
+    },
+    {
+      "id": "thuy-nguyen",
+      "name": "Huyện Thủy Nguyên",
+      "shortName": "Thủy Nguyên",
+      "lat": 20.90928,
+      "lng": 106.6771
+    },
+    {
+      "id": "kien-an",
+      "name": "Quận Kiến An",
+      "shortName": "Kiến An",
+      "lat": 20.81498,
+      "lng": 106.63749
+    },
+    {
+      "id": "duong-kinh",
+      "name": "Quận Dương Kinh",
+      "shortName": "Dương Kinh",
+      "lat": 20.80208,
+      "lng": 106.69314
+    },
+    {
+      "id": "an-lao",
+      "name": "Huyện An Lão",
+      "shortName": "An Lão",
+      "lat": 20.82334,
+      "lng": 106.56763
+    },
+    {
+      "id": "hai-phong",
+      "name": "Hai Phong",
+      "shortName": "Hai Phong",
+      "lat": 20.8705,
+      "lng": 106.66343
+    }
+  ]
+}

@@ -1,20 +1,81 @@
 {
   "id": "ho-chi-minh",
   "name": "TP. Hồ Chí Minh",
+  "shortName": "TP.HCM",
   "slug": "tp-ho-chi-minh",
   "lat": 10.7769,
   "lng": 106.7009,
   "districts": [
-    { "id": "quan-1", "name": "Quận 1", "shortName": "Quận 1", "lat": 10.7769, "lng": 106.7009 },
-    { "id": "quan-3", "name": "Quận 3", "shortName": "Quận 3", "lat": 10.784, "lng": 106.685 },
-    { "id": "quan-4", "name": "Quận 4", "shortName": "Quận 4", "lat": 10.7578, "lng": 106.705 },
-    { "id": "quan-5", "name": "Quận 5", "shortName": "Quận 5", "lat": 10.754, "lng": 106.663 },
-    { "id": "quan-6", "name": "Quận 6", "shortName": "Quận 6", "lat": 10.746, "lng": 106.635 },
-    { "id": "quan-7", "name": "Quận 7", "shortName": "Quận 7", "lat": 10.734, "lng": 106.722 },
-    { "id": "quan-8", "name": "Quận 8", "shortName": "Quận 8", "lat": 10.724, "lng": 106.628 },
-    { "id": "quan-10", "name": "Quận 10", "shortName": "Quận 10", "lat": 10.773, "lng": 106.667 },
-    { "id": "quan-11", "name": "Quận 11", "shortName": "Quận 11", "lat": 10.764, "lng": 106.65 },
-    { "id": "quan-12", "name": "Quận 12", "shortName": "Quận 12", "lat": 10.867, "lng": 106.654 },
+    {
+      "id": "quan-1",
+      "name": "Quận 1",
+      "shortName": "Quận 1",
+      "lat": 10.7769,
+      "lng": 106.7009
+    },
+    {
+      "id": "quan-3",
+      "name": "Quận 3",
+      "shortName": "Quận 3",
+      "lat": 10.784,
+      "lng": 106.685
+    },
+    {
+      "id": "quan-4",
+      "name": "Quận 4",
+      "shortName": "Quận 4",
+      "lat": 10.7578,
+      "lng": 106.705
+    },
+    {
+      "id": "quan-5",
+      "name": "Quận 5",
+      "shortName": "Quận 5",
+      "lat": 10.754,
+      "lng": 106.663
+    },
+    {
+      "id": "quan-6",
+      "name": "Quận 6",
+      "shortName": "Quận 6",
+      "lat": 10.746,
+      "lng": 106.635
+    },
+    {
+      "id": "quan-7",
+      "name": "Quận 7",
+      "shortName": "Quận 7",
+      "lat": 10.734,
+      "lng": 106.722
+    },
+    {
+      "id": "quan-8",
+      "name": "Quận 8",
+      "shortName": "Quận 8",
+      "lat": 10.724,
+      "lng": 106.628
+    },
+    {
+      "id": "quan-10",
+      "name": "Quận 10",
+      "shortName": "Quận 10",
+      "lat": 10.773,
+      "lng": 106.667
+    },
+    {
+      "id": "quan-11",
+      "name": "Quận 11",
+      "shortName": "Quận 11",
+      "lat": 10.764,
+      "lng": 106.65
+    },
+    {
+      "id": "quan-12",
+      "name": "Quận 12",
+      "shortName": "Quận 12",
+      "lat": 10.867,
+      "lng": 106.654
+    },
     {
       "id": "binh-thanh",
       "name": "Quận Bình Thạnh",

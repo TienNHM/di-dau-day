@@ -11,6 +11,7 @@
     "avgPrice": 120000,
     "durationMinutes": [120, 180],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-1",
       "address": "72 Lê Thánh Tôn, P. Bến Nghé, Quận 1",
       "lat": 10.777928,
@@ -39,6 +40,7 @@
     "avgPrice": 130000,
     "durationMinutes": [120, 180],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-1",
       "address": "2 Hải Triều, P. Bến Nghé, Quận 1",
       "lat": 10.7718,
@@ -67,6 +69,7 @@
     "avgPrice": 180000,
     "durationMinutes": [90, 150],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "tan-binh",
       "address": "A43 Trường Sơn, P.4, Tân Bình",
       "lat": 10.811071,
@@ -95,6 +98,7 @@
     "avgPrice": 200000,
     "durationMinutes": [60, 120],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-10",
       "address": "11 Sư Vạn Hạnh, P.12, Quận 10",
       "lat": 10.7723,
@@ -124,6 +128,7 @@
     "avgPrice": 90000,
     "durationMinutes": [120, 240],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-1",
       "address": "Khu Bùi Viện – Cô Bắc, Quận 1",
       "lat": 10.7654,
@@ -153,6 +158,7 @@
     "avgPrice": 200000,
     "durationMinutes": [60, 120],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-3",
       "address": "Khu Võ Văn Tần – Nguyễn Đình Chiểu, Quận 3",
       "lat": 10.7768,
@@ -181,6 +187,7 @@
     "avgPrice": 180000,
     "durationMinutes": [120, 180],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "phu-nhuan",
       "address": "Phan Xích Long, Phú Nhuận",
       "lat": 10.798116,
@@ -210,6 +217,7 @@
     "avgPrice": 80000,
     "durationMinutes": [60, 150],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "phu-nhuan",
       "address": "Phan Xích Long, Phú Nhuận",
       "lat": 10.798517,
@@ -238,6 +246,7 @@
     "avgPrice": 220000,
     "durationMinutes": [180, 300],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-11",
       "address": "3 Hòa Bình, P.3, Quận 11",
       "lat": 10.7669,
@@ -266,6 +275,7 @@
     "avgPrice": 250000,
     "durationMinutes": [120, 150],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-1",
       "address": "28 Lê Thánh Tôn, P. Bến Nghé, Quận 1",
       "lat": 10.7809,
@@ -296,6 +306,7 @@
     "avgPrice": 700000,
     "durationMinutes": [90, 120],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-1",
       "address": "7 Công trường Lam Sơn, P. Bến Nghé, Quận 1",
       "lat": 10.7769,
@@ -324,6 +335,7 @@
     "avgPrice": 250000,
     "durationMinutes": [90, 240],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-1",
       "address": "Bùi Viện, P. Phạm Ngũ Lão, Quận 1",
       "lat": 10.766794,
@@ -352,6 +364,7 @@
     "avgPrice": 200000,
     "durationMinutes": [120, 180],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-3",
       "address": "6E1 Ngô Thời Nhiệm, P.7, Quận 3",
       "lat": 10.781224,
@@ -380,6 +393,7 @@
     "avgPrice": 250000,
     "durationMinutes": [120, 240],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "thu-duc",
       "address": "161 Xa lộ Hà Nội, Thảo Điền, TP. Thủ Đức",
       "lat": 10.800545,

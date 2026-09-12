@@ -1,10 +1,11 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
+import { CityPicker } from '@/components/city/CityPicker';
 import { IntentCard } from '@/components/intent/IntentCard';
 import { PageShell } from '@/components/ui/PageShell';
 import { INTENTS } from '@/lib/intents/registry';
 import { getPlaceRepository } from '@/lib/places/static-repository';
-import { absoluteUrl, DEFAULT_CITY_ID, SITE_TAGLINE } from '@/lib/site';
+import { absoluteUrl, SITE_TAGLINE } from '@/lib/site';
 
 /**
  * Landing. One job: get the user into an intent in a single tap.
@@ -21,15 +22,19 @@ export const metadata: Metadata = {
 
 export default async function HomePage() {
   const repo = getPlaceRepository();
-  const city = await repo.getCity(DEFAULT_CITY_ID);
-  const places = await repo.listPlaces({ cityId: DEFAULT_CITY_ID });
+  const [cities, places] = await Promise.all([repo.listCities(), repo.listPlaces()]);
+
+  // Only offer cities that actually have places — a picker entry that leads nowhere
+  // is worse than a shorter list.
+  const withPlaces = new Set(places.map((place) => place.location.cityId));
+  const available = cities.filter((city) => withPlaces.has(city.id));
 
   const populated = new Set(places.map((place) => place.category));
 
   return (
     <PageShell>
       <main className="flex flex-1 flex-col justify-center py-10">
-        <p className="text-sm font-semibold text-ink-soft">📍 {city?.name ?? 'TP. Hồ Chí Minh'}</p>
+        <CityPicker cities={available} />
 
         <h1 className="mt-4 text-5xl leading-[0.95] font-extrabold tracking-tight text-balance sm:text-6xl">
           Đi đâu
@@ -53,7 +58,9 @@ export default async function HomePage() {
       </main>
 
       <footer className="flex flex-wrap items-center gap-x-4 gap-y-2 border-t border-line py-6 text-sm text-ink-faint">
-        <span>{places.length} địa điểm ở TP.HCM</span>
+        <span>
+          {places.length} địa điểm · {available.length} thành phố
+        </span>
         <span aria-hidden>·</span>
         <Link className="underline-offset-4 hover:text-ink hover:underline" href="/ve-chung-toi">
           Về tụi mình

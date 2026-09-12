@@ -42,6 +42,17 @@ type Component = { readonly points: number; readonly max: number };
 
 const NOT_ASKED: Component = { points: 0, max: 0 };
 
+/**
+ * Credit given when the user asked about something the place has no data for.
+ *
+ * Imported places carry no price or companion information. Scoring them zero would
+ * bury every one of them beneath the hand-curated few; scoring them full would let
+ * unknowns outrank places we know actually fit. Half is the honest answer: the
+ * question still counts, and the place is neither rewarded nor punished for a gap
+ * in our data rather than a property of the place itself.
+ */
+const UNKNOWN_RATIO = 0.5;
+
 export type ScoreBreakdown = {
   readonly category: Component;
   readonly companion: Component;
@@ -72,6 +83,8 @@ function scoreCategory(place: PlaceSummary, criteria: Criteria): Component {
 
 function scoreCompanion(place: PlaceSummary, criteria: Criteria): Component {
   if (!criteria.companion) return NOT_ASKED;
+  if (!place.goodFor) return { points: UNKNOWN_RATIO * WEIGHTS.companion, max: WEIGHTS.companion };
+
   return {
     points: place.goodFor.includes(criteria.companion) ? WEIGHTS.companion : 0,
     max: WEIGHTS.companion,
@@ -95,6 +108,7 @@ function scoreTags(place: PlaceSummary, criteria: Criteria): Component {
  */
 function scoreBudget(place: PlaceSummary, criteria: Criteria): Component {
   if (!criteria.budget) return NOT_ASKED;
+  if (!place.priceRange) return { points: UNKNOWN_RATIO * WEIGHTS.budget, max: WEIGHTS.budget };
 
   const wanted = PRICE_RANGES.indexOf(criteria.budget);
   const actual = PRICE_RANGES.indexOf(place.priceRange);

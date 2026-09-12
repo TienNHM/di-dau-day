@@ -1,0 +1,24 @@
+{
+  "id": "da-lat",
+  "name": "Đà Lạt",
+  "shortName": "Đà Lạt",
+  "slug": "da-lat",
+  "lat": 11.978,
+  "lng": 108.43129,
+  "districts": [
+    {
+      "id": "da-lat",
+      "name": "Đà Lạt",
+      "shortName": "Đà Lạt",
+      "lat": 11.94483,
+      "lng": 108.44196
+    },
+    {
+      "id": "lac-duong",
+      "name": "Huyện Lạc Dương",
+      "shortName": "Lạc Dương",
+      "lat": 12.01117,
+      "lng": 108.42061
+    }
+  ]
+}

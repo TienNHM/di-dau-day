@@ -1,0 +1,38 @@
+{
+  "id": "hue",
+  "name": "Huế",
+  "shortName": "Huế",
+  "slug": "hue",
+  "lat": 16.47147,
+  "lng": 107.59495,
+  "districts": [
+    {
+      "id": "hue",
+      "name": "Huế",
+      "shortName": "Huế",
+      "lat": 16.46445,
+      "lng": 107.58773
+    },
+    {
+      "id": "huong-thuy",
+      "name": "Thị Xã Hương Thủy",
+      "shortName": "Hương Thủy",
+      "lat": 16.43073,
+      "lng": 107.63806
+    },
+    {
+      "id": "phu-vang",
+      "name": "Huyện Phú Vang",
+      "shortName": "Phú Vang",
+      "lat": 16.50714,
+      "lng": 107.61766
+    },
+    {
+      "id": "huong-tra",
+      "name": "Thị Xã Hương Trà",
+      "shortName": "Hương Trà",
+      "lat": 16.48358,
+      "lng": 107.53635
+    }
+  ]
+}

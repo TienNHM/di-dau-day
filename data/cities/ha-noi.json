@@ -1,0 +1,185 @@
+{
+  "id": "ha-noi",
+  "name": "Hà Nội",
+  "shortName": "Hà Nội",
+  "slug": "ha-noi",
+  "lat": 21.02037,
+  "lng": 105.83613,
+  "districts": [
+    {
+      "id": "dong-da",
+      "name": "Quận Đống Đa",
+      "shortName": "Đống Đa",
+      "lat": 21.01529,
+      "lng": 105.82463
+    },
+    {
+      "id": "cau-giay",
+      "name": "Quận Cầu Giấy",
+      "shortName": "Cầu Giấy",
+      "lat": 21.02938,
+      "lng": 105.79378
+    },
+    {
+      "id": "hoan-kiem",
+      "name": "Quận Hoàn Kiếm",
+      "shortName": "Hoàn Kiếm",
+      "lat": 21.03073,
+      "lng": 105.84977
+    },
+    {
+      "id": "hai-ba-trung",
+      "name": "Quận Hai Bà Trưng",
+      "shortName": "Hai Bà Trưng",
+      "lat": 21.00819,
+      "lng": 105.85345
+    },
+    {
+      "id": "ba-dinh",
+      "name": "Quận Ba Đình",
+      "shortName": "Ba Đình",
+      "lat": 21.03386,
+      "lng": 105.8235
+    },
+    {
+      "id": "ha-dong",
+      "name": "Quận Hà Đông",
+      "shortName": "Hà Đông",
+      "lat": 20.97272,
+      "lng": 105.77408
+    },
+    {
+      "id": "hoang-mai",
+      "name": "Quận Hoàng Mai",
+      "shortName": "Hoàng Mai",
+      "lat": 20.97994,
+      "lng": 105.84618
+    },
+    {
+      "id": "nam-tu-liem",
+      "name": "Quận Nam Từ Liêm",
+      "shortName": "Nam Từ Liêm",
+      "lat": 21.01515,
+      "lng": 105.77211
+    },
+    {
+      "id": "thanh-xuan",
+      "name": "Quận Thanh Xuân",
+      "shortName": "Thanh Xuân",
+      "lat": 20.99683,
+      "lng": 105.81144
+    },
+    {
+      "id": "long-bien",
+      "name": "Quận Long Biên",
+      "shortName": "Long Biên",
+      "lat": 21.0452,
+      "lng": 105.88783
+    },
+    {
+      "id": "tay-ho",
+      "name": "Quận Tây Hồ",
+      "shortName": "Tây Hồ",
+      "lat": 21.0603,
+      "lng": 105.8222
+    },
+    {
+      "id": "bac-tu-liem",
+      "name": "Quận Bắc Từ Liêm",
+      "shortName": "Bắc Từ Liêm",
+      "lat": 21.06136,
+      "lng": 105.77558
+    },
+    {
+      "id": "gia-lam",
+      "name": "Huyện Gia Lâm",
+      "shortName": "Gia Lâm",
+      "lat": 21.01429,
+      "lng": 105.93747
+    },
+    {
+      "id": "thanh-tri",
+      "name": "Huyện Thanh Trì",
+      "shortName": "Thanh Trì",
+      "lat": 20.95157,
+      "lng": 105.8301
+    },
+    {
+      "id": "tu-son",
+      "name": "Thị Xã Từ Sơn",
+      "shortName": "Từ Sơn",
+      "lat": 21.11728,
+      "lng": 105.9599
+    },
+    {
+      "id": "dong-anh",
+      "name": "Huyện Đông Anh",
+      "shortName": "Đông Anh",
+      "lat": 21.12052,
+      "lng": 105.82946
+    },
+    {
+      "id": "van-giang",
+      "name": "Huyện Văn Giang",
+      "shortName": "Văn Giang",
+      "lat": 20.95256,
+      "lng": 105.94306
+    },
+    {
+      "id": "hoai-duc",
+      "name": "Huyện Hoài Đức",
+      "shortName": "Hoài Đức",
+      "lat": 21.02637,
+      "lng": 105.72322
+    },
+    {
+      "id": "tien-du",
+      "name": "Huyện Tiên Du",
+      "shortName": "Tiên Du",
+      "lat": 21.10006,
+      "lng": 105.99115
+    },
+    {
+      "id": "dan-phuong",
+      "name": "Huyện Đan Phượng",
+      "shortName": "Đan Phượng",
+      "lat": 21.08764,
+      "lng": 105.71184
+    },
+    {
+      "id": "hanoi",
+      "name": "Hanoi",
+      "shortName": "Hanoi",
+      "lat": 21.03055,
+      "lng": 105.83902
+    },
+    {
+      "id": "thanh-oai",
+      "name": "Huyện Thanh Oai",
+      "shortName": "Thanh Oai",
+      "lat": 20.93467,
+      "lng": 105.78405
+    },
+    {
+      "id": "chuong-my",
+      "name": "Huyện Chương Mỹ",
+      "shortName": "Chương Mỹ",
+      "lat": 20.92671,
+      "lng": 105.71098
+    },
+    {
+      "id": "van-lam",
+      "name": "Huyện Văn Lâm",
+      "shortName": "Văn Lâm",
+      "lat": 20.97999,
+      "lng": 105.98054
+    },
+    {
+      "id": "ha-noi",
+      "name": "Hà Nội",
+      "shortName": "Hà Nội",
+      "lat": 21.01817,
+      "lng": 105.82795
+    }
+  ]
+}

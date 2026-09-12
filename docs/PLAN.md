@@ -350,7 +350,7 @@ Nguồn dữ liệu: **Overture Maps Places** (CDLA-Permissive-2.0, không share
 Chi tiết và lý do không dùng OSM/Google ở [`docs/DATA-SOURCES.md`](DATA-SOURCES.md).
 
 - [x] **3.1** Pipeline Overture: `data:fetch` → `data:verify` → `data:apply`
-- [ ] **3.2** Đa thành phố trong data model + city picker
+- [x] **3.2** Đa thành phố trong data model + city picker + URL `/thanh-pho/[city]/[district]`
 - [ ] **3.3** Shard dữ liệu theo thành phố + cache IndexedDB
 - [ ] **3.4** Chấm điểm trong Web Worker (giữ animation mượt khi có hàng nghìn địa điểm)
 - [ ] **3.5** Result card degrade khi thiếu `editorialNote`

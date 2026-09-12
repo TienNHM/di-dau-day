@@ -1,4 +1,12 @@
+import canThoRaw from '@data/cities/can-tho.json';
+import daLatRaw from '@data/cities/da-lat.json';
+import daNangRaw from '@data/cities/da-nang.json';
+import haNoiRaw from '@data/cities/ha-noi.json';
+import haiPhongRaw from '@data/cities/hai-phong.json';
 import hoChiMinhRaw from '@data/cities/ho-chi-minh.json';
+import hueRaw from '@data/cities/hue.json';
+import nhaTrangRaw from '@data/cities/nha-trang.json';
+import vungTauRaw from '@data/cities/vung-tau.json';
 import activityRaw from '@data/places/activity.json';
 import cafeRaw from '@data/places/cafe.json';
 import datingRaw from '@data/places/dating.json';
@@ -18,7 +26,19 @@ import type { City, District, Place } from './types';
  * never reach production, where it would just quietly never match anything.
  */
 
-const SOURCES = [
+const CITY_SOURCES = [
+  ['data/cities/ho-chi-minh.json', hoChiMinhRaw],
+  ['data/cities/ha-noi.json', haNoiRaw],
+  ['data/cities/da-nang.json', daNangRaw],
+  ['data/cities/da-lat.json', daLatRaw],
+  ['data/cities/nha-trang.json', nhaTrangRaw],
+  ['data/cities/can-tho.json', canThoRaw],
+  ['data/cities/hue.json', hueRaw],
+  ['data/cities/hai-phong.json', haiPhongRaw],
+  ['data/cities/vung-tau.json', vungTauRaw],
+] as const;
+
+const PLACE_SOURCES = [
   ['data/places/food.json', foodRaw],
   ['data/places/cafe.json', cafeRaw],
   ['data/places/entertainment.json', entertainmentRaw],
@@ -32,7 +52,7 @@ let citiesCache: City[] | null = null;
 let placesCache: Place[] | null = null;
 
 function loadCities(): City[] {
-  citiesCache ??= [parseCity(hoChiMinhRaw, 'data/cities/ho-chi-minh.json')];
+  citiesCache ??= CITY_SOURCES.map(([source, raw]) => parseCity(raw, source));
   return citiesCache;
 }
 
@@ -40,14 +60,13 @@ function loadPlaces(): Place[] {
   if (placesCache) return placesCache;
 
   const cities = loadCities();
-  const city = cities[0];
-  if (!city) throw new Error('Không có thành phố nào trong seed data');
+  if (cities.length === 0) throw new Error('Không có thành phố nào trong seed data');
 
   const all: Place[] = [];
   const seenSlugs = new Map<string, string>();
 
-  for (const [source, raw] of SOURCES) {
-    for (const place of parsePlaces(raw, source, city)) {
+  for (const [source, raw] of PLACE_SOURCES) {
+    for (const place of parsePlaces(raw, source, cities)) {
       // parsePlaces guarantees uniqueness within a file; this catches collisions
       // across files, which is the likelier mistake when a place is recategorised.
       const previous = seenSlugs.get(place.slug);
@@ -74,6 +93,10 @@ export class StaticPlaceRepository implements PlaceRepository {
 
   async listPlaces(filter: PlaceFilter = {}): Promise<Place[]> {
     let places = loadPlaces().filter((place) => place.status === 'active');
+
+    if (filter.cityId) {
+      places = places.filter((place) => place.location.cityId === filter.cityId);
+    }
 
     if (filter.categories && filter.categories.length > 0) {
       const wanted = new Set(filter.categories);

@@ -1,0 +1,17 @@
+{
+  "id": "nha-trang",
+  "name": "Nha Trang",
+  "shortName": "Nha Trang",
+  "slug": "nha-trang",
+  "lat": 12.24775,
+  "lng": 109.18966,
+  "districts": [
+    {
+      "id": "nha-trang",
+      "name": "Nha Trang",
+      "shortName": "Nha Trang",
+      "lat": 12.24775,
+      "lng": 109.18966
+    }
+  ]
+}

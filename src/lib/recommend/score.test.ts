@@ -11,6 +11,7 @@ function place(overrides: Partial<PlaceSummary> = {}): PlaceSummary {
     tags: ['chill'],
     goodFor: ['ban-be'],
     priceRange: '100-300k',
+    cityId: 'ho-chi-minh',
     districtId: 'quan-1',
     lat: 10.7769,
     lng: 106.7009,
@@ -148,5 +149,30 @@ describe('applySponsoredBoost', () => {
       scorePlace(place({ category: 'food', isSponsored: true }), { categories: ['cafe'] }),
     );
     expect(sponsoredButWrong.score).toBeLessThan(relevant.score);
+  });
+});
+
+describe('places with missing data', () => {
+  it('gives half credit for a companion the place has no data about', () => {
+    const withoutData = scorePlace(place({ goodFor: undefined }), { companion: 'nguoi-yeu' });
+    expect(withoutData.breakdown.companion.points).toBe(WEIGHTS.companion * 0.5);
+  });
+
+  it('gives half credit for a budget the place has no data about', () => {
+    const withoutData = scorePlace(place({ priceRange: undefined }), { budget: '100-300k' });
+    expect(withoutData.breakdown.budget.points).toBe(WEIGHTS.budget * 0.5);
+  });
+
+  it('ranks a known match above an unknown, and an unknown above a known mismatch', () => {
+    const criteria = { companion: 'nguoi-yeu', budget: '100-300k' } as const;
+
+    const match = scorePlace(place({ goodFor: ['nguoi-yeu'], priceRange: '100-300k' }), criteria);
+    const unknown = scorePlace(place({ goodFor: undefined, priceRange: undefined }), criteria);
+    const mismatch = scorePlace(place({ goodFor: ['gia-dinh'], priceRange: 'over-500k' }), criteria);
+
+    // This ordering is the whole point: imported places stay in play without
+    // displacing places we actually know suit the request.
+    expect(match.score).toBeGreaterThan(unknown.score);
+    expect(unknown.score).toBeGreaterThan(mismatch.score);
   });
 });

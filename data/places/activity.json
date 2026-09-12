@@ -11,6 +11,7 @@
     "avgPrice": 400000,
     "durationMinutes": [120, 180],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "thu-duc",
       "address": "Khu Thảo Điền, TP. Thủ Đức",
       "lat": 10.8051,
@@ -39,6 +40,7 @@
     "avgPrice": 700000,
     "durationMinutes": [180, 240],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-1",
       "address": "Khu Đa Kao, Quận 1",
       "lat": 10.7901,
@@ -66,6 +68,7 @@
     "avgPrice": 220000,
     "durationMinutes": [90, 150],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-10",
       "address": "Khu Sư Vạn Hạnh, Quận 10",
       "lat": 10.772104,
@@ -93,6 +96,7 @@
     "avgPrice": 280000,
     "durationMinutes": [120, 180],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-3",
       "address": "Khu Võ Văn Tần, Quận 3",
       "lat": 10.7757,
@@ -120,6 +124,7 @@
     "avgPrice": 80000,
     "durationMinutes": [60, 90],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-1",
       "address": "Công viên Tao Đàn, Quận 1",
       "lat": 10.7761,
@@ -149,6 +154,7 @@
     "avgPrice": 300000,
     "durationMinutes": [90, 120],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "phu-nhuan",
       "address": "Khu Phan Xích Long, Phú Nhuận",
       "lat": 10.8007,
@@ -176,6 +182,7 @@
     "avgPrice": 0,
     "durationMinutes": [45, 90],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-7",
       "address": "Khu Phú Mỹ Hưng, Quận 7",
       "lat": 10.733107,
@@ -203,6 +210,7 @@
     "avgPrice": 100000,
     "durationMinutes": [60, 90],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "binh-thanh",
       "address": "Khu Điện Biên Phủ, Bình Thạnh",
       "lat": 10.8016,
@@ -231,6 +239,7 @@
     "avgPrice": 90000,
     "durationMinutes": [120, 240],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-5",
       "address": "Khu Chợ Lớn, Quận 5",
       "lat": 10.7539,
@@ -258,6 +267,7 @@
     "avgPrice": 350000,
     "durationMinutes": [120, 180],
     "location": {
+      "cityId": "ho-chi-minh",
       "districtId": "quan-10",
       "address": "Khu Cao Thắng, Quận 10",
       "lat": 10.7726,

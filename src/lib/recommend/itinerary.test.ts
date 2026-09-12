@@ -11,6 +11,7 @@ function place(id: string, category: Category, overrides: Partial<PlaceSummary> 
     tags: [],
     goodFor: ['nguoi-yeu'],
     priceRange: '100-300k',
+    cityId: 'ho-chi-minh',
     districtId: 'quan-1',
     lat: 10.7769,
     lng: 106.7009,

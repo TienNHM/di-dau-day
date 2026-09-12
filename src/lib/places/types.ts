@@ -125,6 +125,14 @@ export type OpeningHours = {
 };
 
 export type PlaceLocation = {
+  /**
+   * Stored explicitly rather than derived from the district.
+   *
+   * District ids are only unique within a city — "quan-1" means something in both
+   * TP.HCM and Đà Nẵng — so a place that carried only a district would be ambiguous
+   * the moment a second city existed.
+   */
+  readonly cityId: string;
   readonly districtId: string;
   readonly address: string;
   readonly lat: number;
@@ -162,8 +170,16 @@ export type Place = {
   readonly category: Category;
   readonly subCategory?: string;
   readonly tags: readonly Tag[];
-  readonly goodFor: readonly Companion[];
-  readonly priceRange: PriceRange;
+  /**
+   * Optional because imported places have no such data.
+   *
+   * No open dataset records who a place suits or what it costs, and guessing from
+   * the category would be fabrication dressed as data. Missing means unknown: the
+   * scorer gives partial credit rather than rewarding or punishing the place, and
+   * the UI says the information is missing instead of inventing it.
+   */
+  readonly goodFor?: readonly Companion[];
+  readonly priceRange?: PriceRange;
   /** VND per person. Only used to render "~150K"; scoring uses the bracket. */
   readonly avgPrice?: number;
   readonly durationMinutes?: readonly [min: number, max: number];
@@ -196,10 +212,11 @@ export type PlaceSummary = {
   readonly shortName?: string;
   readonly category: Category;
   readonly tags: readonly Tag[];
-  readonly goodFor: readonly Companion[];
-  readonly priceRange: PriceRange;
+  readonly goodFor?: readonly Companion[];
+  readonly priceRange?: PriceRange;
   readonly avgPrice?: number;
   readonly durationMinutes?: readonly [min: number, max: number];
+  readonly cityId: string;
   readonly districtId: string;
   readonly lat: number;
   readonly lng: number;
@@ -209,6 +226,7 @@ export type PlaceSummary = {
 };
 
 export type District = {
+  /** Unique within its city, not globally. URLs therefore carry the city too. */
   readonly id: string;
   readonly name: string;
   /** "Bình Thạnh" — used on the result card, where "Quận Bình Thạnh" is too long. */
@@ -220,6 +238,8 @@ export type District = {
 export type City = {
   readonly id: string;
   readonly name: string;
+  /** Short label for the city picker, e.g. "TP.HCM". */
+  readonly shortName: string;
   readonly slug: string;
   readonly lat: number;
   readonly lng: number;
@@ -235,10 +255,11 @@ export function toPlaceSummary(place: Place): PlaceSummary {
     ...(place.shortName === undefined ? {} : { shortName: place.shortName }),
     category: place.category,
     tags: place.tags,
-    goodFor: place.goodFor,
-    priceRange: place.priceRange,
+    ...(place.goodFor === undefined ? {} : { goodFor: place.goodFor }),
+    ...(place.priceRange === undefined ? {} : { priceRange: place.priceRange }),
     ...(place.avgPrice === undefined ? {} : { avgPrice: place.avgPrice }),
     ...(place.durationMinutes === undefined ? {} : { durationMinutes: place.durationMinutes }),
+    cityId: place.location.cityId,
     districtId: place.location.districtId,
     lat: place.location.lat,
     lng: place.location.lng,

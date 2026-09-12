@@ -1,0 +1,52 @@
+{
+  "id": "can-tho",
+  "name": "Cần Thơ",
+  "shortName": "Cần Thơ",
+  "slug": "can-tho",
+  "lat": 10.04498,
+  "lng": 105.74802,
+  "districts": [
+    {
+      "id": "ninh-kieu",
+      "name": "Quận Ninh Kiều",
+      "shortName": "Ninh Kiều",
+      "lat": 10.03315,
+      "lng": 105.77111
+    },
+    {
+      "id": "cai-rang",
+      "name": "Quận Cái Răng",
+      "shortName": "Cái Răng",
+      "lat": 10.0077,
+      "lng": 105.77711
+    },
+    {
+      "id": "binh-thuy",
+      "name": "Quận Bình Thủy",
+      "shortName": "Bình Thủy",
+      "lat": 10.06232,
+      "lng": 105.74697
+    },
+    {
+      "id": "binh-minh",
+      "name": "Bình Minh",
+      "shortName": "Bình Minh",
+      "lat": 10.06572,
+      "lng": 105.81943
+    },
+    {
+      "id": "phong-dien",
+      "name": "Huyện Phong Điền",
+      "shortName": "Phong Điền",
+      "lat": 9.99713,
+      "lng": 105.69045
+    },
+    {
+      "id": "o-mon",
+      "name": "Quận Ô Môn",
+      "shortName": "Ô Môn",
+      "lat": 10.10389,
+      "lng": 105.68303
+    }
+  ]
+}

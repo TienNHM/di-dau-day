@@ -46,8 +46,8 @@ export const placeSchema = z
     category: z.enum(CATEGORIES),
     subCategory: slugSchema.optional(),
     tags: z.array(z.enum(TAGS)).readonly(),
-    goodFor: z.array(z.enum(COMPANIONS)).min(1, 'Cần ít nhất một đối tượng phù hợp').readonly(),
-    priceRange: z.enum(PRICE_RANGES),
+    goodFor: z.array(z.enum(COMPANIONS)).min(1).readonly().optional(),
+    priceRange: z.enum(PRICE_RANGES).optional(),
     avgPrice: z.number().int().nonnegative().optional(),
     durationMinutes: z
       .tuple([z.number().int().positive(), z.number().int().positive()])
@@ -56,6 +56,7 @@ export const placeSchema = z
       .optional(),
     location: z
       .object({
+        cityId: slugSchema,
         districtId: slugSchema,
         address: z.string().min(4),
         // Bounds cover the whole country, so a swapped lat/lng fails the build.
@@ -119,6 +120,7 @@ export const citySchema = z
   .object({
     id: slugSchema,
     name: z.string().min(2),
+    shortName: z.string().min(2),
     slug: slugSchema,
     lat: z.number().min(8).max(24),
     lng: z.number().min(101).max(110),
@@ -129,16 +131,21 @@ export const citySchema = z
 /**
  * Validates a batch of places and additionally enforces cross-record invariants
  * that a per-record schema cannot see: unique ids and slugs (a duplicate slug
- * would make two places fight over one URL), and districts that actually exist.
+ * would make two places fight over one URL), and city/district references that
+ * actually exist.
+ *
+ * District ids are only unique within a city, so the district is checked against
+ * the city the place claims — not against a global list, which would let a place in
+ * Đà Nẵng pass by matching a district id that happens to exist in TP.HCM.
  */
-export function parsePlaces(raw: unknown, source: string, city: City): Place[] {
+export function parsePlaces(raw: unknown, source: string, cities: readonly City[]): Place[] {
   const result = z.array(placeSchema).safeParse(raw);
   if (!result.success) {
     throw new Error(`Dữ liệu địa điểm không hợp lệ trong ${source}:\n${z.prettifyError(result.error)}`);
   }
 
   const places = result.data as Place[];
-  const districtIds = new Set(city.districts.map((d) => d.id));
+  const byCityId = new Map(cities.map((city) => [city.id, city]));
   const seenIds = new Set<string>();
   const seenSlugs = new Set<string>();
 
@@ -148,7 +155,14 @@ export function parsePlaces(raw: unknown, source: string, city: City): Place[] {
     seenIds.add(place.id);
     seenSlugs.add(place.slug);
 
-    if (!districtIds.has(place.location.districtId)) {
+    const city = byCityId.get(place.location.cityId);
+    if (!city) {
+      throw new Error(
+        `Địa điểm "${place.slug}" thuộc thành phố "${place.location.cityId}" không có trong data/cities/`,
+      );
+    }
+
+    if (!city.districts.some((district) => district.id === place.location.districtId)) {
       throw new Error(
         `Địa điểm "${place.slug}" thuộc quận "${place.location.districtId}" không có trong danh sách quận của ${city.name}`,
       );

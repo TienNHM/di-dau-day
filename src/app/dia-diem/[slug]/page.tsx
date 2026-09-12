@@ -126,7 +126,7 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
             {district ? (
               <Row label="Khu vực">
                 <Link
-                  href={`/quan/${district.id}/` as Route}
+                  href={`/thanh-pho/${place.location.cityId}/${district.id}/` as Route}
                   className="underline underline-offset-4 hover:text-brand"
                 >
                   {district.name}

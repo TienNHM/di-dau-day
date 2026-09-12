@@ -1,0 +1,17 @@
+{
+  "id": "vung-tau",
+  "name": "Vũng Tàu",
+  "shortName": "Vũng Tàu",
+  "slug": "vung-tau",
+  "lat": 10.36002,
+  "lng": 107.08865,
+  "districts": [
+    {
+      "id": "vung-tau",
+      "name": "Vũng Tàu",
+      "shortName": "Vũng Tàu",
+      "lat": 10.36002,
+      "lng": 107.08865
+    }
+  ]
+}
