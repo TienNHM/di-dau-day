@@ -327,7 +327,7 @@ Mục tiêu: một intent chạy hết luồng, ~25 địa điểm seed, deploy 
 - [x] **0.3** Types + Zod schema + `PlaceRepository` + `StaticPlaceRepository`
 - [x] **0.4** Seed ~25 địa điểm `Outdoor`/`Dating` cho intent "Đi đâu"
 - [x] **0.5** Scoring + weighted selection + unit test
-- [ ] **0.6** Landing page với 5 nút intent (4 nút disabled/"sắp có")
+- [x] **0.6** Landing page với 5 nút intent (tự bật theo seed data)
 - [ ] **0.7** Wizard `/di-dau`: 2 câu hỏi (đi với ai + ngân sách)
 - [ ] **0.8** Spin animation → điều hướng sang `/dia-diem/[slug]`
 - [ ] **0.9** Result card + deep link Google Maps + Web Share
