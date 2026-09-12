@@ -25,3 +25,6 @@ coverage/
 
 # generated share images
 public/og/
+
+# Overture snapshot — regenerate with `pnpm data:fetch`
+.cache/

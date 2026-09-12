@@ -16,7 +16,10 @@
       "lat": 10.8051,
       "lng": 106.7348
     },
-    "openingHours": { "default": [["09:00", "19:00"]], "mon": [] },
+    "openingHours": {
+      "default": [["09:00", "19:00"]],
+      "mon": []
+    },
     "rating": 4.4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -41,7 +44,9 @@
       "lat": 10.7901,
       "lng": 106.6947
     },
-    "openingHours": { "default": [["08:00", "18:00"]] },
+    "openingHours": {
+      "default": [["08:00", "18:00"]]
+    },
     "rating": 4.5,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -63,10 +68,12 @@
     "location": {
       "districtId": "quan-10",
       "address": "Khu Sư Vạn Hạnh, Quận 10",
-      "lat": 10.7734,
-      "lng": 106.6704
+      "lat": 10.772104,
+      "lng": 106.666908
     },
-    "openingHours": { "default": [["09:00", "22:00"]] },
+    "openingHours": {
+      "default": [["09:00", "22:00"]]
+    },
     "rating": 4.3,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -91,7 +98,9 @@
       "lat": 10.7757,
       "lng": 106.6849
     },
-    "openingHours": { "default": [["09:00", "20:00"]] },
+    "openingHours": {
+      "default": [["09:00", "20:00"]]
+    },
     "rating": 4.3,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -116,7 +125,11 @@
       "lat": 10.7761,
       "lng": 106.6928
     },
-    "openingHours": { "sat": [["06:00", "08:00"]], "sun": [["06:00", "08:00"]], "default": [] },
+    "openingHours": {
+      "sat": [["06:00", "08:00"]],
+      "sun": [["06:00", "08:00"]],
+      "default": []
+    },
     "rating": 4.2,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -141,7 +154,9 @@
       "lat": 10.8007,
       "lng": 106.6871
     },
-    "openingHours": { "default": [["09:00", "20:00"]] },
+    "openingHours": {
+      "default": [["09:00", "20:00"]]
+    },
     "rating": 4.2,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -163,10 +178,12 @@
     "location": {
       "districtId": "quan-7",
       "address": "Khu Phú Mỹ Hưng, Quận 7",
-      "lat": 10.7293,
-      "lng": 106.7188
+      "lat": 10.733107,
+      "lng": 106.719353
     },
-    "openingHours": { "default": [["05:00", "21:00"]] },
+    "openingHours": {
+      "default": [["05:00", "21:00"]]
+    },
     "rating": 4.3,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -191,7 +208,9 @@
       "lat": 10.8016,
       "lng": 106.7124
     },
-    "openingHours": { "default": [["17:00", "22:00"]] },
+    "openingHours": {
+      "default": [["17:00", "22:00"]]
+    },
     "rating": 4.1,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -217,7 +236,9 @@
       "lat": 10.7539,
       "lng": 106.6612
     },
-    "openingHours": { "default": [["07:00", "18:00"]] },
+    "openingHours": {
+      "default": [["07:00", "18:00"]]
+    },
     "rating": 4.3,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -242,7 +263,9 @@
       "lat": 10.7726,
       "lng": 106.6741
     },
-    "openingHours": { "default": [["09:00", "18:00"]] },
+    "openingHours": {
+      "default": [["09:00", "18:00"]]
+    },
     "rating": 4.3,
     "ratingSource": "tổng hợp thủ công",
     "images": [],

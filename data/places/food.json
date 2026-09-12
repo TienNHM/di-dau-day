@@ -13,8 +13,8 @@
     "location": {
       "districtId": "quan-5",
       "address": "413–415 Nguyễn Trãi, P.7, Quận 5",
-      "lat": 10.7548,
-      "lng": 106.6659
+      "lat": 10.755334,
+      "lng": 106.673492
     },
     "openingHours": {
       "default": [["06:00", "01:00"]]
@@ -41,8 +41,8 @@
     "location": {
       "districtId": "quan-3",
       "address": "260C Pasteur, P.8, Quận 3",
-      "lat": 10.7873,
-      "lng": 106.6889
+      "lat": 10.786651,
+      "lng": 106.689217
     },
     "openingHours": {
       "default": [["06:00", "22:30"]]
@@ -69,8 +69,8 @@
     "location": {
       "districtId": "phu-nhuan",
       "address": "84 Đặng Văn Ngữ, P.10, Phú Nhuận",
-      "lat": 10.7909,
-      "lng": 106.6753
+      "lat": 10.794446,
+      "lng": 106.66935
     },
     "openingHours": {
       "default": [["07:00", "21:00"]]
@@ -97,8 +97,8 @@
     "location": {
       "districtId": "quan-1",
       "address": "26 Lê Thị Riêng, P. Bến Thành, Quận 1",
-      "lat": 10.7714,
-      "lng": 106.6921
+      "lat": 10.771472,
+      "lng": 106.692375
     },
     "openingHours": {
       "default": [["06:00", "22:00"]]
@@ -125,8 +125,8 @@
     "location": {
       "districtId": "quan-3",
       "address": "53 Cao Thắng, P.3, Quận 3",
-      "lat": 10.7699,
-      "lng": 106.6836
+      "lat": 10.770172,
+      "lng": 106.68158
     },
     "openingHours": {
       "default": [["06:00", "11:00"]]
@@ -154,8 +154,8 @@
     "location": {
       "districtId": "quan-1",
       "address": "46A Đinh Công Tráng, P. Tân Định, Quận 1",
-      "lat": 10.7913,
-      "lng": 106.6899
+      "lat": 10.789553,
+      "lng": 106.69136
     },
     "openingHours": {
       "default": [
@@ -213,8 +213,8 @@
     "location": {
       "districtId": "quan-1",
       "address": "87 Trần Khắc Chân, P. Tân Định, Quận 1",
-      "lat": 10.7924,
-      "lng": 106.6912
+      "lat": 10.794727,
+      "lng": 106.690857
     },
     "openingHours": {
       "default": [["15:00", "23:00"]]
@@ -241,8 +241,8 @@
     "location": {
       "districtId": "quan-11",
       "address": "Hà Tôn Quyền, P.4, Quận 11",
-      "lat": 10.7595,
-      "lng": 106.6501
+      "lat": 10.757897,
+      "lng": 106.652779
     },
     "openingHours": {
       "default": [["15:00", "23:30"]]
@@ -297,8 +297,8 @@
     "location": {
       "districtId": "quan-1",
       "address": "212 Nguyễn Trãi, P. Nguyễn Cư Trinh, Quận 1",
-      "lat": 10.7637,
-      "lng": 106.6866
+      "lat": 10.762897,
+      "lng": 106.686943
     },
     "openingHours": {
       "default": [["14:00", "23:30"]]
@@ -325,8 +325,8 @@
     "location": {
       "districtId": "quan-4",
       "address": "Vĩnh Khánh, P.8, Quận 4",
-      "lat": 10.7568,
-      "lng": 106.7008
+      "lat": 10.760611,
+      "lng": 106.707222
     },
     "openingHours": {
       "default": [["16:00", "01:00"]]
@@ -354,13 +354,13 @@
     "location": {
       "districtId": "quan-10",
       "address": "Hồ Thị Kỷ, P.1, Quận 10",
-      "lat": 10.7671,
-      "lng": 106.6742
+      "lat": 10.766331,
+      "lng": 106.675819
     },
     "openingHours": {
       "default": [["16:00", "01:00"]]
     },
-    "rating": 4.0,
+    "rating": 4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
     "popularity": 81,
@@ -382,8 +382,8 @@
     "location": {
       "districtId": "quan-1",
       "address": "17A Ngô Văn Năm, P. Bến Nghé, Quận 1",
-      "lat": 10.7806,
-      "lng": 106.705
+      "lat": 10.781321,
+      "lng": 106.705917
     },
     "openingHours": {
       "default": [["08:00", "22:30"]]
@@ -410,8 +410,8 @@
     "location": {
       "districtId": "quan-1",
       "address": "10 Đặng Tất, P. Tân Định, Quận 1",
-      "lat": 10.7937,
-      "lng": 106.6893
+      "lat": 10.792969,
+      "lng": 106.688881
     },
     "openingHours": {
       "default": [["09:00", "23:00"]]
@@ -438,8 +438,8 @@
     "location": {
       "districtId": "quan-1",
       "address": "138 Nam Kỳ Khởi Nghĩa, P. Bến Nghé, Quận 1",
-      "lat": 10.7787,
-      "lng": 106.6963
+      "lat": 10.777519,
+      "lng": 106.697487
     },
     "openingHours": {
       "default": [["07:00", "22:00"]]
@@ -528,7 +528,7 @@
     "openingHours": {
       "default": [["14:00", "22:00"]]
     },
-    "rating": 4.0,
+    "rating": 4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
     "popularity": 60,
@@ -550,13 +550,13 @@
     "location": {
       "districtId": "quan-3",
       "address": "Trương Định, P.6, Quận 3",
-      "lat": 10.7787,
-      "lng": 106.6875
+      "lat": 10.778134,
+      "lng": 106.689156
     },
     "openingHours": {
       "default": [["16:00", "23:00"]]
     },
-    "rating": 4.0,
+    "rating": 4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
     "popularity": 64,
@@ -606,8 +606,8 @@
     "location": {
       "districtId": "quan-1",
       "address": "195 Cô Giang, P. Cô Giang, Quận 1",
-      "lat": 10.7628,
-      "lng": 106.6939
+      "lat": 10.761846,
+      "lng": 106.693542
     },
     "openingHours": {
       "default": [["10:00", "21:00"]]
@@ -634,13 +634,13 @@
     "location": {
       "districtId": "quan-1",
       "address": "11A Cao Thắng, P.2, Quận 3",
-      "lat": 10.7724,
-      "lng": 106.6832
+      "lat": 10.768747,
+      "lng": 106.683426
     },
     "openingHours": {
       "default": [["06:00", "21:00"]]
     },
-    "rating": 4.0,
+    "rating": 4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
     "popularity": 58,
@@ -668,7 +668,7 @@
     "openingHours": {
       "default": [["15:00", "23:30"]]
     },
-    "rating": 4.0,
+    "rating": 4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
     "popularity": 69,
@@ -696,7 +696,7 @@
     "openingHours": {
       "default": [["10:00", "22:00"]]
     },
-    "rating": 4.0,
+    "rating": 4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
     "popularity": 63,
@@ -719,13 +719,13 @@
     "location": {
       "districtId": "phu-nhuan",
       "address": "Lê Văn Sỹ, Phú Nhuận",
-      "lat": 10.7928,
-      "lng": 106.6789
+      "lat": 10.78637,
+      "lng": 106.680634
     },
     "openingHours": {
       "default": [["11:00", "23:00"]]
     },
-    "rating": 4.0,
+    "rating": 4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
     "popularity": 66,
@@ -756,7 +756,7 @@
         ["16:00", "23:00"]
       ]
     },
-    "rating": 4.0,
+    "rating": 4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
     "popularity": 57,
@@ -779,13 +779,13 @@
     "location": {
       "districtId": "quan-3",
       "address": "Nguyễn Thượng Hiền, P.5, Quận 3",
-      "lat": 10.7702,
-      "lng": 106.6813
+      "lat": 10.773816,
+      "lng": 106.684319
     },
     "openingHours": {
       "default": [["15:00", "23:00"]]
     },
-    "rating": 4.0,
+    "rating": 4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
     "popularity": 61,

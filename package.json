@@ -18,7 +18,10 @@
     "check": "pnpm typecheck && pnpm lint && pnpm test",
     "generate:og": "tsx scripts/generate-og.ts",
     "prebuild": "pnpm generate:og",
-    "check:layout": "node scripts/check-layout.mjs"
+    "check:layout": "node scripts/check-layout.mjs",
+    "data:fetch": "tsx scripts/overture/fetch.ts",
+    "data:verify": "tsx scripts/overture/verify.ts",
+    "data:apply": "tsx scripts/overture/apply.ts"
   },
   "dependencies": {
     "next": "^16.3.5",

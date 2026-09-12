@@ -3,7 +3,7 @@
 > Tài liệu này là **nguồn tham chiếu duy nhất** cho architecture và tiến độ MVP.
 > Cập nhật checklist ở [§7](#7-progress-tracking) mỗi khi hoàn thành một bước.
 
-**Trạng thái:** Phase 0 và Phase 1 đã xong
+**Trạng thái:** Phase 0 và 1 xong, đang làm Phase 3 (mở rộng đa thành phố)
 **Cập nhật lần cuối:** 2026-09-12
 
 ---
@@ -343,6 +343,18 @@ Mục tiêu: một intent chạy hết luồng, ~25 địa điểm seed, deploy 
 - [x] **1.5** Lọc theo giờ mở cửa (open now)
 - [x] **1.6** Mini-itinerary cho hẹn hò (`/lich-trinh`)
 - [x] **1.7** Trang "gợi ý địa điểm" + trang giới thiệu
+
+### Phase 3 — Mở rộng đa thành phố + cộng đồng đóng góp
+
+Nguồn dữ liệu: **Overture Maps Places** (CDLA-Permissive-2.0, không share-alike).
+Chi tiết và lý do không dùng OSM/Google ở [`docs/DATA-SOURCES.md`](DATA-SOURCES.md).
+
+- [x] **3.1** Pipeline Overture: `data:fetch` → `data:verify` → `data:apply`
+- [ ] **3.2** Đa thành phố trong data model + city picker
+- [ ] **3.3** Shard dữ liệu theo thành phố + cache IndexedDB
+- [ ] **3.4** Chấm điểm trong Web Worker (giữ animation mượt khi có hàng nghìn địa điểm)
+- [ ] **3.5** Result card degrade khi thiếu `editorialNote`
+- [ ] **3.6** Cloudflare Worker + form đóng góp / báo thông tin sai
 
 ### Phase 2 — Chỉ làm nếu viral loop được chứng minh
 

@@ -16,7 +16,9 @@
       "lat": 10.7717,
       "lng": 106.7043
     },
-    "openingHours": { "default": [["09:30", "21:30"]] },
+    "openingHours": {
+      "default": [["09:30", "21:30"]]
+    },
     "rating": 4.2,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -42,7 +44,9 @@
       "lat": 10.807,
       "lng": 106.736
     },
-    "openingHours": { "default": [["08:00", "23:00"]] },
+    "openingHours": {
+      "default": [["08:00", "23:00"]]
+    },
     "rating": 4.3,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -68,7 +72,9 @@
       "lat": 10.7799,
       "lng": 106.6982
     },
-    "openingHours": { "default": [["08:00", "22:00"]] },
+    "openingHours": {
+      "default": [["08:00", "22:00"]]
+    },
     "rating": 4.4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -94,7 +100,9 @@
       "lat": 10.7686,
       "lng": 106.6983
     },
-    "openingHours": { "default": [["08:00", "17:00"]] },
+    "openingHours": {
+      "default": [["08:00", "17:00"]]
+    },
     "rating": 4.4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -117,10 +125,12 @@
     "location": {
       "districtId": "quan-1",
       "address": "42 Nguyễn Huệ, P. Bến Nghé, Quận 1",
-      "lat": 10.7735,
-      "lng": 106.7042
+      "lat": 10.77411,
+      "lng": 106.704025
     },
-    "openingHours": { "default": [["09:00", "23:00"]] },
+    "openingHours": {
+      "default": [["09:00", "23:00"]]
+    },
     "rating": 4.2,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -146,7 +156,9 @@
       "lat": 10.7679,
       "lng": 106.7064
     },
-    "openingHours": { "default": [["06:00", "22:00"]] },
+    "openingHours": {
+      "default": [["06:00", "22:00"]]
+    },
     "rating": 4.1,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -172,7 +184,9 @@
       "lat": 10.7802,
       "lng": 106.7038
     },
-    "openingHours": { "default": [["17:00", "23:30"]] },
+    "openingHours": {
+      "default": [["17:00", "23:30"]]
+    },
     "rating": 4.3,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -195,10 +209,12 @@
     "location": {
       "districtId": "quan-1",
       "address": "Tôn Thất Đạm, P. Bến Nghé, Quận 1",
-      "lat": 10.7715,
-      "lng": 106.7028
+      "lat": 10.769566,
+      "lng": 106.704102
     },
-    "openingHours": { "default": [["16:00", "23:30"]] },
+    "openingHours": {
+      "default": [["16:00", "23:30"]]
+    },
     "rating": 4.1,
     "ratingSource": "tổng hợp thủ công",
     "images": [],

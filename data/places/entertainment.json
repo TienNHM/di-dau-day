@@ -13,10 +13,12 @@
     "location": {
       "districtId": "quan-1",
       "address": "72 Lê Thánh Tôn, P. Bến Nghé, Quận 1",
-      "lat": 10.7793,
-      "lng": 106.7017
+      "lat": 10.777928,
+      "lng": 106.702034
     },
-    "openingHours": { "default": [["09:00", "23:00"]] },
+    "openingHours": {
+      "default": [["09:00", "23:00"]]
+    },
     "rating": 4.1,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -42,7 +44,9 @@
       "lat": 10.7718,
       "lng": 106.7042
     },
-    "openingHours": { "default": [["09:00", "23:00"]] },
+    "openingHours": {
+      "default": [["09:00", "23:00"]]
+    },
     "rating": 4.1,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -65,11 +69,13 @@
     "location": {
       "districtId": "tan-binh",
       "address": "A43 Trường Sơn, P.4, Tân Bình",
-      "lat": 10.8125,
-      "lng": 106.6647
+      "lat": 10.811071,
+      "lng": 106.665123
     },
-    "openingHours": { "default": [["09:00", "23:00"]] },
-    "rating": 4.0,
+    "openingHours": {
+      "default": [["09:00", "23:00"]]
+    },
+    "rating": 4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
     "popularity": 62,
@@ -94,8 +100,10 @@
       "lat": 10.7723,
       "lng": 106.6697
     },
-    "openingHours": { "default": [["09:00", "22:00"]] },
-    "rating": 4.0,
+    "openingHours": {
+      "default": [["09:00", "22:00"]]
+    },
+    "rating": 4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
     "popularity": 63,
@@ -121,7 +129,9 @@
       "lat": 10.7654,
       "lng": 106.6931
     },
-    "openingHours": { "default": [["13:00", "23:30"]] },
+    "openingHours": {
+      "default": [["13:00", "23:30"]]
+    },
     "rating": 4.1,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -148,7 +158,9 @@
       "lat": 10.7768,
       "lng": 106.6871
     },
-    "openingHours": { "default": [["10:00", "22:00"]] },
+    "openingHours": {
+      "default": [["10:00", "22:00"]]
+    },
     "rating": 4.2,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -171,11 +183,13 @@
     "location": {
       "districtId": "phu-nhuan",
       "address": "Phan Xích Long, Phú Nhuận",
-      "lat": 10.7996,
-      "lng": 106.6862
+      "lat": 10.798116,
+      "lng": 106.689156
     },
-    "openingHours": { "default": [["10:00", "01:00"]] },
-    "rating": 4.0,
+    "openingHours": {
+      "default": [["10:00", "01:00"]]
+    },
+    "rating": 4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
     "popularity": 64,
@@ -198,10 +212,12 @@
     "location": {
       "districtId": "phu-nhuan",
       "address": "Phan Xích Long, Phú Nhuận",
-      "lat": 10.8003,
-      "lng": 106.6879
+      "lat": 10.798517,
+      "lng": 106.687363
     },
-    "openingHours": { "default": [["10:00", "02:00"]] },
+    "openingHours": {
+      "default": [["10:00", "02:00"]]
+    },
     "rating": 3.9,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -227,7 +243,9 @@
       "lat": 10.7669,
       "lng": 106.6386
     },
-    "openingHours": { "default": [["08:30", "18:00"]] },
+    "openingHours": {
+      "default": [["08:30", "18:00"]]
+    },
     "rating": 4.1,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -253,7 +271,11 @@
       "lat": 10.7809,
       "lng": 106.6997
     },
-    "openingHours": { "default": [["17:00", "22:00"]], "mon": [], "tue": [] },
+    "openingHours": {
+      "default": [["17:00", "22:00"]],
+      "mon": [],
+      "tue": []
+    },
     "rating": 4.4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -279,7 +301,9 @@
       "lat": 10.7769,
       "lng": 106.7031
     },
-    "openingHours": { "default": [["18:00", "22:00"]] },
+    "openingHours": {
+      "default": [["18:00", "22:00"]]
+    },
     "rating": 4.5,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -302,10 +326,12 @@
     "location": {
       "districtId": "quan-1",
       "address": "Bùi Viện, P. Phạm Ngũ Lão, Quận 1",
-      "lat": 10.7671,
-      "lng": 106.6933
+      "lat": 10.766794,
+      "lng": 106.692917
     },
-    "openingHours": { "default": [["18:00", "02:00"]] },
+    "openingHours": {
+      "default": [["18:00", "02:00"]]
+    },
     "rating": 3.8,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -328,10 +354,12 @@
     "location": {
       "districtId": "quan-3",
       "address": "6E1 Ngô Thời Nhiệm, P.7, Quận 3",
-      "lat": 10.7814,
-      "lng": 106.6883
+      "lat": 10.781224,
+      "lng": 106.689781
     },
-    "openingHours": { "default": [["19:00", "00:30"]] },
+    "openingHours": {
+      "default": [["19:00", "00:30"]]
+    },
     "rating": 4.2,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -354,10 +382,12 @@
     "location": {
       "districtId": "thu-duc",
       "address": "161 Xa lộ Hà Nội, Thảo Điền, TP. Thủ Đức",
-      "lat": 10.8025,
-      "lng": 106.7418
+      "lat": 10.800545,
+      "lng": 106.738724
     },
-    "openingHours": { "default": [["09:30", "22:00"]] },
+    "openingHours": {
+      "default": [["09:30", "22:00"]]
+    },
     "rating": 4.2,
     "ratingSource": "tổng hợp thủ công",
     "images": [],

@@ -16,7 +16,9 @@
       "lat": 10.8677,
       "lng": 106.8021
     },
-    "openingHours": { "default": [["07:00", "17:30"]] },
+    "openingHours": {
+      "default": [["07:00", "17:30"]]
+    },
     "rating": 3.9,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -38,10 +40,12 @@
     "location": {
       "districtId": "quan-1",
       "address": "2 Nguyễn Bỉnh Khiêm, P. Bến Nghé, Quận 1",
-      "lat": 10.7879,
-      "lng": 106.7041
+      "lat": 10.784849,
+      "lng": 106.70784
     },
-    "openingHours": { "default": [["08:00", "17:00"]] },
+    "openingHours": {
+      "default": [["08:00", "17:00"]]
+    },
     "rating": 4.2,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -66,7 +70,9 @@
       "lat": 10.7823,
       "lng": 106.6899
     },
-    "openingHours": { "default": [["07:30", "20:00"]] },
+    "openingHours": {
+      "default": [["07:30", "20:00"]]
+    },
     "rating": 4.1,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -92,7 +98,9 @@
       "lat": 10.7571,
       "lng": 106.7024
     },
-    "openingHours": { "default": [["08:30", "17:00"]] },
+    "openingHours": {
+      "default": [["08:30", "17:00"]]
+    },
     "rating": 4.2,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -117,8 +125,10 @@
       "lat": 10.8028,
       "lng": 106.7422
     },
-    "openingHours": { "default": [["09:00", "21:30"]] },
-    "rating": 4.0,
+    "openingHours": {
+      "default": [["09:00", "21:30"]]
+    },
+    "rating": 4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
     "popularity": 53,
@@ -143,7 +153,9 @@
       "lat": 10.9702,
       "lng": 106.5117
     },
-    "openingHours": { "default": [["07:30", "17:00"]] },
+    "openingHours": {
+      "default": [["07:30", "17:00"]]
+    },
     "rating": 4.1,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -168,8 +180,10 @@
       "lat": 10.7591,
       "lng": 106.6994
     },
-    "openingHours": { "default": [["05:00", "22:00"]] },
-    "rating": 4.0,
+    "openingHours": {
+      "default": [["05:00", "22:00"]]
+    },
+    "rating": 4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
     "popularity": 47,
@@ -194,7 +208,9 @@
       "lat": 10.7943,
       "lng": 106.7215
     },
-    "openingHours": { "default": [["09:30", "22:00"]] },
+    "openingHours": {
+      "default": [["09:30", "22:00"]]
+    },
     "rating": 4.1,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -219,7 +235,9 @@
       "lat": 10.8422,
       "lng": 106.8386
     },
-    "openingHours": { "default": [["08:30", "17:30"]] },
+    "openingHours": {
+      "default": [["08:30", "17:30"]]
+    },
     "rating": 4.4,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
@@ -241,10 +259,12 @@
     "location": {
       "districtId": "binh-thanh",
       "address": "48/10 Điện Biên Phủ, P.22, Bình Thạnh",
-      "lat": 10.7968,
-      "lng": 106.7161
+      "lat": 10.79777,
+      "lng": 106.714478
     },
-    "openingHours": { "default": [["06:00", "22:00"]] },
+    "openingHours": {
+      "default": [["06:00", "22:00"]]
+    },
     "rating": 3.9,
     "ratingSource": "tổng hợp thủ công",
     "images": [],
