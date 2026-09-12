@@ -17,7 +17,8 @@
     "test:watch": "vitest",
     "check": "pnpm typecheck && pnpm lint && pnpm test",
     "generate:og": "tsx scripts/generate-og.ts",
-    "prebuild": "pnpm generate:og"
+    "prebuild": "pnpm generate:og",
+    "check:layout": "node scripts/check-layout.mjs"
   },
   "dependencies": {
     "next": "^16.3.5",

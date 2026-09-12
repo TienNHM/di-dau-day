@@ -107,7 +107,7 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
           </p>
         ) : null}
 
-        <ResultCard place={place} district={district} accent={accent} lead="Đi đâu đây chọn" />
+        <ResultCard place={place} district={district} accent={accent} lead="Đi Đâu Đây vừa chọn" />
 
         <Suspense fallback={<div className="h-[7.5rem]" />}>
           <ResultInteractions
@@ -156,17 +156,17 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
                 <li key={other.slug}>
                   <Link
                     href={`/dia-diem/${other.slug}/` as Route}
-                    className="flex items-center gap-3 rounded-2xl bg-white/70 px-4 py-3 ring-1 ring-line transition hover:ring-ink/15"
+                    className="flex items-start gap-3 rounded-2xl bg-white/70 px-4 py-3 ring-1 ring-line transition hover:ring-ink/15"
                   >
                     <span className="min-w-0 flex-1">
                       <span className="block truncate font-semibold">{other.name}</span>
                       {other.editorialNote ? (
-                        <span className="block truncate text-sm text-ink-faint">
+                        <span className="mt-0.5 block text-sm text-ink-faint">
                           {other.editorialNote}
                         </span>
                       ) : null}
                     </span>
-                    <span aria-hidden className="text-ink-faint">
+                    <span aria-hidden className="mt-0.5 shrink-0 text-ink-faint">
                       →
                     </span>
                   </Link>
