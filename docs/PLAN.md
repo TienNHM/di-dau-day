@@ -394,9 +394,11 @@ Chi tiết và lý do không dùng OSM/Google ở [`docs/DATA-SOURCES.md`](DATA-
   nên câu hỏi này không còn chặn gì.
 - **Result card không ảnh**: giữ nguyên. Gradient + typography lớn, không dùng ảnh.
 - **Hosting**: GitHub Pages + custom domain `didauday.tiennhm.io.vn` qua Cloudflare.
-- **OG image**: tự sinh ra `public/og/*.png` bằng script prebuild thay vì dùng convention
-  `opengraph-image` của Next — file không đuôi `.png` sẽ bị GitHub Pages trả sai Content-Type
-  và mọi crawler đều từ chối.
+- **OG image**: tự sinh ra `public/og/*.jpg` bằng script prebuild thay vì dùng convention
+  `opengraph-image` của Next — file không có phần mở rộng sẽ bị GitHub Pages trả sai
+  Content-Type và mọi crawler đều từ chối. Định dạng là **JPEG chứ không phải PNG**:
+  cùng một ảnh, PNG ~82 KB còn JPEG chất lượng 82 chỉ ~29 KB — trên 4.189 ảnh là chênh
+  hơn 200 MB trong giới hạn 1 GB của GitHub Pages.
 
 ---
 
@@ -404,6 +406,7 @@ Chi tiết và lý do không dùng OSM/Google ở [`docs/DATA-SOURCES.md`](DATA-
 
 - [ ] **Kiểm chứng seed data** — toạ độ, địa chỉ, giá, giờ mở cửa đều đang là ước lượng.
   Đây là việc quan trọng nhất còn lại; xem cảnh báo ở [`data/README.md`](../data/README.md).
-- [ ] Bật GitHub Pages + trỏ DNS (xem [`docs/DEPLOY.md`](DEPLOY.md)).
-- [ ] Cắm analytics thật (`NEXT_PUBLIC_UMAMI_SRC` / `NEXT_PUBLIC_UMAMI_ID`).
+- [x] Bật GitHub Pages + trỏ DNS (xem [`docs/DEPLOY.md`](DEPLOY.md)) — đang chạy tại
+  `didauday.tiennhm.io.vn`.
+- [x] Cắm analytics thật (`NEXT_PUBLIC_UMAMI_SRC` / `NEXT_PUBLIC_UMAMI_ID`).
 - [ ] Gửi cho ~20 người thử và xem funnel rớt ở bước nào trước khi xây thêm.
