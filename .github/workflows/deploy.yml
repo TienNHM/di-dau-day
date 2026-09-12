@@ -28,10 +28,10 @@ jobs:
       # anyway, so it lives here rather than in a secret.
       NEXT_PUBLIC_UMAMI_SRC: https://cloud.umami.is/script.js
       NEXT_PUBLIC_UMAMI_ID: 0f04de33-e4ca-4000-841f-a65afcde9f6f
-      # Contribution form. Until this points at the deployed Worker the form falls
-      # back to a GitHub issue link, so leaving it empty degrades rather than breaks.
+      # Contribution form. Empty would fall back to a GitHub issue link rather than
+      # break, but the Worker is deployed, so point at it.
       # See workers/contribute/README.md.
-      NEXT_PUBLIC_CONTRIBUTE_ENDPOINT: ''
+      NEXT_PUBLIC_CONTRIBUTE_ENDPOINT: https://didauday-contribute.tiennhm-it.workers.dev
       NEXT_PUBLIC_TURNSTILE_SITE_KEY: ''
     steps:
       - uses: actions/checkout@v4
