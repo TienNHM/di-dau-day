@@ -123,7 +123,16 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
           <h2 className="text-base font-bold">Chi tiết</h2>
           <dl className="mt-3 grid gap-2.5 text-sm">
             <Row label="Địa chỉ">{place.location.address}</Row>
-            {district ? <Row label="Khu vực">{district.name}</Row> : null}
+            {district ? (
+              <Row label="Khu vực">
+                <Link
+                  href={`/quan/${district.id}/` as Route}
+                  className="underline underline-offset-4 hover:text-brand"
+                >
+                  {district.name}
+                </Link>
+              </Row>
+            ) : null}
             {place.tags.length > 0 ? (
               <Row label="Đặc điểm">
                 {place.tags.map((tag) => TAG_LABELS[tag]).join(' · ')}
