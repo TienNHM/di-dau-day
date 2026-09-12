@@ -24,6 +24,10 @@ jobs:
       NEXT_PUBLIC_SITE_URL: https://didauday.tiennhm.io.vn
       # Custom domain serves at root, so no basePath.
       NEXT_PUBLIC_BASE_PATH: ''
+      # Umami is cookie-less and the website id is public in the page source
+      # anyway, so it lives here rather than in a secret.
+      NEXT_PUBLIC_UMAMI_SRC: https://cloud.umami.is/script.js
+      NEXT_PUBLIC_UMAMI_ID: 0f04de33-e4ca-4000-841f-a65afcde9f6f
     steps:
       - uses: actions/checkout@v4
 
