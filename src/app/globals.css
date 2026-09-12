@@ -1,0 +1,78 @@
+@import 'tailwindcss';
+
+/*
+ * Design tokens. Warm, Vietnamese, premium — cream ground, ink type,
+ * saturated accents reserved for the result moment so the reveal feels earned.
+ */
+@theme {
+  --font-sans: var(--font-be-vietnam), ui-sans-serif, system-ui, sans-serif;
+
+  --color-cream: #fff8f0;
+  --color-cream-deep: #fdeddc;
+  --color-ink: #1b1512;
+  --color-ink-soft: #6b5d54;
+  --color-ink-faint: #a4948a;
+  --color-line: #eaddcf;
+
+  --color-brand: #ef4d23;
+  --color-brand-deep: #c73a14;
+  --color-brand-soft: #ffe6dc;
+  --color-sun: #f5a524;
+  --color-jade: #0f9d8f;
+  --color-plum: #8b3a86;
+
+  --radius-card: 1.75rem;
+
+  --ease-out-soft: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--color-cream);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    /* Never let a horizontal overflow appear on phones. */
+    overflow-x: hidden;
+  }
+
+  /* Tap targets on mobile should not flash a grey box. */
+  button,
+  a {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  ::selection {
+    background-color: var(--color-brand);
+    color: #fff;
+  }
+}
+
+@layer utilities {
+  /* Safe-area aware page padding — one place, so no component re-invents gutters. */
+  .page-gutter {
+    padding-inline: max(1.25rem, env(safe-area-inset-left));
+  }
+
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Respect the user's motion preference globally; spin animations opt in explicitly. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
