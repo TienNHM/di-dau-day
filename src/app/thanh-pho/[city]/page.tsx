@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Route } from 'next';
 import { PageShell } from '@/components/ui/PageShell';
+import { SiteFooter } from '@/components/ui/SiteFooter';
 import { getPlaceRepository } from '@/lib/places/static-repository';
 import { absoluteUrl, SITE_NAME } from '@/lib/site';
 
@@ -103,6 +104,7 @@ export default async function CityPage({ params }: { params: Promise<Params> }) 
           </ul>
         </section>
       </main>
+      <SiteFooter />
     </PageShell>
   );
 }

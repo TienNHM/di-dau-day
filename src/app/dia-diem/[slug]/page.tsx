@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Route } from 'next';
 import { PageShell } from '@/components/ui/PageShell';
+import { SiteFooter } from '@/components/ui/SiteFooter';
 import { ResultCard } from '@/components/result/ResultCard';
 import { ResultInteractions } from '@/components/result/ResultInteractions';
 import { WidenedNotice } from '@/components/result/WidenedNotice';
@@ -13,7 +14,8 @@ import { githubIssueUrl } from '@/lib/contribute';
 import { getPlaceRepository } from '@/lib/places/static-repository';
 import { TAG_LABELS } from '@/lib/places/types';
 import { directionsUrl } from '@/lib/geo/maps-link';
-import { absoluteUrl, SITE_NAME } from '@/lib/site';
+import { formatDuration, formatPrice } from '@/components/result/ResultCard';
+import { absoluteUrl, SITE_NAME, SITE_URL } from '@/lib/site';
 
 /**
  * Result page and place page are the same page.
@@ -129,6 +131,22 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
             placeName={place.name}
             shareUrl={absoluteUrl(canonicalPath)}
             directionsHref={directionsUrl(place)}
+            story={{
+              name: place.name,
+              lead: 'Đi Đâu Đây vừa chọn',
+              // Same facts as the card, so the story is recognisably the thing the
+              // person is looking at rather than a second, different summary.
+              facts: [
+                district ? `📍 ${district.shortName}` : null,
+                place.avgPrice === undefined ? null : `💰 ${formatPrice(place.avgPrice)}`,
+                place.durationMinutes ? `⏱ ${formatDuration(place.durationMinutes)}` : null,
+              ].filter((fact): fact is string => fact !== null),
+              // Only a human-written note is quoted. A generated factual summary would
+              // repeat the pills directly above it.
+              ...(place.editorialNote === undefined ? {} : { note: place.editorialNote }),
+              accent,
+              url: SITE_URL,
+            }}
           />
         </Suspense>
 
@@ -246,6 +264,7 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
           </Link>
         </section>
       </main>
+      <SiteFooter />
     </PageShell>
   );
 }

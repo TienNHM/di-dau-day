@@ -4,13 +4,19 @@ import { useState } from 'react';
 import Link from 'next/link';
 import type { Route } from 'next';
 import { track } from '@/lib/analytics/track';
+import { shareStory } from '@/lib/share/share-story';
+import type { StoryInput } from '@/lib/share/story-card';
 
 /**
- * The three things a result is for: go there, send it to someone, try again.
+ * What a result is for: go there, post it, send it, try again.
  *
- * Share uses the Web Share API when available — on a phone that opens the native
- * sheet with Zalo and Messenger in it, which is where this product's sharing
- * actually happens. Clipboard is the desktop fallback.
+ * Two kinds of sharing, because they are not the same act. Sending a link to one
+ * person is a message; putting it on a story is broadcasting to everyone you know,
+ * and a bare link is a poor thing to broadcast — it renders as a small grey preview
+ * card, if it renders at all. The story button hands over a 1080×1920 image instead.
+ *
+ * Both use the native sheet, which is where Zalo, Messenger, Instagram and Facebook
+ * actually live on a phone. Clipboard and a file download are the desktop fallbacks.
  */
 export function ResultActions({
   directionsHref,
@@ -18,14 +24,39 @@ export function ResultActions({
   shareText,
   rerollHref,
   placeSlug,
+  story,
 }: {
   directionsHref: string;
   shareUrl: string;
   shareText: string;
   rerollHref: string;
   placeSlug: string;
+  story: StoryInput;
 }) {
   const [copied, setCopied] = useState(false);
+  const [storyState, setStoryState] = useState<'idle' | 'working' | 'saved' | 'failed'>('idle');
+
+  async function handleStory() {
+    // Drawing is fast but not free, and on a cold font cache `document.fonts.ready`
+    // can take a beat. Say so rather than leaving a dead button.
+    setStoryState('working');
+    track('share_story_click', { place: placeSlug });
+
+    const outcome = await shareStory(story, {
+      filename: `di-dau-day-${placeSlug}.png`,
+      text: `${shareText}
+${shareUrl}`,
+    });
+
+    // A cancel is the user changing their mind, not a failure to report.
+    if (outcome === 'cancelled' || outcome === 'shared') setStoryState('idle');
+    else if (outcome === 'downloaded') setStoryState('saved');
+    else setStoryState('failed');
+
+    if (outcome === 'downloaded' || outcome === 'failed') {
+      setTimeout(() => setStoryState('idle'), 2600);
+    }
+  }
 
   async function handleShare() {
     track('share_click', { place: placeSlug });
@@ -61,13 +92,29 @@ export function ResultActions({
         🧭 Xem đường đi
       </a>
 
+      {/* Full width on a phone, where a story is actually posted from. */}
+      <button
+        type="button"
+        onClick={handleStory}
+        disabled={storyState === 'working'}
+        className="story-button w-full rounded-2xl px-5 py-4 text-center text-lg font-bold text-white transition active:scale-[0.98] disabled:opacity-70"
+      >
+        {storyState === 'working'
+          ? 'Đang tạo ảnh…'
+          : storyState === 'saved'
+            ? '✅ Đã lưu ảnh'
+            : storyState === 'failed'
+              ? 'Không tạo được ảnh'
+              : '✨ Đăng lên story'}
+      </button>
+
       <div className="grid grid-cols-2 gap-2.5">
         <button
           type="button"
           onClick={handleShare}
           className="rounded-2xl bg-white px-4 py-3.5 font-semibold ring-1 ring-line transition active:scale-[0.98]"
         >
-          {copied ? '✅ Đã copy link' : '📤 Chia sẻ'}
+          {copied ? '✅ Đã copy link' : '🔗 Gửi link'}
         </button>
 
         <Link

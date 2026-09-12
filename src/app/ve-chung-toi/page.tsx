@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { PageShell } from '@/components/ui/PageShell';
+import { SiteFooter } from '@/components/ui/SiteFooter';
 import { getPlaceRepository } from '@/lib/places/static-repository';
 import { absoluteUrl, REPO_URL, SITE_NAME, SITE_TAGLINE } from '@/lib/site';
 
@@ -135,6 +136,7 @@ export default async function AboutPage() {
           .
         </p>
       </main>
+      <SiteFooter />
     </PageShell>
   );
 }

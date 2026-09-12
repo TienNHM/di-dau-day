@@ -17,6 +17,8 @@ export type AnalyticsEvent =
   | 'result_view'
   | 'directions_click'
   | 'share_click'
+  /** Kept apart from share_click: posting a story and sending a link are different acts. */
+  | 'share_story_click'
   | 'reroll_click'
   | 'contribute_submit';
 

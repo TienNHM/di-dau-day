@@ -17,6 +17,10 @@ export const SITE_DESCRIPTION =
 
 export const DEFAULT_CITY_ID = 'ho-chi-minh';
 
+/** Who made this, and where. Used for the footer credit and for schema.org authorship. */
+export const AUTHOR_NAME = 'TienNHM';
+export const AUTHOR_URL = 'https://tiennhm.io.vn';
+
 /**
  * Where place suggestions go.
  *

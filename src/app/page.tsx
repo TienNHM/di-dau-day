@@ -1,8 +1,8 @@
 import type { Metadata } from 'next';
-import Link from 'next/link';
 import { CityPicker } from '@/components/city/CityPicker';
 import { IntentCard } from '@/components/intent/IntentCard';
 import { PageShell } from '@/components/ui/PageShell';
+import { SiteFooter } from '@/components/ui/SiteFooter';
 import { INTENTS } from '@/lib/intents/registry';
 import { getPlaceRepository } from '@/lib/places/static-repository';
 import { absoluteUrl, SITE_TAGLINE } from '@/lib/site';
@@ -64,18 +64,7 @@ export default async function HomePage() {
         </nav>
       </main>
 
-      <footer className="flex flex-wrap items-center gap-x-4 gap-y-2 border-t border-line py-6 text-sm text-ink-faint">
-        <span>
-          {places.length} địa điểm · {available.length} thành phố
-        </span>
-        <span aria-hidden>·</span>
-        <Link className="underline-offset-4 hover:text-ink hover:underline" href="/ve-chung-toi">
-          Về tụi mình
-        </Link>
-        <Link className="underline-offset-4 hover:text-ink hover:underline" href="/dong-gop">
-          Gợi ý địa điểm
-        </Link>
-      </footer>
+      <SiteFooter lead={`${places.length} địa điểm · ${available.length} thành phố`} />
     </PageShell>
   );
 }

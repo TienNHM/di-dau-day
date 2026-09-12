@@ -235,3 +235,21 @@
     display: none;
   }
 }
+
+/* The story button. A gradient rather than a flat fill, because it is the one action
+   on the page that produces something to look at, and it should read that way. */
+.story-button {
+  background-image: linear-gradient(110deg, var(--color-plum), var(--color-brand), var(--color-sun));
+  background-size: 200% 100%;
+  animation: story-sheen 6s ease-in-out infinite alternate;
+  box-shadow: 0 10px 30px -12px var(--color-brand);
+}
+
+@keyframes story-sheen {
+  from {
+    background-position: 0% 50%;
+  }
+  to {
+    background-position: 100% 50%;
+  }
+}

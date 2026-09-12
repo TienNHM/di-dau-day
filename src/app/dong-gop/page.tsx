@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { PageShell } from '@/components/ui/PageShell';
+import { SiteFooter } from '@/components/ui/SiteFooter';
 import { Suspense } from 'react';
 import { ContributeScreen } from '@/components/contribute/ContributeScreen';
 import { absoluteUrl, SITE_NAME } from '@/lib/site';
@@ -35,6 +36,7 @@ export default function ContributePage() {
           <ContributeScreen />
         </Suspense>
       </main>
+      <SiteFooter />
     </PageShell>
   );
 }

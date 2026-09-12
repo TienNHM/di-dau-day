@@ -5,6 +5,7 @@ import { useSearchParams } from 'next/navigation';
 import { ResultActions } from './ResultActions';
 import { getIntent, INTENTS } from '@/lib/intents/registry';
 import { track } from '@/lib/analytics/track';
+import type { StoryInput } from '@/lib/share/story-card';
 
 /**
  * Reads the wizard context out of the URL.
@@ -18,12 +19,15 @@ export function ResultInteractions({
   placeName,
   shareUrl,
   directionsHref,
+  story,
 }: {
   placeSlug: string;
   placeName: string;
   /** Absolute, and already basePath-aware — built on the server by absoluteUrl(). */
   shareUrl: string;
   directionsHref: string;
+  /** Everything the story image needs, assembled on the server where the data lives. */
+  story: StoryInput;
 }) {
   const searchParams = useSearchParams();
 
@@ -49,6 +53,7 @@ export function ResultInteractions({
       shareText={`Đi Đâu Đây vừa chọn: ${placeName}`}
       rerollHref={rerollHref}
       placeSlug={placeSlug}
+      story={story}
     />
   );
 }

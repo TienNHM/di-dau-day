@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Route } from 'next';
 import { PageShell } from '@/components/ui/PageShell';
+import { SiteFooter } from '@/components/ui/SiteFooter';
 import { accentFor } from '@/lib/intents/accents';
 import { getPlaceRepository } from '@/lib/places/static-repository';
 import { PRICE_RANGE_LABELS } from '@/lib/places/types';
@@ -141,6 +142,7 @@ export default async function DistrictPage({ params }: { params: Promise<Params>
           </section>
         ))}
       </main>
+      <SiteFooter />
     </PageShell>
   );
 }
