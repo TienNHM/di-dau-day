@@ -2,10 +2,20 @@
 
 import { useCallback, useEffect, useRef, useState } from 'react';
 
-/** How long the reel takes to travel its whole length and stop. */
-export const REEL_DURATION_MS = 2400;
-/** Time the winner sits on screen before the result page takes over. */
-const HOLD_MS = 1100;
+/**
+ * How long the reel takes to travel its whole length and stop.
+ *
+ * 2.4s felt hurried: the deceleration is the part that reads as a decision being
+ * made, and at that speed it was over before anyone could watch a name settle.
+ */
+export const REEL_DURATION_MS = 3600;
+/**
+ * Time the winner sits on screen before the result page takes over.
+ *
+ * Long enough to read the name and see the confetti land, and no longer — this is a
+ * fifteen-second product, and the result page is where the user is actually going.
+ */
+const HOLD_MS = 1700;
 const REDUCED_MOTION_MS = 400;
 /**
  * If the reel's `transitionend` never arrives the flow would hang forever — it does

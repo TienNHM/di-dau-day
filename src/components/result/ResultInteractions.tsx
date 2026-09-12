@@ -42,6 +42,19 @@ export function ResultInteractions({
     return `${intent?.path ?? '/di-dau'}/?${rerollParams.toString()}`;
   }, [searchParams]);
 
+  /*
+   * The eyebrow on the story image: the question this result answers.
+   *
+   * It used to say "Đi Đâu Đây vừa chọn", which put the brand on the most valuable
+   * line of the image — and then again in the footer. "Cafe nào bây giờ?" above the
+   * name turns the card into an answer, which is a thing worth posting; a signature
+   * is not. Falls back to the generic lead for a link shared without `?tu=`.
+   */
+  const storyWithLead = useMemo(() => {
+    const intent = getIntent(searchParams.get('tu') ?? '');
+    return intent ? { ...story, lead: intent.title } : story;
+  }, [story, searchParams]);
+
   useEffect(() => {
     track('result_view', { place: placeSlug });
   }, [placeSlug]);
@@ -53,7 +66,7 @@ export function ResultInteractions({
       shareText={`Đi Đâu Đây vừa chọn: ${placeName}`}
       rerollHref={rerollHref}
       placeSlug={placeSlug}
-      story={story}
+      story={storyWithLead}
     />
   );
 }

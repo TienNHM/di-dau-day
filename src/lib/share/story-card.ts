@@ -249,27 +249,38 @@ export async function renderStoryCard(input: StoryInput): Promise<Blob> {
     cursor += pillHeight + gap;
   }
 
-  // Footer: the brand and the address, which is the only reason a story is worth
-  // posting from our side. Placed clear of the bottom, where Instagram's own UI sits.
+  /*
+   * Footer: a call to action, not a second signature.
+   *
+   * This used to read "ĐI ĐÂU ĐÂY VỪA CHỌN" at the top and "Đi Đâu Đây?" at the
+   * bottom — the brand twice, and the most valuable line on the image spent saying
+   * who made it rather than giving anyone a reason to act. The eyebrow now carries
+   * the question the result answers, and down here the domain does the branding on
+   * its own, because it is the brand name.
+   *
+   * Placed clear of the very bottom, where Instagram lays its own controls.
+   */
   ctx.fillStyle = input.accent.on;
   ctx.textBaseline = 'bottom';
-  ctx.font = `800 46px ${stack}`;
-  ctx.fillText('Đi Đâu Đây?', STORY_WIDTH / 2, STORY_HEIGHT - 280);
+  ctx.font = `800 50px ${stack}`;
+  ctx.fillText('Tới lượt bạn?', STORY_WIDTH / 2, STORY_HEIGHT - 300);
 
-  ctx.font = `500 36px ${stack}`;
+  ctx.font = `500 34px ${stack}`;
   ctx.globalAlpha = 0.85;
-  ctx.fillText('Không biết đi đâu? Để tụi mình chọn cho.', STORY_WIDTH / 2, STORY_HEIGHT - 220);
-
+  ctx.fillText('Trả lời 3 câu, tụi mình chọn cho một chỗ.', STORY_WIDTH / 2, STORY_HEIGHT - 246);
   ctx.globalAlpha = 1;
-  ctx.font = `700 34px ${stack}`;
-  const label = input.url.replace(/^https?:\/\//, '');
-  const labelWidth = ctx.measureText(label).width + 64;
-  ctx.fillStyle = 'rgba(255,255,255,0.2)';
-  roundedRect(ctx, (STORY_WIDTH - labelWidth) / 2, STORY_HEIGHT - 170, labelWidth, 76, 38);
+
+  // The address as a button. It is the only thing on the image someone can act on,
+  // so it gets the strongest contrast down here rather than the faintest.
+  ctx.font = `800 40px ${stack}`;
+  const label = `👉 ${input.url.replace(/^https?:\/\//, '')}`;
+  const labelWidth = ctx.measureText(label).width + 76;
+  ctx.fillStyle = 'rgba(255,255,255,0.32)';
+  roundedRect(ctx, (STORY_WIDTH - labelWidth) / 2, STORY_HEIGHT - 190, labelWidth, 92, 46);
   ctx.fill();
   ctx.fillStyle = input.accent.on;
   ctx.textBaseline = 'middle';
-  ctx.fillText(label, STORY_WIDTH / 2, STORY_HEIGHT - 170 + 38);
+  ctx.fillText(label, STORY_WIDTH / 2, STORY_HEIGHT - 190 + 46);
 
   return new Promise<Blob>((resolve, reject) => {
     canvas.toBlob(
