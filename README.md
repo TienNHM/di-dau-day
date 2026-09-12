@@ -130,12 +130,24 @@ chung một chỗ.
 > Không chép mô tả hay ảnh từ Google Maps, Foody hay nguồn khác — vi phạm điều khoản của họ
 > và làm hỏng giấy phép của dữ liệu ở đây.
 
+Gửi đóng góp là bạn cấp cho dự án quyền dùng và đăng nội dung đó, **không độc quyền** — bạn
+vẫn giữ bản quyền và vẫn dùng lại được ở bất cứ đâu. Toàn văn ở [`LICENSE`](LICENSE) §4.
+
 ## Giấy phép
 
-**Mã nguồn chưa có giấy phép.** Repo public mà không có file `LICENSE` thì mặc định là
-*all rights reserved* — người khác không có quyền dùng lại, kể cả khi họ muốn đóng góp.
+**Công khai để đọc, không phải open source.** Mã nguồn thuộc bản quyền của tác giả, bảo lưu
+mọi quyền — xem [`LICENSE`](LICENSE). Bạn được đọc, fork, chạy thử tại máy và gửi đóng góp;
+không được chạy như một dịch vụ công khai hay dùng trong sản phẩm khác nếu chưa xin phép.
 
-**Dữ liệu** import từ Overture Maps theo giấy phép của Overture (CDLA-Permissive-2.0 /
-Apache-2.0 / CC0 tuỳ nguồn thành phần) — **không có điều khoản share-alike**. Đó chính là
-lý do chọn Overture thay vì OpenStreetMap: ODbL của OSM sẽ lây điều khoản share-alike sang
-toàn bộ cơ sở dữ liệu khi công bố. Chi tiết ở [`docs/DATA-SOURCES.md`](docs/DATA-SOURCES.md).
+Đây là lựa chọn có chủ ý và **chỉ đi được một chiều**: phát hành dưới giấy phép mở hơn thì
+lúc nào cũng làm được, thu lại thì không. Nên nó bắt đầu ở trạng thái chặt. Muốn dùng ngoài
+phạm vi đó thì cứ hỏi.
+
+**Dữ liệu import từ Overture Maps** (các bản ghi có `"source": "overture"`) theo giấy phép
+của Overture — CDLA-Permissive-2.0 / Apache-2.0 / CC0 tuỳ nguồn thành phần, **không có điều
+khoản share-alike**. Đó chính là lý do chọn Overture thay vì OpenStreetMap: ODbL của OSM sẽ
+lây share-alike sang toàn bộ cơ sở dữ liệu khi công bố.
+Chi tiết ở [`docs/DATA-SOURCES.md`](docs/DATA-SOURCES.md).
+
+**Nội dung biên tập và đóng góp** — mô tả, đánh giá, phân loại — không thuộc giấy phép của
+Overture mà thuộc điều khoản ở trên.

@@ -278,9 +278,23 @@ export function ContributeForm({
             : `Gửi ${kindLabel(kind).toLowerCase()}`}
       </button>
 
-      <p className="text-center text-xs text-ink-faint">
+      {/* Shown above the fold of the button, not buried in a footer. The grant in
+          section 4 of the LICENSE only means anything if the person pressing Gửi
+          actually saw it first. */}
+      <p className="text-center text-xs leading-relaxed text-ink-faint">
         Đừng chép mô tả hay ảnh từ Google Maps, Foody hay trang khác — tụi mình chỉ nhận nội dung
         bạn tự viết.
+        <br />
+        Bấm gửi là bạn cho phép tụi mình dùng và đăng nội dung này. Bạn vẫn giữ bản quyền và vẫn
+        dùng lại được ở bất cứ đâu.{' '}
+        <a
+          href={`${REPO_URL}/blob/main/LICENSE`}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline underline-offset-2 hover:text-ink"
+        >
+          Điều khoản
+        </a>
       </p>
 
       {/* Second path, kept visible rather than hidden behind a failure. Developers

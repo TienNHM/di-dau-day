@@ -1,0 +1,120 @@
+Copyright (c) 2026 TienNHM (https://tiennhm.io.vn). All rights reserved.
+Bản quyền (c) 2026 TienNHM. Bảo lưu mọi quyền.
+
+================================================================================
+ĐI ĐÂU ĐÂY? — ĐIỀU KHOẢN SỬ DỤNG / TERMS OF USE
+================================================================================
+
+Mã nguồn này được công khai để đọc và học hỏi. Công khai KHÔNG có nghĩa là mã
+nguồn mở: dự án này không dùng một giấy phép open source nào.
+
+This source is published to be read and learned from. Public does not mean open
+source: this project is not released under any open source licence.
+
+--------------------------------------------------------------------------------
+1. ĐƯỢC PHÉP / PERMITTED
+--------------------------------------------------------------------------------
+
+Bất kỳ ai cũng được, không cần xin phép:
+
+  a) Đọc, nghiên cứu mã nguồn và tài liệu trong kho này.
+  b) Fork trên GitHub và chạy thử tại máy nhằm mục đích học tập, đánh giá, hoặc
+     để chuẩn bị một đóng góp cho chính dự án này.
+  c) Trích dẫn các đoạn ngắn kèm ghi nguồn, ví dụ trong bài viết kỹ thuật.
+  d) Gửi issue và pull request (xem mục 4).
+
+Anyone may, without asking: read and study the code; fork on GitHub and run it
+locally to learn, evaluate, or prepare a contribution to this project; quote
+short excerpts with attribution; and open issues and pull requests.
+
+--------------------------------------------------------------------------------
+2. KHÔNG ĐƯỢC PHÉP / NOT PERMITTED
+--------------------------------------------------------------------------------
+
+Nếu chưa có văn bản cho phép của chủ sở hữu, KHÔNG được:
+
+  a) Chạy kho mã này, hoặc một bản phái sinh, như một dịch vụ công khai.
+  b) Dùng mã nguồn hoặc dữ liệu ở đây trong bất kỳ sản phẩm nào, dù thương mại
+     hay phi thương mại, ngoài phạm vi mục 1.
+  c) Phân phối lại mã nguồn hoặc dữ liệu, dưới dạng gốc hay đã sửa đổi.
+  d) Dùng tên "Đi Đâu Đây?", logo, hoặc tên miền theo cách khiến người khác
+     tưởng là sản phẩm chính thức.
+
+Without prior written permission you may not run this repository or a derivative
+as a public service; use the code or data in any product beyond section 1;
+redistribute the code or data in original or modified form; or use the project
+name, logo, or domain in a way that implies an official product.
+
+--------------------------------------------------------------------------------
+3. DỮ LIỆU / DATA
+--------------------------------------------------------------------------------
+
+Thư mục `data/` chứa hai loại nội dung có nguồn gốc khác nhau:
+
+  a) NHẬP TỪ OVERTURE MAPS — các bản ghi có trường `"source": "overture"`.
+     Thuộc giấy phép của Overture Maps Foundation (CDLA-Permissive-2.0,
+     Apache-2.0, hoặc CC0 tuỳ nguồn thành phần). Điều khoản của Overture áp
+     dụng cho phần này, KHÔNG phải điều khoản ở trên. Xem docs/DATA-SOURCES.md.
+
+  b) BIÊN TẬP VÀ ĐÓNG GÓP — mô tả, đánh giá, phân loại, giờ mở cửa và mọi nội
+     dung do con người viết. Thuộc bản quyền của chủ sở hữu dự án theo mục 4, và
+     nằm trong phạm vi "bảo lưu mọi quyền" ở trên.
+
+The `data/` directory mixes Overture Maps records, which carry Overture's own
+permissive licence, with human-written editorial content, which does not.
+
+--------------------------------------------------------------------------------
+4. ĐÓNG GÓP / CONTRIBUTIONS
+--------------------------------------------------------------------------------
+
+Khi bạn gửi nội dung cho dự án này — qua form trên website, qua GitHub issue,
+hay qua pull request — bạn xác nhận rằng:
+
+  a) Nội dung đó do chính bạn viết, hoặc bạn có quyền chia sẻ nó. Bạn KHÔNG chép
+     từ Google Maps, Foody, hay bất kỳ nguồn nào có điều khoản cấm việc đó.
+
+  b) Bạn cấp cho chủ sở hữu dự án một giấy phép vĩnh viễn, không thể thu hồi,
+     trên toàn thế giới, miễn phí bản quyền, được cấp lại cho bên thứ ba, và
+     KHÔNG ĐỘC QUYỀN — để sử dụng, sao chép, sửa đổi, dịch, xuất bản và phân
+     phối nội dung đó, bao gồm cả cho mục đích thương mại.
+
+  c) Giấy phép này là KHÔNG ĐỘC QUYỀN: bạn vẫn giữ bản quyền nội dung mình viết
+     và vẫn được tự do sử dụng nó ở bất cứ đâu khác, theo bất cứ cách nào.
+
+Điều khoản này tồn tại để dự án có thể vận hành và phát triển mà không phải đi
+xin phép lại từng người cho mỗi thay đổi. Nếu bạn không đồng ý, xin đừng gửi
+nội dung.
+
+By submitting content — through the website form, a GitHub issue, or a pull
+request — you confirm that you wrote it or have the right to share it, and you
+grant the project owner a perpetual, irrevocable, worldwide, royalty-free,
+sublicensable and NON-EXCLUSIVE licence to use, copy, modify, translate, publish
+and distribute it, including commercially. The licence is non-exclusive: you
+keep your copyright and remain free to use your own words anywhere else.
+
+--------------------------------------------------------------------------------
+5. THƯ VIỆN BÊN THỨ BA / THIRD-PARTY DEPENDENCIES
+--------------------------------------------------------------------------------
+
+Các thư viện trong `package.json` thuộc giấy phép riêng của từng thư viện. Điều
+khoản ở đây không áp dụng cho chúng.
+
+--------------------------------------------------------------------------------
+6. KHÔNG BẢO HÀNH / NO WARRANTY
+--------------------------------------------------------------------------------
+
+PHẦN MỀM VÀ DỮ LIỆU ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG", KHÔNG KÈM BẢO ĐẢM NÀO, DÙ LÀ
+MINH THỊ HAY NGỤ Ý. Thông tin về địa điểm có thể sai hoặc lỗi thời. Chủ sở hữu
+không chịu trách nhiệm cho bất kỳ thiệt hại nào phát sinh từ việc sử dụng.
+
+THE SOFTWARE AND DATA ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+--------------------------------------------------------------------------------
+7. XIN PHÉP / REQUESTING PERMISSION
+--------------------------------------------------------------------------------
+
+Muốn dùng ngoài phạm vi mục 1 thì cứ hỏi — https://tiennhm.io.vn
+
+Đây là lựa chọn có chủ ý và có thể thay đổi. Chủ sở hữu có thể phát hành dự án
+dưới một giấy phép mở hơn bất cứ lúc nào; chiều ngược lại thì không, nên điều
+khoản bắt đầu ở trạng thái chặt.

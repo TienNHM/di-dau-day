@@ -160,6 +160,10 @@ function buildIssue(submission: Submission, origin: string) {
     '',
     '_Gửi qua form trên didauday.tiennhm.io.vn. Nội dung do người dùng nhập —' +
       ' cần kiểm tra trước khi đưa vào `data/`._',
+    '',
+    // Recorded on the issue itself, so the grant is evidenced at the moment of
+    // submission rather than asserted later from a policy page that has since changed.
+    '_Người gửi đã thấy và chấp nhận điều khoản đóng góp (LICENSE §4) khi bấm gửi._',
   ].join('\n');
 
   return { title, body };
