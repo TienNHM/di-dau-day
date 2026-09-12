@@ -6,6 +6,7 @@ import type { Route } from 'next';
 import { PageShell } from '@/components/ui/PageShell';
 import { ResultCard } from '@/components/result/ResultCard';
 import { ResultInteractions } from '@/components/result/ResultInteractions';
+import { WidenedNotice } from '@/components/result/WidenedNotice';
 import { accentFor } from '@/lib/intents/accents';
 import { needsDescription, placeTypeLabel } from '@/lib/places/describe';
 import { getPlaceRepository } from '@/lib/places/static-repository';
@@ -115,6 +116,10 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
           </p>
         ) : null}
 
+        <Suspense fallback={null}>
+          <WidenedNotice districtName={district?.shortName ?? null} />
+        </Suspense>
+
         <ResultCard place={place} district={district} accent={accent} lead="Đi Đâu Đây vừa chọn" />
 
         <Suspense fallback={<div className="h-30" />}>
@@ -218,8 +223,8 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
 
         {/* The loop closer: whoever opened this from a shared link gets their own turn. */}
         <section className="rounded-card border-2 border-dashed border-line p-6 text-center">
-          <p className="text-lg font-bold text-balance">Bạn dám để tụi mình chọn cho không?</p>
-          <p className="mt-1 text-sm text-ink-soft">Vài câu hỏi, mười lăm giây.</p>
+          <p className="text-lg font-bold text-balance">Tới lượt bạn</p>
+          <p className="mt-1 text-sm text-ink-soft">Không biết đi đâu? Để tụi mình chọn cho.</p>
           <Link
             href="/"
             className="mt-4 inline-block rounded-2xl bg-ink px-6 py-3.5 font-bold text-cream transition active:scale-[0.98]"

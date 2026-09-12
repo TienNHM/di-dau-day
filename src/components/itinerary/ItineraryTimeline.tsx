@@ -214,7 +214,8 @@ export function ItineraryTimeline({
       </div>
 
       <section className="rounded-card border-2 border-dashed border-line p-6 text-center">
-        <p className="text-lg font-bold text-balance">Bạn dám để tụi mình chọn cho không?</p>
+        <p className="text-lg font-bold text-balance">Tới lượt bạn</p>
+        <p className="mt-1 text-sm text-ink-soft">Không biết đi đâu? Để tụi mình chọn cho.</p>
         <Link
           href="/"
           className="mt-4 inline-block rounded-2xl bg-ink px-6 py-3.5 font-bold text-cream transition active:scale-[0.98]"

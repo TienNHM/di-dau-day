@@ -26,15 +26,22 @@ export default async function HomePage() {
 
   // Only offer cities that actually have places — a picker entry that leads nowhere
   // is worse than a shorter list.
-  const withPlaces = new Set(places.map((place) => place.location.cityId));
-  const available = cities.filter((city) => withPlaces.has(city.id));
+  const countByCity = new Map<string, number>();
+  for (const place of places) {
+    countByCity.set(place.location.cityId, (countByCity.get(place.location.cityId) ?? 0) + 1);
+  }
+
+  const available = cities
+    .filter((city) => (countByCity.get(city.id) ?? 0) > 0)
+    .map((city) => ({ city, placeCount: countByCity.get(city.id)! }))
+    .sort((a, b) => b.placeCount - a.placeCount);
 
   const populated = new Set(places.map((place) => place.category));
 
   return (
     <PageShell>
       <main className="flex flex-1 flex-col justify-center py-10">
-        <CityPicker cities={available} />
+        <CityPicker options={available} />
 
         <h1 className="mt-4 text-5xl leading-[0.95] font-extrabold tracking-tight text-balance sm:text-6xl">
           Đi đâu

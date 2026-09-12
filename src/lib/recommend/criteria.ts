@@ -18,6 +18,15 @@ export type Criteria = {
   readonly origin?: LatLng;
   /** Hard filter: drop places known to be closed right now. */
   readonly openNow?: boolean;
+  /**
+   * Never widen beyond `districtId`, even when it holds too few places.
+   *
+   * Set by the itinerary composer: an evening that sends someone across the city
+   * between stops is not an evening, so a missing slot is better than a distant one.
+   * The single-place flow leaves this off, where widening a thin district is
+   * preferable to returning the same place on every reroll.
+   */
+  readonly strictDistrict?: boolean;
   /** Place ids to skip — how "Chọn lại" avoids repeating the last few results. */
   readonly excludeIds?: readonly string[];
 };

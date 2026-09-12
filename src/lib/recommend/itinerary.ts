@@ -67,7 +67,8 @@ export function composeItinerary(
       ...criteria,
       categories: definition.categories,
       excludeIds: [...used],
-      ...(districtId ? { districtId } : {}),
+      // Strict: the second and third stops must stay where the first one landed.
+      ...(districtId ? { districtId, strictDistrict: true } : {}),
     };
 
     const result = recommend(places, slotCriteria, { random, now });

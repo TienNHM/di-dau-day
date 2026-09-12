@@ -76,3 +76,65 @@
     scroll-behavior: auto !important;
   }
 }
+
+/*
+ * Bottom-sheet transitions for <dialog>.
+ *
+ * `allow-discrete` plus `@starting-style` is what lets a dialog animate in as well
+ * as out: without them the browser jumps straight from display:none, so the sheet
+ * would appear instantly and only the closing frame would animate — which reads as
+ * a glitch rather than a transition.
+ */
+.city-sheet {
+  translate: 0 100%;
+  opacity: 0;
+  transition:
+    translate 280ms var(--ease-out-soft),
+    opacity 200ms ease,
+    overlay 280ms allow-discrete,
+    display 280ms allow-discrete;
+}
+
+.city-sheet[open] {
+  translate: 0 0;
+  opacity: 1;
+}
+
+@starting-style {
+  .city-sheet[open] {
+    translate: 0 100%;
+    opacity: 0;
+  }
+}
+
+.city-sheet::backdrop {
+  opacity: 0;
+  transition:
+    opacity 240ms ease,
+    overlay 240ms allow-discrete,
+    display 240ms allow-discrete;
+}
+
+.city-sheet[open]::backdrop {
+  opacity: 1;
+}
+
+@starting-style {
+  .city-sheet[open]::backdrop {
+    opacity: 0;
+  }
+}
+
+/* On a wide screen the sheet becomes a centred card, so it should fade rather than
+   slide up from an edge it is no longer attached to. */
+@media (min-width: 640px) {
+  .city-sheet {
+    translate: 0 1rem;
+  }
+
+  @starting-style {
+    .city-sheet[open] {
+      translate: 0 1rem;
+    }
+  }
+}

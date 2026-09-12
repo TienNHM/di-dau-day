@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { PageShell } from '@/components/ui/PageShell';
 import { getPlaceRepository } from '@/lib/places/static-repository';
-import { absoluteUrl, DEFAULT_CITY_ID, SITE_NAME, SITE_TAGLINE } from '@/lib/site';
+import { absoluteUrl, REPO_URL, SITE_NAME, SITE_TAGLINE } from '@/lib/site';
 
 export const metadata: Metadata = {
   title: 'Về tụi mình',
@@ -12,12 +12,10 @@ export const metadata: Metadata = {
 
 export default async function AboutPage() {
   const repo = getPlaceRepository();
-  const [places, city] = await Promise.all([
-    repo.listPlaces({ cityId: DEFAULT_CITY_ID }),
-    repo.getCity(DEFAULT_CITY_ID),
-  ]);
+  const [places, cities] = await Promise.all([repo.listPlaces(), repo.listCities()]);
 
-  const districts = new Set(places.map((place) => place.location.districtId));
+  const imported = places.filter((place) => place.source === 'overture').length;
+  const curated = places.length - imported;
 
   return (
     <PageShell>
@@ -58,16 +56,55 @@ export default async function AboutPage() {
 
         <Section title="Dữ liệu đến từ đâu">
           <p>
-            {places.length} địa điểm ở {districts.size} khu vực của {city?.name ?? 'TP.HCM'}, tuyển
-            chọn thủ công. Tụi mình <strong>không scrape Google Maps hay Foody</strong> — làm vậy
-            là vi phạm điều khoản của họ.
+            {places.length} địa điểm ở {cities.length} thành phố. Dữ liệu tới từ hai nguồn khác
+            nhau, và tụi mình phân biệt rõ:
           </p>
           <p>
-            Đổi lại, dữ liệu lớn chậm hơn và có thể sai sót. Thấy chỗ nào sai giá, sai giờ, hoặc đã
-            đóng cửa thì{' '}
+            <strong>{curated} chỗ tuyển chọn thủ công</strong> — có mô tả, khoảng giá và giờ mở cửa
+            do người viết. Đây là những chỗ tụi mình thật sự muốn giới thiệu.
+          </p>
+          <p>
+            <strong>{imported} chỗ lấy từ bản đồ mở</strong> — có tên, địa chỉ và toạ độ, nhưng{' '}
+            <em>chưa có mô tả, giá hay giờ mở cửa</em>. Tụi mình để trống thay vì đoán bừa, và đang
+            nhờ cộng đồng bổ sung dần.
+          </p>
+          <p>
+            Tụi mình <strong>không scrape Google Maps hay Foody</strong> — làm vậy là vi phạm điều
+            khoản của họ. Thấy chỗ nào sai thì{' '}
             <Link href="/dong-gop" className="underline underline-offset-4 hover:text-brand">
               báo cho tụi mình
             </Link>
+            .
+          </p>
+        </Section>
+
+        {/* Required by CDLA-Permissive-2.0: Overture data must be attributed wherever
+            it is redistributed, and this page is where a reader would look. */}
+        <Section title="Ghi nguồn">
+          <p>
+            Dữ liệu địa điểm có sử dụng{' '}
+            <a
+              href="https://overturemaps.org"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline underline-offset-4 hover:text-brand"
+            >
+              Overture Maps Foundation
+            </a>
+            , phát hành theo giấy phép CDLA-Permissive-2.0, Apache-2.0 và CC0-1.0 tuỳ theo nguồn
+            đóng góp.
+          </p>
+          <p className="text-sm">
+            Chi tiết về nguồn dữ liệu, giấy phép và lý do tụi mình không dùng OpenStreetMap hay
+            Google Places nằm ở{' '}
+            <a
+              href={`${REPO_URL}/blob/main/docs/DATA-SOURCES.md`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline underline-offset-4 hover:text-brand"
+            >
+              docs/DATA-SOURCES.md
+            </a>
             .
           </p>
         </Section>

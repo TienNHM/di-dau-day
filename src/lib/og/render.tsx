@@ -118,7 +118,7 @@ export async function renderPlaceOgImage(
         </div>
 
         <div style={{ display: 'flex', fontSize: 28, fontWeight: 700, opacity: 0.85 }}>
-          Bạn dám để tụi mình chọn cho không?
+          Không biết đi đâu? Để tụi mình chọn cho.
         </div>
       </div>
     ),

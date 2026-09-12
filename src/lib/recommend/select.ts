@@ -18,11 +18,23 @@ export const CANDIDATE_POOL_SIZE = 12;
  */
 const RELATIVE_FLOOR = 0.55;
 
+/**
+ * Below this many candidates a district is too thin to answer on its own, and
+ * insisting on it would mean returning the same two places forever.
+ */
+const MIN_DISTRICT_POOL = 3;
+
 export type Recommendation = {
   readonly winner: ScoredPlace;
   /** Top scorers including the winner — the reel shows these, so they must be real. */
   readonly candidates: readonly ScoredPlace[];
   readonly totalConsidered: number;
+  /**
+   * True when the chosen district could not fill a pool and the search widened.
+   * Surfaced to the user rather than hidden — being sent across town without
+   * explanation is exactly the failure this flag exists to prevent.
+   */
+  readonly districtRelaxed: boolean;
 };
 
 export type RandomSource = () => number;
@@ -82,17 +94,58 @@ export function recommend(
     return true;
   });
 
-  let scored = eligible.map((place) => applySponsoredBoost(scorePlace(place, criteria, now)));
+  /**
+   * A chosen district is a near-hard filter, not a scoring nudge.
+   *
+   * Distance is worth 10 of roughly 80 available points, so a place that matches
+   * every tag and the budget perfectly outscores a decent local option from ten
+   * kilometres away — which is how "tôi ở Thủ Đức" came back with a quán in Quận 1.
+   * Someone who names their district has told us where they are willing to go, and
+   * no amount of tag matching makes a cross-town answer correct.
+   *
+   * The district pool is only abandoned when it genuinely cannot answer.
+   */
+  const scoreAll = (pool: readonly PlaceSummary[], against: Criteria) => {
+    let scored = pool.map((place) => applySponsoredBoost(scorePlace(place, against, now)));
 
-  // "Đang mở cửa" is a hard filter, not a bonus: a closed place is not an answer to
-  // "đi đâu bây giờ". Unknown hours survive, since missing data is not evidence of closure.
-  if (criteria.openNow) {
-    scored = scored.filter((candidate) => candidate.openState !== 'closed');
+    // "Đang mở cửa" is a hard filter, not a bonus: a closed place is not an answer
+    // to "đi đâu bây giờ". Unknown hours survive, since missing data is not
+    // evidence of closure.
+    if (against.openNow) {
+      scored = scored.filter((candidate) => candidate.openState !== 'closed');
+    }
+
+    return scored.sort((a, b) => b.score - a.score);
+  };
+
+  let districtRelaxed = false;
+  let scored: ScoredPlace[];
+
+  if (criteria.districtId) {
+    const local = scoreAll(
+      eligible.filter((place) => place.districtId === criteria.districtId),
+      criteria,
+    );
+
+    if (local.length >= MIN_DISTRICT_POOL || criteria.strictDistrict) {
+      scored = local;
+    } else {
+      // Too thin to answer on its own: insisting would hand back the same one or two
+      // places on every reroll. Widen, and say so rather than quietly relocating the user.
+      //
+      // The district is dropped from the criteria as well as the filter. Keeping it
+      // would leave every out-of-district place scoring zero on distance, so the
+      // relative floor would cut them all and "widening" would return the same
+      // single place it was meant to escape.
+      districtRelaxed = true;
+      const { districtId: _dropped, ...widened } = criteria;
+      scored = scoreAll(eligible, widened);
+    }
+  } else {
+    scored = scoreAll(eligible, criteria);
   }
 
   if (scored.length === 0) return null;
-
-  scored.sort((a, b) => b.score - a.score);
 
   const leader = scored[0];
   if (!leader) return null;
@@ -104,7 +157,7 @@ export function recommend(
 
   const winner = pickWeighted(candidates, random) ?? leader;
 
-  return { winner, candidates, totalConsidered: scored.length };
+  return { winner, candidates, totalConsidered: scored.length, districtRelaxed };
 }
 
 /**

@@ -177,6 +177,10 @@ export function IntentWizard({
     const winner = outcome?.result.winner;
     if (!winner) return;
 
+    // Tell the result page the district could not answer, so it can say so. Being
+    // sent across town without explanation is the failure this exists to prevent.
+    if (outcome?.result.districtRelaxed) params.set('rong', '1');
+
     rememberResult(winner.place.id);
     router.push(`/dia-diem/${winner.place.slug}/?${params.toString()}` as Route);
   }, [itinerary, outcome, criteria, intent.id, router]);

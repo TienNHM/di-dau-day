@@ -160,3 +160,45 @@ describe('recommendWithFallback', () => {
     expect(outcome).toBeNull();
   });
 });
+
+describe('district is honoured, not merely scored', () => {
+  /**
+   * Regression: a user picked Thủ Đức and was sent to a quán in Quận 1, ten
+   * kilometres away, because distance is worth 10 of ~80 points and the Quận 1
+   * place matched every tag and the budget perfectly. Naming a district states
+   * where you are willing to go; no amount of tag matching overrides that.
+   */
+  it('keeps results inside the chosen district when it can answer', () => {
+    const places = [
+      // Perfect on every other axis, but across town.
+      place('far-perfect', { districtId: 'quan-1', tags: ['gia-re', 'do-an-ngon'], priceRange: 'under-100k', popularity: 90 }),
+      place('local-a', { districtId: 'thu-duc', popularity: 40 }),
+      place('local-b', { districtId: 'thu-duc', popularity: 35 }),
+      place('local-c', { districtId: 'thu-duc', popularity: 30 }),
+    ];
+
+    const result = recommend(places, {
+      districtId: 'thu-duc',
+      budget: 'under-100k',
+      tags: ['gia-re', 'do-an-ngon'],
+    });
+
+    expect(result?.candidates.map((c) => c.place.districtId)).toEqual(['thu-duc', 'thu-duc', 'thu-duc']);
+    expect(result?.districtRelaxed).toBe(false);
+  });
+
+  it('widens when the district is too thin, and reports that it did', () => {
+    const places = [
+      place('only-local', { districtId: 'can-gio' }),
+      place('elsewhere-a', { districtId: 'quan-1' }),
+      place('elsewhere-b', { districtId: 'quan-3' }),
+    ];
+
+    const result = recommend(places, { districtId: 'can-gio' }, { random: () => 0 });
+
+    // Honesty matters more than the widening itself: the user must be told their
+    // district could not answer rather than silently relocated.
+    expect(result?.districtRelaxed).toBe(true);
+    expect(result!.candidates.length).toBeGreaterThan(1);
+  });
+});
