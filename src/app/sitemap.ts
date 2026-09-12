@@ -25,6 +25,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     })),
+    ...['/ve-chung-toi/', '/dong-gop/'].map((path) => ({
+      url: absoluteUrl(path),
+      changeFrequency: 'yearly' as const,
+      priority: 0.3,
+    })),
     ...(city?.districts ?? [])
       .filter((district) => populated.has(district.id))
       .map((district) => ({

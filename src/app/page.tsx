@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import { IntentCard } from '@/components/intent/IntentCard';
 import { PageShell } from '@/components/ui/PageShell';
 import { INTENTS } from '@/lib/intents/registry';
@@ -47,12 +48,12 @@ export default async function HomePage() {
       <footer className="flex flex-wrap items-center gap-x-4 gap-y-2 border-t border-line py-6 text-sm text-ink-faint">
         <span>{places.length} địa điểm ở TP.HCM</span>
         <span aria-hidden>·</span>
-        <a className="underline-offset-4 hover:text-ink hover:underline" href="/ve-chung-toi/">
+        <Link className="underline-offset-4 hover:text-ink hover:underline" href="/ve-chung-toi">
           Về tụi mình
-        </a>
-        <a className="underline-offset-4 hover:text-ink hover:underline" href="/dong-gop/">
+        </Link>
+        <Link className="underline-offset-4 hover:text-ink hover:underline" href="/dong-gop">
           Gợi ý địa điểm
-        </a>
+        </Link>
       </footer>
     </PageShell>
   );

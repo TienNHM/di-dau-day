@@ -17,6 +17,16 @@ export const SITE_DESCRIPTION =
 
 export const DEFAULT_CITY_ID = 'ho-chi-minh';
 
+/**
+ * Where place suggestions go.
+ *
+ * Defaults to a GitHub issue on this repo because that needs no setup and works the
+ * day the site goes live. Point `NEXT_PUBLIC_SUGGEST_FORM_URL` at a Google Form
+ * instead once contributions come from people who do not have GitHub accounts.
+ */
+export const REPO_URL = process.env.NEXT_PUBLIC_REPO_URL ?? 'https://github.com/TienNHM/di-dau-day';
+export const SUGGEST_FORM_URL = process.env.NEXT_PUBLIC_SUGGEST_FORM_URL ?? null;
+
 /** Absolute URL for a path, for canonical + OG tags. */
 export function absoluteUrl(path: string): string {
   const clean = path.startsWith('/') ? path : `/${path}`;
