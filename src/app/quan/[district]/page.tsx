@@ -7,7 +7,7 @@ import { accentFor } from '@/lib/intents/accents';
 import { getPlaceRepository } from '@/lib/places/static-repository';
 import { PRICE_RANGE_LABELS } from '@/lib/places/types';
 import type { Category, Place } from '@/lib/places/types';
-import { DEFAULT_CITY_ID, SITE_NAME } from '@/lib/site';
+import { absoluteUrl, DEFAULT_CITY_ID, SITE_NAME } from '@/lib/site';
 
 /**
  * District landing pages.
@@ -73,7 +73,7 @@ export async function generateMetadata({ params }: { params: Promise<Params> }):
   return {
     title,
     description,
-    alternates: { canonical: `/quan/${district.id}/` },
+    alternates: { canonical: absoluteUrl(`/quan/${district.id}/`) },
     openGraph: { title: `${title} · ${SITE_NAME}`, description },
   };
 }

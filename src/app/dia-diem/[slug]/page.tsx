@@ -10,7 +10,7 @@ import { accentFor } from '@/lib/intents/accents';
 import { getPlaceRepository } from '@/lib/places/static-repository';
 import { TAG_LABELS } from '@/lib/places/types';
 import { directionsUrl } from '@/lib/geo/maps-link';
-import { absoluteUrl, DEFAULT_CITY_ID, SITE_NAME, SITE_URL } from '@/lib/site';
+import { absoluteUrl, DEFAULT_CITY_ID, SITE_NAME } from '@/lib/site';
 
 /**
  * Result page and place page are the same page.
@@ -57,7 +57,7 @@ export async function generateMetadata({
   return {
     title,
     description,
-    alternates: { canonical },
+    alternates: { canonical: absoluteUrl(canonical) },
     openGraph: {
       type: 'article',
       url: absoluteUrl(canonical),
@@ -113,9 +113,8 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
           <ResultInteractions
             placeSlug={place.slug}
             placeName={place.name}
-            canonicalPath={canonicalPath}
+            shareUrl={absoluteUrl(canonicalPath)}
             directionsHref={directionsUrl(place)}
-            siteUrl={SITE_URL}
           />
         </Suspense>
 

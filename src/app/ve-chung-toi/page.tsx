@@ -2,12 +2,12 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { PageShell } from '@/components/ui/PageShell';
 import { getPlaceRepository } from '@/lib/places/static-repository';
-import { DEFAULT_CITY_ID, SITE_NAME, SITE_TAGLINE } from '@/lib/site';
+import { absoluteUrl, DEFAULT_CITY_ID, SITE_NAME, SITE_TAGLINE } from '@/lib/site';
 
 export const metadata: Metadata = {
   title: 'Về tụi mình',
   description: `${SITE_NAME} là gì, làm cho ai, và dữ liệu đến từ đâu.`,
-  alternates: { canonical: '/ve-chung-toi/' },
+  alternates: { canonical: absoluteUrl('/ve-chung-toi/') },
 };
 
 export default async function AboutPage() {

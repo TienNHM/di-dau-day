@@ -1,12 +1,12 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { PageShell } from '@/components/ui/PageShell';
-import { REPO_URL, SITE_NAME, SUGGEST_FORM_URL } from '@/lib/site';
+import { absoluteUrl, REPO_URL, SITE_NAME, SUGGEST_FORM_URL } from '@/lib/site';
 
 export const metadata: Metadata = {
   title: 'Gợi ý địa điểm',
   description: `Biết một chỗ hay mà ${SITE_NAME} chưa có? Kể tụi mình nghe.`,
-  alternates: { canonical: '/dong-gop/' },
+  alternates: { canonical: absoluteUrl('/dong-gop/') },
 };
 
 /**

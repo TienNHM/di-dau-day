@@ -20,7 +20,7 @@ import { absoluteUrl, DEFAULT_CITY_ID, SITE_NAME, SITE_URL } from '@/lib/site';
 export const metadata: Metadata = {
   title: 'Kế hoạch cho buổi hẹn',
   description: `Cà phê, đi chơi rồi ăn tối — ${SITE_NAME} lên sẵn một buổi tối ở TP.HCM cho bạn.`,
-  alternates: { canonical: '/lich-trinh/' },
+  alternates: { canonical: absoluteUrl('/lich-trinh/') },
   openGraph: {
     title: `Kế hoạch cho buổi hẹn · ${SITE_NAME}`,
     description: 'Cà phê → đi chơi → ăn tối. Một buổi tối đã được lên sẵn.',

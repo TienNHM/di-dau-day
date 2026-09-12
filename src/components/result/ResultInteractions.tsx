@@ -16,19 +16,18 @@ import { track } from '@/lib/analytics/track';
 export function ResultInteractions({
   placeSlug,
   placeName,
-  canonicalPath,
+  shareUrl,
   directionsHref,
-  siteUrl,
 }: {
   placeSlug: string;
   placeName: string;
-  canonicalPath: string;
+  /** Absolute, and already basePath-aware — built on the server by absoluteUrl(). */
+  shareUrl: string;
   directionsHref: string;
-  siteUrl: string;
 }) {
   const searchParams = useSearchParams();
 
-  const { rerollHref, shareUrl } = useMemo(() => {
+  const rerollHref = useMemo(() => {
     const params = new URLSearchParams(searchParams.toString());
     const intent = getIntent(params.get('tu') ?? '') ?? INTENTS.find((i) => i.id === 'di-dau');
 
@@ -36,13 +35,8 @@ export function ResultInteractions({
     rerollParams.delete('tu');
     rerollParams.set('spin', '1');
 
-    return {
-      rerollHref: `${intent?.path ?? '/di-dau'}/?${rerollParams.toString()}`,
-      // Share the canonical URL without wizard answers: the recipient is starting
-      // their own session, not resuming someone else's.
-      shareUrl: `${siteUrl}${canonicalPath}`,
-    };
-  }, [searchParams, canonicalPath, siteUrl]);
+    return `${intent?.path ?? '/di-dau'}/?${rerollParams.toString()}`;
+  }, [searchParams]);
 
   useEffect(() => {
     track('result_view', { place: placeSlug });

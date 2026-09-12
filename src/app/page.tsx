@@ -1,9 +1,10 @@
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import { IntentCard } from '@/components/intent/IntentCard';
 import { PageShell } from '@/components/ui/PageShell';
 import { INTENTS } from '@/lib/intents/registry';
 import { getPlaceRepository } from '@/lib/places/static-repository';
-import { DEFAULT_CITY_ID, SITE_TAGLINE } from '@/lib/site';
+import { absoluteUrl, DEFAULT_CITY_ID, SITE_TAGLINE } from '@/lib/site';
 
 /**
  * Landing. One job: get the user into an intent in a single tap.
@@ -12,6 +13,12 @@ import { DEFAULT_CITY_ID, SITE_TAGLINE } from '@/lib/site';
  * intents light up on their own as data lands — no manual enabling, and never a
  * flow that ends in "không tìm thấy gì".
  */
+// Declared here rather than in the root layout: an inherited canonical would make
+// any page that forgot to set its own claim to be the homepage.
+export const metadata: Metadata = {
+  alternates: { canonical: absoluteUrl('/') },
+};
+
 export default async function HomePage() {
   const repo = getPlaceRepository();
   const city = await repo.getCity(DEFAULT_CITY_ID);
