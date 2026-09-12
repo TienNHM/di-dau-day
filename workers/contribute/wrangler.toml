@@ -2,10 +2,20 @@ name = "didauday-contribute"
 main = "src/index.ts"
 compatibility_date = "2026-09-01"
 
-# Rate limiting is handled by the Cloudflare dashboard rule documented in README.md
-# rather than in code: a Worker is stateless, so counting requests here would need
-# KV, whose free tier allows only 1,000 writes a day — less than the traffic a rate
-# limiter is supposed to survive.
+# Rate limiting runs here rather than as a WAF rule.
+#
+# The WAF route was the first plan and does not work on this account. The Worker
+# lives on workers.dev, which is not inside the tiennhm.io.vn zone, so a zone rule
+# never sees these requests — and the Free plan offers one rule, a fixed 10-second
+# window, and no Hostname field to match on, only URI Path. A path-only rule applies
+# to the whole zone, so it would throttle people simply reading the site.
+#
+# This binding needs no KV: Cloudflare does the counting. `period` accepts only 10 or
+# 60 seconds, so 60 is the longest window available, per IP.
+[[ratelimits]]
+name = "SUBMIT_LIMITER"
+namespace_id = "1001"
+simple = { limit = 5, period = 60 }
 
 [vars]
 GITHUB_REPO = "TienNHM/di-dau-day"

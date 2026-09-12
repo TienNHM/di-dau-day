@@ -102,7 +102,7 @@ chối** chứ không phải để nhận.
 | Chỉ nhận từ origin đã khai báo | ✅ sẵn có |
 | Bắt buộc có địa chỉ hoặc mô tả | ✅ sẵn có |
 | Turnstile | ⚠️ tuỳ chọn — **nên bật trước khi truyền thông** |
-| Rate limit theo IP | ⚠️ cấu hình trên dashboard, xem dưới |
+| Rate limit theo IP | ✅ sẵn có — 5 request / 60 giây |
 
 ### Bật Turnstile (khuyến nghị)
 
@@ -130,12 +130,22 @@ Muốn tắt: `npx wrangler secret delete TURNSTILE_SECRET`.
 
 ### Rate limit
 
-Cấu hình bằng **WAF rate limiting rule** trên dashboard Cloudflare, không phải trong
-code. Worker không có trạng thái, nên đếm request trong code sẽ cần KV — mà free tier
-của KV chỉ cho **1.000 lượt ghi mỗi ngày**, ít hơn cả lượng traffic mà một bộ rate
-limit sinh ra để chịu đựng.
+Đã bật sẵn: **5 request / 60 giây / IP**, khai trong [`wrangler.toml`](wrangler.toml)
+và kiểm ngay đầu `fetch`, trước cả khi đọc body.
 
-Gợi ý: 5 request / 10 phút / IP trên route của Worker.
+Dùng **Workers rate limit binding** chứ không phải WAF rule, sau khi thử đường WAF và
+thấy nó không dùng được ở đây:
+
+- Worker nằm trên `*.workers.dev`, **không thuộc zone `tiennhm.io.vn`**, nên rule tạo
+  trong zone đó không bao giờ thấy request này.
+- Gói Free chỉ cho **1 rule**, cửa sổ **cố định 10 giây**, timeout 10 giây.
+- Trong biểu thức match của gói Free chỉ có **URI Path**, không có Hostname. Rule lại
+  áp cho **toàn zone**, nên một rule theo path sẽ chặn nhầm người đang đọc site —
+  một lần tải trang đã quá 5 request.
+
+Binding này không cần KV: Cloudflare tự đếm. `period` chỉ nhận **10 hoặc 60** giây,
+nên 60 là cửa sổ dài nhất có được. Muốn cửa sổ dài hơn (ví dụ 10 phút) thì phải lên
+gói Business, hoặc tự đếm bằng Durable Object.
 
 ---
 

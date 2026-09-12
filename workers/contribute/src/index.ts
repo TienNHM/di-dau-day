@@ -19,7 +19,11 @@ export type Env = {
   ALLOWED_ORIGINS: string;
   /** Optional. When set, a Turnstile token is required and verified. */
   TURNSTILE_SECRET?: string;
+  /** Per-IP limiter, configured in wrangler.toml. Cloudflare keeps the counters. */
+  SUBMIT_LIMITER: RateLimiter;
 };
+
+type RateLimiter = { limit: (options: { key: string }) => Promise<{ success: boolean }> };
 
 /** Bodies larger than this are abuse, not contributions. */
 const MAX_BODY_BYTES = 8_000;
@@ -164,6 +168,16 @@ const worker = {
       return json({ error: 'Origin không được phép' }, 403, cors);
     }
 
+    // Before reading the body, so a flood costs as little as possible. Keyed by IP:
+    // one person retrying is not the case this guards against, a script is.
+    const ip = request.headers.get('CF-Connecting-IP');
+    // The limiter needs some key even when the header is absent; Turnstile must not
+    // be handed a placeholder, which it would reject as an invalid remoteip.
+    const { success } = await env.SUBMIT_LIMITER.limit({ key: ip ?? 'unknown' });
+    if (!success) {
+      return json({ error: 'Bạn gửi hơi nhanh. Đợi một phút rồi thử lại nhé.' }, 429, cors);
+    }
+
     const raw = await request.text();
     if (raw.length > MAX_BODY_BYTES) {
       return json({ error: 'Nội dung quá dài' }, 413, cors);
@@ -215,7 +229,6 @@ const worker = {
 
     if (env.TURNSTILE_SECRET) {
       const token = clean(input.turnstileToken, 4000);
-      const ip = request.headers.get('CF-Connecting-IP');
       if (!token || !(await verifyTurnstile(token, env.TURNSTILE_SECRET, ip))) {
         return json({ error: 'Không xác minh được. Thử tải lại trang.' }, 403, cors);
       }
