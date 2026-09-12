@@ -1,8 +1,8 @@
+import { cpus } from 'node:os';
 import { mkdir, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { OG_EXTENSION, renderBrandOgImage, renderPlaceOgImage, toJpeg } from '../src/lib/og/render';
 import { getPlaceRepository } from '../src/lib/places/static-repository';
-import { DEFAULT_CITY_ID } from '../src/lib/site';
 
 /**
  * Renders every place's share image to `public/og/<slug>.png` before the build.
@@ -22,12 +22,27 @@ async function main() {
   const repo = getPlaceRepository();
   const places = await repo.listPlaces();
 
+  /**
+   * Rendered in parallel batches rather than one at a time.
+   *
+   * Both halves of the work release the event loop — resvg rasterises and sharp
+   * encodes in native threads — so serialising them left most cores idle. At 4,000+
+   * places this is the difference between a build that fits comfortably inside the
+   * deploy window and one that does not.
+   */
+  const CONCURRENCY = Math.max(2, Math.min(8, cpus().length));
+
   let written = 0;
-  for (const place of places) {
-    const district = await repo.getDistrict(DEFAULT_CITY_ID, place.location.districtId);
-    const buffer = await toJpeg(await renderPlaceOgImage(place, district));
-    await writeFile(join(outDir, `${place.slug}.${OG_EXTENSION}`), buffer);
-    written += 1;
+  for (let start = 0; start < places.length; start += CONCURRENCY) {
+    const batch = places.slice(start, start + CONCURRENCY);
+    await Promise.all(
+      batch.map(async (place) => {
+        const district = await repo.getDistrict(place.location.cityId, place.location.districtId);
+        const buffer = await toJpeg(await renderPlaceOgImage(place, district));
+        await writeFile(join(outDir, `${place.slug}.${OG_EXTENSION}`), buffer);
+      }),
+    );
+    written += batch.length;
   }
 
   await writeFile(join(outDir, `home.${OG_EXTENSION}`), await toJpeg(await renderBrandOgImage()));
