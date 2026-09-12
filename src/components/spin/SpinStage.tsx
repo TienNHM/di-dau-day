@@ -1,6 +1,8 @@
 'use client';
 
-import { useSpinSequence } from './useSpinSequence';
+import { useMemo, useRef } from 'react';
+import { REEL_DURATION_MS, useSpinSequence } from './useSpinSequence';
+import { Confetti } from './Confetti';
 import type { Accent } from '@/lib/intents/registry';
 import type { PlaceSummary } from '@/lib/places/types';
 
@@ -11,9 +13,26 @@ import type { PlaceSummary } from '@/lib/places/types';
  * answers — not filler. If the animation lied about what was considered, the moment
  * it lands would be theatre; because it does not, the user sees the shortlist they
  * were chosen from and the result reads as a decision.
+ *
+ * The motion is one CSS transform on one element, so the whole reel is handed to the
+ * compositor and keeps its frame rate on a mid-range phone. The previous version
+ * swapped text on a `setTimeout` ladder, which re-rendered React fourteen times and
+ * could not decelerate smoothly because each step was a discrete jump.
  */
 
 export type SpinCandidate = { readonly place: PlaceSummary; readonly label: string };
+
+/**
+ * Height of one slot, in pixels.
+ *
+ * Fixed rather than relative, because the landing offset is `slots * height` and any
+ * mismatch would stop the reel between two names. Sized for the small end first: two
+ * lines of the mobile type size fit, which is what a long Vietnamese place name needs
+ * — "Bánh Xèo Bà Dưỡng Chi Nhánh Hải Châu" does not fit one line on a 360px phone.
+ */
+const SLOT_HEIGHT = 96;
+/** How many names travel past before the winner. More than this and the wait drags. */
+const REEL_LENGTH = 22;
 
 export function SpinStage({
   candidates,
@@ -29,44 +48,114 @@ export function SpinStage({
   accent: Accent;
   onComplete: () => void;
 }) {
-  const { index, phase } = useSpinSequence({ stepCount: candidates.length, onComplete });
+  const { phase, land, skipReel } = useSpinSequence({ stepCount: candidates.length, onComplete });
+  const startedRef = useRef(false);
 
-  const displayed =
-    phase === 'landed' ? winnerLabel : (candidates[index % candidates.length]?.label ?? winnerLabel);
+  /**
+   * The strip: real candidates on the way past, the winner in the final slot.
+   *
+   * Built once. Rebuilding it mid-spin would restart the transition from a new
+   * starting offset and the reel would visibly stutter.
+   */
+  const slots = useMemo(() => {
+    const labels = candidates.map((candidate) => candidate.label);
+    if (labels.length === 0) return [winnerLabel];
+
+    const strip: string[] = [];
+    for (let index = 0; index < REEL_LENGTH - 1; index += 1) {
+      strip.push(labels[index % labels.length]!);
+    }
+    strip.push(winnerLabel);
+    return strip;
+  }, [candidates, winnerLabel]);
+
+  const travel = (slots.length - 1) * SLOT_HEIGHT;
+  const landed = phase === 'landed';
 
   return (
     <div
-      className="flex flex-1 flex-col items-center justify-center rounded-card px-6 py-16 text-center"
+      className="relative flex flex-1 flex-col items-center justify-center overflow-hidden rounded-card px-4 py-12 text-center sm:px-6 sm:py-16"
       style={{
         backgroundImage: `linear-gradient(160deg, ${accent.from}, ${accent.to})`,
         color: accent.on,
       }}
     >
-      <p className="text-sm font-semibold tracking-[0.2em] uppercase opacity-80">
-        {phase === 'landed' ? 'Đây rồi' : '🎲 Đang chọn'}
-      </p>
+      {/* Two slow drifting blooms. They give the flat gradient some life during the
+          wait without competing with the reel for attention. */}
+      <div aria-hidden className="spin-bloom spin-bloom-a" />
+      <div aria-hidden className="spin-bloom spin-bloom-b" />
+
+      {landed ? <Confetti accent={accent} /> : null}
 
       <p
-        key={displayed}
-        className={`mt-6 text-4xl leading-tight font-extrabold text-balance transition-all duration-200 sm:text-5xl ${
-          phase === 'landed' ? 'scale-100 opacity-100' : 'scale-[0.97] opacity-90'
+        className={`relative text-sm font-semibold tracking-[0.2em] uppercase transition-opacity duration-300 ${
+          landed ? 'opacity-100' : 'opacity-80'
         }`}
       >
-        {displayed}
+        {landed ? '✨ Đây rồi' : '🎲 Đang chọn'}
       </p>
 
-      {phase === 'landed' && landedNote ? (
-        <p className="mt-3 text-lg font-semibold opacity-85">{landedNote}</p>
+      <div
+        className="relative mt-6 w-full"
+        style={{
+          height: SLOT_HEIGHT,
+          // Fades the names entering and leaving, so the strip reads as a wheel
+          // rather than a list sliding under a window.
+          maskImage: 'linear-gradient(180deg, transparent, #000 22%, #000 78%, transparent)',
+          WebkitMaskImage: 'linear-gradient(180deg, transparent, #000 22%, #000 78%, transparent)',
+        }}
+      >
+        <div
+          ref={(node) => {
+            if (!node || skipReel || startedRef.current) return;
+            startedRef.current = true;
+            // Next frame, so the browser paints the strip at offset zero before the
+            // transition begins. Setting both in one frame animates from nothing.
+            requestAnimationFrame(() => {
+              node.style.transform = `translate3d(0, -${travel}px, 0)`;
+            });
+          }}
+          onTransitionEnd={land}
+          style={{
+            transform: skipReel ? `translate3d(0, -${travel}px, 0)` : 'translate3d(0, 0, 0)',
+            transition: skipReel
+              ? undefined
+              : `transform ${REEL_DURATION_MS}ms cubic-bezier(0.13, 0.72, 0.11, 1)`,
+            willChange: 'transform',
+          }}
+        >
+          {slots.map((label, index) => (
+            <div
+              key={`${label}-${index}`}
+              className="flex items-center justify-center px-2"
+              style={{ height: SLOT_HEIGHT }}
+            >
+              {/* Clamped to two lines: a third would spill into the next slot and
+                  the reel would show two names at once. */}
+              <span
+                className={`line-clamp-2 text-2xl leading-tight font-extrabold text-balance sm:text-4xl ${
+                  landed && index === slots.length - 1 ? 'spin-winner' : ''
+                }`}
+              >
+                {label}
+              </span>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      {landed && landedNote ? (
+        <p className="relative mt-3 text-lg font-semibold opacity-85">{landedNote}</p>
       ) : null}
 
       {/* Announce only the final answer: narrating every reel frame would flood a
           screen reader with names that were never chosen. */}
       <p aria-live="polite" className="sr-only">
-        {phase === 'landed' ? `Đã chọn ${winnerLabel}` : ''}
+        {landed ? `Đã chọn ${winnerLabel}` : ''}
       </p>
 
-      <p className="mt-6 text-sm opacity-75">
-        {phase === 'landed'
+      <p className="relative mt-6 text-sm opacity-75">
+        {landed
           ? 'Đang mở kết quả…'
           : `Đang cân nhắc ${candidates.length} lựa chọn hợp với bạn`}
       </p>

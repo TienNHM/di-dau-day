@@ -138,3 +138,100 @@
     }
   }
 }
+
+/*
+ * The reveal.
+ *
+ * Everything here is decoration on top of the reel, and every piece of it is removed
+ * under `prefers-reduced-motion` by the global rule above — which collapses the
+ * durations to nothing — plus the explicit `display: none` on the confetti, because
+ * a pile of motionless paper is worse than no paper at all.
+ */
+
+.spin-bloom {
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(60px);
+  opacity: 0.35;
+  pointer-events: none;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.9), transparent 70%);
+}
+
+.spin-bloom-a {
+  width: 60%;
+  aspect-ratio: 1;
+  top: -12%;
+  left: -18%;
+  animation: spin-drift 9s ease-in-out infinite alternate;
+}
+
+.spin-bloom-b {
+  width: 48%;
+  aspect-ratio: 1;
+  right: -14%;
+  bottom: -10%;
+  animation: spin-drift 11s ease-in-out infinite alternate-reverse;
+}
+
+@keyframes spin-drift {
+  from {
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  to {
+    transform: translate3d(8%, 6%, 0) scale(1.15);
+  }
+}
+
+/* The winner's name settles with one overshoot — the physical cue that something
+   came to rest, rather than simply stopping. */
+/* No `display` here on purpose: the slot uses `line-clamp`, which needs
+   `display: -webkit-box`, and that is already a block box so the transform applies. */
+.spin-winner {
+  animation: spin-land 520ms cubic-bezier(0.18, 1.4, 0.35, 1) both;
+  text-shadow: 0 6px 30px rgb(0 0 0 / 0.18);
+}
+
+@keyframes spin-land {
+  0% {
+    transform: scale(0.94);
+  }
+  55% {
+    transform: scale(1.09);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.confetti-layer {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.confetti-piece {
+  position: absolute;
+  top: -8%;
+  animation-name: confetti-fall;
+  animation-timing-function: cubic-bezier(0.3, 0.5, 0.6, 1);
+  animation-fill-mode: both;
+}
+
+@keyframes confetti-fall {
+  from {
+    opacity: 1;
+    transform: translate3d(0, 0, 0) rotate(0deg);
+  }
+  to {
+    opacity: 0;
+    transform: translate3d(var(--drift), 130vh, 0) rotate(var(--spin));
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .confetti-layer,
+  .spin-bloom {
+    display: none;
+  }
+}
