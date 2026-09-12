@@ -107,13 +107,18 @@ export function formatPrice(vnd: number): string {
   return `~${(vnd / 1_000_000).toFixed(1).replace('.', ',')}tr`;
 }
 
+/**
+ * "45 phút", "2 giờ", "2,5 giờ" — rounded to the nearest half hour.
+ *
+ * Nobody plans an evening to the minute, and "2 giờ 20 phút" reads as false
+ * precision for a number that is an editorial estimate in the first place.
+ */
 export function formatDuration([min, max]: readonly [number, number]): string {
-  const toText = (minutes: number) =>
-    minutes < 60
-      ? `${minutes} phút`
-      : minutes % 60 === 0
-        ? `${minutes / 60} giờ`
-        : `${Math.floor(minutes / 60)},5 giờ`;
+  const toText = (minutes: number) => {
+    if (minutes < 60) return `${minutes} phút`;
+    const hours = Math.round(minutes / 30) / 2;
+    return `${String(hours).replace('.', ',')} giờ`;
+  };
 
   return min === max ? `~${toText(max)}` : `${toText(min)} – ${toText(max)}`;
 }
