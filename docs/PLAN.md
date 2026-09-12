@@ -369,7 +369,14 @@ Chi tiết và lý do không dùng OSM/Google ở [`docs/DATA-SOURCES.md`](DATA-
   Mọi kịch bản giờ dưới một khung hình (16,7ms), nên Web Worker sẽ chỉ là ~200 dòng
   plumbing để **che** bug thay vì sửa nó.
 - [x] **3.5** Result card degrade khi thiếu `editorialNote` + CTA bổ sung thông tin
-- [ ] **3.6** Cloudflare Worker + form đóng góp / báo thông tin sai
+- [x] **3.6** Cloudflare Worker + form đóng góp / báo thông tin sai
+
+  **Hai đường song song, cố ý.** Form cho mọi người (gần như không ai biết một quán
+  ngon lại có tài khoản GitHub); link GitHub cho dev, những người thích mở issue hoặc
+  sửa thẳng `data/places` hơn là điền form. Cả hai đổ về cùng một chỗ.
+
+  Worker chưa deploy thì form **tự lùi về** đường GitHub, nên site không bao giờ hỏng
+  vì thiếu hạ tầng. Hướng dẫn cài đặt ở [`workers/contribute/README.md`](../workers/contribute/README.md).
 
 ### Phase 2 — Chỉ làm nếu viral loop được chứng minh
 

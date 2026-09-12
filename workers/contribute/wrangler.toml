@@ -1,0 +1,19 @@
+name = "didauday-contribute"
+main = "src/index.ts"
+compatibility_date = "2026-09-01"
+
+# Rate limiting is handled by the Cloudflare dashboard rule documented in README.md
+# rather than in code: a Worker is stateless, so counting requests here would need
+# KV, whose free tier allows only 1,000 writes a day — less than the traffic a rate
+# limiter is supposed to survive.
+
+[vars]
+GITHUB_REPO = "TienNHM/di-dau-day"
+ALLOWED_ORIGINS = "https://didauday.tiennhm.io.vn"
+
+# Secrets — never in this file, set them with:
+#   wrangler secret put GITHUB_TOKEN
+#   wrangler secret put TURNSTILE_SECRET   (optional but recommended)
+
+[observability]
+enabled = true

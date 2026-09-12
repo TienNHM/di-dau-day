@@ -61,6 +61,8 @@ src/lib/         domain logic: places, recommend, intents, geo, time, analytics
 | `NEXT_PUBLIC_BASE_PATH` | *(rỗng)* | Chỉ cần khi deploy dưới `github.io/<repo>` |
 | `NEXT_PUBLIC_UMAMI_SRC` | *(không có)* | URL script Umami. Không đặt thì **không nạp analytics nào** — nên dev và preview không gửi dữ liệu đi đâu. |
 | `NEXT_PUBLIC_UMAMI_ID` | *(không có)* | Website ID của Umami |
+| `NEXT_PUBLIC_CONTRIBUTE_ENDPOINT` | *(không có)* | URL Worker nhận form. Trống thì form lùi về GitHub issue. |
+| `NEXT_PUBLIC_TURNSTILE_SITE_KEY` | *(không có)* | Site key Turnstile, nếu đã bật chống spam |
 
 Giá trị production nằm trong [`deploy.yml`](.github/workflows/deploy.yml) chứ không phải
 secret: website id của Umami hiển thị công khai trong mã nguồn trang, nên giấu nó không
@@ -70,6 +72,12 @@ secret: website id của Umami hiển thị công khai trong mã nguồn trang, 
 
 Push lên `main` → GitHub Actions build static export → publish lên GitHub Pages.
 Chi tiết và lưu ý DNS ở [`docs/DEPLOY.md`](docs/DEPLOY.md).
+
+## Worker nhận đóng góp
+
+Form đóng góp gửi qua một Cloudflare Worker riêng ở [`workers/contribute/`](workers/contribute/),
+deploy tách biệt với web nên CI của site không phải tải `wrangler`. Chưa cấu hình
+`NEXT_PUBLIC_CONTRIBUTE_ENDPOINT` thì form tự lùi về link tạo issue trên GitHub.
 
 ## Đóng góp dữ liệu
 

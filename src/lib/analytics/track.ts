@@ -17,7 +17,8 @@ export type AnalyticsEvent =
   | 'result_view'
   | 'directions_click'
   | 'share_click'
-  | 'reroll_click';
+  | 'reroll_click'
+  | 'contribute_submit';
 
 type Props = Record<string, string | number | boolean | undefined>;
 

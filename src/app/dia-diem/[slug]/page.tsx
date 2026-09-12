@@ -9,10 +9,11 @@ import { ResultInteractions } from '@/components/result/ResultInteractions';
 import { WidenedNotice } from '@/components/result/WidenedNotice';
 import { accentFor } from '@/lib/intents/accents';
 import { needsDescription, placeTypeLabel } from '@/lib/places/describe';
+import { githubIssueUrl } from '@/lib/contribute';
 import { getPlaceRepository } from '@/lib/places/static-repository';
 import { TAG_LABELS } from '@/lib/places/types';
 import { directionsUrl } from '@/lib/geo/maps-link';
-import { absoluteUrl, REPO_URL, SITE_NAME } from '@/lib/site';
+import { absoluteUrl, SITE_NAME } from '@/lib/site';
 
 /**
  * Result page and place page are the same page.
@@ -169,24 +170,36 @@ export default async function PlacePage({ params }: { params: Promise<Params> })
               Chỗ này tụi mình lấy từ dữ liệu bản đồ mở nên chưa có mô tả, giá hay giờ mở cửa. Một
               câu của bạn đáng giá hơn mọi thông số.
             </p>
-            <a
-              href={`${REPO_URL}/issues/new?title=${encodeURIComponent(`Bổ sung thông tin: ${place.name}`)}&body=${encodeURIComponent(
-                [
-                  `**Địa điểm:** ${place.name}`,
-                  `**Trang:** /dia-diem/${place.slug}/`,
-                  '',
-                  '**Khoảng giá một người:**',
-                  '**Giờ mở cửa:**',
-                  '**Hợp đi với ai:** (một mình / người yêu / bạn bè / gia đình)',
-                  '**Một câu mô tả bằng lời của bạn:**',
-                ].join('\n'),
-              )}`}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-4 inline-block rounded-2xl bg-white px-4 py-2.5 text-sm font-semibold ring-1 ring-line transition active:scale-[0.98]"
-            >
-              ✍️ Bổ sung thông tin
-            </a>
+            <div className="mt-4 flex flex-wrap items-center gap-3">
+              <Link
+                href={
+                  (`/dong-gop/?ve=${place.slug}` +
+                    `&ten=${encodeURIComponent(place.name)}` +
+                    (city ? `&tp=${encodeURIComponent(city.shortName)}` : '') +
+                    (district ? `&quan=${encodeURIComponent(district.shortName)}` : '')) as Route
+                }
+                className="inline-block rounded-2xl bg-white px-4 py-2.5 text-sm font-semibold ring-1 ring-line transition active:scale-[0.98]"
+              >
+                ✍️ Bổ sung thông tin
+              </Link>
+
+              {/* Second path, for people who would rather open a pull request than
+                  fill in a form. Both end up in the same place. */}
+              <a
+                href={githubIssueUrl({
+                  kind: 'bo-sung',
+                  placeName: place.name,
+                  placeSlug: place.slug,
+                  ...(city ? { city: city.shortName } : {}),
+                  ...(district ? { district: district.shortName } : {}),
+                })}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-sm font-medium text-ink-faint underline underline-offset-4 hover:text-ink"
+              >
+                hoặc qua GitHub
+              </a>
+            </div>
           </section>
         ) : null}
 
