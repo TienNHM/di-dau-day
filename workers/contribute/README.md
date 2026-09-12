@@ -106,14 +106,27 @@ chối** chứ không phải để nhận.
 
 ### Bật Turnstile (khuyến nghị)
 
-1. Cloudflare dashboard → **Turnstile** → Add site → domain `didauday.tiennhm.io.vn`
-2. Lấy **site key** và **secret key**
-3. `npx wrangler secret put TURNSTILE_SECRET` → dán secret key
-4. Thêm site key vào [`deploy.yml`](../../.github/workflows/deploy.yml):
-   `NEXT_PUBLIC_TURNSTILE_SITE_KEY: <site key>`
+> [!IMPORTANT]
+> **Thứ tự rất quan trọng.** Worker bắt buộc có token ngay khi `TURNSTILE_SECRET`
+> tồn tại, còn web chỉ gửi token khi `NEXT_PUBLIC_TURNSTILE_SITE_KEY` đã được build
+> vào. Đặt secret cho Worker **trước** sẽ khiến **mọi submission trả 403** cho tới
+> khi web deploy xong.
+>
+> Làm đúng thứ tự: **site key trước, secret sau.**
 
-Worker **tự bật kiểm tra** khi `TURNSTILE_SECRET` tồn tại, nên thứ tự làm không quan
-trọng — chưa có secret thì bỏ qua, có rồi thì bắt buộc.
+1. Cloudflare dashboard → **Turnstile** → Add widget.
+   Hostname khai `tiennhm.io.vn` là đủ — Turnstile tự phủ mọi subdomain, kể cả
+   `didauday.tiennhm.io.vn`. Widget mode để **Managed**.
+2. **Site key trước:** thêm vào [`deploy.yml`](../../.github/workflows/deploy.yml)
+   `NEXT_PUBLIC_TURNSTILE_SITE_KEY: <site key>`, push, và **đợi deploy xong**.
+   Lúc này web đã gửi token nhưng Worker chưa kiểm — vô hại.
+3. **Secret sau:** `npx wrangler secret put TURNSTILE_SECRET` → dán secret key.
+   Worker tự bật kiểm tra ngay khi secret tồn tại.
+
+Site key là công khai (nằm trong mã nguồn trang); secret key thì không — chỉ dán
+thẳng vào `wrangler secret put`, đừng commit và đừng gửi qua chat.
+
+Muốn tắt: `npx wrangler secret delete TURNSTILE_SECRET`.
 
 ### Rate limit
 
