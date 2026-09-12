@@ -102,7 +102,7 @@ chối** chứ không phải để nhận.
 | Chỉ nhận từ origin đã khai báo | ✅ sẵn có |
 | Bắt buộc có địa chỉ hoặc mô tả | ✅ sẵn có |
 | Turnstile | ⚠️ tuỳ chọn — **nên bật trước khi truyền thông** |
-| Rate limit theo IP | ✅ sẵn có — 5 request / 60 giây |
+| Rate limit theo IP | ⚠️ có bật, nhưng **đo thấy không chặn** — xem dưới |
 
 ### Bật Turnstile (khuyến nghị)
 
@@ -144,8 +144,22 @@ thấy nó không dùng được ở đây:
   một lần tải trang đã quá 5 request.
 
 Binding này không cần KV: Cloudflare tự đếm. `period` chỉ nhận **10 hoặc 60** giây,
-nên 60 là cửa sổ dài nhất có được. Muốn cửa sổ dài hơn (ví dụ 10 phút) thì phải lên
-gói Business, hoặc tự đếm bằng Durable Object.
+nên 60 là cửa sổ dài nhất có được.
+
+> [!WARNING]
+> **Đã đo và nó không chặn.** 14 request liên tiếp từ cùng một IP trong 18 giây, với
+> `limit = 5`, không có cái nào bị 429. Đây là [bug đã được ghi nhận][bug]: binding trả
+> `success = true` với cùng một key và colo. Cloudflare cũng nói rõ nó *"không nên
+> dùng như một hệ thống đếm chính xác"*.
+>
+> Cứ để đó vì nó miễn phí và không hại gì, nhưng **đừng coi đây là một lớp phòng thủ**.
+> Lớp thật sự đang chặn là Turnstile.
+>
+> Muốn chặn chắc chắn thì phải tự đếm bằng **Durable Object** (`new_sqlite_classes` —
+> bản SQLite chạy được trên Workers Free; bản key-value cũ mới cần gói trả phí). Lúc đó
+> mới có cửa sổ tuỳ ý, ví dụ 5 request / 10 phút.
+
+[bug]: https://community.cloudflare.com/t/workers-rate-limiting-binding-always-returns-success-true-for-the-same-key-and-colo/953250
 
 ---
 
