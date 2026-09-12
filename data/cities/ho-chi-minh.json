@@ -1,0 +1,103 @@
+{
+  "id": "ho-chi-minh",
+  "name": "TP. Hồ Chí Minh",
+  "slug": "tp-ho-chi-minh",
+  "lat": 10.7769,
+  "lng": 106.7009,
+  "districts": [
+    { "id": "quan-1", "name": "Quận 1", "shortName": "Quận 1", "lat": 10.7769, "lng": 106.7009 },
+    { "id": "quan-3", "name": "Quận 3", "shortName": "Quận 3", "lat": 10.784, "lng": 106.685 },
+    { "id": "quan-4", "name": "Quận 4", "shortName": "Quận 4", "lat": 10.7578, "lng": 106.705 },
+    { "id": "quan-5", "name": "Quận 5", "shortName": "Quận 5", "lat": 10.754, "lng": 106.663 },
+    { "id": "quan-6", "name": "Quận 6", "shortName": "Quận 6", "lat": 10.746, "lng": 106.635 },
+    { "id": "quan-7", "name": "Quận 7", "shortName": "Quận 7", "lat": 10.734, "lng": 106.722 },
+    { "id": "quan-8", "name": "Quận 8", "shortName": "Quận 8", "lat": 10.724, "lng": 106.628 },
+    { "id": "quan-10", "name": "Quận 10", "shortName": "Quận 10", "lat": 10.773, "lng": 106.667 },
+    { "id": "quan-11", "name": "Quận 11", "shortName": "Quận 11", "lat": 10.764, "lng": 106.65 },
+    { "id": "quan-12", "name": "Quận 12", "shortName": "Quận 12", "lat": 10.867, "lng": 106.654 },
+    {
+      "id": "binh-thanh",
+      "name": "Quận Bình Thạnh",
+      "shortName": "Bình Thạnh",
+      "lat": 10.811,
+      "lng": 106.709
+    },
+    {
+      "id": "phu-nhuan",
+      "name": "Quận Phú Nhuận",
+      "shortName": "Phú Nhuận",
+      "lat": 10.799,
+      "lng": 106.68
+    },
+    {
+      "id": "tan-binh",
+      "name": "Quận Tân Bình",
+      "shortName": "Tân Bình",
+      "lat": 10.801,
+      "lng": 106.653
+    },
+    {
+      "id": "tan-phu",
+      "name": "Quận Tân Phú",
+      "shortName": "Tân Phú",
+      "lat": 10.79,
+      "lng": 106.628
+    },
+    {
+      "id": "go-vap",
+      "name": "Quận Gò Vấp",
+      "shortName": "Gò Vấp",
+      "lat": 10.838,
+      "lng": 106.665
+    },
+    {
+      "id": "binh-tan",
+      "name": "Quận Bình Tân",
+      "shortName": "Bình Tân",
+      "lat": 10.765,
+      "lng": 106.603
+    },
+    {
+      "id": "thu-duc",
+      "name": "TP. Thủ Đức",
+      "shortName": "Thủ Đức",
+      "lat": 10.85,
+      "lng": 106.754
+    },
+    {
+      "id": "nha-be",
+      "name": "Huyện Nhà Bè",
+      "shortName": "Nhà Bè",
+      "lat": 10.695,
+      "lng": 106.74
+    },
+    {
+      "id": "can-gio",
+      "name": "Huyện Cần Giờ",
+      "shortName": "Cần Giờ",
+      "lat": 10.411,
+      "lng": 106.955
+    },
+    {
+      "id": "cu-chi",
+      "name": "Huyện Củ Chi",
+      "shortName": "Củ Chi",
+      "lat": 10.974,
+      "lng": 106.494
+    },
+    {
+      "id": "hoc-mon",
+      "name": "Huyện Hóc Môn",
+      "shortName": "Hóc Môn",
+      "lat": 10.887,
+      "lng": 106.595
+    },
+    {
+      "id": "binh-chanh",
+      "name": "Huyện Bình Chánh",
+      "shortName": "Bình Chánh",
+      "lat": 10.687,
+      "lng": 106.594
+    }
+  ]
+}
