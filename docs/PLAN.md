@@ -354,8 +354,22 @@ Mục tiêu: một intent chạy hết luồng, ~25 địa điểm seed, deploy 
 
 ---
 
-## 8. Câu hỏi đang chờ quyết định
+## 8. Quyết định đã chốt trong lúc triển khai
 
-- [ ] **Intent cho Phase 0** — mặc định là **"Đi đâu"** theo brief; nhưng **"Ăn gì"** có sức kéo
-  hằng ngày cao hơn và dễ seed hơn. Chọn cái nào?
-- [ ] **Result card không ảnh ở Phase 0** — cần xác nhận, vì nó định hình toàn bộ ngôn ngữ thị giác.
+- **Intent cho Phase 0**: làm **"Đi đâu"** theo brief. Sau đó Phase 1 bật luôn cả 5 intent
+  nên câu hỏi này không còn chặn gì.
+- **Result card không ảnh**: giữ nguyên. Gradient + typography lớn, không dùng ảnh.
+- **Hosting**: GitHub Pages + custom domain `didauday.tiennhm.io.vn` qua Cloudflare.
+- **OG image**: tự sinh ra `public/og/*.png` bằng script prebuild thay vì dùng convention
+  `opengraph-image` của Next — file không đuôi `.png` sẽ bị GitHub Pages trả sai Content-Type
+  và mọi crawler đều từ chối.
+
+---
+
+## 9. Việc còn lại trước khi chạy marketing
+
+- [ ] **Kiểm chứng seed data** — toạ độ, địa chỉ, giá, giờ mở cửa đều đang là ước lượng.
+  Đây là việc quan trọng nhất còn lại; xem cảnh báo ở [`data/README.md`](../data/README.md).
+- [ ] Bật GitHub Pages + trỏ DNS (xem [`docs/DEPLOY.md`](DEPLOY.md)).
+- [ ] Cắm analytics thật (`NEXT_PUBLIC_UMAMI_SRC` / `NEXT_PUBLIC_UMAMI_ID`).
+- [ ] Gửi cho ~20 người thử và xem funnel rớt ở bước nào trước khi xây thêm.
