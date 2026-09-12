@@ -33,6 +33,13 @@ export type VibeOption = {
   readonly tags: readonly Tag[];
 };
 
+export type FormatOption = {
+  readonly value: 'mot-cho' | 'ca-buoi';
+  readonly label: string;
+  readonly emoji: string;
+  readonly hint: string;
+};
+
 export type WizardQuestion =
   | { readonly kind: 'companion'; readonly title: string; readonly options: readonly CompanionOption[] }
   | { readonly kind: 'budget'; readonly title: string; readonly options: readonly BudgetOption[] }
@@ -42,7 +49,12 @@ export type WizardQuestion =
       readonly hint?: string;
       readonly options: readonly VibeOption[];
     }
-  | { readonly kind: 'district'; readonly title: string; readonly hint?: string };
+  | { readonly kind: 'district'; readonly title: string; readonly hint?: string }
+  | {
+      readonly kind: 'format';
+      readonly title: string;
+      readonly options: readonly FormatOption[];
+    };
 
 export type Intent = {
   readonly id: IntentId;
@@ -60,6 +72,8 @@ export type Intent = {
   readonly questions: readonly WizardQuestion[];
   /** Copy above the result, e.g. "Tụi mình chọn cho bạn". */
   readonly resultLead: string;
+  /** Whether this intent can answer with a multi-stop plan instead of one place. */
+  readonly supportsItinerary?: boolean;
 };
 
 const COMPANION_OPTIONS: readonly CompanionOption[] = [
@@ -145,10 +159,29 @@ export const INTENTS: readonly Intent[] = [
     label: 'Hẹn hò',
     title: 'Hẹn hò ở đâu?',
     subtitle: 'Một buổi hẹn không cần nghĩ nhiều.',
-    categories: ['dating', 'cafe', 'outdoor', 'entertainment'],
+    categories: ['dating', 'cafe', 'outdoor', 'entertainment', 'food', 'activity'],
     accent: { from: '#8b3a86', to: '#ef4d23', on: '#ffffff' },
     resultLead: 'Rủ người ta tới đây',
+    supportsItinerary: true,
     questions: [
+      {
+        kind: 'format',
+        title: 'Một chỗ thôi hay cả buổi?',
+        options: [
+          {
+            value: 'mot-cho',
+            label: 'Một chỗ thôi',
+            emoji: '📍',
+            hint: 'Tụi mình chọn đúng một địa điểm',
+          },
+          {
+            value: 'ca-buoi',
+            label: 'Lên nguyên buổi tối',
+            emoji: '🗓️',
+            hint: 'Cà phê → đi chơi → ăn tối',
+          },
+        ],
+      },
       {
         kind: 'vibe',
         title: 'Buổi hẹn kiểu gì?',

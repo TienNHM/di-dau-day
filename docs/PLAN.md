@@ -341,7 +341,7 @@ Mục tiêu: một intent chạy hết luồng, ~25 địa điểm seed, deploy 
 - [x] **1.3** Trang SEO theo quận `/quan/[district]` + sitemap.xml + robots.txt
 - [x] **1.4** "Chọn lại" + loại trừ kết quả gần nhất
 - [x] **1.5** Lọc theo giờ mở cửa (open now)
-- [ ] **1.6** Mini-itinerary cho hẹn hò
+- [x] **1.6** Mini-itinerary cho hẹn hò (`/lich-trinh`)
 - [ ] **1.7** Form "gợi ý địa điểm"
 
 ### Phase 2 — Chỉ làm nếu viral loop được chứng minh

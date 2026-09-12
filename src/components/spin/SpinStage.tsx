@@ -2,7 +2,7 @@
 
 import { useSpinSequence } from './useSpinSequence';
 import type { Accent } from '@/lib/intents/registry';
-import type { ScoredPlace } from '@/lib/recommend/score';
+import type { PlaceSummary } from '@/lib/places/types';
 
 /**
  * The reveal.
@@ -12,22 +12,27 @@ import type { ScoredPlace } from '@/lib/recommend/score';
  * it lands would be theatre; because it does not, the user sees the shortlist they
  * were chosen from and the result reads as a decision.
  */
+
+export type SpinCandidate = { readonly place: PlaceSummary; readonly label: string };
+
 export function SpinStage({
   candidates,
-  winner,
+  winnerLabel,
+  landedNote,
   accent,
   onComplete,
 }: {
-  candidates: readonly ScoredPlace[];
-  winner: ScoredPlace;
+  candidates: readonly SpinCandidate[];
+  winnerLabel: string;
+  /** Extra line under the winner — used by the itinerary to say "và 2 chặng nữa". */
+  landedNote?: string;
   accent: Accent;
   onComplete: () => void;
 }) {
-  const names = candidates.map((candidate) => candidate.place.shortName ?? candidate.place.name);
-  const { index, phase } = useSpinSequence({ stepCount: names.length, onComplete });
+  const { index, phase } = useSpinSequence({ stepCount: candidates.length, onComplete });
 
-  const winnerName = winner.place.shortName ?? winner.place.name;
-  const displayed = phase === 'landed' ? winnerName : (names[index % names.length] ?? winnerName);
+  const displayed =
+    phase === 'landed' ? winnerLabel : (candidates[index % candidates.length]?.label ?? winnerLabel);
 
   return (
     <div
@@ -41,8 +46,6 @@ export function SpinStage({
         {phase === 'landed' ? 'Đây rồi' : '🎲 Đang chọn'}
       </p>
 
-      {/* aria-live announces only the final answer; narrating every reel frame
-          would flood a screen reader with names that were never chosen. */}
       <p
         key={displayed}
         className={`mt-6 text-4xl leading-tight font-extrabold text-balance transition-all duration-200 sm:text-5xl ${
@@ -52,8 +55,14 @@ export function SpinStage({
         {displayed}
       </p>
 
+      {phase === 'landed' && landedNote ? (
+        <p className="mt-3 text-lg font-semibold opacity-85">{landedNote}</p>
+      ) : null}
+
+      {/* Announce only the final answer: narrating every reel frame would flood a
+          screen reader with names that were never chosen. */}
       <p aria-live="polite" className="sr-only">
-        {phase === 'landed' ? `Đã chọn ${winnerName}` : ''}
+        {phase === 'landed' ? `Đã chọn ${winnerLabel}` : ''}
       </p>
 
       <p className="mt-6 text-sm opacity-75">

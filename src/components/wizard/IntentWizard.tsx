@@ -13,6 +13,7 @@ import type { Companion, District, PlaceSummary, PriceRange } from '@/lib/places
 import { encodeCriteria } from '@/lib/recommend/criteria';
 import type { Criteria } from '@/lib/recommend/criteria';
 import { recommendWithFallback } from '@/lib/recommend/select';
+import { composeItinerary, encodeItinerary } from '@/lib/recommend/itinerary';
 import { readRecentIds, rememberResult } from '@/lib/recommend/recent';
 import { track } from '@/lib/analytics/track';
 
@@ -31,6 +32,8 @@ type Answers = {
   vibes: readonly string[];
   districtId?: string;
   openNow: boolean;
+  /** Only asked by intents that can answer with a plan rather than one place. */
+  format?: 'mot-cho' | 'ca-buoi';
 };
 
 const EMPTY_ANSWERS: Answers = { vibes: [], openNow: false };
@@ -40,10 +43,13 @@ function readAnswers(params: URLSearchParams): Answers {
   const budget = params.get('vi');
   const district = params.get('quan');
 
+  const format = params.get('kieu-hen');
+
   return {
     ...(COMPANIONS.includes(companion as Companion) ? { companion: companion as Companion } : {}),
     ...(PRICE_RANGES.includes(budget as PriceRange) ? { budget: budget as PriceRange } : {}),
     ...(district ? { districtId: district } : {}),
+    ...(format === 'mot-cho' || format === 'ca-buoi' ? { format } : {}),
     vibes: (params.get('kieu') ?? '').split(',').filter(Boolean),
     openNow: params.get('mo') === '1',
   };
@@ -55,6 +61,7 @@ function answersToParams(answers: Answers): URLSearchParams {
   if (answers.budget) params.set('vi', answers.budget);
   if (answers.districtId) params.set('quan', answers.districtId);
   if (answers.vibes.length > 0) params.set('kieu', answers.vibes.join(','));
+  if (answers.format) params.set('kieu-hen', answers.format);
   if (answers.openNow) params.set('mo', '1');
   return params;
 }
@@ -67,6 +74,8 @@ function isAnswered(question: WizardQuestion, answers: Answers): boolean {
       return answers.budget !== undefined;
     case 'vibe':
       return answers.vibes.length > 0;
+    case 'format':
+      return answers.format !== undefined;
     case 'district':
       // Optional by design — "bất kỳ đâu" is a legitimate answer, so this step is
       // never what stands between the user and a result.
@@ -116,9 +125,18 @@ export function IntentWizard({
     };
   }, [intent, answers, districts, excludeIds]);
 
+  const wantsItinerary = intent.supportsItinerary === true && answers.format === 'ca-buoi';
+
+  const itinerary = useMemo(
+    () => (spinning && wantsItinerary ? composeItinerary(places, criteria) : null),
+    [spinning, wantsItinerary, places, criteria],
+  );
+
+  // The single-place path is also the fallback when a plan cannot be assembled —
+  // two stops short of an evening is worse than one good suggestion.
   const outcome = useMemo(
-    () => (spinning ? recommendWithFallback(places, criteria) : null),
-    [spinning, places, criteria],
+    () => (spinning && !itinerary ? recommendWithFallback(places, criteria) : null),
+    [spinning, itinerary, places, criteria],
   );
 
   const update = useCallback(
@@ -147,16 +165,39 @@ export function IntentWizard({
   }, [intent]);
 
   const handleRevealComplete = useCallback(() => {
+    const params = encodeCriteria(criteria, intent.id);
+
+    if (itinerary) {
+      for (const stop of itinerary.stops) rememberResult(stop.place.id);
+      params.set('d', encodeItinerary(itinerary));
+      router.push(`/lich-trinh/?${params.toString()}` as Route);
+      return;
+    }
+
     const winner = outcome?.result.winner;
     if (!winner) return;
 
     rememberResult(winner.place.id);
-
-    const params = encodeCriteria(criteria, intent.id);
     router.push(`/dia-diem/${winner.place.slug}/?${params.toString()}` as Route);
-  }, [outcome, criteria, intent.id, router]);
+  }, [itinerary, outcome, criteria, intent.id, router]);
 
   if (spinning) {
+    if (itinerary) {
+      const first = itinerary.stops[0]!;
+      return (
+        <SpinStage
+          candidates={itinerary.stops.map((stop) => ({
+            place: stop.place,
+            label: `${stop.definition.emoji} ${stop.place.shortName ?? stop.place.name}`,
+          }))}
+          winnerLabel={`${first.place.shortName ?? first.place.name}`}
+          landedNote={`và ${itinerary.stops.length - 1} chặng nữa`}
+          accent={intent.accent}
+          onComplete={handleRevealComplete}
+        />
+      );
+    }
+
     if (!outcome) {
       return (
         <EmptyState
@@ -172,8 +213,11 @@ export function IntentWizard({
 
     return (
       <SpinStage
-        candidates={outcome.result.candidates}
-        winner={outcome.result.winner}
+        candidates={outcome.result.candidates.map((candidate) => ({
+          place: candidate.place,
+          label: candidate.place.shortName ?? candidate.place.name,
+        }))}
+        winnerLabel={outcome.result.winner.place.shortName ?? outcome.result.winner.place.name}
         accent={intent.accent}
         onComplete={handleRevealComplete}
       />
@@ -325,6 +369,23 @@ function QuestionOptions({
               />
             );
           })}
+        </>
+      );
+
+    case 'format':
+      return (
+        <>
+          {question.options.map((option) => (
+            <OptionButton
+              key={option.value}
+              selected={answers.format === option.value}
+              emoji={option.emoji}
+              label={option.label}
+              hint={option.hint}
+              accentFrom={accentFrom}
+              onSelect={() => onAnswer({ ...answers, format: option.value }, true)}
+            />
+          ))}
         </>
       );
 
