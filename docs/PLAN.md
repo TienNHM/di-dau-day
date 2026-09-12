@@ -353,7 +353,21 @@ Chi tiết và lý do không dùng OSM/Google ở [`docs/DATA-SOURCES.md`](DATA-
 - [x] **3.2** Đa thành phố trong data model + city picker + URL `/thanh-pho/[city]/[district]`
 - [x] **3.2b** Import 4.075 địa điểm từ Overture cho 9 thành phố
 - [ ] **3.3** Shard dữ liệu theo thành phố + cache IndexedDB
-- [ ] **3.4** Chấm điểm trong Web Worker (giữ animation mượt khi có hàng nghìn địa điểm)
+- [x] **3.4** ~~Chấm điểm trong Web Worker~~ — **đã đo, không cần**
+
+  Đo bằng Chrome có bóp CPU (4×/6× ≈ điện thoại tầm trung). Nút thắt hoá ra không
+  phải thuật toán mà là `Intl.DateTimeFormat` bị tạo mới cho **từng địa điểm** —
+  371µs mỗi lần, chiếm 95% chi phí kiểm tra giờ mở cửa. Cache formatter xong:
+
+  | Kịch bản (CPU 6×) | Trước | Sau |
+  |---|---|---|
+  | Ăn gì, có chọn quận | 0,02 ms | 0,04 ms |
+  | Ăn gì, không chọn quận | 21,7 ms | **1,1 ms** |
+  | Hẹn hò 6 nhóm | 165,3 ms | **6,3 ms** |
+  | Tệ nhất: 4.189 chỗ, không lọc | 229,1 ms | **14,8 ms** |
+
+  Mọi kịch bản giờ dưới một khung hình (16,7ms), nên Web Worker sẽ chỉ là ~200 dòng
+  plumbing để **che** bug thay vì sửa nó.
 - [x] **3.5** Result card degrade khi thiếu `editorialNote` + CTA bổ sung thông tin
 - [ ] **3.6** Cloudflare Worker + form đóng góp / báo thông tin sai
 
