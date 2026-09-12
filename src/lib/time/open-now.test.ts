@@ -113,14 +113,15 @@ describe('formatter caching', () => {
     const OriginalFormat = Intl.DateTimeFormat;
     let constructions = 0;
 
-    const Counting = function (this: unknown, ...args: unknown[]) {
+    // A plain `function`, not an arrow: it has to be constructible. Returning an
+    // object from a constructor overrides `this`, so callers get a real formatter
+    // and the module under test behaves normally.
+    const counting = function (...args: ConstructorParameters<typeof Intl.DateTimeFormat>) {
       constructions += 1;
-      return Reflect.construct(OriginalFormat, args, Counting as unknown as new () => unknown);
+      return new OriginalFormat(...args);
     } as unknown as typeof Intl.DateTimeFormat;
-    Object.setPrototypeOf(Counting, OriginalFormat);
-    Counting.prototype = OriginalFormat.prototype;
 
-    Intl.DateTimeFormat = Counting;
+    Intl.DateTimeFormat = counting;
     try {
       const { isOpenAt: freshIsOpenAt } = await import('./open-now');
       for (let i = 0; i < 200; i += 1) {
