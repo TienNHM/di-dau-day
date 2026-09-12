@@ -9,6 +9,26 @@ GitHub. Worker này giữ token ở server để người dùng chỉ cần đi�
 
 ---
 
+## Worker chạy ở đâu?
+
+**Trên Cloudflare, không phải trên GitHub hay VPS của bạn.**
+
+| | Ở đâu |
+|---|---|
+| Code | Trong repo này, `workers/contribute/` |
+| Lúc chạy | Edge network của Cloudflare (~300 điểm) |
+| Lệnh `wrangler deploy` | Từ máy bạn *hoặc* GitHub Actions — chỉ để **đẩy code lên** |
+
+Bạn không nuôi server nào. Free tier 100.000 request/ngày — form đóng góp không bao giờ
+chạm tới con số đó.
+
+Vì sao không phải VPS: phải tự lo TLS, uptime, process manager, tường lửa và trả tiền
+hàng tháng cho một endpoint nhận vài request mỗi ngày. Vì sao không phải GitHub: Actions
+không nhận request từ bên ngoài, còn Pages chỉ serve file tĩnh — form cần **một chỗ chạy
+code khi có request**.
+
+---
+
 ## Cài đặt lần đầu
 
 ### 1. Tạo GitHub token
@@ -25,15 +45,37 @@ Tạo **fine-grained personal access token**
 
 ### 2. Deploy
 
+Có hai cách. **Lần đầu phải làm cách A**, vì secret `GITHUB_TOKEN` chỉ đặt được từ máy
+đã đăng nhập Cloudflare.
+
+#### Cách A — từ máy bạn
+
 ```bash
 cd workers/contribute
 npm install
-npx wrangler login
+npx wrangler login                        # mở trình duyệt, đăng nhập Cloudflare
 npx wrangler secret put GITHUB_TOKEN      # dán token vừa tạo
 npx wrangler deploy
 ```
 
 Wrangler in ra URL dạng `https://didauday-contribute.<tài-khoản>.workers.dev`.
+
+#### Cách B — tự động qua GitHub Actions
+
+[`deploy-worker.yml`](../../.github/workflows/deploy-worker.yml) deploy lại mỗi khi
+`workers/contribute/**` thay đổi. Cần thêm hai secret trong repo
+(Settings → Secrets and variables → Actions):
+
+| Secret | Lấy ở đâu |
+|---|---|
+| `CLOUDFLARE_API_TOKEN` | Cloudflare dashboard → My Profile → API Tokens → template **Edit Cloudflare Workers** |
+| `CLOUDFLARE_ACCOUNT_ID` | Cloudflare dashboard → Workers & Pages, cột bên phải |
+
+Secret đặt bằng `wrangler secret put` nằm ở Cloudflare và **không bị deploy ghi đè**,
+nên `GITHUB_TOKEN` chỉ cần đặt một lần bằng cách A rồi thôi.
+
+Chưa có secret thì workflow **vẫn xanh** và chỉ bỏ qua bước deploy kèm một dòng ghi chú
+— không có badge đỏ giả để rồi ai cũng quen bỏ qua.
 
 ### 3. Trỏ web sang Worker
 

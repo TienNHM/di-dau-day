@@ -1,0 +1,66 @@
+name: Deploy contribution Worker
+
+# Only when the Worker itself changes. The website deploys on its own schedule and
+# has nothing to do with this — they are separate deployables that happen to share
+# a repository.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'workers/contribute/**'
+      - '.github/workflows/deploy-worker.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: worker-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    # Skips cleanly on a fork or before the token exists, rather than failing red
+    # on every push and training everyone to ignore the badge.
+    if: ${{ github.repository == 'TienNHM/di-dau-day' }}
+    defaults:
+      run:
+        working-directory: workers/contribute
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+          cache-dependency-path: workers/contribute/package-lock.json
+
+      - run: npm ci
+
+      # The Worker has no tests, so the type check is the only gate. It is still
+      # worth having: a type error here would take the contribution form down
+      # while the website carried on looking perfectly healthy.
+      - run: npx tsc --noEmit
+
+      # Without this the job goes red on every push until the Cloudflare token
+      # exists, which just teaches everyone to ignore a red badge.
+      - id: guard
+        run: |
+          if [ -n "${{ secrets.CLOUDFLARE_API_TOKEN }}" ]; then
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Chưa có CLOUDFLARE_API_TOKEN — bỏ qua bước deploy Worker. Xem workers/contribute/README.md."
+          fi
+
+      - name: Deploy
+        if: steps.guard.outputs.ready == 'true'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          workingDirectory: workers/contribute
+        env:
+          # Secrets set with `wrangler secret put` live in Cloudflare and are not
+          # touched by a deploy, so GITHUB_TOKEN is deliberately absent here.
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
