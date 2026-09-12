@@ -33,7 +33,7 @@ export default async function AboutPage() {
 
         <Section title="Tụi mình giải quyết chuyện gì">
           <p>
-            Không phải chuyện “chỗ nào ngon nhất Sài Gòn”. Chuyện tụi mình giải quyết nhỏ hơn
+            Không phải chuyện “chỗ nào ngon nhất thành phố”. Chuyện tụi mình giải quyết nhỏ hơn
             nhiều: <strong>sáu giờ chiều, đói, và không ai nghĩ ra chỗ nào</strong>.
           </p>
           <p>
@@ -128,7 +128,7 @@ export default async function AboutPage() {
         </Section>
 
         <p className="text-sm text-ink-faint">
-          Một dự án nhỏ làm cho người Sài Gòn. Góp ý thì gửi qua{' '}
+          Một dự án nhỏ, làm cho người ở chính thành phố của mình. Góp ý thì gửi qua{' '}
           <Link href="/dong-gop" className="underline underline-offset-4">
             trang đóng góp
           </Link>
