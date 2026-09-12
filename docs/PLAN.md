@@ -336,11 +336,11 @@ Mục tiêu: một intent chạy hết luồng, ~25 địa điểm seed, deploy 
 
 ### Phase 1 — Mở rộng
 
-- [ ] **1.1** 4 intent còn lại qua `intents/registry`
-- [ ] **1.2** Seed lên 150–300 địa điểm
+- [x] **1.1** 4 intent còn lại qua `intents/registry`
+- [x] **1.2** Seed lên 114 địa điểm (đủ cả 5 intent; tiếp tục bổ sung dần)
 - [ ] **1.3** Trang SEO theo quận `/quan/[district]`
-- [ ] **1.4** "Chọn lại" + loại trừ kết quả gần nhất
-- [ ] **1.5** Lọc theo giờ mở cửa (open now)
+- [x] **1.4** "Chọn lại" + loại trừ kết quả gần nhất
+- [x] **1.5** Lọc theo giờ mở cửa (open now)
 - [ ] **1.6** Mini-itinerary cho hẹn hò
 - [ ] **1.7** Form "gợi ý địa điểm"
 

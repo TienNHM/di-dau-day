@@ -1,1 +1,796 @@
-[]
+[
+  {
+    "id": "pho-le",
+    "slug": "pho-le-nguyen-trai",
+    "name": "Phở Lệ",
+    "category": "food",
+    "subCategory": "pho",
+    "tags": ["do-an-ngon", "gia-re", "sang-som", "mo-khuya"],
+    "goodFor": ["mot-minh", "ban-be", "gia-dinh"],
+    "priceRange": "under-100k",
+    "avgPrice": 75000,
+    "durationMinutes": [30, 45],
+    "location": {
+      "districtId": "quan-5",
+      "address": "413–415 Nguyễn Trãi, P.7, Quận 5",
+      "lat": 10.7548,
+      "lng": 106.6659
+    },
+    "openingHours": {
+      "default": [["06:00", "01:00"]]
+    },
+    "rating": 4.3,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 84,
+    "editorialNote": "Nước dùng đậm kiểu người Hoa, tô đầy ắp. Mở tới khuya nên là chỗ cứu đói sau khi đi chơi về.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "pho-hoa-pasteur",
+    "slug": "pho-hoa-pasteur",
+    "name": "Phở Hòa Pasteur",
+    "category": "food",
+    "subCategory": "pho",
+    "tags": ["do-an-ngon", "sang-som", "gan-trung-tam"],
+    "goodFor": ["mot-minh", "gia-dinh", "ban-be"],
+    "priceRange": "under-100k",
+    "avgPrice": 90000,
+    "durationMinutes": [30, 45],
+    "location": {
+      "districtId": "quan-3",
+      "address": "260C Pasteur, P.8, Quận 3",
+      "lat": 10.7873,
+      "lng": 106.6889
+    },
+    "openingHours": {
+      "default": [["06:00", "22:30"]]
+    },
+    "rating": 4.2,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 82,
+    "editorialNote": "Quán phở lâu đời nhất nhì Sài Gòn. Giá nhỉnh hơn mặt bằng chung nhưng quẩy và giò cháo quẩy thì đáng.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "com-tam-ba-ghien",
+    "slug": "com-tam-ba-ghien",
+    "name": "Cơm tấm Ba Ghiền",
+    "category": "food",
+    "subCategory": "com-tam",
+    "tags": ["do-an-ngon", "gia-re", "nhom-dong"],
+    "goodFor": ["mot-minh", "ban-be", "gia-dinh"],
+    "priceRange": "under-100k",
+    "avgPrice": 80000,
+    "durationMinutes": [30, 45],
+    "location": {
+      "districtId": "phu-nhuan",
+      "address": "84 Đặng Văn Ngữ, P.10, Phú Nhuận",
+      "lat": 10.7909,
+      "lng": 106.6753
+    },
+    "openingHours": {
+      "default": [["07:00", "21:00"]]
+    },
+    "rating": 4.3,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 83,
+    "editorialNote": "Miếng sườn to gần bằng cái đĩa, nướng cháy cạnh. Giờ cao điểm phải xếp hàng, nhưng đi nhanh.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "banh-mi-huynh-hoa",
+    "slug": "banh-mi-huynh-hoa",
+    "name": "Bánh mì Huỳnh Hoa",
+    "category": "food",
+    "subCategory": "banh-mi",
+    "tags": ["do-an-ngon", "gan-trung-tam", "mo-khuya"],
+    "goodFor": ["mot-minh", "ban-be"],
+    "priceRange": "under-100k",
+    "avgPrice": 68000,
+    "durationMinutes": [15, 25],
+    "location": {
+      "districtId": "quan-1",
+      "address": "26 Lê Thị Riêng, P. Bến Thành, Quận 1",
+      "lat": 10.7714,
+      "lng": 106.6921
+    },
+    "openingHours": {
+      "default": [["06:00", "22:00"]]
+    },
+    "rating": 4.3,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 85,
+    "editorialNote": "Ổ bánh mì nhồi chặt tới mức khó cầm bằng một tay. Đắt gấp ba bánh mì thường và vẫn luôn có hàng người chờ.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "banh-mi-hoa-ma",
+    "slug": "banh-mi-hoa-ma",
+    "name": "Bánh mì Hòa Mã",
+    "category": "food",
+    "subCategory": "banh-mi",
+    "tags": ["do-an-ngon", "sang-som", "gia-re", "lich-su"],
+    "goodFor": ["mot-minh", "ban-be", "gia-dinh"],
+    "priceRange": "under-100k",
+    "avgPrice": 60000,
+    "durationMinutes": [25, 40],
+    "location": {
+      "districtId": "quan-3",
+      "address": "53 Cao Thắng, P.3, Quận 3",
+      "lat": 10.7699,
+      "lng": 106.6836
+    },
+    "openingHours": {
+      "default": [["06:00", "11:00"]]
+    },
+    "rating": 4.2,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 76,
+    "editorialNote": "Bánh mì chảo ăn tại bàn, kiểu từ những năm 60. Chỉ bán buổi sáng, hết là nghỉ.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "banh-xeo-46a",
+    "slug": "banh-xeo-46a-dinh-cong-trang",
+    "name": "Bánh xèo 46A Đinh Công Tráng",
+    "shortName": "Bánh xèo 46A",
+    "category": "food",
+    "subCategory": "banh-xeo",
+    "tags": ["do-an-ngon", "gan-trung-tam", "nhom-dong"],
+    "goodFor": ["ban-be", "gia-dinh", "nguoi-yeu"],
+    "priceRange": "100-300k",
+    "avgPrice": 120000,
+    "durationMinutes": [45, 75],
+    "location": {
+      "districtId": "quan-1",
+      "address": "46A Đinh Công Tráng, P. Tân Định, Quận 1",
+      "lat": 10.7913,
+      "lng": 106.6899
+    },
+    "openingHours": {
+      "default": [
+        ["10:00", "14:00"],
+        ["16:00", "21:00"]
+      ]
+    },
+    "rating": 4.3,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 79,
+    "editorialNote": "Bánh giòn rụm, rổ rau to như rổ chợ. Ngồi nóng nhưng đó là một phần của trải nghiệm.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "hu-tieu-nam-vang-quynh",
+    "slug": "hu-tieu-nam-vang-quynh",
+    "name": "Hủ tiếu Nam Vang Quỳnh",
+    "category": "food",
+    "subCategory": "hu-tieu",
+    "tags": ["do-an-ngon", "mo-khuya", "gan-trung-tam"],
+    "goodFor": ["mot-minh", "ban-be"],
+    "priceRange": "under-100k",
+    "avgPrice": 85000,
+    "durationMinutes": [30, 45],
+    "location": {
+      "districtId": "quan-1",
+      "address": "323 Phạm Ngũ Lão, P. Phạm Ngũ Lão, Quận 1",
+      "lat": 10.7669,
+      "lng": 106.6913
+    },
+    "openingHours": {
+      "default": [["06:00", "23:00"]]
+    },
+    "rating": 4.1,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 72,
+    "editorialNote": "Hủ tiếu khô trộn trước rồi húp nước dùng riêng — gọi kiểu đó mới đúng bài.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "banh-canh-cua-87",
+    "slug": "banh-canh-cua-87",
+    "name": "Bánh canh cua 87",
+    "category": "food",
+    "subCategory": "banh-canh",
+    "tags": ["do-an-ngon", "gan-trung-tam", "mo-khuya"],
+    "goodFor": ["mot-minh", "ban-be", "nguoi-yeu"],
+    "priceRange": "100-300k",
+    "avgPrice": 110000,
+    "durationMinutes": [30, 45],
+    "location": {
+      "districtId": "quan-1",
+      "address": "87 Trần Khắc Chân, P. Tân Định, Quận 1",
+      "lat": 10.7924,
+      "lng": 106.6912
+    },
+    "openingHours": {
+      "default": [["15:00", "23:00"]]
+    },
+    "rating": 4.2,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 74,
+    "editorialNote": "Nước lèo sánh, đầy thịt cua và tôm. Một tô là no tới sáng hôm sau.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "sui-cao-ha-ton-quyen",
+    "slug": "sui-cao-ha-ton-quyen",
+    "name": "Sủi cảo Hà Tôn Quyền",
+    "category": "food",
+    "subCategory": "sui-cao",
+    "tags": ["do-an-ngon", "gia-re", "mo-khuya", "nhom-dong"],
+    "goodFor": ["ban-be", "gia-dinh", "mot-minh"],
+    "priceRange": "under-100k",
+    "avgPrice": 90000,
+    "durationMinutes": [45, 75],
+    "location": {
+      "districtId": "quan-11",
+      "address": "Hà Tôn Quyền, P.4, Quận 11",
+      "lat": 10.7595,
+      "lng": 106.6501
+    },
+    "openingHours": {
+      "default": [["15:00", "23:30"]]
+    },
+    "rating": 4.2,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 75,
+    "editorialNote": "Cả con phố bán sủi cảo, quán nào cũng đông. Gọi sủi cảo chiên ăn kèm mới đủ bộ.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "com-ga-dong-nguyen",
+    "slug": "com-ga-dong-nguyen",
+    "name": "Cơm gà Đông Nguyên",
+    "category": "food",
+    "subCategory": "com-ga",
+    "tags": ["do-an-ngon", "may-lanh", "nhom-dong"],
+    "goodFor": ["gia-dinh", "ban-be"],
+    "priceRange": "100-300k",
+    "avgPrice": 150000,
+    "durationMinutes": [45, 75],
+    "location": {
+      "districtId": "quan-5",
+      "address": "85–87–89 Châu Văn Liêm, P.14, Quận 5",
+      "lat": 10.7527,
+      "lng": 106.6555
+    },
+    "openingHours": {
+      "default": [["09:00", "22:00"]]
+    },
+    "rating": 4.1,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 70,
+    "editorialNote": "Cơm gà kiểu Hoa ở Chợ Lớn, quán rộng và mát. Hợp bữa gia đình nhiều người.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "oc-dao",
+    "slug": "oc-dao",
+    "name": "Ốc Đào",
+    "category": "food",
+    "subCategory": "oc",
+    "tags": ["do-an-ngon", "nhom-dong", "mo-khuya", "gan-trung-tam"],
+    "goodFor": ["ban-be", "nguoi-yeu"],
+    "priceRange": "100-300k",
+    "avgPrice": 200000,
+    "durationMinutes": [60, 120],
+    "location": {
+      "districtId": "quan-1",
+      "address": "212 Nguyễn Trãi, P. Nguyễn Cư Trinh, Quận 1",
+      "lat": 10.7637,
+      "lng": 106.6866
+    },
+    "openingHours": {
+      "default": [["14:00", "23:30"]]
+    },
+    "rating": 4.2,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 76,
+    "editorialNote": "Ốc rang me và sò huyết nướng mỡ hành là hai món phải gọi. Ngồi lâu được, nói chuyện to cũng không ai để ý.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "oc-vinh-khanh",
+    "slug": "pho-oc-vinh-khanh",
+    "name": "Phố ốc Vĩnh Khánh",
+    "category": "food",
+    "subCategory": "oc",
+    "tags": ["do-an-ngon", "nhom-dong", "mo-khuya", "gia-re", "ngoai-troi"],
+    "goodFor": ["ban-be", "nguoi-yeu"],
+    "priceRange": "100-300k",
+    "avgPrice": 180000,
+    "durationMinutes": [60, 150],
+    "location": {
+      "districtId": "quan-4",
+      "address": "Vĩnh Khánh, P.8, Quận 4",
+      "lat": 10.7568,
+      "lng": 106.7008
+    },
+    "openingHours": {
+      "default": [["16:00", "01:00"]]
+    },
+    "rating": 4.1,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 80,
+    "editorialNote": "Cả con đường toàn quán ốc, ghế nhựa tràn ra vỉa hè. Đi nhóm đông, tối muộn, ồn ào — đúng chất Sài Gòn.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "cho-ho-thi-ky",
+    "slug": "cho-am-thuc-ho-thi-ky",
+    "name": "Chợ ẩm thực Hồ Thị Kỷ",
+    "shortName": "Hồ Thị Kỷ",
+    "category": "food",
+    "subCategory": "cho-do-an",
+    "tags": ["do-an-ngon", "gia-re", "mo-khuya", "nhom-dong", "chup-anh"],
+    "goodFor": ["ban-be", "nguoi-yeu", "mot-minh"],
+    "priceRange": "under-100k",
+    "avgPrice": 90000,
+    "durationMinutes": [60, 120],
+    "location": {
+      "districtId": "quan-10",
+      "address": "Hồ Thị Kỷ, P.1, Quận 10",
+      "lat": 10.7671,
+      "lng": 106.6742
+    },
+    "openingHours": {
+      "default": [["16:00", "01:00"]]
+    },
+    "rating": 4.0,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 81,
+    "editorialNote": "Hẻm chợ hoa ban ngày, thiên đường đồ ăn vặt ban đêm. Đi lòng vòng ăn mỗi chỗ một ít là no.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "quan-bui-garden",
+    "slug": "quan-bui",
+    "name": "Quán Bụi",
+    "category": "food",
+    "subCategory": "com-viet",
+    "tags": ["do-an-ngon", "may-lanh", "gan-trung-tam", "sang-trong"],
+    "goodFor": ["nguoi-yeu", "gia-dinh", "ban-be"],
+    "priceRange": "300-500k",
+    "avgPrice": 320000,
+    "durationMinutes": [60, 90],
+    "location": {
+      "districtId": "quan-1",
+      "address": "17A Ngô Văn Năm, P. Bến Nghé, Quận 1",
+      "lat": 10.7806,
+      "lng": 106.705
+    },
+    "openingHours": {
+      "default": [["08:00", "22:30"]]
+    },
+    "rating": 4.3,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 71,
+    "editorialNote": "Cơm Việt nấu tử tế, không gian sáng sủa. Chỗ an toàn khi cần dẫn người lớn hoặc khách đi ăn.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "cuc-gach-quan",
+    "slug": "cuc-gach-quan",
+    "name": "Cục Gạch Quán",
+    "category": "food",
+    "subCategory": "com-viet",
+    "tags": ["do-an-ngon", "yen-tinh", "lang-man", "cay-xanh", "gan-trung-tam"],
+    "goodFor": ["nguoi-yeu", "gia-dinh"],
+    "priceRange": "300-500k",
+    "avgPrice": 350000,
+    "durationMinutes": [75, 120],
+    "location": {
+      "districtId": "quan-1",
+      "address": "10 Đặng Tất, P. Tân Định, Quận 1",
+      "lat": 10.7937,
+      "lng": 106.6893
+    },
+    "openingHours": {
+      "default": [["09:00", "23:00"]]
+    },
+    "rating": 4.3,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 73,
+    "editorialNote": "Nhà cổ, bàn ghế gỗ cũ, cơm nhà nấu kiểu ngày xưa. Nên đặt bàn trước, nhất là cuối tuần.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "nha-hang-ngon-138",
+    "slug": "nha-hang-ngon-138",
+    "name": "Nhà hàng Ngon 138",
+    "category": "food",
+    "subCategory": "com-viet",
+    "tags": ["do-an-ngon", "nhom-dong", "gan-trung-tam", "cay-xanh"],
+    "goodFor": ["gia-dinh", "ban-be", "nguoi-yeu"],
+    "priceRange": "300-500k",
+    "avgPrice": 300000,
+    "durationMinutes": [60, 105],
+    "location": {
+      "districtId": "quan-1",
+      "address": "138 Nam Kỳ Khởi Nghĩa, P. Bến Nghé, Quận 1",
+      "lat": 10.7787,
+      "lng": 106.6963
+    },
+    "openingHours": {
+      "default": [["07:00", "22:00"]]
+    },
+    "rating": 4.1,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 74,
+    "editorialNote": "Món ăn ba miền tập trung một chỗ, biệt thự Pháp có sân vườn. Đông khách du lịch nhưng món vẫn ổn.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "secret-garden-restaurant",
+    "slug": "secret-garden-rooftop",
+    "name": "Secret Garden",
+    "category": "food",
+    "subCategory": "com-viet",
+    "tags": ["do-an-ngon", "lang-man", "chup-anh", "cay-xanh", "gan-trung-tam", "ngoai-troi"],
+    "goodFor": ["nguoi-yeu", "ban-be"],
+    "priceRange": "100-300k",
+    "avgPrice": 220000,
+    "durationMinutes": [60, 105],
+    "location": {
+      "districtId": "quan-1",
+      "address": "158 Pasteur, P. Bến Nghé, Quận 1",
+      "lat": 10.7793,
+      "lng": 106.7003
+    },
+    "openingHours": {
+      "default": [["11:00", "22:00"]]
+    },
+    "rating": 4.2,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 72,
+    "editorialNote": "Sân thượng đầy cây trên một chung cư cũ, leo mấy tầng cầu thang mới tới. Tối lên đèn là đẹp.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "bot-chien-dat-thanh",
+    "slug": "bot-chien-dat-thanh",
+    "name": "Bột chiên Đạt Thành",
+    "category": "food",
+    "subCategory": "an-vat",
+    "tags": ["do-an-ngon", "gia-re", "mo-khuya"],
+    "goodFor": ["mot-minh", "ban-be"],
+    "priceRange": "under-100k",
+    "avgPrice": 45000,
+    "durationMinutes": [20, 40],
+    "location": {
+      "districtId": "quan-3",
+      "address": "277 Võ Văn Tần, P.5, Quận 3",
+      "lat": 10.7724,
+      "lng": 106.6842
+    },
+    "openingHours": {
+      "default": [["14:00", "22:30"]]
+    },
+    "rating": 4.1,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 65,
+    "editorialNote": "Bột chiên giòn rìa, mềm giữa, chan nước tương chua ngọt. Món ăn xế kinh điển của học sinh Sài Gòn.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "pha-lau-ba-nhieu",
+    "slug": "pha-lau-di-nhieu",
+    "name": "Phá lấu dì Nhiều",
+    "category": "food",
+    "subCategory": "an-vat",
+    "tags": ["do-an-ngon", "gia-re", "nhom-dong"],
+    "goodFor": ["ban-be", "mot-minh"],
+    "priceRange": "under-100k",
+    "avgPrice": 55000,
+    "durationMinutes": [30, 50],
+    "location": {
+      "districtId": "binh-thanh",
+      "address": "Nguyễn Hữu Cảnh, P.22, Bình Thạnh",
+      "lat": 10.7932,
+      "lng": 106.7211
+    },
+    "openingHours": {
+      "default": [["14:00", "22:00"]]
+    },
+    "rating": 4.0,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 60,
+    "editorialNote": "Nước dừa béo, chấm bánh mì. Ngồi ghế nhựa vỉa hè, ăn xong là quên mất mình đang định giảm cân.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "lau-de-truong-dinh",
+    "slug": "lau-de-truong-dinh",
+    "name": "Lẩu dê Trương Định",
+    "category": "food",
+    "subCategory": "lau",
+    "tags": ["do-an-ngon", "nhom-dong", "gan-trung-tam"],
+    "goodFor": ["ban-be", "gia-dinh"],
+    "priceRange": "100-300k",
+    "avgPrice": 250000,
+    "durationMinutes": [75, 120],
+    "location": {
+      "districtId": "quan-3",
+      "address": "Trương Định, P.6, Quận 3",
+      "lat": 10.7787,
+      "lng": 106.6875
+    },
+    "openingHours": {
+      "default": [["16:00", "23:00"]]
+    },
+    "rating": 4.0,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 64,
+    "editorialNote": "Lẩu dê nóng hổi giữa trời Sài Gòn — nghe vô lý nhưng tối mưa thì hợp lạ.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "dim-sum-tan-hai-van",
+    "slug": "dim-sum-tan-hai-van",
+    "name": "Dim sum Tân Hải Vân",
+    "category": "food",
+    "subCategory": "dim-sum",
+    "tags": ["do-an-ngon", "may-lanh", "sang-som", "nhom-dong"],
+    "goodFor": ["gia-dinh", "ban-be"],
+    "priceRange": "100-300k",
+    "avgPrice": 200000,
+    "durationMinutes": [60, 90],
+    "location": {
+      "districtId": "quan-5",
+      "address": "Trần Hưng Đạo, P.7, Quận 5",
+      "lat": 10.7534,
+      "lng": 106.6707
+    },
+    "openingHours": {
+      "default": [["06:00", "22:00"]]
+    },
+    "rating": 4.1,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 67,
+    "editorialNote": "Dim sum kiểu Quảng ở Chợ Lớn. Đi sớm cuối tuần để thấy cảnh cả gia đình người Hoa ăn sáng.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "bun-thit-nuong-chi-tuyen",
+    "slug": "bun-thit-nuong-chi-tuyen",
+    "name": "Bún thịt nướng Chị Tuyền",
+    "category": "food",
+    "subCategory": "bun",
+    "tags": ["do-an-ngon", "gia-re"],
+    "goodFor": ["mot-minh", "ban-be", "gia-dinh"],
+    "priceRange": "under-100k",
+    "avgPrice": 55000,
+    "durationMinutes": [25, 40],
+    "location": {
+      "districtId": "quan-1",
+      "address": "195 Cô Giang, P. Cô Giang, Quận 1",
+      "lat": 10.7628,
+      "lng": 106.6939
+    },
+    "openingHours": {
+      "default": [["10:00", "21:00"]]
+    },
+    "rating": 4.1,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 62,
+    "editorialNote": "Thịt nướng thơm mùi than, nước mắm pha vừa. Bữa trưa nhanh mà không thấy nhạt.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "banh-cuon-hai-nam",
+    "slug": "banh-cuon-hai-nam",
+    "name": "Bánh cuốn Hải Nam",
+    "category": "food",
+    "subCategory": "banh-cuon",
+    "tags": ["do-an-ngon", "sang-som", "gia-re"],
+    "goodFor": ["mot-minh", "gia-dinh"],
+    "priceRange": "under-100k",
+    "avgPrice": 60000,
+    "durationMinutes": [25, 40],
+    "location": {
+      "districtId": "quan-1",
+      "address": "11A Cao Thắng, P.2, Quận 3",
+      "lat": 10.7724,
+      "lng": 106.6832
+    },
+    "openingHours": {
+      "default": [["06:00", "21:00"]]
+    },
+    "rating": 4.0,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 58,
+    "editorialNote": "Bánh tráng mỏng, ăn kèm chả lụa và giá trụng. Bữa sáng nhẹ nhàng cho ngày phải ngồi họp nhiều.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "banh-canh-ghe-70",
+    "slug": "hai-san-oc-oanh",
+    "name": "Ốc Oanh",
+    "category": "food",
+    "subCategory": "oc",
+    "tags": ["do-an-ngon", "nhom-dong", "mo-khuya", "ngoai-troi"],
+    "goodFor": ["ban-be", "nguoi-yeu"],
+    "priceRange": "100-300k",
+    "avgPrice": 190000,
+    "durationMinutes": [60, 120],
+    "location": {
+      "districtId": "binh-thanh",
+      "address": "534 Vĩnh Khánh, Quận 4 / chi nhánh Bình Thạnh",
+      "lat": 10.8055,
+      "lng": 106.7115
+    },
+    "openingHours": {
+      "default": [["15:00", "23:30"]]
+    },
+    "rating": 4.0,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 69,
+    "editorialNote": "Ốc tươi, gia vị đậm, quán lúc nào cũng kín bàn. Gọi thêm cơm chiên hải sản là vừa bụng.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "buffet-hoang-yen",
+    "slug": "hoang-yen-buffet",
+    "name": "Hoàng Yến Buffet",
+    "category": "food",
+    "subCategory": "buffet",
+    "tags": ["may-lanh", "nhom-dong", "do-xe-de", "tre-em"],
+    "goodFor": ["gia-dinh", "ban-be"],
+    "priceRange": "300-500k",
+    "avgPrice": 400000,
+    "durationMinutes": [90, 150],
+    "location": {
+      "districtId": "quan-1",
+      "address": "Trung tâm thương mại Vincom Đồng Khởi, Quận 1",
+      "lat": 10.7794,
+      "lng": 106.7014
+    },
+    "openingHours": {
+      "default": [["10:00", "22:00"]]
+    },
+    "rating": 4.0,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 63,
+    "editorialNote": "Buffet món Việt, máy lạnh mát, trẻ con tự chọn được. Lựa chọn an toàn cho bữa gia đình đông người.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "quan-nuong-gogi",
+    "slug": "nuong-han-quoc-le-van-sy",
+    "name": "Phố nướng Hàn Quốc Lê Văn Sỹ",
+    "shortName": "Nướng Lê Văn Sỹ",
+    "category": "food",
+    "subCategory": "nuong",
+    "tags": ["do-an-ngon", "nhom-dong", "may-lanh", "mo-khuya"],
+    "goodFor": ["ban-be", "nguoi-yeu"],
+    "priceRange": "300-500k",
+    "avgPrice": 330000,
+    "durationMinutes": [90, 150],
+    "location": {
+      "districtId": "phu-nhuan",
+      "address": "Lê Văn Sỹ, Phú Nhuận",
+      "lat": 10.7928,
+      "lng": 106.6789
+    },
+    "openingHours": {
+      "default": [["11:00", "23:00"]]
+    },
+    "rating": 4.0,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 66,
+    "editorialNote": "Một dãy quán nướng Hàn san sát, quán nào cũng có buffet. Đi nhóm bốn người trở lên mới đáng.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "chao-long-ba-ut",
+    "slug": "chao-long-co-giang",
+    "name": "Cháo lòng Cô Giang",
+    "category": "food",
+    "subCategory": "chao",
+    "tags": ["do-an-ngon", "gia-re", "mo-khuya", "sang-som"],
+    "goodFor": ["mot-minh", "ban-be"],
+    "priceRange": "under-100k",
+    "avgPrice": 50000,
+    "durationMinutes": [25, 40],
+    "location": {
+      "districtId": "quan-1",
+      "address": "Cô Giang, P. Cô Giang, Quận 1",
+      "lat": 10.7617,
+      "lng": 106.6949
+    },
+    "openingHours": {
+      "default": [
+        ["06:00", "12:00"],
+        ["16:00", "23:00"]
+      ]
+    },
+    "rating": 4.0,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 57,
+    "editorialNote": "Cháo loãng kiểu Nam, lòng làm sạch. Ăn khuya xong ngủ ngon, ăn sáng xong tỉnh táo.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  },
+  {
+    "id": "banh-trang-tron-chu-vien",
+    "slug": "banh-trang-tron-nguyen-thuong-hien",
+    "name": "Bánh tráng trộn Nguyễn Thượng Hiền",
+    "shortName": "Bánh tráng trộn NTH",
+    "category": "food",
+    "subCategory": "an-vat",
+    "tags": ["gia-re", "mo-khuya", "ngoai-troi"],
+    "goodFor": ["ban-be", "mot-minh", "nguoi-yeu"],
+    "priceRange": "under-100k",
+    "avgPrice": 30000,
+    "durationMinutes": [15, 30],
+    "location": {
+      "districtId": "quan-3",
+      "address": "Nguyễn Thượng Hiền, P.5, Quận 3",
+      "lat": 10.7702,
+      "lng": 106.6813
+    },
+    "openingHours": {
+      "default": [["15:00", "23:00"]]
+    },
+    "rating": 4.0,
+    "ratingSource": "tổng hợp thủ công",
+    "images": [],
+    "popularity": 61,
+    "editorialNote": "Món ăn vặt định nghĩa tuổi học trò Sài Gòn. Rẻ, cay, và luôn ngon hơn khi đứng ăn ngoài đường.",
+    "status": "active",
+    "updatedAt": "2026-09-12"
+  }
+]
