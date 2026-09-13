@@ -27355,5 +27355,406 @@
     "sourceId": "58bc6618-06fd-4881-8e05-d4c217a9e6ec",
     "status": "active",
     "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2ae87570-8e04-47",
+    "slug": "bun-dau-tuan-ha-782d1b",
+    "name": "Bun Dau Tuan HA",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "long-bien",
+      "address": "285 Bồ Đề",
+      "lat": 21.04693,
+      "lng": 105.872147
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "2ae87570-8e04-47d8-bab9-d655c2b39506",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-86c34b44-428c-4c",
+    "slug": "bun-dau-ngon-dba34c",
+    "name": "Bún Đậu Ngon",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "ha-dong",
+      "address": "6 P. Lê Lợi",
+      "lat": 20.97142,
+      "lng": 105.777153
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "86c34b44-428c-4c4b-aa03-36a9f7024a96",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b0760bb1-ddc7-45",
+    "slug": "bun-dau-111-5f1d0b",
+    "name": "Bún Đậu 111",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hai-ba-trung",
+      "address": "107 Phố Hồng Mai",
+      "lat": 20.998802,
+      "lng": 105.853989
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "b0760bb1-ddc7-4527-ae67-7d4859fd9deb",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-37d18af5-988e-46",
+    "slug": "bun-dau-pho-co-36d8d1",
+    "name": "Bún Đậu Phố Cổ",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "dong-da",
+      "address": "Ngõ 20 Láng Hạ , Đống Đa Số 102 nhà B9",
+      "lat": 21.016001,
+      "lng": 105.813728
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "37d18af5-988e-4698-bf35-361f9f2c0f44",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-12bd8055-70f3-4a",
+    "slug": "quan-bun-dau-luu-gu-ec5432",
+    "name": "Quán Bún Đậu Lưu Gù",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoai-duc",
+      "address": "Km 17 QL32",
+      "lat": 21.072893,
+      "lng": 105.701897
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "12bd8055-70f3-4a4f-a2f4-65f69852c6a3",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a6710822-e099-46",
+    "slug": "mi-quang-nem-lui-banh-xeo-45ea8b",
+    "name": "Mì Quảng, Nem Lụi, Bánh Xèo",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "bac-tu-liem",
+      "address": "331 Đ. Trần Cung",
+      "lat": 21.057302,
+      "lng": 105.783806
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "a6710822-e099-4644-a3ba-be67d48e5899",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7c24b1c7-09b8-46",
+    "slug": "mi-quang-trang-tuoi-a84d50",
+    "name": "Mì Quảng tráng tươi",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "dong-da",
+      "address": "109 Đường Nguyễn Chí Thanh",
+      "lat": 21.016178,
+      "lng": 105.805977
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "7c24b1c7-09b8-468e-a692-39a7a647370c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-cc547601-e8a8-4e",
+    "slug": "bun-rieu-huyen-thu-175d35",
+    "name": "Bún riêu Huyền Thu",
+    "category": "food",
+    "subCategory": "asian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoan-kiem",
+      "address": "2F P. Quang Trung",
+      "lat": 21.024977,
+      "lng": 105.849503
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "cc547601-e8a8-4ef5-ace3-0cb84b85e335",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ea61eb03-e637-44",
+    "slug": "bun-rieu-top-mo-4ce82b",
+    "name": "Bún Riêu Tóp Mỡ",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "cau-giay",
+      "address": "38 Ng. 66 P. Dịch Vọng Hậu",
+      "lat": 21.031389,
+      "lng": 105.78524
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "ea61eb03-e637-4432-a772-f5a2f381bf3c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f7335f00-d1b4-47",
+    "slug": "bun-rieu-bo-ba-teo-642bd5",
+    "name": "Bún Riêu Bò Bà Téo",
+    "category": "food",
+    "subCategory": "asian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "cau-giay",
+      "address": "104 P. Tô Hiệu",
+      "lat": 21.044975,
+      "lng": 105.796562
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "f7335f00-d1b4-47d3-8e94-37881e2c2c26",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-bcd8396f-88c9-43",
+    "slug": "bun-rieu-bun-ca-huong-do-be1c37",
+    "name": "Bún Riêu - Bún Cá Hương Dô",
+    "category": "food",
+    "subCategory": "theme-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hai-ba-trung",
+      "address": "325 P. Bạch Mai",
+      "lat": 21.001076,
+      "lng": 105.850746
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "bcd8396f-88c9-437a-aaa9-0367b1565032",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-af415dcf-26f5-4d",
+    "slug": "goi-cuon-top-5-quan-ad5d80",
+    "name": "Gỏi Cuốn Top 5 Quán",
+    "category": "food",
+    "subCategory": "asian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "cau-giay",
+      "address": "211 P. Tô Hiệu",
+      "lat": 21.041578,
+      "lng": 105.793709
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "af415dcf-26f5-4d89-a11a-e289ad699864",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-bf27cc24-b617-48",
+    "slug": "xoi-may-bc206b",
+    "name": "Xôi Mây",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoan-kiem",
+      "address": "31 P. Lý Thường Kiệt",
+      "lat": 21.022352,
+      "lng": 105.853142
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "bf27cc24-b617-483d-a9a3-4fdac6091b0f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-0e9d0094-0de0-47",
+    "slug": "dich-vu-lam-ga-le-ga-cung-xoi-0976032893-8fb32f",
+    "name": "Dịch Vụ Làm Gà Lễ ,Gà Cúng , Xôi 0976032893",
+    "category": "food",
+    "subCategory": "chicken-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "bac-tu-liem",
+      "address": "45 chế lan viên",
+      "lat": 21.069817,
+      "lng": 105.772438
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "0e9d0094-0de0-47f8-8f51-d59f2f6acd2c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-80af5f7e-5fc0-41",
+    "slug": "xoi-tho-f97b51",
+    "name": "Xôi Thọ",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "long-bien",
+      "address": "96 P. Sài Đồng",
+      "lat": 21.035563,
+      "lng": 105.910912
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "80af5f7e-5fc0-4190-81d4-79a948ca85b8",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-d144355d-0a26-45",
+    "slug": "quan-xoi-lan-8db5de",
+    "name": "Quán Xôi Lan",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoan-kiem",
+      "address": "54 P. Hàng Giấy",
+      "lat": 21.038651,
+      "lng": 105.848221
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "d144355d-0a26-45d1-b5d6-a215b34b35eb",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-bac4b4a9-2186-49",
+    "slug": "xoi-son-cau-go-1e006a",
+    "name": "Xôi Sòn Cầu Gỗ",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoan-kiem",
+      "address": "12 P. Gia Ngư",
+      "lat": 21.032976,
+      "lng": 105.853195
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "bac4b4a9-2186-49ee-aae1-36267c2f3330",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a9047fec-5667-42",
+    "slug": "che-sau-lien-16a-quang-trung-ha-dong-097277",
+    "name": "ChÈ SẦU LiÊN 16a Quang Trung HÀ ĐÔNg",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "ha-dong",
+      "address": "16 Đường Quang Trung",
+      "lat": 20.971308,
+      "lng": 105.775978
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "a9047fec-5667-429c-902b-1888dcdcf2b4",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-dea09f56-b511-49",
+    "slug": "che-thap-cam-14c7e1",
+    "name": "Chè Thập Cẩm",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "ba-dinh",
+      "address": "117 Đội Cấn",
+      "lat": 21.034721,
+      "lng": 105.828529
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "dea09f56-b511-498f-8d90-d4be69c125f3",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   }
 ]

@@ -9936,5 +9936,301 @@
     "sourceId": "0b7a090c-84c3-4d6d-b3c7-e1c6ceb6e500",
     "status": "active",
     "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-18a5c2e1-9d63-4a",
+    "slug": "bun-dau-chi-xo-d77eca",
+    "name": "Bún Đậu Chị Xồ",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "48 P. Nguyễn Bình",
+      "lat": 20.836651,
+      "lng": 106.690605
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "18a5c2e1-9d63-4adb-b5d0-83c0ee10dd1b",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-fd8af182-3bb9-42",
+    "slug": "bun-dau-viet-521265",
+    "name": "Bún đậu Việt",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "51A P. Trần Quang Khải",
+      "lat": 20.859859,
+      "lng": 106.680283
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "fd8af182-3bb9-4262-9ac1-6cf6a01950a2",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7b493574-c8c8-44",
+    "slug": "bun-dau-bao-chi-15a-tran-quang-khai-95436d",
+    "name": "Bún đậu Bảo Chi - 15A Trần Quang Khải",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "15A Phố Trần Quang Khải",
+      "lat": 20.8598,
+      "lng": 106.684204
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "7b493574-c8c8-4419-a691-706318e97506",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f386153c-f7f0-42",
+    "slug": "bun-dau-met-tintin-e231fa",
+    "name": "Bún Đậu Mẹt tintin",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "53 P. Kỳ Đồng",
+      "lat": 20.858549,
+      "lng": 106.679565
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "f386153c-f7f0-42f5-af88-dfd607d3097c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-82a2eed8-f910-43",
+    "slug": "ganh-bun-dau-d594d2",
+    "name": "Ganh Bun Dau",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "Lô 22 Lê Hồng Phong",
+      "lat": 20.84684,
+      "lng": 106.705589
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "82a2eed8-f910-437b-a1e4-8396fdcc9024",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6fdf899e-409d-45",
+    "slug": "bun-rieu-top-mo-moc-gion-co-huong-beo-ho-sen-b3f8ae",
+    "name": "Bún riêu tóp mỡ mọc giòn Cô Hương Béo - Hồ Sen",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "208 P. Hồ Sen",
+      "lat": 20.836161,
+      "lng": 106.682793
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "6fdf899e-409d-4587-ab06-e5c949d9643e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-29418b2b-a359-4f",
+    "slug": "xoi-xeooo-thien-loi-a18db2",
+    "name": "Xôi Xéooo Thiên Lôi",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "P. Thiên Lôi/870 số 798a cũ",
+      "lat": 20.829748,
+      "lng": 106.691658
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "29418b2b-a359-4fba-b433-9681ad1c7477",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-3c1e2514-674d-4f",
+    "slug": "xoi-man-clleefood-27ef93",
+    "name": "Xôi Mặn Clleefood",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "148 Phố Lê Lợi",
+      "lat": 20.856827,
+      "lng": 106.690758
+    },
+    "images": [],
+    "popularity": 56,
+    "source": "overture",
+    "sourceId": "3c1e2514-674d-4f3a-a55d-60198c671132",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-94fda5da-c23f-49",
+    "slug": "xoi-cac-loai-cau-dat-28b48a",
+    "name": "Xôi Các Loại - Cầu Đất",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "143 Phố Cầu Đất",
+      "lat": 20.853167,
+      "lng": 106.685043
+    },
+    "images": [],
+    "popularity": 55,
+    "source": "overture",
+    "sourceId": "94fda5da-c23f-492d-9d0f-69477780e251",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-83393311-7d41-4f",
+    "slug": "kem-xoi-127f-luong-khanh-thien-979d56",
+    "name": "Kem Xôi 127f Lương Khánh Thiện",
+    "category": "food",
+    "subCategory": "ice-cream-shop",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "127F Phố Lương Khánh Thiện",
+      "lat": 20.854727,
+      "lng": 106.685127
+    },
+    "images": [],
+    "popularity": 50,
+    "source": "overture",
+    "sourceId": "83393311-7d41-4f95-915b-609089176110",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6a00f4e5-59a3-4f",
+    "slug": "huong-che-cat-dai-9dbcf6",
+    "name": "Hường Chè Cát Dài",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "171 Phố Hai Bà Trưng",
+      "lat": 20.852648,
+      "lng": 106.677429
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "6a00f4e5-59a3-4fbb-a281-4716d0017051",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-bd48e3a1-26f4-48",
+    "slug": "che-khuc-bach-hang-be-co-so-hai-phong-0e9f70",
+    "name": "Chè Khúc Bạch Hằng Bé - Cơ Sở Hải Phòng",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "46 Phố Nguyễn Công Trứ",
+      "lat": 20.846998,
+      "lng": 106.684654
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "bd48e3a1-26f4-4887-91ff-1d6ad15197fe",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-828cac16-f61e-47",
+    "slug": "changhi-hai-phong-che-ngon-sang-tao-31081f",
+    "name": "ChangHi Hải Phòng - Chè ngon sáng tạo",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "B3-01 khu đô thị Hoàng Huy Mall, ",
+      "lat": 20.857079,
+      "lng": 106.682426
+    },
+    "images": [],
+    "popularity": 78,
+    "source": "overture",
+    "sourceId": "828cac16-f61e-47d3-8b4c-42ac56ff6c87",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a6d7d2e6-902c-45",
+    "slug": "che-thuy-8a7703",
+    "name": "Chè Thủy",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "85 P. Hồ Sen",
+      "lat": 20.846451,
+      "lng": 106.681862
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "a6d7d2e6-902c-4571-a711-6641847f5e47",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   }
 ]

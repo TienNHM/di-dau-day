@@ -5549,6 +5549,258 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-e475b8c3-4b5d-42",
+    "slug": "bun-dau-huong-viet-a541e4",
+    "name": "Bún Đậu Hương Việt",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "249/9A Hẻm 249 Vành Đai Phi Trường",
+      "lat": 10.055131,
+      "lng": 105.761063
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "e475b8c3-4b5d-4231-b4fd-f2c78d12849d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-9a81bf2f-a861-4a",
+    "slug": "bun-dau-mam-tom-am-thuc-bac-6e0cab",
+    "name": "Bún Đậu Mắm Tôm - Ẩm Thực Bắc",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "404 Nguyễn Văn Cừ Nối Dài",
+      "lat": 10.033174,
+      "lng": 105.754791
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "9a81bf2f-a861-4a83-9c21-a05858afc6d3",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ebd28f3e-8734-45",
+    "slug": "bun-dau-mam-tom-6-ket-60f8f2",
+    "name": "Bun Dau Mam Tom 6 Ket",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "95/27, hẻm 95, đường Đ. Mậu Thân",
+      "lat": 10.030955,
+      "lng": 105.774178
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "ebd28f3e-8734-45b0-944f-69c3019491a0",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-bfce4d62-a32a-49",
+    "slug": "bun-dau-mam-tom-ba-rom-7a1f59",
+    "name": "Bún Đậu Mắm Tôm Bà Ròm",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "1/1G,Trần Khánh Dư, Đường vào đối diện Vincom Xuân Khánh, xéo phòng công chứng số 1 đường 30/4",
+      "lat": 10.025439,
+      "lng": 105.774757
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "bfce4d62-a32a-4928-a023-f332dfcdc280",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f4feaf50-28f2-4e",
+    "slug": "bun-dau-quynh-d7f202",
+    "name": "Bún đậu Quỳnh",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "211/1 Đường Nguyễn Văn Linh",
+      "lat": 10.021334,
+      "lng": 105.765289
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "f4feaf50-28f2-4e0f-8368-2e554e992fdc",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-d19f9ad4-9d1f-42",
+    "slug": "bun-rieu-ngon-re-1d0dfe",
+    "name": "Bún Riêu Ngon Rẻ",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "8 Võ Thị Sáu",
+      "lat": 10.038274,
+      "lng": 105.786697
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "d19f9ad4-9d1f-4233-9aa7-51a63fd1cbe7",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-cde753ad-f37e-40",
+    "slug": "bun-rieu-cua-42-dea861",
+    "name": "Bún Riêu Cua 42",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "42 Nguyễn Thị Minh Khai",
+      "lat": 10.02624,
+      "lng": 105.784454
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "cde753ad-f37e-4076-aa08-6cd7e39f0db5",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-228ef159-1076-42",
+    "slug": "bun-rieu-ba-cu-0844b1",
+    "name": "Bún Riêu Ba Cử",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "179 Đường Số 5",
+      "lat": 10.0449,
+      "lng": 105.753418
+    },
+    "images": [],
+    "popularity": 55,
+    "source": "overture",
+    "sourceId": "228ef159-1076-4203-b355-3d380e660b48",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6d43ad26-0b0d-45",
+    "slug": "quan-bun-rieu-cua-110-6366da",
+    "name": "Quan Bun Rieu Cua 110",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "110 Nguyễn Văn Cừ",
+      "lat": 10.044847,
+      "lng": 105.766617
+    },
+    "images": [],
+    "popularity": 50,
+    "source": "overture",
+    "sourceId": "6d43ad26-0b0d-4519-9bd4-b4f40418fadc",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-63cf9b9f-0a80-47",
+    "slug": "goi-cuon-an-vat-chi-ba-74e986",
+    "name": "Gỏi Cuốn & Ăn Vặt Chị Ba",
+    "category": "food",
+    "subCategory": "indian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "Tầm Vu",
+      "lat": 10.015527,
+      "lng": 105.769135
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "63cf9b9f-0a80-470a-8d6b-c5d7a06d82dd",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-4a578112-cf1d-47",
+    "slug": "xoi-la-chuoi-co-bong-433f5c",
+    "name": "Xôi lá chuối Cô Bông",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "34 Đường Lê Lợi",
+      "lat": 10.048568,
+      "lng": 105.787361
+    },
+    "images": [],
+    "popularity": 52,
+    "source": "overture",
+    "sourceId": "4a578112-cf1d-47c3-b193-fb7a90d756af",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6feafb97-621e-4d",
+    "slug": "xoi-ga-my-duc-e0c22c",
+    "name": "Xôi Gà Mỹ Đức",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "Đ. Phan Chu Trinh",
+      "lat": 10.031443,
+      "lng": 105.787193
+    },
+    "images": [],
+    "popularity": 53,
+    "source": "overture",
+    "sourceId": "6feafb97-621e-4d4b-95af-8446ce47f5af",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-eb67f197-b0d8-4f",
     "slug": "tra-sua-su-kem-3b5d72",
     "name": "Trà Sữa Su Kem",
@@ -5632,6 +5884,115 @@
     "popularity": 73,
     "source": "overture",
     "sourceId": "abc8f9d2-1ba5-4f05-b67f-42aa9689881f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-8171b0c2-1dab-4b",
+    "slug": "che-ba-hoang-0fb55c",
+    "name": "Chè Bà Hoàng",
+    "category": "food",
+    "subCategory": "indian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "164/1 Đ. Trần Ngọc Quế",
+      "lat": 10.02428,
+      "lng": 105.76857
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "8171b0c2-1dab-4bc1-bbfd-cbbd6605d7ee",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-d7b991a1-8a12-45",
+    "slug": "che-hem-can-tho-170f98",
+    "name": "Chè Hẻm Cần Thơ",
+    "category": "food",
+    "subCategory": "indian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "110/ 55 Hẻm 142 Đ. Mậu Thân",
+      "lat": 10.03162,
+      "lng": 105.775764
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "d7b991a1-8a12-45e2-a7af-b7a84edc9f46",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-13a0d026-aef3-4e",
+    "slug": "che-co-chu-be27f6",
+    "name": "Chè Cô Chu",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "45a Đ. Mạc Thiên Tích",
+      "lat": 10.028063,
+      "lng": 105.773918
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "13a0d026-aef3-4e0d-aad0-0df4653585d4",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-d74c228b-ed80-4d",
+    "slug": "che-buoi-lasan-can-tho-14a57f",
+    "name": "Chè Bưởi Lasan Cần Thơ",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "161 Đường Nguyễn Văn Cừ",
+      "lat": 10.0491,
+      "lng": 105.771118
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "d74c228b-ed80-4d7c-8ad9-986fb30cda32",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2d3979b0-9a27-43",
+    "slug": "che-chi-dep-c72cef",
+    "name": "chè chị đẹp",
+    "category": "food",
+    "subCategory": "ice-cream-shop",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "51 D2, Hẻm 132 Đ. 3 Tháng 2",
+      "lat": 10.024816,
+      "lng": 105.767509
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "2d3979b0-9a27-4393-9764-d0a9989d3783",
     "status": "active",
     "updatedAt": "2026-09-13"
   }

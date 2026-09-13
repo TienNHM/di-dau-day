@@ -10683,6 +10683,430 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-d3a2f5b9-a4a5-49",
+    "slug": "bep-tien-bun-dau-mam-tom-b44455",
+    "name": "Bếp Tiên - Bún Đậu Mắm Tôm",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "son-tra",
+      "address": "278 Đường Tô Hiến Thành",
+      "lat": 16.055988,
+      "lng": 108.244278
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "d3a2f5b9-a4a5-491c-9054-61ace510b80c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-02ee108a-3674-4e",
+    "slug": "am-thuc-ganh-bun-dau-mam-tom-fb58e0",
+    "name": "Ẩm thực Gánh - Bún đậu mắm tôm",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "Phan Đăng Lưu",
+      "lat": 16.036325,
+      "lng": 108.212326
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "02ee108a-3674-4ee3-bc45-69c604351981",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c679bbd6-f40d-40",
+    "slug": "bun-dau-ha-noi-xua-96c4b9",
+    "name": "Bún Đậu Hà Nội Xưa",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "143/1 Kiệt 143 Nguyễn Chí Thanh",
+      "lat": 16.072134,
+      "lng": 108.221344
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "c679bbd6-f40d-406c-8861-feeb5459f2f7",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-35a49211-3643-46",
+    "slug": "bun-dau-pho-co-1991-e9480b",
+    "name": "Bún Đậu Phố Cổ 1991",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "319 Nguyễn Tri Phương",
+      "lat": 16.050783,
+      "lng": 108.213318
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "35a49211-3643-4619-8d8a-317662aab27e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c85a0916-ee58-40",
+    "slug": "mi-quang-giao-thuy-501224",
+    "name": "Mì Quảng Giao Thủy",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "1B Ba Đình",
+      "lat": 16.076199,
+      "lng": 108.219383
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "c85a0916-ee58-406c-be5e-3a16d2634067",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-9f56d4cf-21d4-46",
+    "slug": "mi-quang-dong-que-8dcfac",
+    "name": "Mì Quảng Đồng Quê",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "46 Nguyễn Hữu Thọ",
+      "lat": 16.048264,
+      "lng": 108.209373
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "9f56d4cf-21d4-4682-86fc-aab5b9505a1b",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-77c28eaa-5a65-45",
+    "slug": "mi-quang-ba-vi-b1b135",
+    "name": "Mi Quang Ba Vi",
+    "category": "food",
+    "subCategory": "noodles-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "166 Lê Đình Dương",
+      "lat": 16.062595,
+      "lng": 108.216469
+    },
+    "images": [],
+    "popularity": 79,
+    "source": "overture",
+    "sourceId": "77c28eaa-5a65-4533-b4ad-d416c3813bc8",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-1d423d8b-6a89-48",
+    "slug": "mi-quang-bet-banh-trang-thit-heo-am-thuc-da-nang-feac33",
+    "name": "Mì Quảng Bệt - Bánh Tráng Thịt Heo - Ẩm thực Đà Nẵng",
+    "category": "food",
+    "subCategory": "breakfast-and-brunch-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "4 Đường Yên Bái",
+      "lat": 16.071146,
+      "lng": 108.222641
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "1d423d8b-6a89-4842-84aa-824f062b0dfb",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-01e0e17f-234c-45",
+    "slug": "quan-mi-quang-ba-bich-af8680",
+    "name": "Quán Mì Quảng Bà Bích",
+    "category": "food",
+    "subCategory": "noodles-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "lien-chieu",
+      "address": "1 Đặng Dung",
+      "lat": 16.071218,
+      "lng": 108.150055
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "01e0e17f-234c-453e-82df-d51c02eb5957",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f26020ab-ca37-45",
+    "slug": "bun-rieu-cua-dong-ut-phuong-92f26a",
+    "name": "Bún Riêu Cua Đồng Út Phương",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "thanh-khe",
+      "address": "84/4 Võ Văn Tần",
+      "lat": 16.067085,
+      "lng": 108.201927
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "f26020ab-ca37-45b5-877f-bb00e98430df",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c865a137-1285-4d",
+    "slug": "bun-rieu-cua-co-thao-870d18",
+    "name": "Bún riêu cua Cô Thảo",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "449 Ông Ích Khiêm",
+      "lat": 16.061844,
+      "lng": 108.216423
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "c865a137-1285-4ddd-a9c4-8655f21eec7a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-50e7396c-bd1a-4b",
+    "slug": "quan-bun-rieu-cua-ha-noi-51-nguyen-huu-dat-9b3068",
+    "name": "Quán Bún riêu cua Hà Nội 51 Nguyễn Hữu Dật",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "51 Đường Nguyễn Hữu Dật",
+      "lat": 16.042969,
+      "lng": 108.213562
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "50e7396c-bd1a-4b20-af6a-d9fb2d8fd852",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-da750a63-acb5-47",
+    "slug": "bun-rieu-dak-lak-9735ae",
+    "name": "Bún Riêu Đăk Lăk",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "38A Trần Bình Trọng",
+      "lat": 16.06605,
+      "lng": 108.218704
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "da750a63-acb5-47e2-9258-39a1813367f2",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-74709802-59ea-48",
+    "slug": "bun-rieu-cua-39-53b776",
+    "name": "Bún Riêu Cua 39",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "39 Lê Hồng Phong",
+      "lat": 16.063929,
+      "lng": 108.221252
+    },
+    "images": [],
+    "popularity": 46,
+    "source": "overture",
+    "sourceId": "74709802-59ea-48c8-b31f-bf1b3a565cfb",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-1cc78e11-688f-45",
+    "slug": "banh-trang-nuong-nem-nuong-b5a326",
+    "name": "Bánh tráng nướng - Nem nướng",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "24 Nguyễn Du",
+      "lat": 16.078644,
+      "lng": 108.22113
+    },
+    "images": [],
+    "popularity": 51,
+    "source": "overture",
+    "sourceId": "1cc78e11-688f-45d8-9308-998501ca442e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5f513af1-00d9-40",
+    "slug": "bun-long-xao-nghe-dui-ga-bo-xoi-da-nang-35062f",
+    "name": "Bún Lòng Xào Nghệ & Đùi Gà Bó Xôi Đà Nẵng",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "ngu-hanh-son",
+      "address": "327 Đường Nguyễn Duy Trinh",
+      "lat": 15.98771,
+      "lng": 108.268898
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "5f513af1-00d9-40cd-8854-b9ea1e420232",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-d72c775c-e041-43",
+    "slug": "xoi-dep-b509fe",
+    "name": "XÔI ĐẸP",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "lien-chieu",
+      "address": "Tổ 60, Hoà Khánh, Tp.Đà Nẵng",
+      "lat": 16.05789,
+      "lng": 108.175484
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "d72c775c-e041-430f-8d3d-13b5a37a822f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-67d21637-e190-4d",
+    "slug": "quan-tuan-xoi-chien-ba337e",
+    "name": "Quán Tuấn Xôi Chiên",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "147 Hùng Vương",
+      "lat": 16.06776,
+      "lng": 108.216637
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "67d21637-e190-4d69-8949-845fd3c39d76",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7fcb4615-b669-4f",
+    "slug": "xoi-me-choux-72980b",
+    "name": "Xôi Mẹ Choux",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "thanh-khe",
+      "address": "294 Đường Nguyễn Hoàng",
+      "lat": 16.056463,
+      "lng": 108.212845
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "7fcb4615-b669-4f1a-a2e2-1ccf19670e5e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7d1472b5-11d1-41",
+    "slug": "diec-cafe-va-xoi-57f958",
+    "name": "Điếc Cafe và Xôi",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "cam-le",
+      "address": "51 Trịnh Đình Thảo",
+      "lat": 16.026188,
+      "lng": 108.212738
+    },
+    "images": [],
+    "popularity": 75,
+    "source": "overture",
+    "sourceId": "7d1472b5-11d1-41cc-9bac-79aeddee13db",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-eb78ed0f-f341-48",
     "slug": "tranh-coffee-gelato-423e52",
     "name": "Tranh Coffee & Gelato",
@@ -10765,6 +11189,111 @@
     "popularity": 69,
     "source": "overture",
     "sourceId": "97bdefb7-0f7e-4ede-b50c-676187b5401a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-959587b4-883b-45",
+    "slug": "che-lien-da-nang-le-thanh-nghi-9b331e",
+    "name": "Chè Liên Đà Nẵng - Lê Thanh Nghị",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "37 Lê Thanh Nghị, Đà Nẵng, Việt Nam",
+      "lat": 16.041962,
+      "lng": 108.217461
+    },
+    "images": [],
+    "popularity": 78,
+    "source": "overture",
+    "sourceId": "959587b4-883b-4584-92db-65ffc0884b05",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-88016616-178e-43",
+    "slug": "che-lien-161-dien-bien-phu-da-nang-71ae44",
+    "name": "Chè Liên 161 Điện Biên Phủ . Đà Nẵng",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "thanh-khe",
+      "address": "161 Đường Điện Biên Phủ",
+      "lat": 16.065369,
+      "lng": 108.198349
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "88016616-178e-431c-9a9d-713c6eab6a25",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-71f198d7-ac1c-46",
+    "slug": "coco-che-17d697",
+    "name": "Coco Chè",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "ngu-hanh-son",
+      "address": "82 Hồ Xuân Hương",
+      "lat": 16.039497,
+      "lng": 108.246086
+    },
+    "images": [],
+    "popularity": 78,
+    "source": "overture",
+    "sourceId": "71f198d7-ac1c-46de-9aed-fdb992b5ed8a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-92fae557-36ab-4b",
+    "slug": "che-xuan-trang-6cc3f9",
+    "name": "Chè Xuân Trang",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "31 Lê Duẩn",
+      "lat": 16.07132,
+      "lng": 108.220848
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "92fae557-36ab-4bcd-95d4-3c91be12fae6",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f2d54784-d63a-4e",
+    "slug": "che-lien-d36913",
+    "name": "Chè Liên",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "thanh-khe",
+      "address": "791 Trần Cao Vân",
+      "lat": 16.066286,
+      "lng": 108.18293
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "f2d54784-d63a-4e4f-a2ca-3f5df858cd78",
     "status": "active",
     "updatedAt": "2026-09-13"
   }

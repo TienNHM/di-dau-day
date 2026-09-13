@@ -7184,6 +7184,195 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-61b3e5b4-fd9f-46",
+    "slug": "bun-dau-ut-ti-b26ee3",
+    "name": "Bún Đậu Út Tí",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "197/12 Nam Kỳ Khởi Nghĩa",
+      "lat": 10.351269,
+      "lng": 107.085823
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "61b3e5b4-fd9f-46ee-b3a3-0a03193b3b24",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-81e6311a-43c4-48",
+    "slug": "met-cuon-bun-mam-nem-bun-dau-co-ba-mien-trung-f4aca6",
+    "name": "Mẹt cuốn Bún mắm nêm & Bún đậu Cô Ba Miền Trung",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "243 Nguyễn Hữu Cảnh",
+      "lat": 10.385277,
+      "lng": 107.108742
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "81e6311a-43c4-489f-9ae7-8da5b1940249",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-8ec60319-e735-44",
+    "slug": "bun-dau-tam-ed6f70",
+    "name": "Bún Đậu Tấm",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "333 Trương Công Định",
+      "lat": 10.353864,
+      "lng": 107.08429
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "8ec60319-e735-445d-a33f-190177b960bf",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-bf6167a6-7d3a-4c",
+    "slug": "bun-dau-mam-tom-vung-tau-592934",
+    "name": "Bún Đậu Mắm Tôm Vũng Tàu",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "A3/4 Đường Nguyễn Hữu Cảnh",
+      "lat": 10.38268,
+      "lng": 107.10994
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "bf6167a6-7d3a-4c55-aa0c-0a241f4794e8",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-dc94e63f-9757-4f",
+    "slug": "bun-dau-mam-tom-xua-nay-d913e4",
+    "name": "Bún Đậu Mắm Tôm Xưa & Nay",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "81 Đồ Chiểu",
+      "lat": 10.34996,
+      "lng": 107.078972
+    },
+    "images": [],
+    "popularity": 52,
+    "source": "overture",
+    "sourceId": "dc94e63f-9757-4fcd-892f-8973e3257efb",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-bef3b1de-a513-42",
+    "slug": "bun-rieu-hu-tieu-hai-san-0652d8",
+    "name": "Bún Riêu Hủ Tiếu Hải Sản",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "36 Đường Phan Chu Trinh",
+      "lat": 10.338408,
+      "lng": 107.079597
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "bef3b1de-a513-421a-ba3e-5637a442a75a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-dedf3bf9-e460-4b",
+    "slug": "bun-rieu-do-chieu-f55984",
+    "name": "Bún Riêu Đồ Chiểu",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "145 Đồ Chiểu",
+      "lat": 10.35085,
+      "lng": 107.08091
+    },
+    "images": [],
+    "popularity": 56,
+    "source": "overture",
+    "sourceId": "dedf3bf9-e460-4b05-af4e-0c689973afad",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c9f41e2c-f77d-4e",
+    "slug": "bun-rieu-cua-bun-rieu-oc-quan-21-le-van-loc-38369b",
+    "name": "Bún Riêu Cua - Bún Riêu Ốc - Quán 21 Lê Văn Lộc",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "Đối diện trường THCS Võ Trường Toản, 21 Lê Văn Lộc",
+      "lat": 10.369901,
+      "lng": 107.083702
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "c9f41e2c-f77d-4e55-98ed-f90f9241070e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-05655585-a245-4e",
+    "slug": "banh-khot-ba-hai-5bab56",
+    "name": "Bánh Khọt Bà Hai",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "42 Trần Đồng",
+      "lat": 10.344398,
+      "lng": 107.081497
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "05655585-a245-4e71-be43-b61140d3abde",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-e04cf671-95bf-4c",
     "slug": "che-obai-che-thai-kem-dua-fa1ba9",
     "name": "Chè Ơbai- Chè Thái kem dừa",
@@ -7203,6 +7392,90 @@
     "popularity": 70,
     "source": "overture",
     "sourceId": "e04cf671-95bf-4c40-ba62-5a2fcf8a981a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-67fb08c7-5749-4a",
+    "slug": "che-hue-vung-tau-d1d33d",
+    "name": "Chè Huế Vũng Tàu",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "372 Đường Trương Công Định",
+      "lat": 10.358171,
+      "lng": 107.086685
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "67fb08c7-5749-4a65-bc00-7b76bcab465c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-bcbb4728-87cf-41",
+    "slug": "che-cay-bang-f280bd",
+    "name": "Chè Cây Bàng",
+    "category": "food",
+    "subCategory": "bakery",
+    "tags": [],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "2 Lý Thường Kiệt",
+      "lat": 10.343141,
+      "lng": 107.079239
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "bcbb4728-87cf-4195-973a-f9a8de619c25",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-8a7cdab9-491a-4c",
+    "slug": "kak-che-thai-sieu-ngon-vung-tau-f96b19",
+    "name": "Kak - Chè Thái Siêu Ngon Vũng Tàu",
+    "category": "food",
+    "subCategory": "thai-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "23 Đường Bà Huyện Thanh Quan",
+      "lat": 10.355793,
+      "lng": 107.07869
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "8a7cdab9-491a-4c80-8dd2-65412e1300ac",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6231a030-7160-4c",
+    "slug": "che-ngon-tada-5022f3",
+    "name": "Chè Ngon TaĐa",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "25/44 Nguyễn Hữu Cảnh",
+      "lat": 10.391097,
+      "lng": 107.104172
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "6231a030-7160-4c84-b370-6682016488e8",
     "status": "active",
     "updatedAt": "2026-09-13"
   }

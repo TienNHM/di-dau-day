@@ -18,6 +18,12 @@
     "sourceUrl": "https://www.pexels.com/photo/food-in-a-styrofoam-box-13847417/"
   },
   {
+    "dishId": "banh-khot",
+    "file": "banh-khot.jpg",
+    "author": "Sóc Năng Động",
+    "sourceUrl": "https://www.pexels.com/photo/traditional-vietnamese-banh-kh-t-with-fresh-lettuce-32914304/"
+  },
+  {
     "dishId": "banh-mi",
     "file": "banh-mi.jpg",
     "author": "Hậu Mai",
@@ -28,6 +34,12 @@
     "file": "banh-ngot.jpg",
     "author": "🇻🇳🇻🇳 Việt Anh Nguyễn 🇻🇳🇻🇳",
     "sourceUrl": "https://www.pexels.com/photo/assorted-cake-slices-in-a-bakery-display-39240989/"
+  },
+  {
+    "dishId": "banh-trang-nuong",
+    "file": "banh-trang-nuong.jpg",
+    "author": "Nam Phong Bùi",
+    "sourceUrl": "https://www.pexels.com/photo/pizza-on-gray-metal-grill-4189831/"
   },
   {
     "dishId": "banh-xeo",
@@ -54,6 +66,18 @@
     "sourceUrl": "https://www.pexels.com/photo/bun-cha-served-on-a-winnowing-basket-3858270/"
   },
   {
+    "dishId": "bun-dau",
+    "file": "bun-dau.jpg",
+    "author": "Quang Nguyen Vinh",
+    "sourceUrl": "https://www.pexels.com/photo/delicious-vietnamese-dish-with-fried-tofu-noodles-and-mixed-leaves-5116817/"
+  },
+  {
+    "dishId": "bun-rieu",
+    "file": "bun-rieu.jpg",
+    "author": "FOX ^.ᆽ.^= ∫",
+    "sourceUrl": "https://www.pexels.com/photo/a-bowl-of-food-with-meat-and-vegetables-on-a-plate-27134987/"
+  },
+  {
     "dishId": "burger",
     "file": "burger.jpg",
     "author": "Engin Akyurt",
@@ -76,6 +100,12 @@
     "file": "chay.jpg",
     "author": "Phat Nguy",
     "sourceUrl": "https://www.pexels.com/photo/a-bowl-of-soup-with-bread-and-vegetables-on-a-white-table-17559227/"
+  },
+  {
+    "dishId": "che",
+    "file": "che.jpg",
+    "author": "FOX ^.ᆽ.^= ∫",
+    "sourceUrl": "https://www.pexels.com/photo/colorful-asian-dessert-in-black-bowl-on-table-38934823/"
   },
   {
     "dishId": "cocktail",
@@ -108,6 +138,12 @@
     "sourceUrl": "https://www.pexels.com/photo/fried-chicken-on-paper-towel-9872916/"
   },
   {
+    "dishId": "goi-cuon",
+    "file": "goi-cuon.jpg",
+    "author": "Quang Nguyen Vinh",
+    "sourceUrl": "https://www.pexels.com/photo/seafood-on-a-plate-12386446/"
+  },
+  {
     "dishId": "hai-san",
     "file": "hai-san.jpg",
     "author": "Terje Sollie",
@@ -132,6 +168,12 @@
     "sourceUrl": "https://www.pexels.com/photo/fresh-ingredients-of-an-asian-meal-5949002/"
   },
   {
+    "dishId": "mi-quang",
+    "file": "mi-quang.jpg",
+    "author": "JANG 'S 🍂",
+    "sourceUrl": "https://www.pexels.com/photo/banh-canh-soup-with-prawns-5966249/"
+  },
+  {
     "dishId": "mon-han",
     "file": "mon-han.jpg",
     "author": "Hakam Magdea",
@@ -146,8 +188,8 @@
   {
     "dishId": "mon-nhat",
     "file": "mon-nhat.jpg",
-    "author": "N Sopyan",
-    "sourceUrl": "https://www.pexels.com/photo/traditional-japanese-sushi-and-sashimi-platter-35381709/"
+    "author": "Loifotos",
+    "sourceUrl": "https://www.pexels.com/photo/authentic-japanese-bento-box-with-sashimi-35588671/"
   },
   {
     "dishId": "mon-thai",
@@ -202,5 +244,11 @@
     "file": "tra-sua.jpg",
     "author": "Telly Mina",
     "sourceUrl": "https://www.pexels.com/photo/milk-teas-with-tapioca-pearls-12666754/"
+  },
+  {
+    "dishId": "xoi",
+    "file": "xoi.jpg",
+    "author": "FOX ^.ᆽ.^= ∫",
+    "sourceUrl": "https://www.pexels.com/photo/beef-meal-on-plate-15615002/"
   }
 ]

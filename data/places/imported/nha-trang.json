@@ -7316,6 +7316,262 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-b9c98934-249a-4b",
+    "slug": "baba-ciu-food-bun-dau-long-f3cea4",
+    "name": "Baba Ciu Food - Bún Đậu Lòng",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "17 Đường Hồng Bàng",
+      "lat": 12.242293,
+      "lng": 109.187469
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "b9c98934-249a-4b78-acba-6cd088ea81af",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-81f7a6c3-c13b-47",
+    "slug": "bun-dau-mam-tom-chi-hang-057eb5",
+    "name": "Bún Đậu Mắm Tôm Chị Hằng",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "19 Tháng 5",
+      "lat": 12.256181,
+      "lng": 109.169601
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "81f7a6c3-c13b-47e3-8fb3-d5892294312d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-43299ccb-b0a6-4b",
+    "slug": "bun-dau-mam-tom-ba-hoan-2b0a97",
+    "name": "Bún Đậu Mắm Tôm - Bà Hoan",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "95 Nguyễn Hữu Huân",
+      "lat": 12.238748,
+      "lng": 109.18837
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "43299ccb-b0a6-4bbc-9d59-39a4c55523f8",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-35cab1cd-21a0-48",
+    "slug": "bun-dau-lee-2-b0dab9",
+    "name": "Bún Đậu Lee 2",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "64 Đ. Trần Nguyên Hãn",
+      "lat": 12.240318,
+      "lng": 109.188881
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "35cab1cd-21a0-4886-9d0c-09249d8d7d48",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-091baefb-a009-47",
+    "slug": "bun-dau-co-my-6cc8ea",
+    "name": "Bun Dau Co My",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "730 Đ. 2/4",
+      "lat": 12.270412,
+      "lng": 109.197891
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "091baefb-a009-47b8-809d-93966a3af059",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ab618ab0-146e-47",
+    "slug": "mi-quang-nam-127-149cb1",
+    "name": "Mì Quảng Nam 127",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "11 Đ. Mê Linh",
+      "lat": 12.241008,
+      "lng": 109.186653
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "ab618ab0-146e-478c-9360-b9e2c5f3d5aa",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-aaabe149-8c5f-4b",
+    "slug": "mi-quang-binh-cang-b1b26b",
+    "name": "Mì Quảng Bình Cang",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Km 7, Đường 23/10",
+      "lat": 12.257373,
+      "lng": 109.137383
+    },
+    "images": [],
+    "popularity": 50,
+    "source": "overture",
+    "sourceId": "aaabe149-8c5f-4beb-9d52-dd93b58c4710",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-104609d8-3fd3-49",
+    "slug": "mi-quang-24ea5c",
+    "name": "Mì Quảng",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "11 Lạc Long Quân",
+      "lat": 12.244029,
+      "lng": 109.185318
+    },
+    "images": [],
+    "popularity": 41,
+    "source": "overture",
+    "sourceId": "104609d8-3fd3-4992-a17f-66b68b6ebec8",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a89f107f-8152-4a",
+    "slug": "bun-rieu-cua-dong-keen-chi-so-9thich-quang-duc-phu-3a0d6e",
+    "name": "Bún riêu cua đồng Keen Chi số 9Thích Quảng Đức_Phước Long",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "9 Thích Quảng Đức",
+      "lat": 12.216711,
+      "lng": 109.188156
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "a89f107f-8152-4ac6-946e-213e8a7c6dc9",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-bcc24e83-3149-48",
+    "slug": "bun-rieu-cua-dong-nguyen-chat-tai-nha-trang-quan-a-d8b63c",
+    "name": "Bún Riêu Cua Đồng nguyên chất tại Nha Trang - QUÁN ĂN 81",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "152 Đường Nguyễn Thị Minh Khai",
+      "lat": 12.240685,
+      "lng": 109.192352
+    },
+    "images": [],
+    "popularity": 55,
+    "source": "overture",
+    "sourceId": "bcc24e83-3149-4847-b842-7b223177f47a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c6d2766f-f456-4b",
+    "slug": "kem-xoi-thanh-hang-1c1457",
+    "name": "Kem Xôi Thanh Hằng",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "6, Nguyễn Đình Chiểu",
+      "lat": 12.270402,
+      "lng": 109.203224
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "c6d2766f-f456-4b0e-b7fe-c03dae0f3c83",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5d3bd135-b203-4d",
+    "slug": "chao-xoi-ech-singapore-79-d47560",
+    "name": "Cháo Xôi Ếch Singapore 79",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "41A Đường Hồng Bàng",
+      "lat": 12.241209,
+      "lng": 109.192284
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "5d3bd135-b203-4dc7-9ff7-f8c35d273420",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-45bab7a9-9569-4e",
     "slug": "icepan-nha-trang-76d6b7",
     "name": "Icepan Nha Trang",
@@ -7333,27 +7589,6 @@
     "popularity": 68,
     "source": "overture",
     "sourceId": "45bab7a9-9569-4e99-abb0-44c76d5c6a9c",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-5c3f70f1-51d9-47",
-    "slug": "che-ngon-ha-noi-7919c6",
-    "name": "ChÈ Ngon HÀ NỘI",
-    "category": "food",
-    "subCategory": "ice-cream-shop",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "107 Nguyễn Thị Minh Khai",
-      "lat": 12.237089,
-      "lng": 109.188629
-    },
-    "images": [],
-    "popularity": 77,
-    "source": "overture",
-    "sourceId": "5c3f70f1-51d9-47d0-8398-d50e65dcb672",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -7396,6 +7631,94 @@
     "popularity": 70,
     "source": "overture",
     "sourceId": "f4710318-b6a0-46c2-b5b4-49d4304b4735",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-45db3bdc-e24e-4c",
+    "slug": "che-ngon-che-thai-sau-rieng-166-hoang-van-thu-nha-a8e4bb",
+    "name": "Chè ngon- Chè thái sầu riêng - 166 Hoàng Văn Thụ Nha trang",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "60 Đường Yersin",
+      "lat": 12.250042,
+      "lng": 109.185585
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "45db3bdc-e24e-4cee-bbc9-71f1c68bdca5",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5c3f70f1-51d9-47",
+    "slug": "che-ngon-ha-noi-7919c6",
+    "name": "ChÈ Ngon HÀ NỘI",
+    "category": "food",
+    "subCategory": "ice-cream-shop",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "107 Nguyễn Thị Minh Khai",
+      "lat": 12.237089,
+      "lng": 109.188629
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "5c3f70f1-51d9-47d0-8398-d50e65dcb672",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-83d72539-07ab-45",
+    "slug": "tiem-che-co-hai-ecca46",
+    "name": "Tiệm chè cô hai",
+    "category": "cafe",
+    "subCategory": "tea-room",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "27 Lê Quý Đôn",
+      "lat": 12.24379,
+      "lng": 109.191467
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "83d72539-07ab-45b3-a541-4c7b5aed5321",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-27bfcab6-5dce-4e",
+    "slug": "che-co-tu-94d395",
+    "name": "Chè Cô Tư",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "45 ngày xưa, 24 Lương Định Của. Tây Nha Trang Ngọc Hiệp, Hương lộ Ngọc Hiệp",
+      "lat": 12.254566,
+      "lng": 109.172935
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "27bfcab6-5dce-4e11-b317-6f083eb1b292",
     "status": "active",
     "updatedAt": "2026-09-13"
   }
