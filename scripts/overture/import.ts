@@ -3,6 +3,9 @@ import { join } from 'node:path';
 import { CACHE_DIR, CITY_BOXES } from './config';
 import type { CachedPlace } from './config';
 import type { Category, Tag } from '../../src/lib/places/types';
+import { DISHES } from '../../src/lib/dishes/catalogue';
+import { hasWord } from '../../src/lib/dishes/match';
+import type { Dish } from '../../src/lib/dishes/types';
 
 /**
  * Turns the Overture snapshot into seed files under `data/places/imported/`.
@@ -159,6 +162,33 @@ const GROUP_WEIGHTS: Readonly<Record<string, number>> = {
   screen: 2,
   market: 2,
 };
+
+/**
+ * Places guaranteed per dish, per city, regardless of the district budget.
+ *
+ * Five rather than the three the UI needs to offer a dish at all, so the list on a
+ * dish page has somewhere to go when one of them is closed.
+ */
+const DISH_FLOOR = 5;
+
+/** The dish matcher, against a snapshot record rather than a `PlaceSummary`. */
+function matchesCachedDish(place: CachedPlace, dish: Dish): boolean {
+  // Overture categories are snake_case; ours are slugs. Same vocabulary, two spellings.
+  const sub = place.category?.replace(/_/g, '-') ?? '';
+  if (sub && dish.subCategories.includes(sub)) return true;
+
+  const name = place.name.toLowerCase();
+  if (dish.nameExcludes?.some((term) => name.includes(term))) return false;
+  return dish.nameAliases.some((alias) => hasWord(name, alias));
+}
+
+/** The same question asked of a record already accepted into the import. */
+function servesDish(place: Imported, dish: Dish): boolean {
+  if (place.subCategory && dish.subCategories.includes(place.subCategory)) return true;
+  const name = place.name.toLowerCase();
+  if (dish.nameExcludes?.some((term) => name.includes(term))) return false;
+  return dish.nameAliases.some((alias) => hasWord(name, alias));
+}
 
 /** Falls back to the category itself, so a new Overture type is merely unbalanced, not dropped. */
 function groupFor(overtureCategory: string | null, category: Category): string {
@@ -335,28 +365,36 @@ async function importCity(cityId: string, validDistricts: Set<string>, takenSlug
   const quota = new Map<string, number>();
   const brandCount = new Map<string, number>();
   const seenPosition = new Set<string>();
+  const seenIds = new Set<string>();
   const imported: Imported[] = [];
 
-  for (const place of interleaved) {
+  /**
+   * Everything that decides whether a place can be taken, and takes it.
+   *
+   * `ignoreQuota` is used only by the dish top-up below, which is a deliberate
+   * override of the district budget rather than a way around the duplicate, brand and
+   * name guards — those still apply.
+   */
+  const accept = (place: CachedPlace, { ignoreQuota = false } = {}): boolean => {
+    if (seenIds.has(place.id)) return false;
+
     const category = place.ourCategory!;
     const districtId = districtIdFor(place.locality)!;
 
     const quotaKey = `${districtId}:${category}`;
-    if ((quota.get(quotaKey) ?? 0) >= perDistrictPerCategory) continue;
+    if (!ignoreQuota && (quota.get(quotaKey) ?? 0) >= perDistrictPerCategory) return false;
 
-    if (place.brand) {
-      if ((brandCount.get(place.brand) ?? 0) >= MAX_PER_BRAND_PER_CITY) continue;
-    }
+    if (place.brand && (brandCount.get(place.brand) ?? 0) >= MAX_PER_BRAND_PER_CITY) return false;
 
     // Overture occasionally lists the same shop twice at near-identical coordinates.
     const positionKey = `${place.lat.toFixed(4)},${place.lng.toFixed(4)}`;
-    if (seenPosition.has(positionKey)) continue;
+    if (seenPosition.has(positionKey)) return false;
 
     const name = tidyName(place.name);
     let slug = toSlug(name);
     // Two characters is what the schema requires; a name made entirely of symbols
     // cannot produce one and is not a place anybody searched for.
-    if (slug.length < 2) continue;
+    if (slug.length < 2) return false;
     if (takenSlugs.has(slug)) slug = `${slug}-${districtId}`;
     if (takenSlugs.has(slug)) {
       let suffix = 2;
@@ -366,6 +404,7 @@ async function importCity(cityId: string, validDistricts: Set<string>, takenSlug
 
     takenSlugs.add(slug);
     seenPosition.add(positionKey);
+    seenIds.add(place.id);
     quota.set(quotaKey, (quota.get(quotaKey) ?? 0) + 1);
     if (place.brand) brandCount.set(place.brand, (brandCount.get(place.brand) ?? 0) + 1);
 
@@ -390,6 +429,35 @@ async function importCity(cityId: string, validDistricts: Set<string>, takenSlug
       status: 'active',
       updatedAt: new Date().toISOString().slice(0, 10),
     });
+
+    return true;
+  };
+
+  for (const place of interleaved) accept(place);
+
+  /*
+   * Second pass: guarantee every dish a city can support.
+   *
+   * The district budget is blind to dishes, and the result was absurd — 344 bún bò
+   * restaurants sat in the snapshot while five made it into the catalogue, so "hôm
+   * nay ăn gì" could not offer bún bò anywhere in Vietnam. The same for bánh xèo
+   * (135 available, 1 imported) and hủ tiếu (243 available, 2).
+   *
+   * So after the general quota has spent itself, each dish that is still short gets
+   * topped up from the best remaining candidates. This is the one place where the
+   * catalogue reaches back into the import: what the product promises to offer
+   * decides what the data must contain.
+   */
+  for (const dish of DISHES) {
+    const already = imported.filter((place) => servesDish(place, dish)).length;
+    if (already >= DISH_FLOOR) continue;
+
+    let needed = DISH_FLOOR - already;
+    for (const place of eligible) {
+      if (needed === 0) break;
+      if (!matchesCachedDish(place, dish)) continue;
+      if (accept(place, { ignoreQuota: true })) needed -= 1;
+    }
   }
 
   return { cityId, imported, reason: null, perDistrictPerCategory };

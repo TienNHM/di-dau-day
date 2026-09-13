@@ -3880,5 +3880,1917 @@
     "sourceId": "a4e566f2-fe74-4865-9bd9-0ac7b1180c02",
     "status": "active",
     "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-8577ef8f-47d7-45",
+    "slug": "goc-pho-restaurant",
+    "name": "Goc Pho Restaurant",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "18 Đ. Lê Quang Đạo",
+      "lat": 16.461569,
+      "lng": 107.605202
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "8577ef8f-47d7-453f-8483-608615312f7a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a7dbea9e-4ff6-4a",
+    "slug": "pho-ly-quoc-su",
+    "name": "Phở Lý Quốc Sư",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "0 Hà Nội",
+      "lat": 16.46365,
+      "lng": 107.588028
+    },
+    "images": [],
+    "popularity": 79,
+    "source": "overture",
+    "sourceId": "a7dbea9e-4ff6-4ad9-8466-005f003ad0f1",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-fba038e8-557c-4c",
+    "slug": "pho-tuan",
+    "name": "Phở Tuấn",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "8 Huỳnh Tấn Phát",
+      "lat": 16.459986,
+      "lng": 107.602547
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "fba038e8-557c-4c10-8080-be75a2aa939a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-cceb0b9d-70b4-47",
+    "slug": "pho-hoang-dung",
+    "name": "Phở Hoàng Dung",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "116 Bà Triệu",
+      "lat": 16.463512,
+      "lng": 107.600075
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "cceb0b9d-70b4-47bc-a63d-b08a9c22aaae",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-200b92b4-6b88-41",
+    "slug": "pho-tay-pham-ngu-lao-thua-thien-hue",
+    "name": "Pho Tay, Phạm Ngũ Lão, Thừa Thiên Huế",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "9 Đường Phạm Ngũ Lão",
+      "lat": 16.469402,
+      "lng": 107.594437
+    },
+    "images": [],
+    "popularity": 55,
+    "source": "overture",
+    "sourceId": "200b92b4-6b88-4163-98b1-77d7b215619f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-4151805e-1407-48",
+    "slug": "bun-bo-hue-my-tam",
+    "name": "Bun Bo Hue My Tam",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "3 Trần Cao Vân",
+      "lat": 16.464027,
+      "lng": 107.589737
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "4151805e-1407-4853-84d9-7f60031ef7c3",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-60481f45-08f2-43",
+    "slug": "bun-bo-mu-roi",
+    "name": "Bún Bò Mụ Rơi",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "40 Nguyễn Chí Diểu",
+      "lat": 16.474945,
+      "lng": 107.583
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "60481f45-08f2-4320-838c-54ca594a02de",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-748ba151-f64b-44",
+    "slug": "bun-bo-o-chi",
+    "name": "Bún bò O Chi",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "25 Đường Mai Thúc Loan",
+      "lat": 16.477564,
+      "lng": 107.58371
+    },
+    "images": [],
+    "popularity": 79,
+    "source": "overture",
+    "sourceId": "748ba151-f64b-4445-a59e-b16f7a408663",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f2694371-0541-45",
+    "slug": "bun-bo-me-keo",
+    "name": "Bún bò mệ Kéo",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "20 Bạch Đằng",
+      "lat": 16.475054,
+      "lng": 107.588669
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "f2694371-0541-453c-9ed2-38226cc9550f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-0ec69dac-dbe4-4d",
+    "slug": "bun-bo-hue-ba-hoa-2",
+    "name": "Bún Bò Huế Bà Hoa 2",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "7 Hà Nội",
+      "lat": 16.463968,
+      "lng": 107.589279
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "0ec69dac-dbe4-4dae-9ed1-a0dedcbc7a36",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e7995684-f3cd-4a",
+    "slug": "bun-cha-ca-cuong-ny",
+    "name": "Bún Chả Cá Cường NY",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "137 Trường Chinh",
+      "lat": 16.459635,
+      "lng": 107.605972
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "e7995684-f3cd-4a2d-a34d-36a45eb5f4fe",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e4952aee-0e3b-4c",
+    "slug": "bun-cha-ha-noi-nguyen-anh",
+    "name": "Bún chả Hà Nội - Nguyên Anh",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "97 Đường Nguyễn Sinh Cung",
+      "lat": 16.47827,
+      "lng": 107.595551
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "e4952aee-0e3b-4c75-a7ae-7094d5f60ac5",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-679447bd-0901-4e",
+    "slug": "bun-cha-ca-nhu-y-58-mai-thuc-loan",
+    "name": "Bún chả cá Như Ý 58 Mai Thúc Loan",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "58 Đường Mai Thúc Loan",
+      "lat": 16.477036,
+      "lng": 107.582932
+    },
+    "images": [],
+    "popularity": 44,
+    "source": "overture",
+    "sourceId": "679447bd-0901-4e32-bd00-5160a6219826",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a13f0094-295b-43",
+    "slug": "com-tam-la-y",
+    "name": "Cơm Tấm La Ý",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "121A Nguyễn Huệ",
+      "lat": 16.459103,
+      "lng": 107.598465
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "a13f0094-295b-4357-a005-6692be10f6dd",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a265277f-5eff-43",
+    "slug": "nha-hang-com-tam-sai-gon-thanh-na",
+    "name": "Nhà Hàng Cơm Tấm Sài Gòn Thành Na",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "32 Nguyễn Biểu",
+      "lat": 16.475855,
+      "lng": 107.582687
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "a265277f-5eff-43fa-980c-a689299d88b5",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-aaec22bb-f9c3-44",
+    "slug": "com-tam-sai-gon-xua",
+    "name": "Cơm Tấm Sài Gòn Xưa",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "8 Đường Lê Quang Đạo",
+      "lat": 16.462845,
+      "lng": 107.604515
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "aaec22bb-f9c3-4450-8341-996bda7e07ce",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e0df8dc3-dceb-4a",
+    "slug": "com-ga-singapore-12-nguyen-thai-hoc-hue",
+    "name": "Cơm Gà Singapore 12 Nguyễn Thái Học, HUẾ",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "12 Đường Nguyễn Thái Học",
+      "lat": 16.467999,
+      "lng": 107.595619
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "e0df8dc3-dceb-4ad2-94d3-7de9ec68fe7c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c520a864-eb0e-4c",
+    "slug": "com-ga-moc-huong",
+    "name": "Cơm Gà Mộc Hương",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "65 Đường La Sơn Phu Tử",
+      "lat": 16.477467,
+      "lng": 107.566803
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "c520a864-eb0e-4c55-abf2-43834993a710",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a1cab505-41c9-42",
+    "slug": "com-ga-life-lo-67-le-hoan",
+    "name": "Cơm Gà Life Lô 67 Lê Hoàn",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "63 Lê Hữu Kiều",
+      "lat": 16.467569,
+      "lng": 107.574677
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "a1cab505-41c9-42e6-8ccc-4f880a19c3fd",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-11531d70-0f7e-48",
+    "slug": "quan-com-ga-nha-nguyet",
+    "name": "Quán Cơm Gà Nhà Nguyệt",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "12/43 Nguyễn Công Trứ",
+      "lat": 16.471703,
+      "lng": 107.597618
+    },
+    "images": [],
+    "popularity": 52,
+    "source": "overture",
+    "sourceId": "11531d70-0f7e-48e1-90d9-862068faac2e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e2c621b0-7165-47",
+    "slug": "com-ga-nha-wuang-14-le-minh",
+    "name": "Cơm Gà Nhà Wuang - 14 Lê Minh",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "14 Lê Minh",
+      "lat": 16.460768,
+      "lng": 107.605232
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "e2c621b0-7165-47d7-a151-803a89d5d840",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-12f782c0-af26-43",
+    "slug": "banh-mi-sai-gon-thanh-anh",
+    "name": "Bánh mì Sài Gòn Thành Anh",
+    "category": "food",
+    "subCategory": "breakfast-and-brunch-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "34 Trần Quang Khải",
+      "lat": 16.466482,
+      "lng": 107.595764
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "12f782c0-af26-43f9-85b7-499b105b703c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f505601e-8877-4a",
+    "slug": "quan-banh-mi-op-la-mee-o",
+    "name": "Quán Bánh Mì Ốp La MEE-O",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "18 Ngô Gia Tự",
+      "lat": 16.460283,
+      "lng": 107.590042
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "f505601e-8877-4a65-aee2-096d3f79516c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e91a30f6-6cc9-43",
+    "slug": "banh-mi-193-nguyen-sinh-cung-tp-hue",
+    "name": "Bánh Mì 193 - Nguyễn Sinh Cung, TP Huế",
+    "category": "food",
+    "subCategory": "bakery",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "193 Đường Nguyễn Sinh Cung",
+      "lat": 16.483339,
+      "lng": 107.59594
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "e91a30f6-6cc9-433f-9cc4-5e494afb35fc",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-fb70cc46-ae18-40",
+    "slug": "tra-sua-banh-mi-day-ne",
+    "name": "Trà Sữa Bánh Mì đây nè.",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "133/24 Kiệt 113 Trần Phú",
+      "lat": 16.448988,
+      "lng": 107.604248
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "fb70cc46-ae18-40a0-8e7a-1fbe07404915",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-72e76a0d-6372-4d",
+    "slug": "banh-mi-ba-bu",
+    "name": "Bánh Mì Ba Bự",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "39 Bến Nghé",
+      "lat": 16.465946,
+      "lng": 107.594772
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "72e76a0d-6372-4dd8-86f6-97a6d7049921",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5ffedb91-25db-49",
+    "slug": "banh-xeo-ca-kinh-hang-lien",
+    "name": "Bánh xèo Cá kình Hằng Liên",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "97 Nguyễn Sinh Cung",
+      "lat": 16.4786,
+      "lng": 107.595436
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "5ffedb91-25db-49cd-9eee-e44f3bfbf72f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2863e1f5-fe9c-47",
+    "slug": "banh-canh-nam-pho",
+    "name": "Bánh Canh Nam Phổ",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "16 Phạm Hồng Thái",
+      "lat": 16.46479,
+      "lng": 107.589211
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "2863e1f5-fe9c-4788-9b58-0d86c4c390c9",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-cb59e8e5-4c7a-41",
+    "slug": "banh-canh-nam-pho-hue",
+    "name": "Bánh Canh Nam Phổ",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "54 Nguyễn Công Trứ tổ 15",
+      "lat": 16.470871,
+      "lng": 107.597954
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "cb59e8e5-4c7a-4140-9b11-ec1a2867065f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-05934351-3ae6-4d",
+    "slug": "banh-canh-ba-doi",
+    "name": "Bánh canh Bà Đợi",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "1B Dương Văn An",
+      "lat": 16.467505,
+      "lng": 107.599922
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "05934351-3ae6-4d3a-921d-eabe69f23a23",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-0e04ea34-4215-47",
+    "slug": "banh-canh-ba-doi-hue",
+    "name": "Bánh Canh Bà Đợi",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "69 Nguyễn Trãi",
+      "lat": 16.466591,
+      "lng": 107.573372
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "0e04ea34-4215-477c-b4b4-c50fe8e116dc",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ccc8c053-07df-4e",
+    "slug": "banh-canh-han-thuyen",
+    "name": "Bánh Canh Hàn Thuyên",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Hàn Thuyên",
+      "lat": 16.4723,
+      "lng": 107.580994
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "ccc8c053-07df-4e8e-8544-b56d52d1090a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-65a5c54b-969d-4a",
+    "slug": "hu-tieu-sai-gon",
+    "name": "Hủ Tiếu Sài Gòn",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "151 Trần Phú",
+      "lat": 16.45092,
+      "lng": 107.588959
+    },
+    "images": [],
+    "popularity": 49,
+    "source": "overture",
+    "sourceId": "65a5c54b-969d-4abb-8ddb-77977a0fd145",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2dde0ce1-e39e-46",
+    "slug": "chao-dinh-duong-cao-cap-pika-pika",
+    "name": "Cháo dinh dưỡng cao cấp Pika Pika",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Đường Đào Tấn, phường Trường An",
+      "lat": 16.446112,
+      "lng": 107.582146
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "2dde0ce1-e39e-4687-be8e-71fea7bc9847",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-efea4175-d4ee-45",
+    "slug": "chao-ech-singapore-ghien",
+    "name": "Cháo Ếch Singapore Ghiền",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "51 Lê Lợi",
+      "lat": 16.470877,
+      "lng": 107.594566
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "efea4175-d4ee-4564-8167-4ba48f08cc56",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2e99d191-63b5-47",
+    "slug": "chao-bo-o-tue",
+    "name": "Cháo Bò O Tuệ",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "260 Bạch Đằng",
+      "lat": 16.482395,
+      "lng": 107.583099
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "2e99d191-63b5-473d-8fdb-d265ec737a07",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-fb88d117-5355-46",
+    "slug": "chao-trang-o-cham",
+    "name": "Cháo Trắng O Châm",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "33 Trường Chinh",
+      "lat": 16.46208,
+      "lng": 107.601784
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "fb88d117-5355-4645-8dd5-e229729dbe41",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-4c39371c-b840-4c",
+    "slug": "chao-dinh-duong-for-kids-hue",
+    "name": "Cháo Dinh Dưỡng For Kids Huế",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "205 Phạm Văn Đồng",
+      "lat": 16.483128,
+      "lng": 107.601311
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "4c39371c-b840-4c60-a879-04788b119e00",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6f9a6b67-86f9-43",
+    "slug": "lau-bo-ba-nghe",
+    "name": "Lẩu Bò Bà Nghệ",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "13 Trần Nguyên Đán",
+      "lat": 16.463989,
+      "lng": 107.573074
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "6f9a6b67-86f9-4398-8b38-fc5cc3be4477",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-806daf9f-bcd2-40",
+    "slug": "quan-nhau-de-cao-lau-vuon",
+    "name": "Quán nhậu dê Cao lẩu Vườn",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "7 kiet 138 Phạm Thị Liên",
+      "lat": 16.463884,
+      "lng": 107.557053
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "806daf9f-bcd2-4003-bbb5-8f66b3e8fce4",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-75ff4ee8-bb6a-43",
+    "slug": "kiyomi-lau-trung-hoa",
+    "name": "Kiyomi - Lẩu Trung Hoa",
+    "category": "food",
+    "subCategory": "chinese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "49 Tố Hữu",
+      "lat": 16.464186,
+      "lng": 107.604721
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "75ff4ee8-bb6a-4394-b0da-4083ca8d5719",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-32cd351d-5540-44",
+    "slug": "lau-nuong-top-mo",
+    "name": "Lẩu nướng Tóp mỡ",
+    "category": "food",
+    "subCategory": "soup-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "59 Nguyễn Khoa Chiêm",
+      "lat": 16.442455,
+      "lng": 107.599182
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "32cd351d-5540-4416-ae7f-9488a9ce579f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-1a985053-0e38-48",
+    "slug": "te-lau-nuong",
+    "name": "Tê - Lẩu & Nướng",
+    "category": "food",
+    "subCategory": "chinese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "20 Đường Võ Thị Sáu",
+      "lat": 16.470211,
+      "lng": 107.596008
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "1a985053-0e38-485a-9cc2-8a2be6ca221f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b3af9d89-c9ac-44",
+    "slug": "oc-cay",
+    "name": "Ốc cay",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "38 Hồ Đắc Di",
+      "lat": 16.447819,
+      "lng": 107.60276
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "b3af9d89-c9ac-44c5-a144-3327fe2e9f5a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-25a87f7e-faf4-45",
+    "slug": "oc-dao-quan",
+    "name": "Ốc Đảo Quán",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "14 Đ. Lê Quang Đạo",
+      "lat": 16.461889,
+      "lng": 107.604843
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "25a87f7e-faf4-45c5-b7c2-32253397f072",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-20b61a9c-d95a-4f",
+    "slug": "oc-sai-gon-hue",
+    "name": "Ốc Sài Gòn",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "74 Nguyễn Huệ",
+      "lat": 16.457632,
+      "lng": 107.589546
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "20b61a9c-d95a-4fb0-8080-55525c66b951",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6cf1234b-4916-4e",
+    "slug": "oc-cay-hue",
+    "name": "Ốc Cay",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "23 Thích Nữ Diệu Không",
+      "lat": 16.446596,
+      "lng": 107.580818
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "6cf1234b-4916-4e96-b6da-f83511b8a595",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-9ec208f6-2f56-42",
+    "slug": "oc-chu-map-69-dang-huy-tru",
+    "name": "ỐC CHÚ MẬP 69 Đặng Huy Trứ",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "69 Đường Đặng Huy Trứ",
+      "lat": 16.446798,
+      "lng": 107.586357
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "9ec208f6-2f56-42eb-8319-a95b77febbf0",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-13a91889-887f-4d",
+    "slug": "dong-lam-vegan",
+    "name": "Đông Lam Vegan",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "9 Lê Quý Đôn",
+      "lat": 16.465322,
+      "lng": 107.597504
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "13a91889-887f-4da5-a098-e447dcc476d5",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-de2404d3-1545-4e",
+    "slug": "nha-hang-com-chay-bo-de",
+    "name": "Nhà Hàng Cơm Chay Bồ Đề",
+    "category": "food",
+    "subCategory": "vegetarian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "11 Lê Lợi",
+      "lat": 16.464954,
+      "lng": 107.58741
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "de2404d3-1545-4e3c-bd62-46b6b9702e94",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-845a7870-4605-49",
+    "slug": "nha-hang-chay-tinh-quan",
+    "name": "Nhà Hàng Chay Tịnh Quán",
+    "category": "food",
+    "subCategory": "vegetarian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "2 Trần Cao Vân",
+      "lat": 16.462999,
+      "lng": 107.58889
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "845a7870-4605-4924-9845-0debf4adadc1",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-831206e3-30fc-42",
+    "slug": "quan-chay-dinh-vu",
+    "name": "Quán Chay Đình Vũ",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "168 Chi Lăng tổ 7",
+      "lat": 16.479649,
+      "lng": 107.590332
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "831206e3-30fc-4227-b329-a39f135b6bb2",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-430befa0-6b1e-41",
+    "slug": "king-bbq-buffet-vincom-hue",
+    "name": "King BBQ Buffet Vincom Huế",
+    "category": "food",
+    "subCategory": "korean-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "50 Hùng Vương",
+      "lat": 16.463211,
+      "lng": 107.594582
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "430befa0-6b1e-4139-983e-e711bd6581ce",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-25b1543f-bb73-46",
+    "slug": "kicochi-house",
+    "name": "Kicochi House",
+    "category": "food",
+    "subCategory": "korean-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "98 Bà Triệu",
+      "lat": 16.464216,
+      "lng": 107.600098
+    },
+    "images": [],
+    "popularity": 76,
+    "source": "overture",
+    "sourceId": "25b1543f-bb73-4656-a181-5a0c3427c8ee",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7d304096-c4f9-44",
+    "slug": "chosun-tiem-an-han-quoc",
+    "name": "Chosun Tiệm Ăn Hàn Quốc",
+    "category": "food",
+    "subCategory": "korean-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "06 Ngô Đức Kế",
+      "lat": 16.473299,
+      "lng": 107.585823
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "7d304096-c4f9-444a-b001-38c341f47f9c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-40821a47-7f14-41",
+    "slug": "nori-kimpap",
+    "name": "Nori Kimpap",
+    "category": "food",
+    "subCategory": "korean-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "29a Kiệt 9 Lê Quý Dôn",
+      "lat": 16.464811,
+      "lng": 107.597618
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "40821a47-7f14-41f9-809c-08a7657a61da",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-08f74153-838f-42",
+    "slug": "sakido-bbq",
+    "name": "Sakido BBQ",
+    "category": "food",
+    "subCategory": "japanese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "32 Trường Chinh",
+      "lat": 16.461956,
+      "lng": 107.60173
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "08f74153-838f-42ce-bc10-9c92fa6b28cb",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-d8a022a4-d168-4e",
+    "slug": "gem-sushi-bar",
+    "name": "Gem Sushi Bar",
+    "category": "food",
+    "subCategory": "japanese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "6A Võ Thị Sáu",
+      "lat": 16.469025,
+      "lng": 107.59568
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "d8a022a4-d168-4e3d-881a-2aea1603778c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-87fa172e-5354-49",
+    "slug": "shino-sushi",
+    "name": "Shino Sushi",
+    "category": "food",
+    "subCategory": "japanese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "35 Đường Nguyễn Thái Học",
+      "lat": 16.468037,
+      "lng": 107.595985
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "87fa172e-5354-49f0-a1f5-cd3127f483f3",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-52882e10-61dd-4d",
+    "slug": "nha-thuoc-nhat-nam",
+    "name": "NhÀ ThuỐC NhẬT Nam",
+    "category": "food",
+    "subCategory": "japanese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Chợ Cống, 1 Đường Bà Triệu",
+      "lat": 16.470224,
+      "lng": 107.599174
+    },
+    "images": [],
+    "popularity": 79,
+    "source": "overture",
+    "sourceId": "52882e10-61dd-4d84-8fdc-40885be75819",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c72bab52-ae8f-46",
+    "slug": "kachi-sushi",
+    "name": "Kachi Sushi",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "32 Trường Chinh",
+      "lat": 16.461927,
+      "lng": 107.601746
+    },
+    "images": [],
+    "popularity": 79,
+    "source": "overture",
+    "sourceId": "c72bab52-ae8f-467a-9679-0894c3d4209d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-8aed78b6-feb0-45",
+    "slug": "coy-sushi-home",
+    "name": "Coy Sushi &Home",
+    "category": "food",
+    "subCategory": "sushi-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "4a Nguyễn Bính",
+      "lat": 16.467991,
+      "lng": 107.601601
+    },
+    "images": [],
+    "popularity": 55,
+    "source": "overture",
+    "sourceId": "8aed78b6-feb0-4598-bda9-3ea8cf9e1f1a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-84b7dd30-e096-42",
+    "slug": "buffet-hue-and-sushi-hue-yaki-yum",
+    "name": "Buffet Huế and Sushi Huế - Yaki Yum",
+    "category": "food",
+    "subCategory": "japanese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "59 Bến Nghé",
+      "lat": 16.465263,
+      "lng": 107.594772
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "84b7dd30-e096-420c-8625-056017b8682a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-9aa9c286-9c09-42",
+    "slug": "cafe-nhac-hoa-vien",
+    "name": "Café Nhạc Hoa Viên",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "72 Đ. Ông Ích Khiêm",
+      "lat": 16.469044,
+      "lng": 107.583099
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "9aa9c286-9c09-4295-8ffb-f9fbe932c5cd",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-261720ab-015b-48",
+    "slug": "gong-wuan-hotpot",
+    "name": "Gong Wuan Hotpot",
+    "category": "food",
+    "subCategory": "chinese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "14A Bến Nghé",
+      "lat": 16.46664,
+      "lng": 107.594505
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "261720ab-015b-48b2-b287-c8172a902fa4",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6b847b90-ec6d-4c",
+    "slug": "tung-hoa-vien-cafe",
+    "name": "Tùng Hoa Viên Cafe",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "5 Đường Phạm Văn Đồng",
+      "lat": 16.444778,
+      "lng": 107.617722
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "6b847b90-ec6d-4c13-a550-10d4cbbc8ee1",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-439714b0-b1e0-4b",
+    "slug": "dong-trung-ha-thao",
+    "name": "ĐÔNg TrÙNg HẠ ThẢO",
+    "category": "food",
+    "subCategory": "thai-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "HÀ ĐÔNG",
+      "lat": 16.479128,
+      "lng": 107.568146
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "439714b0-b1e0-4bff-a8ae-7e5125d19d48",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-eae09d81-b243-43",
+    "slug": "the-thai-cuisine-hue",
+    "name": "The Thai Cuisine Huế",
+    "category": "food",
+    "subCategory": "thai-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "4 Đ. Lê Quang Đạo",
+      "lat": 16.462553,
+      "lng": 107.604309
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "eae09d81-b243-4387-ac10-8e57f5b26078",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-3ea21908-f8cf-4d",
+    "slug": "khao-nua-aeon-mall-mien-trung-thai-cuisine",
+    "name": "Khao & Nua Aeon Mall Miền Trung - Thai Cuisine",
+    "category": "food",
+    "subCategory": "thai-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Tầng 4, TTTM Aeon Mall Huế | Tầng 4, TTTM Aeon Mall Thanh Khê",
+      "lat": 16.454357,
+      "lng": 107.614784
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "3ea21908-f8cf-4dc2-a034-0a1863fa9d84",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-62001b9a-6cc0-4e",
+    "slug": "chang-tea-and-coffee-tra-sua-thai-lan",
+    "name": "Chang Tea and Coffee - Trà sữa Thái Lan",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "78 Trường Chinh",
+      "lat": 16.460562,
+      "lng": 107.603973
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "62001b9a-6cc0-4eff-bd33-93ccb8900395",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-dd80a397-0e0d-43",
+    "slug": "tranh-theu-phu-hoa-thai-hoa",
+    "name": "Tranh Thêu Phú Hòa -Thái Hòa",
+    "category": "food",
+    "subCategory": "thai-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "15 Đường Mai Thúc Loan",
+      "lat": 16.478195,
+      "lng": 107.584541
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "dd80a397-0e0d-4375-aa4e-ef6da179cae9",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c7eceb21-901f-4c",
+    "slug": "little-italy-restaurant",
+    "name": "Little Italy Restaurant",
+    "category": "food",
+    "subCategory": "italian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "10 Nguyễn Thái Học",
+      "lat": 16.468012,
+      "lng": 107.595436
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "c7eceb21-901f-4c78-b166-7c8c8c25d31b",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f21aaf39-ddd7-4f",
+    "slug": "1-phut-suc-khoe",
+    "name": "1 Phút Sức Khỏe",
+    "category": "food",
+    "subCategory": "pizza-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Phố đi bộ Nguyễn Huệ",
+      "lat": 16.466799,
+      "lng": 107.588875
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "f21aaf39-ddd7-4f28-b28e-8fd84688123e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-50edf2c6-97f0-49",
+    "slug": "pizza-chen",
+    "name": "Pizza Chen",
+    "category": "food",
+    "subCategory": "pizza-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "9B Nguyễn Du",
+      "lat": 16.478994,
+      "lng": 107.589195
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "50edf2c6-97f0-499f-ab0e-34e6438c9359",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-46ebe841-497d-4d",
+    "slug": "pizza-kat",
+    "name": "Pizza Kat",
+    "category": "food",
+    "subCategory": "pizza-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "43 Kiệt 42 Nguyễn Công Trứ",
+      "lat": 16.46908,
+      "lng": 107.59697
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "46ebe841-497d-4df0-bd87-b11ac140eb84",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f996c25d-6a7c-44",
+    "slug": "bunbun-burger",
+    "name": "BunBun Burger",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "39A Bến Nghé",
+      "lat": 16.466116,
+      "lng": 107.594688
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "f996c25d-6a7c-441a-be37-40a6b614d5c9",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-597bb389-1469-4f",
+    "slug": "chef-burger",
+    "name": "Chef Burger",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "34 Võ Thị Sáu",
+      "lat": 16.470757,
+      "lng": 107.596291
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "597bb389-1469-4f2b-8cb6-ad8146d5dd17",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c49a8f1f-0897-4e",
+    "slug": "banh-trang-thit-heo-dai-loc-bep-khoi",
+    "name": "Bánh tráng thịt heo Đại Lộc - Bếp Khói",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "85 Đường Hùng Vương",
+      "lat": 16.46246,
+      "lng": 107.601471
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "c49a8f1f-0897-4eba-908a-524afbff78a5",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f5d64421-2a7d-42",
+    "slug": "cuon-hue-banh-trang-thit-heo-quay",
+    "name": "Cuốn Huế - Bánh Tráng Thịt Heo Quay",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "11 Đường Nguyễn Huệ",
+      "lat": 16.457844,
+      "lng": 107.582581
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "f5d64421-2a7d-420c-aac2-f1bb23ea5f36",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e0f23965-4f9f-4e",
+    "slug": "tra-sua-ga-ran-an-vat-2-o",
+    "name": "Trà sữa, Gà rán & Ăn vặt 2.Ô",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "32 Kiệt 167 Đường Nguyễn Lộ Trạch",
+      "lat": 16.472313,
+      "lng": 107.608261
+    },
+    "images": [],
+    "popularity": 79,
+    "source": "overture",
+    "sourceId": "e0f23965-4f9f-4ee6-bb5c-45692f86d461",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-9df0b8a7-483e-48",
+    "slug": "minmin-an-vat-119-ngo-the-lan",
+    "name": "MinMin - Ăn Vặt - 119 Ngô Thế Lân",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "119 Đường Ngô Thế Lân",
+      "lat": 16.474651,
+      "lng": 107.572617
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "9df0b8a7-483e-482a-8363-70510ca7f001",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-33464bad-77d3-42",
+    "slug": "tra-sua-nuoc-ep-tata",
+    "name": "Trà Sữa Nước Ép Tata",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "88 Mai Thúc Loan",
+      "lat": 16.476727,
+      "lng": 107.582375
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "33464bad-77d3-422d-8f3d-2a877dbca6ec",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-235bf0e0-fd2d-46",
+    "slug": "goofoo-gelato-hue-cafe-kem-dao-dua",
+    "name": "Goofoo Gelato Huế - Cafe, Kem Đảo Dừa",
+    "category": "food",
+    "subCategory": "ice-cream-shop",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "148 Đường Nguyễn Huệ",
+      "lat": 16.45816,
+      "lng": 107.597023
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "235bf0e0-fd2d-4604-81f5-6fd4d8e7acee",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a20c22c6-cda5-46",
+    "slug": "thien-huong-frozenfoods",
+    "name": "Thiên Hương FrozenFoods",
+    "category": "food",
+    "subCategory": "ice-cream-shop",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "23 Trần Đại Nghĩa",
+      "lat": 16.433926,
+      "lng": 107.592064
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "a20c22c6-cda5-464b-8ae0-655d32a08ee2",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-9a7940ad-35af-4d",
+    "slug": "lick-n-bite-hue",
+    "name": "Lick N Bite - Huế",
+    "category": "food",
+    "subCategory": "ice-cream-shop",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "50 Đường Nguyễn Thái Học",
+      "lat": 16.46456,
+      "lng": 107.591972
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "9a7940ad-35af-4de1-884e-943b7223b0cb",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f24c3aea-3296-43",
+    "slug": "la-boulangerie-francaise",
+    "name": "La Boulangerie Francaise",
+    "category": "food",
+    "subCategory": "bakery",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "46 Nguyễn Tri Phương",
+      "lat": 16.465326,
+      "lng": 107.593407
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "f24c3aea-3296-433d-abba-bceedf91e758",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-999f1d61-f8d3-40",
+    "slug": "banh-ba-chi-xu-hue-dac-san-banh-loc-banh-nam-banh-beo-banh-i",
+    "name": "Bánh Bà Chi xứ Huế - đặc sản Bánh Lọc, bánh Nậm, bánh Bèo, bánh Ít Ram",
+    "category": "food",
+    "subCategory": "bakery",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "51 Đường Lê Viết Lượng",
+      "lat": 16.466379,
+      "lng": 107.57341
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "999f1d61-f8d3-405d-96aa-00121e02898c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2c1fa727-b510-46",
+    "slug": "huein-coffee-and-bakery",
+    "name": "Huein Coffee and Bakery",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "1 kiet 42 Thái Phiên",
+      "lat": 16.476479,
+      "lng": 107.564468
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "2c1fa727-b510-466a-9dc3-9912e48fa747",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b9582bf3-987b-4c",
+    "slug": "dong-bar",
+    "name": "Dong Bar",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "03 Phạm Ngũ Lão",
+      "lat": 16.469589,
+      "lng": 107.594269
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "b9582bf3-987b-4cb2-a6f8-5bd73693f8ff",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e10f5273-647a-42",
+    "slug": "the-cham-craft-beer-and-whisky",
+    "name": "The Cham Craft Beer and Whisky",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "56 Nguyễn Tri Phương",
+      "lat": 16.465868,
+      "lng": 107.59417
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "e10f5273-647a-421d-b5c7-cecf682cac9e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   }
 ]
