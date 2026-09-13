@@ -158,8 +158,8 @@
   {
     "dishId": "nuong",
     "file": "nuong.jpg",
-    "author": "Анастасия И София",
-    "sourceUrl": "https://www.pexels.com/photo/grilled-meat-on-a-charcoal-grill-11989697/"
+    "author": "Theodore Nguyen",
+    "sourceUrl": "https://www.pexels.com/photo/a-plate-of-food-with-vegetables-and-meat-on-it-28297968/"
   },
   {
     "dishId": "oc",
@@ -170,8 +170,8 @@
   {
     "dishId": "pho",
     "file": "pho.jpg",
-    "author": "Markus Winkler",
-    "sourceUrl": "https://www.pexels.com/photo/brown-wooden-chopsticks-on-top-of-white-ceramic-bowl-3903586/"
+    "author": "Nam Phong Bùi",
+    "sourceUrl": "https://www.pexels.com/photo/pho-soup-noodles-in-white-ceramic-bowl-4153908/"
   },
   {
     "dishId": "pizza",
@@ -182,25 +182,25 @@
   {
     "dishId": "sinh-to",
     "file": "sinh-to.jpg",
-    "author": "Long Nguyễn",
-    "sourceUrl": "https://www.pexels.com/photo/fruity-smoothies-in-clear-glasses-12119029/"
+    "author": "Farhad Ibrahimzade",
+    "sourceUrl": "https://www.pexels.com/photo/close-up-shot-of-glasses-of-milkshake-8743871/"
   },
   {
     "dishId": "sushi",
     "file": "sushi.jpg",
-    "author": "Fernando Capetillo",
-    "sourceUrl": "https://www.pexels.com/photo/delicious-sushi-rolls-with-salmon-and-avocado-30776226/"
+    "author": "Valeria Boltneva",
+    "sourceUrl": "https://www.pexels.com/photo/a-wooden-cutting-board-with-sushi-and-other-food-28291553/"
   },
   {
     "dishId": "tra",
     "file": "tra.jpg",
-    "author": "TrintX",
-    "sourceUrl": "https://www.pexels.com/photo/a-person-pouring-coffee-in-the-cup-9452278/"
+    "author": "🇻🇳🇻🇳Nguyễn Tiến Thịnh 🇻🇳🇻🇳",
+    "sourceUrl": "https://www.pexels.com/photo/refreshing-iced-tea-with-mint-and-lemon-slice-31722918/"
   },
   {
     "dishId": "tra-sua",
     "file": "tra-sua.jpg",
-    "author": "Shameel mukkath",
-    "sourceUrl": "https://www.pexels.com/photo/a-milk-tea-drink-with-a-red-straw-11160121/"
+    "author": "Telly Mina",
+    "sourceUrl": "https://www.pexels.com/photo/milk-teas-with-tapioca-pearls-12666754/"
   }
 ]
