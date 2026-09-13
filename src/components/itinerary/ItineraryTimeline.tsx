@@ -7,7 +7,7 @@ import type { Route } from 'next';
 import { formatDuration, formatPrice } from '@/components/result/ResultCard';
 import { accentFor } from '@/lib/intents/accents';
 import { ITINERARY_SLOTS, decodeItinerarySlugs } from '@/lib/recommend/itinerary';
-import { CITY_QUERY_KEY } from '@/lib/recommend/criteria';
+import { CITY_QUERY_KEY, PLAN_QUERY_KEY } from '@/lib/recommend/criteria';
 import { track } from '@/lib/analytics/track';
 import { SITE_NAME } from '@/lib/site';
 import { useItineraryCards } from '@/lib/places/useItineraryCards';
@@ -45,13 +45,19 @@ export function ItineraryTimeline({ siteUrl }: { siteUrl: string }) {
       .filter((card): card is ItineraryCard => card !== undefined);
   }, [cards, searchParams]);
 
+  // A tour is a sightseeing plan and belongs to a different intent; sending someone
+  // back to the dating wizard would quietly change what they asked for.
+  const isTour = searchParams.get(PLAN_QUERY_KEY) === 'tour';
+
   const rerollHref = useMemo(() => {
     const params = new URLSearchParams(searchParams.toString());
+    const intent = params.get('tu');
     params.delete('d');
     params.delete('tu');
     params.set('spin', '1');
-    return `/hen-ho/?${params.toString()}`;
-  }, [searchParams]);
+    const back = intent === 'di-dau' || isTour ? '/di-dau' : '/hen-ho';
+    return `${back}/?${params.toString()}`;
+  }, [searchParams, isTour]);
 
   const totals = useMemo(() => {
     const prices = stops.map((stop) => stop.avgPrice);
@@ -148,10 +154,10 @@ export function ItineraryTimeline({ siteUrl }: { siteUrl: string }) {
     <div className="flex flex-1 flex-col gap-6">
       <header>
         <p className="text-xs font-semibold tracking-[0.22em] text-ink-faint uppercase">
-          Kế hoạch cho buổi hẹn
+          {isTour ? 'Lộ trình đi chơi' : 'Kế hoạch cho buổi hẹn'}
         </p>
         <h1 className="mt-3 text-4xl leading-tight font-extrabold tracking-tight text-balance">
-          {stops.length} chặng, một buổi tối
+          {isTour ? `Lộ trình ${stops.length} điểm` : `${stops.length} chặng, một buổi tối`}
         </h1>
 
         {totals.price !== null || totals.minutes !== null ? (
@@ -172,7 +178,9 @@ export function ItineraryTimeline({ siteUrl }: { siteUrl: string }) {
 
       <ol className="flex flex-col">
         {stops.map((stop, index) => {
-          const definition = ITINERARY_SLOTS[index];
+          // A tour has no named roles, so its stops are numbered instead — the third
+          // stop of a sightseeing route is not "Ăn tối".
+          const definition = isTour ? null : ITINERARY_SLOTS[index];
           const accent = accentFor(stop.category);
           const isLast = index === stops.length - 1;
 
@@ -186,14 +194,14 @@ export function ItineraryTimeline({ siteUrl }: { siteUrl: string }) {
                     backgroundImage: `linear-gradient(140deg, ${accent.from}, ${accent.to})`,
                   }}
                 >
-                  {definition?.emoji ?? '📍'}
+                  {isTour ? index + 1 : (definition?.emoji ?? '📍')}
                 </span>
                 {!isLast ? <span className="w-0.5 flex-1 bg-line" /> : null}
               </div>
 
               <div className={isLast ? 'flex-1' : 'flex-1 pb-6'}>
                 <p className="text-xs font-semibold tracking-wider text-ink-faint uppercase">
-                  {definition?.label ?? 'Chặng tiếp theo'}
+                  {isTour ? `Điểm ${index + 1}` : (definition?.label ?? 'Chặng tiếp theo')}
                 </p>
 
                 <Link

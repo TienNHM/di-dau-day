@@ -7,14 +7,14 @@ import { OptionButton } from './OptionButton';
 import { ProgressDots } from './ProgressDots';
 import { SpinStage } from '@/components/spin/SpinStage';
 import { tagsForVibes } from '@/lib/intents/registry';
-import type { Intent, WizardQuestion } from '@/lib/intents/registry';
+import type { Intent, PlanFormat, WizardQuestion } from '@/lib/intents/registry';
 import { COMPANIONS, PRICE_RANGES } from '@/lib/places/types';
 import type { Companion, District, PriceRange } from '@/lib/places/types';
 import { useCityShard } from '@/lib/places/useCityShard';
-import { CITY_QUERY_KEY, encodeCriteria } from '@/lib/recommend/criteria';
+import { CITY_QUERY_KEY, PLAN_QUERY_KEY, encodeCriteria } from '@/lib/recommend/criteria';
 import type { Criteria } from '@/lib/recommend/criteria';
 import { recommendWithFallback } from '@/lib/recommend/select';
-import { composeItinerary, encodeItinerary } from '@/lib/recommend/itinerary';
+import { composeItinerary, composeTour, encodeItinerary } from '@/lib/recommend/itinerary';
 import { readRecentIds, rememberResult } from '@/lib/recommend/recent';
 import { track } from '@/lib/analytics/track';
 
@@ -34,10 +34,13 @@ type Answers = {
   districtId?: string;
   openNow: boolean;
   /** Only asked by intents that can answer with a plan rather than one place. */
-  format?: 'mot-cho' | 'ca-buoi';
+  format?: PlanFormat;
 };
 
 const EMPTY_ANSWERS: Answers = { vibes: [], openNow: false };
+
+/** Kept next to the URL reader: an unknown value from a hand-edited link is dropped. */
+const PLAN_FORMATS: readonly PlanFormat[] = ['mot-cho', 'ca-buoi', 'tour-3', 'tour-5'];
 
 function readAnswers(params: URLSearchParams): Answers {
   const companion = params.get('ai');
@@ -50,7 +53,7 @@ function readAnswers(params: URLSearchParams): Answers {
     ...(COMPANIONS.includes(companion as Companion) ? { companion: companion as Companion } : {}),
     ...(PRICE_RANGES.includes(budget as PriceRange) ? { budget: budget as PriceRange } : {}),
     ...(district ? { districtId: district } : {}),
-    ...(format === 'mot-cho' || format === 'ca-buoi' ? { format } : {}),
+    ...(PLAN_FORMATS.includes(format as PlanFormat) ? { format: format as PlanFormat } : {}),
     vibes: (params.get('kieu') ?? '').split(',').filter(Boolean),
     openNow: params.get('mo') === '1',
   };
@@ -124,15 +127,18 @@ export function IntentWizard({ intent }: { intent: Intent }) {
   }, [intent, answers, districts, excludeIds]);
 
   const wantsItinerary = intent.supportsItinerary === true && answers.format === 'ca-buoi';
+  // A sightseeing route: same shareable timeline, chosen a different way.
+  const tourSize = answers.format === 'tour-3' ? 3 : answers.format === 'tour-5' ? 5 : null;
 
   // Scoring waits for the data. Running it against an empty list would land on the
   // "chưa tìm được chỗ nào" screen, which is a lie: nothing was searched yet.
   const ready = status === 'ready';
 
-  const itinerary = useMemo(
-    () => (ready && spinning && wantsItinerary ? composeItinerary(places, criteria) : null),
-    [ready, spinning, wantsItinerary, places, criteria],
-  );
+  const itinerary = useMemo(() => {
+    if (!ready || !spinning) return null;
+    if (tourSize) return composeTour(places, criteria, tourSize);
+    return wantsItinerary ? composeItinerary(places, criteria) : null;
+  }, [ready, spinning, wantsItinerary, tourSize, places, criteria]);
 
   // The single-place path is also the fallback when a plan cannot be assembled —
   // two stops short of an evening is worse than one good suggestion.
@@ -175,6 +181,7 @@ export function IntentWizard({ intent }: { intent: Intent }) {
       // The plan is three slugs with no city attached, and the itinerary page has
       // to know which shard to look them up in.
       params.set(CITY_QUERY_KEY, cityId);
+      if (tourSize) params.set(PLAN_QUERY_KEY, 'tour');
       router.push(`/lich-trinh/?${params.toString()}` as Route);
       return;
     }
@@ -188,7 +195,7 @@ export function IntentWizard({ intent }: { intent: Intent }) {
 
     rememberResult(winner.place.id);
     router.push(`/dia-diem/${winner.place.slug}/?${params.toString()}` as Route);
-  }, [itinerary, outcome, criteria, intent.id, cityId, router]);
+  }, [itinerary, outcome, criteria, intent.id, cityId, tourSize, router]);
 
   if (status === 'error') {
     return <LoadFailedState onRetry={() => window.location.reload()} />;

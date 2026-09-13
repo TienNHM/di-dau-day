@@ -33,8 +33,17 @@ export type VibeOption = {
   readonly tags: readonly Tag[];
 };
 
+/**
+ * How much of the outing the product should plan.
+ *
+ * `ca-buoi` is the dating template — coffee, something to do, dinner, in that order.
+ * `tour-N` is a sightseeing route of N stops, which has no fixed shape and is
+ * ordered by geography instead.
+ */
+export type PlanFormat = 'mot-cho' | 'ca-buoi' | 'tour-3' | 'tour-5';
+
 export type FormatOption = {
-  readonly value: 'mot-cho' | 'ca-buoi';
+  readonly value: PlanFormat;
   readonly label: string;
   readonly emoji: string;
   readonly hint: string;
@@ -225,6 +234,15 @@ export const INTENTS: readonly Intent[] = [
     accent: { from: '#0f9d8f', to: '#7cb342', on: '#ffffff' },
     resultLead: 'Tụi mình chọn cho bạn',
     questions: [
+      {
+        kind: 'format',
+        title: 'Một chỗ hay đi cả ngày?',
+        options: [
+          { value: 'mot-cho', label: 'Một chỗ thôi', emoji: '📍', hint: 'Tụi mình chọn đúng một địa điểm' },
+          { value: 'tour-3', label: 'Lộ trình 3 điểm', emoji: '🗺️', hint: 'Ba chỗ gần nhau, đi trong buổi' },
+          { value: 'tour-5', label: 'Lộ trình 5 điểm', emoji: '🧭', hint: 'Đủ cho cả ngày đi chơi' },
+        ],
+      },
       { kind: 'companion', title: 'Bạn đi với ai?', options: COMPANION_OPTIONS },
       {
         kind: 'budget',

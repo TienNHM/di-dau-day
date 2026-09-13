@@ -56,6 +56,16 @@ const KEYS = {
  */
 export const CITY_QUERY_KEY = 'tp';
 
+/**
+ * Which kind of plan a shared timeline holds.
+ *
+ * The dating template has named stops — coffee, then something to do, then dinner —
+ * and the timeline labels them by position. A sightseeing route has no such shape, so
+ * without this the third stop of a tour would be announced as "Ăn tối". Absent means
+ * the dating template, which is what every link shared before this was.
+ */
+export const PLAN_QUERY_KEY = 'ke';
+
 export const CRITERIA_QUERY_KEYS = KEYS;
 
 function asMember<T extends string>(value: string | null, allowed: readonly T[]): T | undefined {

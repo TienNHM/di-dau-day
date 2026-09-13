@@ -111,7 +111,11 @@ describe('itinerary URL codec', () => {
     expect(decodeItinerarySlugs(',, ,')).toEqual([]);
   });
 
-  it('caps the number of stops a URL can claim', () => {
-    expect(decodeItinerarySlugs('a,b,c,d,e')).toHaveLength(3);
+  it('caps the number of stops a URL can claim at the longest plan we make', () => {
+    // Five, not three: a sightseeing tour is longer than the dating template, and a
+    // cap of three would silently truncate every shared five-stop route to its first
+    // three stops. Anything beyond the longest plan is a hand-edited URL.
+    expect(decodeItinerarySlugs('a,b,c,d,e')).toHaveLength(5);
+    expect(decodeItinerarySlugs('a,b,c,d,e,f,g')).toHaveLength(5);
   });
 });
