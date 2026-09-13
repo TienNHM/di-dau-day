@@ -1,6 +1,6 @@
 'use client';
 
-import { useMemo, useRef } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { REEL_DURATION_MS, useSpinSequence } from './useSpinSequence';
 import { Confetti } from './Confetti';
 import type { Accent } from '@/lib/intents/registry';
@@ -49,7 +49,33 @@ export function SpinStage({
   onComplete: () => void;
 }) {
   const { phase, land, skipReel } = useSpinSequence({ stepCount: candidates.length, onComplete });
-  const startedRef = useRef(false);
+
+  /*
+   * The reel's travel lives in state, not in an imperative `node.style.transform`.
+   *
+   * It used to be set by hand from a ref callback while React's own `style` prop said
+   * `translate3d(0,0,0)` — so the first re-render after the spin started wrote the
+   * transform back to zero and the reel either froze or ran backwards. On desktop no
+   * re-render happened to land inside the animation; on Chrome for Android one did,
+   * and the whole reveal showed nothing at all.
+   *
+   * Two frames, not one: the strip has to be painted at offset zero before the
+   * transition is allowed to begin, or the browser coalesces both values into the
+   * same frame and there is nothing to animate between.
+   */
+  const [running, setRunning] = useState(false);
+
+  useEffect(() => {
+    if (skipReel) return;
+    let inner = 0;
+    const outer = requestAnimationFrame(() => {
+      inner = requestAnimationFrame(() => setRunning(true));
+    });
+    return () => {
+      cancelAnimationFrame(outer);
+      cancelAnimationFrame(inner);
+    };
+  }, [skipReel]);
 
   /**
    * The strip: real candidates on the way past, the winner in the final slot.
@@ -106,18 +132,9 @@ export function SpinStage({
         }}
       >
         <div
-          ref={(node) => {
-            if (!node || skipReel || startedRef.current) return;
-            startedRef.current = true;
-            // Next frame, so the browser paints the strip at offset zero before the
-            // transition begins. Setting both in one frame animates from nothing.
-            requestAnimationFrame(() => {
-              node.style.transform = `translate3d(0, -${travel}px, 0)`;
-            });
-          }}
           onTransitionEnd={land}
           style={{
-            transform: skipReel ? `translate3d(0, -${travel}px, 0)` : 'translate3d(0, 0, 0)',
+            transform: running || skipReel ? `translate3d(0, -${travel}px, 0)` : 'translate3d(0, 0, 0)',
             transition: skipReel
               ? undefined
               : `transform ${REEL_DURATION_MS}ms cubic-bezier(0.13, 0.72, 0.11, 1)`,

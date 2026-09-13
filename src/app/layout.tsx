@@ -31,6 +31,20 @@ export const metadata: Metadata = {
     'Đà Lạt',
     'gợi ý địa điểm',
   ],
+  /*
+   * Paths are written through `absoluteUrl` so a basePath deploy does not serve a
+   * broken icon, and they are real files under `public/` rather than Next's
+   * `icon.tsx` convention — that emits an extensionless file, and GitHub Pages types
+   * responses by extension. Same trap that broke the Open Graph images.
+   */
+  icons: {
+    icon: [
+      { url: absoluteUrl('/icon.svg'), type: 'image/svg+xml' },
+      { url: absoluteUrl('/favicon-32.png'), sizes: '32x32', type: 'image/png' },
+      { url: absoluteUrl('/favicon-192.png'), sizes: '192x192', type: 'image/png' },
+    ],
+    apple: [{ url: absoluteUrl('/apple-touch-icon.png'), sizes: '180x180' }],
+  },
   openGraph: {
     type: 'website',
     siteName: SITE_NAME,

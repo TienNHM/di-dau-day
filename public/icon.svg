@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Đi Đâu Đây?">
+  <!--
+    A pin with a question mark punched out of it: the two words of the product in one
+    shape — a place, and not knowing which. Drawn on a 64px grid with heavy strokes so
+    it still reads at 16px in a browser tab, which is where a favicon actually lives.
+  -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ef4d23" />
+      <stop offset="1" stop-color="#f5a524" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#g)" />
+  <path
+    fill="#fff"
+    d="M32 11c-8.8 0-16 7-16 15.7 0 11.1 14.1 24.4 14.7 25 .4.4.9.6 1.3.6s.9-.2 1.3-.6c.6-.6 14.7-13.9 14.7-25C48 18 40.8 11 32 11Z"
+    opacity=".22"
+  />
+  <text
+    x="32"
+    y="44"
+    font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"
+    font-size="38"
+    font-weight="800"
+    text-anchor="middle"
+    fill="#fff"
+  >?</text>
+</svg>

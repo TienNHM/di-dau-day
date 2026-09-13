@@ -26,6 +26,10 @@ coverage/
 # generated share images
 public/og/
 
+# rasterised from public/icon.svg — regenerate with `pnpm generate:icons`
+public/favicon-*.png
+public/apple-touch-icon.png
+
 # generated per-city data shards — rebuilt by `pnpm data:shard`,
 # vouched for by the committed src/lib/places/shard-manifest.ts
 public/data/

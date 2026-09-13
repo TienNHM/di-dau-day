@@ -1,0 +1,314 @@
+[
+  {
+    "id": "pho",
+    "kind": "mon-an",
+    "name": "Phở",
+    "emoji": "🍜",
+    "note": "Không bao giờ sai. Sáng, trưa, khuya đều hợp.",
+    "subCategories": ["pho", "noodles-restaurant"],
+    "nameAliases": ["phở", "pho"]
+  },
+  {
+    "id": "bun-bo",
+    "kind": "mon-an",
+    "name": "Bún bò",
+    "emoji": "🌶️",
+    "note": "Cay, đậm, ăn xong là tỉnh cả người.",
+    "subCategories": [],
+    "nameAliases": ["bún bò", "bun bo"]
+  },
+  {
+    "id": "bun-cha",
+    "kind": "mon-an",
+    "name": "Bún chả",
+    "emoji": "🔥",
+    "note": "Thịt nướng thả vào bát nước mắm chua ngọt.",
+    "subCategories": [],
+    "nameAliases": ["bún chả", "bun cha"]
+  },
+  {
+    "id": "com-tam",
+    "kind": "mon-an",
+    "name": "Cơm tấm",
+    "emoji": "🍚",
+    "note": "Sườn nướng, bì, chả. Bữa trưa kinh điển.",
+    "subCategories": ["com-tam"],
+    "nameAliases": ["cơm tấm", "com tam"]
+  },
+  {
+    "id": "com-ga",
+    "kind": "mon-an",
+    "name": "Cơm gà",
+    "emoji": "🍗",
+    "note": "Gà xé hay gà chặt, chan nước mắm gừng.",
+    "subCategories": ["com-ga"],
+    "nameAliases": ["cơm gà", "com ga"]
+  },
+  {
+    "id": "banh-mi",
+    "kind": "mon-an",
+    "name": "Bánh mì",
+    "emoji": "🥖",
+    "note": "Ăn nhanh, cầm đi được, không bao giờ chán.",
+    "subCategories": ["banh-mi"],
+    "nameAliases": ["bánh mì", "banh mi"]
+  },
+  {
+    "id": "banh-xeo",
+    "kind": "mon-an",
+    "name": "Bánh xèo",
+    "emoji": "🥞",
+    "note": "Cuốn với rau sống, chấm nước mắm chua ngọt.",
+    "subCategories": ["banh-xeo"],
+    "nameAliases": ["bánh xèo", "banh xeo"]
+  },
+  {
+    "id": "banh-canh",
+    "kind": "mon-an",
+    "name": "Bánh canh",
+    "emoji": "🍲",
+    "note": "Sợi dai, nước sánh. Ăn tối no tới sáng.",
+    "subCategories": ["banh-canh"],
+    "nameAliases": ["bánh canh", "banh canh"]
+  },
+  {
+    "id": "banh-cuon",
+    "kind": "mon-an",
+    "name": "Bánh cuốn",
+    "emoji": "🥟",
+    "note": "Nóng hổi, mỏng tang, ăn sáng nhẹ bụng.",
+    "subCategories": ["banh-cuon"],
+    "nameAliases": ["bánh cuốn", "banh cuon"]
+  },
+  {
+    "id": "hu-tieu",
+    "kind": "mon-an",
+    "name": "Hủ tiếu",
+    "emoji": "🍜",
+    "note": "Khô hay nước đều được. Miền Nam đúng điệu.",
+    "subCategories": ["hu-tieu"],
+    "nameAliases": ["hủ tiếu", "hu tieu"]
+  },
+  {
+    "id": "chao",
+    "kind": "mon-an",
+    "name": "Cháo",
+    "emoji": "🥣",
+    "note": "Nhẹ bụng. Hợp lúc mệt hoặc lúc khuya.",
+    "subCategories": ["chao"],
+    "nameAliases": ["cháo"],
+    "nameExcludes": ["chào"]
+  },
+  {
+    "id": "lau",
+    "kind": "mon-an",
+    "name": "Lẩu",
+    "emoji": "🍲",
+    "note": "Món của hội đông người. Ngồi lâu được.",
+    "subCategories": ["lau"],
+    "nameAliases": ["lẩu"],
+    "nameExcludes": ["phá lấu"]
+  },
+  {
+    "id": "nuong",
+    "kind": "mon-an",
+    "name": "Đồ nướng",
+    "emoji": "🔥",
+    "note": "Tự nướng, ngồi lâu, nói chuyện tới khuya.",
+    "subCategories": ["barbecue-restaurant", "nuong"],
+    "nameAliases": ["nướng", "bbq", "nuong", "grill"]
+  },
+  {
+    "id": "hai-san",
+    "kind": "mon-an",
+    "name": "Hải sản",
+    "emoji": "🦐",
+    "note": "Tôm, mực, ghẹ. Đắt hơn chút nhưng đáng.",
+    "subCategories": ["seafood-restaurant"],
+    "nameAliases": ["hải sản", "hai san", "seafood"]
+  },
+  {
+    "id": "oc",
+    "kind": "mon-an",
+    "name": "Ốc",
+    "emoji": "🐚",
+    "note": "Ngồi vỉa hè, gọi mười món, ăn tới khuya.",
+    "subCategories": ["oc"],
+    "nameAliases": ["ốc"],
+    "nameExcludes": ["phố ốc"]
+  },
+  {
+    "id": "chay",
+    "kind": "mon-an",
+    "name": "Đồ chay",
+    "emoji": "🥬",
+    "note": "Nhẹ người. Ngày rằm hay ngày thường đều hợp.",
+    "subCategories": ["vegetarian-restaurant", "vegan-restaurant"],
+    "nameAliases": ["chay", "vegetarian", "vegan"]
+  },
+  {
+    "id": "com-viet",
+    "kind": "mon-an",
+    "name": "Cơm nhà",
+    "emoji": "🍛",
+    "note": "Canh, mặn, xào. Như bữa ở nhà.",
+    "subCategories": ["com-viet", "vietnamese-restaurant"],
+    "nameAliases": ["cơm niêu", "cơm quê", "cơm nhà"]
+  },
+  {
+    "id": "mon-han",
+    "kind": "mon-an",
+    "name": "Món Hàn",
+    "emoji": "🇰🇷",
+    "note": "Kimchi, tteokbokki, thịt nướng kiểu Hàn.",
+    "subCategories": ["korean-restaurant"],
+    "nameAliases": ["hàn quốc", "korean", "k-bbq", "gogi"]
+  },
+  {
+    "id": "mon-nhat",
+    "kind": "mon-an",
+    "name": "Món Nhật",
+    "emoji": "🍱",
+    "note": "Ramen, udon, cơm bento. Gọn gàng và tử tế.",
+    "subCategories": ["japanese-restaurant"],
+    "nameAliases": ["nhật bản", "japanese", "izakaya", "ramen", "udon"]
+  },
+  {
+    "id": "sushi",
+    "kind": "mon-an",
+    "name": "Sushi",
+    "emoji": "🍣",
+    "note": "Dịp đặc biệt, hoặc hôm nào thấy xứng đáng.",
+    "subCategories": ["sushi-restaurant"],
+    "nameAliases": ["sushi", "sashimi", "omakase"]
+  },
+  {
+    "id": "mon-hoa",
+    "kind": "mon-an",
+    "name": "Món Hoa",
+    "emoji": "🥟",
+    "note": "Mì vịt tiềm, dim sum, cơm chiên Dương Châu.",
+    "subCategories": ["chinese-restaurant", "dim-sum-restaurant", "dim-sum", "sui-cao"],
+    "nameAliases": ["dim sum", "hoa viên", "sủi cảo", "mì gia"]
+  },
+  {
+    "id": "mon-thai",
+    "kind": "mon-an",
+    "name": "Món Thái",
+    "emoji": "🇹🇭",
+    "note": "Chua cay đúng kiểu. Tom yum, pad thai.",
+    "subCategories": ["thai-restaurant"],
+    "nameAliases": ["thái lan", "tom yum", "pad thai"]
+  },
+  {
+    "id": "pizza",
+    "kind": "mon-an",
+    "name": "Pizza",
+    "emoji": "🍕",
+    "note": "Chia nhau một cái là đủ cho cả nhóm.",
+    "subCategories": ["pizza-restaurant", "italian-restaurant"],
+    "nameAliases": ["pizza", "pasta"]
+  },
+  {
+    "id": "ga-ran",
+    "kind": "mon-an",
+    "name": "Gà rán",
+    "emoji": "🍗",
+    "note": "Không sang nhưng chưa bao giờ làm ai thất vọng.",
+    "subCategories": ["chicken-restaurant", "fast-food-restaurant"],
+    "nameAliases": ["gà rán", "fried chicken", "kfc", "lotteria", "popeyes", "jollibee", "texas chicken"]
+  },
+  {
+    "id": "burger",
+    "kind": "mon-an",
+    "name": "Burger",
+    "emoji": "🍔",
+    "note": "Nhanh, gọn, và ăn bằng tay.",
+    "subCategories": ["burger-restaurant"],
+    "nameAliases": ["burger", "hamburger", "mcdonald"]
+  },
+  {
+    "id": "an-vat",
+    "kind": "mon-an",
+    "name": "Ăn vặt",
+    "emoji": "🍢",
+    "note": "Không no hẳn, nhưng vui. Bánh tráng, xiên que.",
+    "subCategories": ["an-vat"],
+    "nameAliases": ["ăn vặt", "bánh tráng", "xiên bẩn", "xiên que"]
+  },
+
+  {
+    "id": "ca-phe",
+    "kind": "do-uong",
+    "name": "Cà phê",
+    "emoji": "☕",
+    "note": "Đen đá hay sữa đá, chuyện gì cũng bàn được.",
+    "subCategories": ["coffee-shop", "cafe", "internet-cafe"],
+    "nameAliases": ["cà phê", "ca phe", "coffee", "cafe", "café"]
+  },
+  {
+    "id": "tra-sua",
+    "kind": "do-uong",
+    "name": "Trà sữa",
+    "emoji": "🧋",
+    "note": "Ngọt, mát, và luôn có chỗ cho trân châu.",
+    "subCategories": ["bubble-tea"],
+    "nameAliases": ["trà sữa", "tra sua", "milk tea", "milktea", "gong cha", "koi thé"]
+  },
+  {
+    "id": "tra",
+    "kind": "do-uong",
+    "name": "Trà",
+    "emoji": "🍵",
+    "note": "Nhẹ đầu hơn cà phê, ngồi được lâu hơn.",
+    "subCategories": ["tea-room"],
+    "nameAliases": ["trà", "tea house", "tea room"],
+    "nameExcludes": ["trà sữa", "milk tea", "trà chanh"]
+  },
+  {
+    "id": "sinh-to",
+    "kind": "do-uong",
+    "name": "Sinh tố, nước ép",
+    "emoji": "🥤",
+    "note": "Mát, có vitamin, và không làm mất ngủ.",
+    "subCategories": ["smoothie-juice-bar", "juice-bar"],
+    "nameAliases": ["sinh tố", "sinh to", "nước ép", "nuoc ep", "smoothie", "juice"]
+  },
+  {
+    "id": "kem",
+    "kind": "do-uong",
+    "name": "Kem",
+    "emoji": "🍦",
+    "note": "Sài Gòn nóng quanh năm. Lý do lúc nào cũng có.",
+    "subCategories": ["ice-cream-shop"],
+    "nameAliases": ["kem", "ice cream", "gelato"],
+    "nameExcludes": ["bánh kem", "kem bơ sữa"]
+  },
+  {
+    "id": "banh-ngot",
+    "kind": "do-uong",
+    "name": "Bánh ngọt",
+    "emoji": "🍰",
+    "note": "Một miếng bánh với ly gì đó nóng.",
+    "subCategories": ["bakery"],
+    "nameAliases": ["bakery", "tiệm bánh", "pastry", "patisserie"]
+  },
+  {
+    "id": "bia",
+    "kind": "do-uong",
+    "name": "Bia",
+    "emoji": "🍺",
+    "note": "Cuối tuần, hoặc cuối một ngày dài.",
+    "subCategories": ["beer-garden", "brewery", "pub"],
+    "nameAliases": ["bia", "beer", "bia hơi", "craft beer", "taproom"]
+  },
+  {
+    "id": "cocktail",
+    "kind": "do-uong",
+    "name": "Cocktail",
+    "emoji": "🍸",
+    "note": "Muộn hơn, tối hơn, và đáng để mặc đẹp.",
+    "subCategories": ["cocktail-bar", "wine-bar", "bar"],
+    "nameAliases": ["cocktail", "rooftop bar", "lounge", "speakeasy"]
+  }
+]
