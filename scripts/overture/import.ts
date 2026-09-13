@@ -131,6 +131,35 @@ const GROUP_RULES: readonly { readonly test: RegExp; readonly group: string }[] 
   { test: /^(vegetarian|vegan)_restaurant$/, group: 'veg' },
 ];
 
+/**
+ * How many places a group takes per round of the interleave.
+ *
+ * Round-robin alone gave every group an equal share, which sounds fair and is not:
+ * it left KFC and Pizza Hut occupying the same amount of a district's food budget as
+ * every Vietnamese restaurant combined. Nine of the most ordinary dishes here — bún
+ * bò, cơm tấm, bánh mì, bánh xèo, hủ tiếu — could not muster three places nationwide,
+ * while there were 82 fried-chicken outlets.
+ *
+ * A weight above one is a statement that this group is worth more of the budget to
+ * someone deciding where to go in a Vietnamese city. Groups not listed take one.
+ */
+const GROUP_WEIGHTS: Readonly<Record<string, number>> = {
+  // The reason the product exists. Their names are also what the dish catalogue
+  // matches on, so supply here is what makes "hôm nay ăn gì" answerable at all.
+  viet: 5,
+  seafood: 2,
+  grill: 2,
+  // Café culture is not a niche here.
+  coffee: 2,
+  tea: 2,
+  // Scarce and exactly what was missing: somewhere to spend an afternoon.
+  culture: 3,
+  nature: 3,
+  stage: 3,
+  screen: 2,
+  market: 2,
+};
+
 /** Falls back to the category itself, so a new Overture type is merely unbalanced, not dropped. */
 function groupFor(overtureCategory: string | null, category: Category): string {
   if (overtureCategory) {
@@ -263,24 +292,43 @@ async function importCity(cityId: string, validDistricts: Set<string>, takenSlug
     else buckets.set(key, [place]);
   }
 
-  const byDistrictCategory = new Map<string, CachedPlace[][]>();
+  type WeightedGroup = { places: CachedPlace[]; weight: number };
+  const byDistrictCategory = new Map<string, WeightedGroup[]>();
   for (const [key, bucket] of buckets) {
     const districtCategory = key.slice(0, key.lastIndexOf(':'));
+    const group = key.slice(key.lastIndexOf(':') + 1);
+    const entry: WeightedGroup = { places: bucket, weight: GROUP_WEIGHTS[group] ?? 1 };
+
     const groups = byDistrictCategory.get(districtCategory);
-    if (groups) groups.push(bucket);
-    else byDistrictCategory.set(districtCategory, [bucket]);
+    if (groups) groups.push(entry);
+    else byDistrictCategory.set(districtCategory, [entry]);
   }
 
   const interleaved: CachedPlace[] = [];
   for (const groups of byDistrictCategory.values()) {
     // Scarcest group first at each round, so a district with one museum keeps it.
-    groups.sort((a, b) => a.length - b.length);
-    const deepest = Math.max(...groups.map((group) => group.length));
-    for (let round = 0; round < deepest; round += 1) {
+    groups.sort((a, b) => a.places.length - b.places.length);
+
+    const taken = new Map<CachedPlace[], number>();
+    let remaining = groups.reduce((sum, group) => sum + group.places.length, 0);
+
+    while (remaining > 0) {
+      let progressed = false;
+
       for (const group of groups) {
-        const place = group[round];
-        if (place) interleaved.push(place);
+        const from = taken.get(group.places) ?? 0;
+        // A weighted group takes several places before the next group gets a turn.
+        const slice = group.places.slice(from, from + group.weight);
+        if (slice.length === 0) continue;
+
+        interleaved.push(...slice);
+        taken.set(group.places, from + slice.length);
+        remaining -= slice.length;
+        progressed = true;
       }
+
+      // Nothing left anywhere; guards against an infinite loop if a group is empty.
+      if (!progressed) break;
     }
   }
 

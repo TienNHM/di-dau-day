@@ -18,7 +18,7 @@
     "source": "overture",
     "sourceId": "3af13e41-ec6c-4dc1-80d2-b6f780bb0440",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-9b9d946a-5b86-4f",
@@ -39,154 +39,7 @@
     "source": "overture",
     "sourceId": "9b9d946a-5b86-4fc3-8291-a6ac2f09f26e",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-6a8ae38c-2a2e-40",
-    "slug": "nha-hang-sen-vang",
-    "name": "Nhà Hàng Sen Vàng",
-    "category": "food",
-    "subCategory": "seafood-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "116b Lê Lợi",
-      "lat": 10.044504,
-      "lng": 105.789444
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "6a8ae38c-2a2e-4081-ae18-a7633650409e",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-c8cba7f9-7d51-4d",
-    "slug": "pizza-hut-ninh-kieu",
-    "name": "Pizza Hut",
-    "category": "food",
-    "subCategory": "pizza-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "66 Nguyễn Thái Học",
-      "lat": 10.032763,
-      "lng": 105.785172
-    },
-    "images": [],
-    "popularity": 85,
-    "source": "overture",
-    "sourceId": "c8cba7f9-7d51-4d8a-a8bc-bed5fd4c515b",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-26a102d0-cb29-41",
-    "slug": "la-baguette",
-    "name": "La Baguette",
-    "category": "food",
-    "subCategory": "bakery",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "120 Đ. Hai Bà Trưng",
-      "lat": 10.031996,
-      "lng": 105.787956
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "26a102d0-cb29-4157-8c05-532a80adbc2b",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-75ba0207-210c-45",
-    "slug": "quan-ca-loc-an",
-    "name": "Quán Cá Lóc An",
-    "category": "food",
-    "subCategory": "vietnamese-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "15 Đ. Trần Văn Hoài",
-      "lat": 10.025048,
-      "lng": 105.773216
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "75ba0207-210c-454b-ba92-dcbf355b9e03",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-fcbac217-a0c6-4e",
-    "slug": "sushi-tokyo-2-can-tho",
-    "name": "Sushi Tokyo 2 Cần Thơ",
-    "category": "food",
-    "subCategory": "japanese-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "125 Trần Văn Khéo",
-      "lat": 10.045925,
-      "lng": 105.78624
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "fcbac217-a0c6-4e9e-92e3-af98b2ecdda2",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-f23b35cb-e202-4d",
-    "slug": "l-escale",
-    "name": "L'Escale",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "1 Đ. Ngô Quyền",
-      "lat": 10.033615,
-      "lng": 105.7882
-    },
-    "images": [],
-    "popularity": 85,
-    "source": "overture",
-    "sourceId": "f23b35cb-e202-4dd7-9b2d-26a29317312f",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-0f2a3fb4-66e4-4f",
-    "slug": "quan-an-chay-bach-thao",
-    "name": "Quán Ăn Chay Bách Thảo",
-    "category": "food",
-    "subCategory": "vegetarian-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "86a Đ. Đề Thám",
-      "lat": 10.034719,
-      "lng": 105.781723
-    },
-    "images": [],
-    "popularity": 82,
-    "source": "overture",
-    "sourceId": "0f2a3fb4-66e4-4f32-83d3-2f7d951566dc",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-651453f0-29f1-4a",
@@ -207,7 +60,154 @@
     "source": "overture",
     "sourceId": "651453f0-29f1-4a96-87ef-c8fbfbf2c30f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6a8ae38c-2a2e-40",
+    "slug": "nha-hang-sen-vang",
+    "name": "Nhà Hàng Sen Vàng",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "116b Lê Lợi",
+      "lat": 10.044504,
+      "lng": 105.789444
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "6a8ae38c-2a2e-4081-ae18-a7633650409e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7392f871-2059-47",
+    "slug": "k-k-crawfish",
+    "name": "K & K Crawfish",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "9 Trần Bình Trọng",
+      "lat": 10.034874,
+      "lng": 105.778328
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "7392f871-2059-473d-9359-bf32dd8f225d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c8cba7f9-7d51-4d",
+    "slug": "pizza-hut-ninh-kieu",
+    "name": "Pizza Hut",
+    "category": "food",
+    "subCategory": "pizza-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "66 Nguyễn Thái Học",
+      "lat": 10.032763,
+      "lng": 105.785172
+    },
+    "images": [],
+    "popularity": 85,
+    "source": "overture",
+    "sourceId": "c8cba7f9-7d51-4d8a-a8bc-bed5fd4c515b",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-26a102d0-cb29-41",
+    "slug": "la-baguette",
+    "name": "La Baguette",
+    "category": "food",
+    "subCategory": "bakery",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "120 Đ. Hai Bà Trưng",
+      "lat": 10.031996,
+      "lng": 105.787956
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "26a102d0-cb29-4157-8c05-532a80adbc2b",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-75ba0207-210c-45",
+    "slug": "quan-ca-loc-an",
+    "name": "Quán Cá Lóc An",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "15 Đ. Trần Văn Hoài",
+      "lat": 10.025048,
+      "lng": 105.773216
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "75ba0207-210c-454b-ba92-dcbf355b9e03",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-36af4a49-2200-43",
+    "slug": "nam-bo-restaurant",
+    "name": "Nam Bộ Restaurant",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "1 Đường Ngô Quyền",
+      "lat": 10.033581,
+      "lng": 105.7882
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "36af4a49-2200-4319-998f-6baff3189691",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-37657e00-00fe-41",
+    "slug": "quan-tuan-phat",
+    "name": "Quán Tuấn Phát",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "Cháo Sò Huyết Metro, 91B Đường Nguyễn Văn Linh",
+      "lat": 10.021309,
+      "lng": 105.760727
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "37657e00-00fe-41a7-b44e-41dca1132f59",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-3847eacd-c541-4b",
@@ -228,7 +228,7 @@
     "source": "overture",
     "sourceId": "3847eacd-c541-4b3b-8de5-a8c5c211a9a2",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-44c35531-cd96-4a",
@@ -249,7 +249,28 @@
     "source": "overture",
     "sourceId": "44c35531-cd96-4a5b-9af7-46e76909e8e7",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-d65582a4-ecc5-4f",
+    "slug": "tysakids-store",
+    "name": "Tysakids Store",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "27 Đường Nguyễn Hiền",
+      "lat": 10.02442,
+      "lng": 105.757637
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "d65582a4-ecc5-4f2f-970d-4f9ebd700c15",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-dca62b31-68af-40",
@@ -272,49 +293,7 @@
     "source": "overture",
     "sourceId": "dca62b31-68af-4056-b1b2-df6a5f8f8f64",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d0bddbe5-f0a4-48",
-    "slug": "trai-cay-gao-dua-2-co",
-    "name": "Trái Cây Gáo Dừa - 2 CÔ",
-    "category": "cafe",
-    "subCategory": "smoothie-juice-bar",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "118-20 Trần Hoàng Na, Hưng Lợi, Ninh Kiều, Cần Thơ. \\n\\nĐối diện cafe Thi Thơ\\n(Đoạn 30/4 qua 3/2)",
-      "lat": 10.015214,
-      "lng": 105.76165
-    },
-    "images": [],
-    "popularity": 60,
-    "source": "overture",
-    "sourceId": "d0bddbe5-f0a4-4886-80ba-58aa2fd72850",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d65582a4-ecc5-4f",
-    "slug": "tysakids-store",
-    "name": "Tysakids Store",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "27 Đường Nguyễn Hiền",
-      "lat": 10.02442,
-      "lng": 105.757637
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "d65582a4-ecc5-4f2f-970d-4f9ebd700c15",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-32f181fe-0114-40",
@@ -337,28 +316,28 @@
     "source": "overture",
     "sourceId": "32f181fe-0114-4081-8038-14b711f50677",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-84d59b6b-fb13-47",
-    "slug": "sua-bap-suba",
-    "name": "Sữa Bắp SuBa",
+    "id": "ovt-d0bddbe5-f0a4-48",
+    "slug": "trai-cay-gao-dua-2-co",
+    "name": "Trái Cây Gáo Dừa - 2 CÔ",
     "category": "cafe",
     "subCategory": "smoothie-juice-bar",
     "tags": [],
     "location": {
       "cityId": "can-tho",
       "districtId": "ninh-kieu",
-      "address": "F8 Đ. Mậu Thân",
-      "lat": 10.034164,
-      "lng": 105.77343
+      "address": "118-20 Trần Hoàng Na, Hưng Lợi, Ninh Kiều, Cần Thơ. \\n\\nĐối diện cafe Thi Thơ\\n(Đoạn 30/4 qua 3/2)",
+      "lat": 10.015214,
+      "lng": 105.76165
     },
     "images": [],
-    "popularity": 59,
+    "popularity": 60,
     "source": "overture",
-    "sourceId": "84d59b6b-fb13-47f6-aa5e-ceead9f7e7bb",
+    "sourceId": "d0bddbe5-f0a4-4886-80ba-58aa2fd72850",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-f7ec88aa-fc7b-47",
@@ -381,7 +360,28 @@
     "source": "overture",
     "sourceId": "f7ec88aa-fc7b-4776-bee3-8a20882c6a9f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-02465cf8-44c3-4d",
+    "slug": "phuc-tea-center",
+    "name": "Phúc Tea Center",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "200 Đ. Trần Hưng Đạo",
+      "lat": 10.035244,
+      "lng": 105.775284
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "02465cf8-44c3-4d09-8809-a32e0f5a6c9a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-32ea4462-5ec8-4b",
@@ -404,28 +404,30 @@
     "source": "overture",
     "sourceId": "32ea4462-5ec8-4b98-aada-a5e5cebee910",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-94acb10c-c9fd-4b",
-    "slug": "vuon-xanh-fruit",
-    "name": "Vườn Xanh Fruit",
+    "id": "ovt-207efec2-9add-4d",
+    "slug": "coffee-sport-1",
+    "name": "Coffee Sport 1",
     "category": "cafe",
-    "subCategory": "smoothie-juice-bar",
-    "tags": [],
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
     "location": {
       "cityId": "can-tho",
       "districtId": "ninh-kieu",
-      "address": "47 Hẻm 53 Đường Trần Bình Trọng",
-      "lat": 10.034527,
-      "lng": 105.77697
+      "address": "188 Đ. Nguyễn Văn Cừ",
+      "lat": 10.047733,
+      "lng": 105.769165
     },
     "images": [],
-    "popularity": 68,
+    "popularity": 74,
     "source": "overture",
-    "sourceId": "94acb10c-c9fd-4bd1-8cc5-a721ab021114",
+    "sourceId": "207efec2-9add-4de8-964a-d5ea47a6ad9a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-9871fd7f-da86-4f",
@@ -449,52 +451,7 @@
     "source": "overture",
     "sourceId": "9871fd7f-da86-4f64-9791-b01a0f136986",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-c1aa522e-b2a5-4c",
-    "slug": "nha-hat-tay-do",
-    "name": "Nhà Hát Tây Đô",
-    "category": "shopping",
-    "subCategory": "bookstore",
-    "tags": [
-      "yen-tinh",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "105 Đ. Trần Hưng Đạo",
-      "lat": 10.036986,
-      "lng": 105.776245
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "c1aa522e-b2a5-4ccc-a624-9db2067fe0ed",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-2748ecfc-5e52-42",
-    "slug": "vincom-plaza-xuan-khanh",
-    "name": "Vincom Plaza Xuân Khánh",
-    "category": "shopping",
-    "subCategory": "shopping-center",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "209F Đường 30/4",
-      "lat": 10.024759,
-      "lng": 105.774796
-    },
-    "images": [],
-    "popularity": 81,
-    "source": "overture",
-    "sourceId": "2748ecfc-5e52-42f6-b2c6-ec546e8bbc47",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7c933906-69ac-4b",
@@ -518,7 +475,52 @@
     "source": "overture",
     "sourceId": "7c933906-69ac-4b6e-8273-a56c1c398372",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c1aa522e-b2a5-4c",
+    "slug": "nha-hat-tay-do",
+    "name": "Nhà Hát Tây Đô",
+    "category": "shopping",
+    "subCategory": "bookstore",
+    "tags": [
+      "yen-tinh",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "105 Đ. Trần Hưng Đạo",
+      "lat": 10.036986,
+      "lng": 105.776245
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "c1aa522e-b2a5-4ccc-a624-9db2067fe0ed",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2748ecfc-5e52-42",
+    "slug": "vincom-plaza-xuan-khanh",
+    "name": "Vincom Plaza Xuân Khánh",
+    "category": "shopping",
+    "subCategory": "shopping-center",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "209F Đường 30/4",
+      "lat": 10.024759,
+      "lng": 105.774796
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "2748ecfc-5e52-42f6-b2c6-ec546e8bbc47",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a3411843-735c-42",
@@ -542,7 +544,7 @@
     "source": "overture",
     "sourceId": "a3411843-735c-424d-aae8-9680cca2cea0",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b9de6e9d-f349-42",
@@ -563,7 +565,7 @@
     "source": "overture",
     "sourceId": "b9de6e9d-f349-42ef-b836-de0a310ec5ec",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-8ae61476-a642-46",
@@ -587,7 +589,7 @@
     "source": "overture",
     "sourceId": "8ae61476-a642-462e-82b7-9a94f3755973",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c0a6490e-cd52-4b",
@@ -608,7 +610,7 @@
     "source": "overture",
     "sourceId": "c0a6490e-cd52-4b51-aa61-2b4ad17f7a8b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-dc43f074-6d09-4d",
@@ -632,7 +634,7 @@
     "source": "overture",
     "sourceId": "dc43f074-6d09-4df4-b3f6-0f8b9b8683e3",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-9ce236c9-8149-4e",
@@ -653,7 +655,7 @@
     "source": "overture",
     "sourceId": "9ce236c9-8149-4e06-b8a2-3947be06115f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-204779ca-0000-47",
@@ -674,7 +676,28 @@
     "source": "overture",
     "sourceId": "204779ca-0000-4721-8d59-a4a751ce73ae",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-306b62b7-90cf-4a",
+    "slug": "tiem-tam",
+    "name": "TIỆM TÁM",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "Cầu Giai Xuân - Phong Điền - Cần Thơ",
+      "lat": 10.027621,
+      "lng": 105.688904
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "306b62b7-90cf-4a5b-a5be-4b25500f3420",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-685a348b-202d-4b",
@@ -697,28 +720,7 @@
     "source": "overture",
     "sourceId": "685a348b-202d-4b4c-ab25-5198ba724ede",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-306b62b7-90cf-4a",
-    "slug": "tiem-tam",
-    "name": "TIỆM TÁM",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "phong-dien",
-      "address": "Cầu Giai Xuân - Phong Điền - Cần Thơ",
-      "lat": 10.027621,
-      "lng": 105.688904
-    },
-    "images": [],
-    "popularity": 57,
-    "source": "overture",
-    "sourceId": "306b62b7-90cf-4a5b-a5be-4b25500f3420",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-eb3c0829-89f1-42",
@@ -741,7 +743,7 @@
     "source": "overture",
     "sourceId": "eb3c0829-89f1-4215-85bc-cdbe383c6770",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a918e9c3-5e8f-42",
@@ -762,7 +764,28 @@
     "source": "overture",
     "sourceId": "a918e9c3-5e8f-4241-810e-ad53aec96454",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7b96d811-9324-4b",
+    "slug": "noy-kafe",
+    "name": "Nọy Kafé",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "phong-dien",
+      "address": "Nguyễn văn cừ nối dài",
+      "lat": 9.997778,
+      "lng": 105.716133
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "7b96d811-9324-4b71-9abb-8aeb5d1d4ebb",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-22f5dc61-f56c-4f",
@@ -785,28 +808,7 @@
     "source": "overture",
     "sourceId": "22f5dc61-f56c-4f18-a46a-511ab20976de",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-7b96d811-9324-4b",
-    "slug": "noy-kafe",
-    "name": "Nọy Kafé",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "phong-dien",
-      "address": "Nguyễn văn cừ nối dài",
-      "lat": 9.997778,
-      "lng": 105.716133
-    },
-    "images": [],
-    "popularity": 48,
-    "source": "overture",
-    "sourceId": "7b96d811-9324-4b71-9abb-8aeb5d1d4ebb",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-1268ce4f-3fea-4d",
@@ -829,7 +831,7 @@
     "source": "overture",
     "sourceId": "1268ce4f-3fea-4d1a-b692-14c7bcfe3dfc",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-3cb30f22-16aa-43",
@@ -852,7 +854,7 @@
     "source": "overture",
     "sourceId": "3cb30f22-16aa-43fe-85f7-a8086aefb297",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-eaafa943-4d20-46",
@@ -873,7 +875,7 @@
     "source": "overture",
     "sourceId": "eaafa943-4d20-4630-88c8-1c743e732905",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-372e08b2-468a-45",
@@ -897,103 +899,7 @@
     "source": "overture",
     "sourceId": "372e08b2-468a-45e2-88ff-8e7ce1bb7657",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-5c3159aa-90fc-46",
-    "slug": "them-nuong",
-    "name": "ThÈM. NƯỚNg",
-    "category": "entertainment",
-    "subCategory": "beer-garden",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "quẹo phải tầm 200m, 63A đường Tầm Vu Dưới, Cầu Trần Hoàng Na",
-      "lat": 10.007554,
-      "lng": 105.764076
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "5c3159aa-90fc-467d-ae2b-d63d9534ba4d",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-80ff2aa7-c61a-4b",
-    "slug": "cau-lac-bo-tin-hoc-nha-van-hoa-thieu-nhi-ninh-kieu",
-    "name": "Câu Lạc Bộ Tin Học - Nhà Văn Hóa Thiếu Nhi Ninh Kiều",
-    "category": "entertainment",
-    "subCategory": "cultural-center",
-    "tags": [
-      "trong-nha",
-      "nghe-thuat"
-    ],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "02 Đ. Lý Tự Trọng",
-      "lat": 10.032432,
-      "lng": 105.781929
-    },
-    "images": [],
-    "popularity": 67,
-    "source": "overture",
-    "sourceId": "80ff2aa7-c61a-4b38-be3e-57876adfc181",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-e7c0cae9-3fc1-4a",
-    "slug": "karaoke-kingdom-can-tho",
-    "name": "Karaoke Kingdom Cần Thơ",
-    "category": "entertainment",
-    "subCategory": "karaoke",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "38 Đ. Lê Bình",
-      "lat": 10.022453,
-      "lng": 105.767677
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "e7c0cae9-3fc1-4a76-b289-da495d27a518",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-6bfacd92-d40c-43",
-    "slug": "dreibar-craftbeer-cocktail",
-    "name": "Dreibar Craftbeer & Cocktail",
-    "category": "entertainment",
-    "subCategory": "cocktail-bar",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "G2 Đ.Đinh Công Tráng",
-      "lat": 10.03482,
-      "lng": 105.772049
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "6bfacd92-d40c-431f-a366-4c07ef2a9b55",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-da72b39a-3722-4c",
@@ -1017,7 +923,149 @@
     "source": "overture",
     "sourceId": "da72b39a-3722-4cf2-8eec-be6d3c5cb6fe",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5c3159aa-90fc-46",
+    "slug": "them-nuong",
+    "name": "ThÈM. NƯỚNg",
+    "category": "entertainment",
+    "subCategory": "beer-garden",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "quẹo phải tầm 200m, 63A đường Tầm Vu Dưới, Cầu Trần Hoàng Na",
+      "lat": 10.007554,
+      "lng": 105.764076
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "5c3159aa-90fc-467d-ae2b-d63d9534ba4d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-80ff2aa7-c61a-4b",
+    "slug": "cau-lac-bo-tin-hoc-nha-van-hoa-thieu-nhi-ninh-kieu",
+    "name": "Câu Lạc Bộ Tin Học - Nhà Văn Hóa Thiếu Nhi Ninh Kiều",
+    "category": "entertainment",
+    "subCategory": "cultural-center",
+    "tags": [
+      "trong-nha",
+      "nghe-thuat"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "02 Đ. Lý Tự Trọng",
+      "lat": 10.032432,
+      "lng": 105.781929
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "80ff2aa7-c61a-4b38-be3e-57876adfc181",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-4487e63d-32a2-46",
+    "slug": "san-khau-ca-nhac-v-music-2",
+    "name": "Sân Khấu Ca Nhạc V Music 2",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "7 Đường Lương Định Của",
+      "lat": 10.045155,
+      "lng": 105.786858
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "4487e63d-32a2-4648-87a0-2a8470295f35",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-8555993d-e197-46",
+    "slug": "tay-do-model",
+    "name": "Tây Đô Model",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "12E Hẻm 22 Đường Mạc Đĩnh Chi",
+      "lat": 10.036848,
+      "lng": 105.782738
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "8555993d-e197-46f0-8ffc-15da2cb72474",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e7c0cae9-3fc1-4a",
+    "slug": "karaoke-kingdom-can-tho",
+    "name": "Karaoke Kingdom Cần Thơ",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "38 Đ. Lê Bình",
+      "lat": 10.022453,
+      "lng": 105.767677
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "e7c0cae9-3fc1-4a76-b289-da495d27a518",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6bfacd92-d40c-43",
+    "slug": "dreibar-craftbeer-cocktail",
+    "name": "Dreibar Craftbeer & Cocktail",
+    "category": "entertainment",
+    "subCategory": "cocktail-bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "G2 Đ.Đinh Công Tráng",
+      "lat": 10.03482,
+      "lng": 105.772049
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "6bfacd92-d40c-431f-a366-4c07ef2a9b55",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c5eed16f-43ad-46",
@@ -1041,12 +1089,12 @@
     "source": "overture",
     "sourceId": "c5eed16f-43ad-4608-b925-5587590d2f43",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-4487e63d-32a2-46",
-    "slug": "san-khau-ca-nhac-v-music-2",
-    "name": "Sân Khấu Ca Nhạc V Music 2",
+    "id": "ovt-b3506493-435a-45",
+    "slug": "anh-thy-131",
+    "name": "Anh Thy 131",
     "category": "entertainment",
     "subCategory": "music-venue",
     "tags": [
@@ -1055,64 +1103,16 @@
     "location": {
       "cityId": "can-tho",
       "districtId": "ninh-kieu",
-      "address": "7 Đường Lương Định Của",
-      "lat": 10.045155,
-      "lng": 105.786858
+      "address": "28A Đường Mậu Thân",
+      "lat": 10.040344,
+      "lng": 105.768349
     },
     "images": [],
-    "popularity": 59,
+    "popularity": 71,
     "source": "overture",
-    "sourceId": "4487e63d-32a2-4648-87a0-2a8470295f35",
+    "sourceId": "b3506493-435a-457b-b1b7-b8d73fe05ea3",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-dcf0a55b-e5bd-4c",
-    "slug": "karaoke-tit-tot-can-tho-2",
-    "name": "Karaoke Tít Tót Cần Thơ 2",
-    "category": "entertainment",
-    "subCategory": "karaoke",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "25 Đ. Phạm Ngọc Thạch",
-      "lat": 10.044456,
-      "lng": 105.785698
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "dcf0a55b-e5bd-4ca8-9d90-ae7eb77ccdc6",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-abc8f9d2-1ba5-4f",
-    "slug": "deja-vu-cocktail-bar",
-    "name": "Déjà Vu Cocktail Bar",
-    "category": "entertainment",
-    "subCategory": "cocktail-bar",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "142 Đ. Huỳnh Cương",
-      "lat": 10.036434,
-      "lng": 105.779541
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "abc8f9d2-1ba5-4f05-b67f-42aa9689881f",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-096cb65e-adff-4c",
@@ -1133,7 +1133,7 @@
     "source": "overture",
     "sourceId": "096cb65e-adff-4cbc-9be7-2e8b75aba162",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-916e130d-1f9d-4f",
@@ -1154,7 +1154,7 @@
     "source": "overture",
     "sourceId": "916e130d-1f9d-4fe8-8e9c-663712aef6aa",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-131a5fea-fec9-40",
@@ -1175,7 +1175,7 @@
     "source": "overture",
     "sourceId": "131a5fea-fec9-404c-817a-da2aac6274ef",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c54bb3eb-f769-41",
@@ -1196,7 +1196,7 @@
     "source": "overture",
     "sourceId": "c54bb3eb-f769-41aa-a0bb-86dc49393f17",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6c58c752-2135-44",
@@ -1217,7 +1217,7 @@
     "source": "overture",
     "sourceId": "6c58c752-2135-4445-aecb-092f2d11284e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-0e22e8a0-65b4-4c",
@@ -1238,7 +1238,28 @@
     "source": "overture",
     "sourceId": "0e22e8a0-65b4-4c73-8f83-ab469ae4aed4",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-aa9e736b-0e68-41",
+    "slug": "quang-trung-quan",
+    "name": "Quang Trung Quán",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "16 Đường Quang Trung",
+      "lat": 10.020237,
+      "lng": 105.781334
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "aa9e736b-0e68-412f-977d-e7430a528715",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-2534fb6c-933d-44",
@@ -1259,7 +1280,7 @@
     "source": "overture",
     "sourceId": "2534fb6c-933d-4493-9b95-d8d241c1b703",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-095a9591-e34c-4a",
@@ -1280,7 +1301,7 @@
     "source": "overture",
     "sourceId": "095a9591-e34c-4a71-826c-a880ba45731d",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6d71ddae-9efa-46",
@@ -1301,28 +1322,7 @@
     "source": "overture",
     "sourceId": "6d71ddae-9efa-466c-b595-2375211888ea",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-0ca7d318-546f-42",
-    "slug": "vinfast-can-tho-chinh-hang",
-    "name": "Vinfast Cần Thơ Chính Hãng",
-    "category": "food",
-    "subCategory": "bakery",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "cai-rang",
-      "address": "1 Đường Quang Trung",
-      "lat": 10.04904,
-      "lng": 105.77626
-    },
-    "images": [],
-    "popularity": 59,
-    "source": "overture",
-    "sourceId": "0ca7d318-546f-42ab-83a1-09d92cff3f54",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-18f300e7-11b2-41",
@@ -1343,7 +1343,7 @@
     "source": "overture",
     "sourceId": "18f300e7-11b2-4102-9cef-56624d27dde1",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-9f464c84-aff0-47",
@@ -1364,30 +1364,7 @@
     "source": "overture",
     "sourceId": "9f464c84-aff0-476e-a46f-47afac29083f",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-b4121d7f-aa44-4e",
-    "slug": "dee-coffee",
-    "name": "DEE Coffee",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "binh-thuy",
-      "address": "TP, 299A Đường Đồng Văn Cống, phường An Thới, Q",
-      "lat": 10.055841,
-      "lng": 105.761635
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "b4121d7f-aa44-4ef4-aa6c-f91f0a9d436a",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c4459946-acbb-42",
@@ -1410,7 +1387,30 @@
     "source": "overture",
     "sourceId": "c4459946-acbb-4231-bdb5-df1cf1513a2f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b4121d7f-aa44-4e",
+    "slug": "dee-coffee",
+    "name": "DEE Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "TP, 299A Đường Đồng Văn Cống, phường An Thới, Q",
+      "lat": 10.055841,
+      "lng": 105.761635
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "b4121d7f-aa44-4ef4-aa6c-f91f0a9d436a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-79e6ce16-c5a6-43",
@@ -1433,7 +1433,7 @@
     "source": "overture",
     "sourceId": "79e6ce16-c5a6-43a6-9dbb-5275d641d736",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-007b00e4-9754-49",
@@ -1456,7 +1456,28 @@
     "source": "overture",
     "sourceId": "007b00e4-9754-4994-ac92-a3a643497860",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-35a62e9b-b509-46",
+    "slug": "tra-sua-may-2",
+    "name": "Trà sữa Mây 2",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "Lê Hồng Phong",
+      "lat": 10.092384,
+      "lng": 105.72541
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "35a62e9b-b509-4681-92f2-61a455506c3a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ee6595cd-da1d-43",
@@ -1479,28 +1500,7 @@
     "source": "overture",
     "sourceId": "ee6595cd-da1d-436a-9844-75d48201f707",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-35a62e9b-b509-46",
-    "slug": "tra-sua-may-2",
-    "name": "Trà sữa Mây 2",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "binh-thuy",
-      "address": "Lê Hồng Phong",
-      "lat": 10.092384,
-      "lng": 105.72541
-    },
-    "images": [],
-    "popularity": 61,
-    "source": "overture",
-    "sourceId": "35a62e9b-b509-4681-92f2-61a455506c3a",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-0aef6aea-e597-46",
@@ -1523,7 +1523,7 @@
     "source": "overture",
     "sourceId": "0aef6aea-e597-46e2-aefd-b1d3244ee1f3",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a2100ffd-5f8f-4d",
@@ -1544,7 +1544,7 @@
     "source": "overture",
     "sourceId": "a2100ffd-5f8f-4dae-b2bc-893f60f1731f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-62359a09-8dff-4d",
@@ -1565,7 +1565,28 @@
     "source": "overture",
     "sourceId": "62359a09-8dff-4d10-8c75-ec2edf7361e2",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ef305608-7b13-46",
+    "slug": "banh-bao-tra-sua-nguyen-tam",
+    "name": "Bánh Bao Trà Sữa Nguyên Tâm",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "360 Đường Lê Bình",
+      "lat": 9.99918,
+      "lng": 105.751068
+    },
+    "images": [],
+    "popularity": 75,
+    "source": "overture",
+    "sourceId": "ef305608-7b13-4637-ba12-77040a446bad",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-50118165-1477-47",
@@ -1588,28 +1609,7 @@
     "source": "overture",
     "sourceId": "50118165-1477-4785-92bb-a6e9cdb015b1",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-ef305608-7b13-46",
-    "slug": "banh-bao-tra-sua-nguyen-tam",
-    "name": "Bánh Bao Trà Sữa Nguyên Tâm",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "cai-rang",
-      "address": "360 Đường Lê Bình",
-      "lat": 9.99918,
-      "lng": 105.751068
-    },
-    "images": [],
-    "popularity": 75,
-    "source": "overture",
-    "sourceId": "ef305608-7b13-4637-ba12-77040a446bad",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-8233cd30-cfd5-46",
@@ -1632,7 +1632,7 @@
     "source": "overture",
     "sourceId": "8233cd30-cfd5-46db-8879-e823e4aab928",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a36eda9d-d57d-4c",
@@ -1653,7 +1653,7 @@
     "source": "overture",
     "sourceId": "a36eda9d-d57d-4cde-9535-56a0f0c7437c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-be7bd677-da36-43",
@@ -1674,7 +1674,7 @@
     "source": "overture",
     "sourceId": "be7bd677-da36-43ca-bdfa-adb39fde83e0",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a77487b3-73cd-4f",
@@ -1697,7 +1697,28 @@
     "source": "overture",
     "sourceId": "a77487b3-73cd-4fca-9418-92e3879b556f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f4cf64bc-261d-48",
+    "slug": "tra-sua-nong-duong",
+    "name": "Trà Sữa Nọng Đường",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "cai-rang",
+      "address": "A14-6 Đ. Lê Trọng Tấn",
+      "lat": 10.005019,
+      "lng": 105.788223
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "f4cf64bc-261d-488f-96f3-944a199dedb6",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-3dc6a922-9b3e-4d",
@@ -1720,28 +1741,7 @@
     "source": "overture",
     "sourceId": "3dc6a922-9b3e-4d23-9a5a-b679eae7c1d4",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-f4cf64bc-261d-48",
-    "slug": "tra-sua-nong-duong",
-    "name": "Trà Sữa Nọng Đường",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "cai-rang",
-      "address": "A14-6 Đ. Lê Trọng Tấn",
-      "lat": 10.005019,
-      "lng": 105.788223
-    },
-    "images": [],
-    "popularity": 60,
-    "source": "overture",
-    "sourceId": "f4cf64bc-261d-488f-96f3-944a199dedb6",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-134e70c5-6ee7-4d",
@@ -1764,7 +1764,7 @@
     "source": "overture",
     "sourceId": "134e70c5-6ee7-4da9-a07e-2b41acf74264",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-f1509b0f-6ad9-43",
@@ -1788,7 +1788,7 @@
     "source": "overture",
     "sourceId": "f1509b0f-6ad9-4387-b537-6ef528eae035",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-842825be-7804-47",
@@ -1812,7 +1812,7 @@
     "source": "overture",
     "sourceId": "842825be-7804-4779-82ec-1864438f0c99",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-3f7636a7-3a41-4a",
@@ -1836,7 +1836,7 @@
     "source": "overture",
     "sourceId": "3f7636a7-3a41-4a1e-b9f3-5af23fe218ab",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-fe4990f4-e844-4f",
@@ -1860,7 +1860,7 @@
     "source": "overture",
     "sourceId": "fe4990f4-e844-4f94-a961-fada8da054fa",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e60c53cc-4099-46",
@@ -1884,7 +1884,7 @@
     "source": "overture",
     "sourceId": "e60c53cc-4099-4644-ab65-df62dcee15e9",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-31da47c5-156b-42",
@@ -1908,7 +1908,7 @@
     "source": "overture",
     "sourceId": "31da47c5-156b-42f8-80d2-e0d8e89ca865",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c1a9c069-d384-4d",
@@ -1932,7 +1932,7 @@
     "source": "overture",
     "sourceId": "c1a9c069-d384-4db6-b9b7-76cc34982bec",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-cfc026b1-40b3-47",
@@ -1953,7 +1953,7 @@
     "source": "overture",
     "sourceId": "cfc026b1-40b3-4783-933b-5723f73fc84c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-aa8f239c-c6fe-4d",
@@ -1974,91 +1974,7 @@
     "source": "overture",
     "sourceId": "aa8f239c-c6fe-4df9-b3bc-f435f579108e",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-4e840bf5-2903-45",
-    "slug": "mi-cay-itada",
-    "name": "Mì Cay ITADA",
-    "category": "food",
-    "subCategory": "korean-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "binh-thuy",
-      "address": "59 Nguyễn Chí Thanh",
-      "lat": 10.096746,
-      "lng": 105.714165
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "4e840bf5-2903-45f3-aeba-097886aa75de",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-0c88b6a7-c608-4a",
-    "slug": "bo-ne-a-quan",
-    "name": "Bò Né A Quắn",
-    "category": "food",
-    "subCategory": "fast-food-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "binh-thuy",
-      "address": "Võ Văn Kiệt",
-      "lat": 10.046202,
-      "lng": 105.762375
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "0c88b6a7-c608-4a9f-9f58-3a47190beaca",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-7c44bbd6-0d1f-42",
-    "slug": "am-thuc-lang-tho",
-    "name": "Ẩm Thực Làng Thỏ",
-    "category": "food",
-    "subCategory": "diner",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "binh-thuy",
-      "address": "363/14 KDC Bình Nhựt, phường Long Hòa, quận Bình Thủy",
-      "lat": 10.051668,
-      "lng": 105.75087
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "7c44bbd6-0d1f-42e0-a9ae-9b95e92e4216",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-daf0b426-79bc-4a",
-    "slug": "tiem-banh-sinh-nhat-thi-tran-cay-duong-huyen-phung-hiep-hau",
-    "name": "Tiêm bánh sinh nhật thị trấn Cây Dương huyện Phụng Hiệp - Hậu Giang",
-    "category": "food",
-    "subCategory": "bakery",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "binh-thuy",
-      "address": "261 ĐT927 tt. Cây Dương, Phụng Hiệp, Hậu Giang, Việt Nam",
-      "lat": 10.08253,
-      "lng": 105.729301
-    },
-    "images": [],
-    "popularity": 64,
-    "source": "overture",
-    "sourceId": "daf0b426-79bc-4a2c-932f-ad1005bae183",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a9d4a907-0c5f-49",
@@ -2079,7 +1995,133 @@
     "source": "overture",
     "sourceId": "a9d4a907-0c5f-49b1-9253-ac6495945143",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e91f8571-bdb2-45",
+    "slug": "quan-an-la-ghien-so-333-22-vo-van-kiet-tp-can-tho",
+    "name": "Quán Ăn Là Ghiền-Số 333/22 Võ Văn Kiệt, TP Cần Thơ",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "333/23/24/10 Đường Võ Văn Kiệt",
+      "lat": 10.049377,
+      "lng": 105.756081
+    },
+    "images": [],
+    "popularity": 53,
+    "source": "overture",
+    "sourceId": "e91f8571-bdb2-4536-a63d-0f027bc0ac15",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e7477ef9-95ef-48",
+    "slug": "nha-khach-t80",
+    "name": "Nha Khach T80",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "153A Đường Trần Quang Diệu",
+      "lat": 10.058687,
+      "lng": 105.759369
+    },
+    "images": [],
+    "popularity": 50,
+    "source": "overture",
+    "sourceId": "e7477ef9-95ef-484f-9949-a4d221c911a3",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-4e840bf5-2903-45",
+    "slug": "mi-cay-itada",
+    "name": "Mì Cay ITADA",
+    "category": "food",
+    "subCategory": "korean-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "59 Nguyễn Chí Thanh",
+      "lat": 10.096746,
+      "lng": 105.714165
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "4e840bf5-2903-45f3-aeba-097886aa75de",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-0c88b6a7-c608-4a",
+    "slug": "bo-ne-a-quan",
+    "name": "Bò Né A Quắn",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "Võ Văn Kiệt",
+      "lat": 10.046202,
+      "lng": 105.762375
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "0c88b6a7-c608-4a9f-9f58-3a47190beaca",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7c44bbd6-0d1f-42",
+    "slug": "am-thuc-lang-tho",
+    "name": "Ẩm Thực Làng Thỏ",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "363/14 KDC Bình Nhựt, phường Long Hòa, quận Bình Thủy",
+      "lat": 10.051668,
+      "lng": 105.75087
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "7c44bbd6-0d1f-42e0-a9ae-9b95e92e4216",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-daf0b426-79bc-4a",
+    "slug": "tiem-banh-sinh-nhat-thi-tran-cay-duong-huyen-phung-hiep-hau",
+    "name": "Tiêm bánh sinh nhật thị trấn Cây Dương huyện Phụng Hiệp - Hậu Giang",
+    "category": "food",
+    "subCategory": "bakery",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-thuy",
+      "address": "261 ĐT927 tt. Cây Dương, Phụng Hiệp, Hậu Giang, Việt Nam",
+      "lat": 10.08253,
+      "lng": 105.729301
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "daf0b426-79bc-4a2c-932f-ad1005bae183",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-cb12b7f2-bb16-42",
@@ -2100,49 +2142,7 @@
     "source": "overture",
     "sourceId": "cb12b7f2-bb16-42dd-8cfc-e873158dbea1",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-5917638a-89e3-4b",
-    "slug": "jollibee-binh-thuy",
-    "name": "Jollibee",
-    "category": "food",
-    "subCategory": "fast-food-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "binh-thuy",
-      "address": "15A Cách Mạng Tháng 8, P.An Thới, Q.Bình Thủy, Cần Thơ",
-      "lat": 10.058437,
-      "lng": 105.766876
-    },
-    "images": [],
-    "popularity": 80,
-    "source": "overture",
-    "sourceId": "5917638a-89e3-4b28-b7d9-48581a75644b",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-e475b8c3-4b5d-42",
-    "slug": "bun-dau-huong-viet",
-    "name": "Bún Đậu Hương Việt",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "binh-thuy",
-      "address": "249/9A Hẻm 249 Vành Đai Phi Trường",
-      "lat": 10.055131,
-      "lng": 105.761063
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "e475b8c3-4b5d-4231-b4fd-f2c78d12849d",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-efa46008-e79a-4a",
@@ -2163,7 +2163,7 @@
     "source": "overture",
     "sourceId": "efa46008-e79a-4a8a-ad86-ed34747edcbb",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-06592b65-26b9-4d",
@@ -2184,7 +2184,7 @@
     "source": "overture",
     "sourceId": "06592b65-26b9-4d23-b563-e8b27054bc71",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-9307c0c9-d3f3-46",
@@ -2205,7 +2205,7 @@
     "source": "overture",
     "sourceId": "9307c0c9-d3f3-460a-b152-1643f29c1540",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b2451256-be4d-47",
@@ -2226,7 +2226,7 @@
     "source": "overture",
     "sourceId": "b2451256-be4d-47e2-9c5b-b4d54224bf2f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-fd5d9e9b-cfac-4c",
@@ -2247,49 +2247,7 @@
     "source": "overture",
     "sourceId": "fd5d9e9b-cfac-4c5f-91e4-c5a2974fd270",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-779d6863-2f11-48",
-    "slug": "hung-phat-bakery",
-    "name": "Hưng Phát Bakery",
-    "category": "food",
-    "subCategory": "bakery",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "binh-minh",
-      "address": "421 Thuận tiến A, phường Bình Minh ",
-      "lat": 10.070848,
-      "lng": 105.829659
-    },
-    "images": [],
-    "popularity": 64,
-    "source": "overture",
-    "sourceId": "779d6863-2f11-48ce-ae29-d50e57fccec0",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-88507ef1-805f-4f",
-    "slug": "am-thuc-thanh-tra",
-    "name": "Ẩm Thực Thanh Trà",
-    "category": "food",
-    "subCategory": "diner",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "binh-minh",
-      "address": "Đường 3 Tháng 2, Phường Cái Vồn, Thị xã Bình Minh",
-      "lat": 10.066959,
-      "lng": 105.814247
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "88507ef1-805f-4fd8-bed0-4ceda5de77e3",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-43ff9321-2641-4e",
@@ -2310,7 +2268,49 @@
     "source": "overture",
     "sourceId": "43ff9321-2641-4eeb-acea-e649980f9781",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-779d6863-2f11-48",
+    "slug": "hung-phat-bakery",
+    "name": "Hưng Phát Bakery",
+    "category": "food",
+    "subCategory": "bakery",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "421 Thuận tiến A, phường Bình Minh ",
+      "lat": 10.070848,
+      "lng": 105.829659
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "779d6863-2f11-48ce-ae29-d50e57fccec0",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-88507ef1-805f-4f",
+    "slug": "am-thuc-thanh-tra",
+    "name": "Ẩm Thực Thanh Trà",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Đường 3 Tháng 2, Phường Cái Vồn, Thị xã Bình Minh",
+      "lat": 10.066959,
+      "lng": 105.814247
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "88507ef1-805f-4fd8-bed0-4ceda5de77e3",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-8e370188-36f2-48",
@@ -2331,7 +2331,7 @@
     "source": "overture",
     "sourceId": "8e370188-36f2-487f-b1bf-a805408a69a1",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-485e76f0-2e42-41",
@@ -2352,7 +2352,7 @@
     "source": "overture",
     "sourceId": "485e76f0-2e42-41bc-bf1a-90ae5171cd1d",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ef9e459b-91dd-44",
@@ -2373,7 +2373,7 @@
     "source": "overture",
     "sourceId": "ef9e459b-91dd-44a6-9d5f-b2db14bae649",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-9fae1caa-05d3-48",
@@ -2394,7 +2394,7 @@
     "source": "overture",
     "sourceId": "9fae1caa-05d3-4803-9e94-e17f5c19fc4b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-4f8d9ddf-96c3-40",
@@ -2415,7 +2415,7 @@
     "source": "overture",
     "sourceId": "4f8d9ddf-96c3-403f-a80f-3fa6b8a414b9",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a184fef8-8a62-4a",
@@ -2438,7 +2438,7 @@
     "source": "overture",
     "sourceId": "a184fef8-8a62-4ac9-8785-e4fb6a22cc41",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b244a971-96f8-44",
@@ -2462,7 +2462,7 @@
     "source": "overture",
     "sourceId": "b244a971-96f8-4488-bb00-0723c94cbb05",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-19353a2b-0054-4d",
@@ -2486,7 +2486,7 @@
     "source": "overture",
     "sourceId": "19353a2b-0054-4d30-8c6b-d818456f7f21",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-3fd5c4d2-9742-42",
@@ -2507,7 +2507,7 @@
     "source": "overture",
     "sourceId": "3fd5c4d2-9742-4211-a014-69c633218bb2",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-125fcbd3-b8fd-49",
@@ -2528,30 +2528,7 @@
     "source": "overture",
     "sourceId": "125fcbd3-b8fd-49c9-ae89-99dd81dbf3cf",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d1a56fdc-12d0-45",
-    "slug": "gold-tea-binh-minh",
-    "name": "Gold Tea Bình Minh",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "binh-minh",
-      "address": "Nguyễn Văn Thảnh",
-      "lat": 10.068212,
-      "lng": 105.810753
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "d1a56fdc-12d0-45f5-bda1-d08c9eec092f",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-cda5c5b3-a49b-4c",
@@ -2574,7 +2551,30 @@
     "source": "overture",
     "sourceId": "cda5c5b3-a49b-4c52-8166-44548f2ffdf4",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-d1a56fdc-12d0-45",
+    "slug": "gold-tea-binh-minh",
+    "name": "Gold Tea Bình Minh",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Nguyễn Văn Thảnh",
+      "lat": 10.068212,
+      "lng": 105.810753
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "d1a56fdc-12d0-45f5-bda1-d08c9eec092f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6e99bf58-7cd5-4d",
@@ -2595,7 +2595,28 @@
     "source": "overture",
     "sourceId": "6e99bf58-7cd5-4d21-b810-c4cd1fc587c4",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a2c43e3f-37b5-49",
+    "slug": "may-may-milktea",
+    "name": "Mây Mây Milktea",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "binh-minh",
+      "address": "Trường THCS & THPT Mỹ Thuận,  Xã Mỹ Thuận, Huyện Bình Tân",
+      "lat": 10.064148,
+      "lng": 105.821571
+    },
+    "images": [],
+    "popularity": 52,
+    "source": "overture",
+    "sourceId": "a2c43e3f-37b5-4986-91e7-bd808012bca8",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-d0be8635-e95c-48",
@@ -2618,28 +2639,7 @@
     "source": "overture",
     "sourceId": "d0be8635-e95c-48c7-b1ec-c518aec8dcc2",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-a2c43e3f-37b5-49",
-    "slug": "may-may-milktea",
-    "name": "Mây Mây Milktea",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "binh-minh",
-      "address": "Trường THCS & THPT Mỹ Thuận,  Xã Mỹ Thuận, Huyện Bình Tân",
-      "lat": 10.064148,
-      "lng": 105.821571
-    },
-    "images": [],
-    "popularity": 52,
-    "source": "overture",
-    "sourceId": "a2c43e3f-37b5-4986-91e7-bd808012bca8",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-dd04e385-e4c0-45",
@@ -2662,7 +2662,7 @@
     "source": "overture",
     "sourceId": "dd04e385-e4c0-45ac-91c6-7869250effe8",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7e4a9eb4-2a45-45",
@@ -2685,7 +2685,7 @@
     "source": "overture",
     "sourceId": "7e4a9eb4-2a45-45f1-a747-f9247513b1ce",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-83321b07-8455-4c",
@@ -2708,7 +2708,7 @@
     "source": "overture",
     "sourceId": "83321b07-8455-4c4c-a5c5-2e530ef24788",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-96938a80-3fdc-47",
@@ -2733,7 +2733,30 @@
     "source": "overture",
     "sourceId": "96938a80-3fdc-470f-84be-46addbe7ae12",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b98026ca-1147-46",
+    "slug": "bao-tang-can-tho",
+    "name": "Bảo Tàng Cần Thơ",
+    "category": "outdoor",
+    "subCategory": "history-museum",
+    "tags": [
+      "ngoai-troi"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "6 Đường Trương Định",
+      "lat": 10.03403,
+      "lng": 105.780098
+    },
+    "images": [],
+    "popularity": 79,
+    "source": "overture",
+    "sourceId": "b98026ca-1147-4675-b67b-e799d07e0a6c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-518840d2-fe71-4b",
@@ -2757,7 +2780,55 @@
     "source": "overture",
     "sourceId": "518840d2-fe71-4b9a-b9d2-adef1cd16cb0",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a2e9a87d-aed7-4e",
+    "slug": "tu-bep-inox-he-module-cao-cap-can-tho",
+    "name": "Tủ bếp inox hệ module cao cấp Cần Thơ",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "133 Đường 3 Tháng 2",
+      "lat": 10.01792,
+      "lng": 105.762047
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "a2e9a87d-aed7-4ee2-b486-1f25aa63e372",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-d6038249-6599-45",
+    "slug": "cong-vien-luu-huu-phuoc",
+    "name": "Công Viên Lưu Hữu Phước",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "Hòa Bình, An Cư, Ninh Kiều",
+      "lat": 10.036867,
+      "lng": 105.787209
+    },
+    "images": [],
+    "popularity": 53,
+    "source": "overture",
+    "sourceId": "d6038249-6599-45a1-a501-ff9d656847ff",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7f0f6230-c4c3-43",
@@ -2782,7 +2853,7 @@
     "source": "overture",
     "sourceId": "7f0f6230-c4c3-43ee-a2b7-f7feaae18d50",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c701ea1e-b236-49",
@@ -2807,109 +2878,12 @@
     "source": "overture",
     "sourceId": "c701ea1e-b236-498d-a842-725c6b0807be",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-b98026ca-1147-46",
-    "slug": "bao-tang-can-tho",
-    "name": "Bảo Tàng Cần Thơ",
-    "category": "outdoor",
-    "subCategory": "history-museum",
-    "tags": [
-      "ngoai-troi"
-    ],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "6 Đường Trương Định",
-      "lat": 10.03403,
-      "lng": 105.780098
-    },
-    "images": [],
-    "popularity": 79,
-    "source": "overture",
-    "sourceId": "b98026ca-1147-4675-b67b-e799d07e0a6c",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-a2e9a87d-aed7-4e",
-    "slug": "tu-bep-inox-he-module-cao-cap-can-tho",
-    "name": "Tủ bếp inox hệ module cao cấp Cần Thơ",
-    "category": "outdoor",
-    "subCategory": "beach",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "133 Đường 3 Tháng 2",
-      "lat": 10.01792,
-      "lng": 105.762047
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "a2e9a87d-aed7-4ee2-b486-1f25aa63e372",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-76458cfd-0b20-41",
-    "slug": "cho-noi-cai-rang",
-    "name": "Chợ nổi Cái Răng",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "7, Quốc Lộ 1A, Quận Cái Răng",
-      "lat": 10.005086,
-      "lng": 105.746056
-    },
-    "images": [],
-    "popularity": 69,
-    "source": "overture",
-    "sourceId": "76458cfd-0b20-4163-bfca-8c9806c5c499",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-6b039593-4086-49",
-    "slug": "chua-buu-tri",
-    "name": "Chùa Bửu Trì",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "ninh-kieu",
-      "address": "67 Đường Mậu Thân",
-      "lat": 10.042839,
-      "lng": 105.765617
-    },
-    "images": [],
-    "popularity": 79,
-    "source": "overture",
-    "sourceId": "6b039593-4086-49d9-9151-fab41ad12241",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d6038249-6599-45",
-    "slug": "cong-vien-luu-huu-phuoc",
-    "name": "Công Viên Lưu Hữu Phước",
+    "id": "ovt-bf87ae43-1609-43",
+    "slug": "terrarium-can-tho",
+    "name": "Terrarium Cần Thơ",
     "category": "outdoor",
     "subCategory": "park",
     "tags": [
@@ -2919,41 +2893,64 @@
     "location": {
       "cityId": "can-tho",
       "districtId": "ninh-kieu",
-      "address": "Hòa Bình, An Cư, Ninh Kiều",
-      "lat": 10.036867,
-      "lng": 105.787209
+      "address": "Quán nước Hoa Yên, chung tiệm Hoa, Đ. Lý Tự Trọng/131 Ông Xã",
+      "lat": 10.036753,
+      "lng": 105.777374
     },
     "images": [],
-    "popularity": 53,
+    "popularity": 55,
     "source": "overture",
-    "sourceId": "d6038249-6599-45a1-a501-ff9d656847ff",
+    "sourceId": "bf87ae43-1609-4360-9812-e8125a4260f3",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-74d521c0-3200-4d",
-    "slug": "nha-dot-cot-xieu",
-    "name": "Nhà Dột Cột Xiêu",
+    "id": "ovt-c3650233-85a5-48",
+    "slug": "cong-vien-song-hau",
+    "name": "Công Viên Sông Hậu",
     "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
+    "subCategory": "park",
     "tags": [
       "ngoai-troi",
-      "lich-su",
-      "chup-anh"
+      "cay-xanh"
     ],
     "location": {
       "cityId": "can-tho",
       "districtId": "ninh-kieu",
-      "address": "133B Đường 3 Tháng 2",
-      "lat": 10.018238,
-      "lng": 105.7621
+      "address": "Hợp Tác Xã Sông Hậu, 63 Đường Nam Kỳ Khởi Nghĩa",
+      "lat": 10.044539,
+      "lng": 105.79364
     },
     "images": [],
-    "popularity": 58,
+    "popularity": 48,
     "source": "overture",
-    "sourceId": "74d521c0-3200-4de6-a683-9a08f4ffaaca",
+    "sourceId": "c3650233-85a5-4885-9b7d-adb425d189df",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5c1b775c-6c35-46",
+    "slug": "cong-vien-hung-vuong",
+    "name": "Công viên Hùng Vương",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "1 Đường Hùng Vương",
+      "lat": 10.044831,
+      "lng": 105.780113
+    },
+    "images": [],
+    "popularity": 46,
+    "source": "overture",
+    "sourceId": "5c1b775c-6c35-468e-8cd3-67b2b9bbf706",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a19ea840-80ee-46",
@@ -2978,7 +2975,7 @@
     "source": "overture",
     "sourceId": "a19ea840-80ee-4699-93e6-ae39b0ded146",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-badd3955-c6f4-45",
@@ -3003,7 +3000,7 @@
     "source": "overture",
     "sourceId": "badd3955-c6f4-4575-b27e-19dc304aba16",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-28d9e930-8b1c-4c",
@@ -3028,7 +3025,7 @@
     "source": "overture",
     "sourceId": "28d9e930-8b1c-4c1b-8de9-6ec8f4c5387b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-4d4fd5b6-2d42-4f",
@@ -3049,7 +3046,7 @@
     "source": "overture",
     "sourceId": "4d4fd5b6-2d42-4f3c-a5be-16c59bce787b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-fd96b7fb-9706-48",
@@ -3070,7 +3067,7 @@
     "source": "overture",
     "sourceId": "fd96b7fb-9706-4857-aa5f-f2fb113f3b71",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-accc6223-9667-41",
@@ -3091,7 +3088,7 @@
     "source": "overture",
     "sourceId": "accc6223-9667-41e3-a49f-efe07dcdc960",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-4a6f89f1-8df9-41",
@@ -3112,7 +3109,7 @@
     "source": "overture",
     "sourceId": "4a6f89f1-8df9-41ec-8c7a-1d8ddacfefcf",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-fa2c2577-b36a-43",
@@ -3133,7 +3130,7 @@
     "source": "overture",
     "sourceId": "fa2c2577-b36a-4367-9d3a-b036611ace3b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c83af42d-1167-4d",
@@ -3154,7 +3151,7 @@
     "source": "overture",
     "sourceId": "c83af42d-1167-4d36-bb56-0990634dfb7d",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-0e34966a-2c7c-44",
@@ -3175,7 +3172,7 @@
     "source": "overture",
     "sourceId": "0e34966a-2c7c-4430-9725-22f0f72154e3",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-cce9bf1c-c83d-4e",
@@ -3199,7 +3196,7 @@
     "source": "overture",
     "sourceId": "cce9bf1c-c83d-4e58-80ea-48f035fb4862",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-fb2ec6dc-e07e-4b",
@@ -3224,7 +3221,7 @@
     "source": "overture",
     "sourceId": "fb2ec6dc-e07e-4ba2-9448-e22654a975ee",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-367c811b-364d-45",
@@ -3249,7 +3246,7 @@
     "source": "overture",
     "sourceId": "367c811b-364d-4556-90f1-6031cffeae13",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-2ac78905-b05b-46",
@@ -3274,7 +3271,7 @@
     "source": "overture",
     "sourceId": "2ac78905-b05b-46e6-ac3d-9b48d5aa3759",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-34bd2a15-d19f-4b",
@@ -3299,7 +3296,7 @@
     "source": "overture",
     "sourceId": "34bd2a15-d19f-4bbe-829d-fb485d78236f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a26266c9-7e56-4b",
@@ -3324,7 +3321,7 @@
     "source": "overture",
     "sourceId": "a26266c9-7e56-4bb8-b16a-5a6b69c579a6",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6e3fdf48-75a2-46",
@@ -3349,7 +3346,7 @@
     "source": "overture",
     "sourceId": "6e3fdf48-75a2-46ab-a28a-9ae6846d9ff7",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-96aa9cfa-3ec0-44",
@@ -3374,7 +3371,7 @@
     "source": "overture",
     "sourceId": "96aa9cfa-3ec0-44d4-af86-746bfb990a6e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-3e69841a-7f86-49",
@@ -3399,7 +3396,7 @@
     "source": "overture",
     "sourceId": "3e69841a-7f86-4998-8869-d658a883b014",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-bf84ff53-3a1e-4c",
@@ -3424,7 +3421,7 @@
     "source": "overture",
     "sourceId": "bf84ff53-3a1e-4c8c-a8f6-b2cfe1f9d611",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c11bc58b-5864-49",
@@ -3445,7 +3442,7 @@
     "source": "overture",
     "sourceId": "c11bc58b-5864-49eb-8756-b5b5dbaa9c1e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ca1b2c0d-faca-46",
@@ -3468,7 +3465,7 @@
     "source": "overture",
     "sourceId": "ca1b2c0d-faca-46a3-ba7a-6a800c3b0070",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-8a10062f-52c1-41",
@@ -3491,7 +3488,7 @@
     "source": "overture",
     "sourceId": "8a10062f-52c1-41a2-91e5-f16c63786ec7",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-2862f312-e709-4a",
@@ -3514,7 +3511,7 @@
     "source": "overture",
     "sourceId": "2862f312-e709-4a29-9c1a-1a319cee582e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-60a70268-cfe1-44",
@@ -3539,7 +3536,7 @@
     "source": "overture",
     "sourceId": "60a70268-cfe1-44dd-83bf-5f705672a3b7",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-74d39f8a-1a80-47",
@@ -3563,7 +3560,7 @@
     "source": "overture",
     "sourceId": "74d39f8a-1a80-478e-9f2a-f198aa68d77f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-2c8367c9-bc0a-41",
@@ -3588,7 +3585,7 @@
     "source": "overture",
     "sourceId": "2c8367c9-bc0a-4189-b7c2-ce42381a4d0a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e6a27022-a3ed-45",
@@ -3613,7 +3610,7 @@
     "source": "overture",
     "sourceId": "e6a27022-a3ed-45c9-9ece-317bedb2dcaa",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-559df6da-c8ec-47",
@@ -3636,7 +3633,7 @@
     "source": "overture",
     "sourceId": "559df6da-c8ec-47d3-825c-2f8e989eb908",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ff04f14f-aa57-4d",
@@ -3659,7 +3656,7 @@
     "source": "overture",
     "sourceId": "ff04f14f-aa57-4d15-8f3b-e4b9204cff20",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-dd714b7c-300a-45",
@@ -3680,7 +3677,7 @@
     "source": "overture",
     "sourceId": "dd714b7c-300a-4541-a603-ef387e756f20",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-4d02eee9-9fb9-4b",
@@ -3701,7 +3698,7 @@
     "source": "overture",
     "sourceId": "4d02eee9-9fb9-4b3e-98ce-45d8e6033bce",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-01396b11-68d6-42",
@@ -3722,7 +3719,7 @@
     "source": "overture",
     "sourceId": "01396b11-68d6-42ac-8f97-4c8d585ba306",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-342c6b7d-bd33-4a",
@@ -3743,7 +3740,7 @@
     "source": "overture",
     "sourceId": "342c6b7d-bd33-4a45-8d0c-1ff7429be899",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-30cfad64-ac78-49",
@@ -3764,7 +3761,7 @@
     "source": "overture",
     "sourceId": "30cfad64-ac78-49b9-a5f1-1415ec8068b4",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-1500300f-8e0e-45",
@@ -3787,7 +3784,7 @@
     "source": "overture",
     "sourceId": "1500300f-8e0e-45c9-aca3-74b4f90993d9",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e366f649-47a1-46",
@@ -3808,7 +3805,7 @@
     "source": "overture",
     "sourceId": "e366f649-47a1-469e-b763-8c9f99bb1622",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-371b6c5c-e4b9-44",
@@ -3832,7 +3829,7 @@
     "source": "overture",
     "sourceId": "371b6c5c-e4b9-44a4-a3d1-824d067deb95",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-3590ecd1-bb43-44",
@@ -3857,7 +3854,7 @@
     "source": "overture",
     "sourceId": "3590ecd1-bb43-448a-abe4-ecfa4ee887d4",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ccc52b08-2c28-4a",
@@ -3882,7 +3879,7 @@
     "source": "overture",
     "sourceId": "ccc52b08-2c28-4a3b-a191-460fe7daba65",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-51639169-859c-43",
@@ -3905,7 +3902,7 @@
     "source": "overture",
     "sourceId": "51639169-859c-430f-beed-9cd8f59e1945",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ece6cae9-1bb7-47",
@@ -3926,7 +3923,7 @@
     "source": "overture",
     "sourceId": "ece6cae9-1bb7-4788-af41-db24b683741a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-90d9a57c-2d02-4b",
@@ -3947,7 +3944,7 @@
     "source": "overture",
     "sourceId": "90d9a57c-2d02-4b78-a432-04095ae9b2fb",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b287c6f2-5f92-4d",
@@ -3970,7 +3967,7 @@
     "source": "overture",
     "sourceId": "b287c6f2-5f92-4d38-9d94-7abe00e790dc",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-20f8703b-ad29-42",
@@ -3993,7 +3990,7 @@
     "source": "overture",
     "sourceId": "20f8703b-ad29-4274-84fb-4500af1ad70c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-127cf107-316f-41",
@@ -4016,6 +4013,6 @@
     "source": "overture",
     "sourceId": "127cf107-316f-412a-a00f-6280fbc55115",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   }
 ]

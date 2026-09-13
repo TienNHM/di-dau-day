@@ -20,7 +20,10 @@ export type AnalyticsEvent =
   /** Kept apart from share_click: posting a story and sending a link are different acts. */
   | 'share_story_click'
   | 'reroll_click'
-  | 'contribute_submit';
+  | 'contribute_submit'
+  /** The dish flow is a different question from the wizard, so it counts separately. */
+  | 'dish_spin_start'
+  | 'dish_place_click';
 
 type Props = Record<string, string | number | boolean | undefined>;
 

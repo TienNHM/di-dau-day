@@ -18,7 +18,7 @@
     "source": "overture",
     "sourceId": "0ef9b814-bec6-4aba-b4d7-a36fb98e6073",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-239c350b-6c45-47",
@@ -39,7 +39,28 @@
     "source": "overture",
     "sourceId": "239c350b-6c45-470f-b8b9-361383fa30b4",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-04287f12-7925-4d",
+    "slug": "the-one-quan-toan",
+    "name": "The One Quán Toan",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "109 Đường Hải Triều",
+      "lat": 20.892563,
+      "lng": 106.604263
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "04287f12-7925-4d0e-ad92-ea563d5a5979",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6847499b-0278-4d",
@@ -62,28 +83,7 @@
     "source": "overture",
     "sourceId": "6847499b-0278-4d88-a5f8-befd23cfd9a1",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-04287f12-7925-4d",
-    "slug": "the-one-quan-toan",
-    "name": "The One Quán Toan",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "109 Đường Hải Triều",
-      "lat": 20.892563,
-      "lng": 106.604263
-    },
-    "images": [],
-    "popularity": 70,
-    "source": "overture",
-    "sourceId": "04287f12-7925-4d0e-ad92-ea563d5a5979",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-626b0158-a24a-40",
@@ -106,7 +106,7 @@
     "source": "overture",
     "sourceId": "626b0158-a24a-40c0-a767-4d3ded1a9699",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-d902a8a2-bf6c-48",
@@ -129,30 +129,7 @@
     "source": "overture",
     "sourceId": "d902a8a2-bf6c-48e9-8408-17ebca0e6fe9",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-fe18347d-d76e-41",
-    "slug": "trung-nguyen-coffee",
-    "name": "Trung Nguyên Coffee",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "95 Chương Dương",
-      "lat": 20.859041,
-      "lng": 106.670174
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "fe18347d-d76e-418e-9792-d704d50375a3",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-530dfce7-778f-48",
@@ -175,7 +152,30 @@
     "source": "overture",
     "sourceId": "530dfce7-778f-48cb-b8e4-715a1b219752",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-fe18347d-d76e-41",
+    "slug": "trung-nguyen-coffee",
+    "name": "Trung Nguyên Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "95 Chương Dương",
+      "lat": 20.859041,
+      "lng": 106.670174
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "fe18347d-d76e-418e-9792-d704d50375a3",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-d046d1ef-374f-4f",
@@ -198,7 +198,7 @@
     "source": "overture",
     "sourceId": "d046d1ef-374f-4f58-ab02-e80aa92d665f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-71b0839e-017d-49",
@@ -219,7 +219,7 @@
     "source": "overture",
     "sourceId": "71b0839e-017d-492b-86e5-34104ae53567",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-0186d0f6-d0fa-44",
@@ -240,7 +240,7 @@
     "source": "overture",
     "sourceId": "0186d0f6-d0fa-443f-a41f-20af533577f1",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ba978b37-8735-42",
@@ -261,7 +261,28 @@
     "source": "overture",
     "sourceId": "ba978b37-8735-4216-b4aa-4c6eeee6982b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2542491f-42b4-4e",
+    "slug": "tea-tea",
+    "name": "Tea Tea",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "3/246A Phố Đà Nẵng",
+      "lat": 20.861422,
+      "lng": 106.705894
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "2542491f-42b4-4ea1-bb5f-d92d4301d1c2",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-9687b3a6-32d6-40",
@@ -284,7 +305,7 @@
     "source": "overture",
     "sourceId": "9687b3a6-32d6-400e-914d-d35b7007d650",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e11568e1-f606-40",
@@ -305,49 +326,7 @@
     "source": "overture",
     "sourceId": "e11568e1-f606-4025-beac-d025564ad397",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-2542491f-42b4-4e",
-    "slug": "tea-tea",
-    "name": "Tea Tea",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "ngo-quyen",
-      "address": "3/246A Phố Đà Nẵng",
-      "lat": 20.861422,
-      "lng": 106.705894
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "2542491f-42b4-4ea1-bb5f-d92d4301d1c2",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-fa12f8a4-7fad-49",
-    "slug": "dua-dam-co-thuy",
-    "name": "Dừa dầm Cô Thủy",
-    "category": "cafe",
-    "subCategory": "smoothie-juice-bar",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "ngo-quyen",
-      "address": "Số 1 Đ. Lê Hồng Phong",
-      "lat": 20.861219,
-      "lng": 106.696762
-    },
-    "images": [],
-    "popularity": 45,
-    "source": "overture",
-    "sourceId": "fa12f8a4-7fad-4989-912f-c7312d25e8a2",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b8c476d5-49eb-4d",
@@ -370,30 +349,7 @@
     "source": "overture",
     "sourceId": "b8c476d5-49eb-4d89-97a8-87ef0eeaeeeb",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-23b372fe-e0c1-46",
-    "slug": "like-coffee",
-    "name": "Like Coffee",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "ngo-quyen",
-      "address": "298 Lý Thành Long",
-      "lat": 20.842274,
-      "lng": 106.689384
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "23b372fe-e0c1-4615-b94a-5a44916b24af",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-0a32cfc6-a2d2-47",
@@ -416,7 +372,30 @@
     "source": "overture",
     "sourceId": "0a32cfc6-a2d2-47d5-a37d-d952c2be60a7",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-23b372fe-e0c1-46",
+    "slug": "like-coffee",
+    "name": "Like Coffee",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "298 Lý Thành Long",
+      "lat": 20.842274,
+      "lng": 106.689384
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "23b372fe-e0c1-4615-b94a-5a44916b24af",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c22209b5-5a81-45",
@@ -439,7 +418,28 @@
     "source": "overture",
     "sourceId": "c22209b5-5a81-451e-8963-0cc0e8757728",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-fa12f8a4-7fad-49",
+    "slug": "dua-dam-co-thuy",
+    "name": "Dừa dầm Cô Thủy",
+    "category": "cafe",
+    "subCategory": "smoothie-juice-bar",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "Số 1 Đ. Lê Hồng Phong",
+      "lat": 20.861219,
+      "lng": 106.696762
+    },
+    "images": [],
+    "popularity": 45,
+    "source": "overture",
+    "sourceId": "fa12f8a4-7fad-4989-912f-c7312d25e8a2",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-624065f6-5f6d-47",
@@ -460,7 +460,7 @@
     "source": "overture",
     "sourceId": "624065f6-5f6d-47ba-901f-2f02f94d2136",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e9bf43a5-acd9-43",
@@ -481,154 +481,7 @@
     "source": "overture",
     "sourceId": "e9bf43a5-acd9-43e5-8ed8-5aac79c32cd0",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-15267baf-cb6a-49",
-    "slug": "meat-plus-no1-korean-bbq-hai-phong",
-    "name": "Meat Plus No1 Korean BBQ Hải Phòng",
-    "category": "food",
-    "subCategory": "barbecue-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "9/42 Ngõ 42 Nguyễn Văn Linh",
-      "lat": 20.832373,
-      "lng": 106.682922
-    },
-    "images": [],
-    "popularity": 81,
-    "source": "overture",
-    "sourceId": "15267baf-cb6a-4985-87d4-e282b1210c2b",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-3b422d99-aeba-49",
-    "slug": "pizza-hut-aeon-mall-hai-phong",
-    "name": "Pizza Hut Aeon Mall Hải Phòng",
-    "category": "food",
-    "subCategory": "pizza-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "TTTM Aeon Hải Phòng, 10 Võ Nguyên Giáp",
-      "lat": 20.830906,
-      "lng": 106.683594
-    },
-    "images": [],
-    "popularity": 85,
-    "source": "overture",
-    "sourceId": "3b422d99-aeba-49a7-b4a5-a7cb7c7c14ac",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-c9c98255-fe7b-41",
-    "slug": "pho-chien-phong-nguyen-gia",
-    "name": "Phở chiên phồng Nguyễn Gia",
-    "category": "food",
-    "subCategory": "vietnamese-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "32 P. Hoàng Minh Thảo",
-      "lat": 20.844704,
-      "lng": 106.671547
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "c9c98255-fe7b-41f8-b8bf-37a3f275eb0c",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-76f9bf3c-c561-4b",
-    "slug": "mixue",
-    "name": "Mixue",
-    "category": "food",
-    "subCategory": "ice-cream-shop",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "44 P. Kênh Đ.",
-      "lat": 20.836292,
-      "lng": 106.689758
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "76f9bf3c-c561-4b59-a730-627a01cfaff8",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-bc9c5901-d1de-4d",
-    "slug": "lau-ba-ly-aeon-mall-hai-phong-le-chan",
-    "name": "Lẩu Ba Lý - Aeon Mall Hải Phòng Lê Chân",
-    "category": "food",
-    "subCategory": "chinese-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "10 Đường Võ Nguyên Giáp",
-      "lat": 20.833124,
-      "lng": 106.682518
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "bc9c5901-d1de-4d7f-9922-532887944129",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-8a57a34c-77f3-44",
-    "slug": "loc-thanh-lunch-and-dinner",
-    "name": "Lộc Thành Lunch and Dinner",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "8 P. Phan Bội Châu",
-      "lat": 20.857496,
-      "lng": 106.681023
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "8a57a34c-77f3-447f-bec8-2edc0edcd45f",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-a3ffa313-e963-47",
-    "slug": "tuoi-ngoc-chay",
-    "name": "Tuổi Ngọc Chay",
-    "category": "food",
-    "subCategory": "vegetarian-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "436 P. Tô Hiệu",
-      "lat": 20.849609,
-      "lng": 106.671989
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "a3ffa313-e963-4738-a471-704c73e8c5c6",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-dd79a512-8dfe-47",
@@ -649,7 +502,154 @@
     "source": "overture",
     "sourceId": "dd79a512-8dfe-4795-8df1-9f90099ecd79",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-15267baf-cb6a-49",
+    "slug": "meat-plus-no1-korean-bbq-hai-phong",
+    "name": "Meat Plus No1 Korean BBQ Hải Phòng",
+    "category": "food",
+    "subCategory": "barbecue-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "9/42 Ngõ 42 Nguyễn Văn Linh",
+      "lat": 20.832373,
+      "lng": 106.682922
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "15267baf-cb6a-4985-87d4-e282b1210c2b",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-94a5951b-4a65-47",
+    "slug": "bbq-family-nuong-lau-khong-khoi-171-phan-dang-luu",
+    "name": "BBQ Family Nướng Lẩu Không Khói - 171 Phan Đăng Lưu",
+    "category": "food",
+    "subCategory": "barbecue-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "233P Phố Trần Nguyên Hãn",
+      "lat": 20.84392,
+      "lng": 106.669769
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "94a5951b-4a65-4750-ba9c-a5e03402fec0",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-3b422d99-aeba-49",
+    "slug": "pizza-hut-aeon-mall-hai-phong",
+    "name": "Pizza Hut Aeon Mall Hải Phòng",
+    "category": "food",
+    "subCategory": "pizza-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "TTTM Aeon Hải Phòng, 10 Võ Nguyên Giáp",
+      "lat": 20.830906,
+      "lng": 106.683594
+    },
+    "images": [],
+    "popularity": 85,
+    "source": "overture",
+    "sourceId": "3b422d99-aeba-49a7-b4a5-a7cb7c7c14ac",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c9c98255-fe7b-41",
+    "slug": "pho-chien-phong-nguyen-gia",
+    "name": "Phở chiên phồng Nguyễn Gia",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "32 P. Hoàng Minh Thảo",
+      "lat": 20.844704,
+      "lng": 106.671547
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "c9c98255-fe7b-41f8-b8bf-37a3f275eb0c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-dd9befcd-2e45-4d",
+    "slug": "nha-hang-ngoi-do",
+    "name": "Nhà hàng Ngói Đỏ",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "198 Nguyễn Văn Linh",
+      "lat": 20.835901,
+      "lng": 106.685883
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "dd9befcd-2e45-4d96-a1d0-46160c53cc14",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e576cf1d-0cff-41",
+    "slug": "net-hue-aeon-mall-hai-phong",
+    "name": "Nét Huế - Aeon Mall- Hải Phòng",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "T214 số 10 đường Võ Nguyên Giáp, phường Kênh Dương",
+      "lat": 20.832355,
+      "lng": 106.683258
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "e576cf1d-0cff-4193-8d18-1190bf2129fb",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-8e847e3a-4cec-48",
+    "slug": "bun-cha-tuyet-loan-32-hang-kenh",
+    "name": "Bún chả Tuyết Loan - 32 Hàng Kênh",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "32 Phố Hàng Kênh",
+      "lat": 20.851221,
+      "lng": 106.684982
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "8e847e3a-4cec-48ce-9c7c-75ff2d794343",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-1084d8ca-c1c4-47",
@@ -670,133 +670,7 @@
     "source": "overture",
     "sourceId": "1084d8ca-c1c4-4766-82a8-128608768acf",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-1d0feef2-c8dd-46",
-    "slug": "jollibee-hong-bang",
-    "name": "Jollibee",
-    "category": "food",
-    "subCategory": "fast-food-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "Tầng 3 TTTM Vincom Imperia Hải Phòng, phường Thượng Lý, Q. Hồng Bàng. TP. Hải Phòng, Hải Phòng",
-      "lat": 20.862934,
-      "lng": 106.661827
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "1d0feef2-c8dd-462e-8976-2dedd00424a8",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-06f227bc-e140-46",
-    "slug": "minh-nguyet-bakery",
-    "name": "Minh nguyệt bakery",
-    "category": "food",
-    "subCategory": "bakery",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "Minh nguyệt bakery, 36 Hải Triều",
-      "lat": 20.89094,
-      "lng": 106.604202
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "06f227bc-e140-46b8-8af4-82a233625276",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-a496bd88-8f82-40",
-    "slug": "nha-hang-hai-san-talata",
-    "name": "Nhà hàng hải sản Talata",
-    "category": "food",
-    "subCategory": "seafood-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "20 Minh Khai",
-      "lat": 20.861214,
-      "lng": 106.68502
-    },
-    "images": [],
-    "popularity": 82,
-    "source": "overture",
-    "sourceId": "a496bd88-8f82-409c-a6d3-59c53e473eed",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-4863cc1a-e058-41",
-    "slug": "nha-hang-quoc-huong",
-    "name": "Nhà hàng Quốc Hương",
-    "category": "food",
-    "subCategory": "vietnamese-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "1 Chương Dương",
-      "lat": 20.86211,
-      "lng": 106.67067
-    },
-    "images": [],
-    "popularity": 82,
-    "source": "overture",
-    "sourceId": "4863cc1a-e058-4116-b5a5-4d68a46205f1",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-bba6d652-a9dc-4a",
-    "slug": "khao-nua",
-    "name": "Khao & Nua",
-    "category": "food",
-    "subCategory": "thai-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "107 P.Điện Biên Phủ",
-      "lat": 20.861435,
-      "lng": 106.682198
-    },
-    "images": [],
-    "popularity": 82,
-    "source": "overture",
-    "sourceId": "bba6d652-a9dc-4a1f-ad70-42b64acf5a9d",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-f69bb407-e92a-4f",
-    "slug": "nha-hang-dai-thong",
-    "name": "Nha Hang Dai Thong",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "19 P. Lê Đại Hành",
-      "lat": 20.861032,
-      "lng": 106.683846
-    },
-    "images": [],
-    "popularity": 85,
-    "source": "overture",
-    "sourceId": "f69bb407-e92a-4fb8-a435-3b6644b1430d",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ed5e43c7-e136-43",
@@ -817,49 +691,175 @@
     "source": "overture",
     "sourceId": "ed5e43c7-e136-4354-8d00-da3af6081a36",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-22f85977-c3c8-44",
-    "slug": "myplace-coffee-pizza-pasta-and-gelato",
-    "name": "MyPlace - Coffee, Pizza, Pasta, and Gelato",
+    "id": "ovt-1d0feef2-c8dd-46",
+    "slug": "jollibee-hong-bang",
+    "name": "Jollibee",
     "category": "food",
-    "subCategory": "pizza-restaurant",
+    "subCategory": "fast-food-restaurant",
     "tags": [],
     "location": {
       "cityId": "hai-phong",
       "districtId": "hong-bang",
-      "address": "4-15 Đường Manhattan",
-      "lat": 20.85379,
-      "lng": 106.701294
+      "address": "Tầng 3 TTTM Vincom Imperia Hải Phòng, phường Thượng Lý, Q. Hồng Bàng. TP. Hải Phòng, Hải Phòng",
+      "lat": 20.862934,
+      "lng": 106.661827
     },
     "images": [],
-    "popularity": 63,
+    "popularity": 83,
     "source": "overture",
-    "sourceId": "22f85977-c3c8-4474-9e75-f56088a06215",
+    "sourceId": "1d0feef2-c8dd-462e-8976-2dedd00424a8",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-a3618365-f008-43",
-    "slug": "mixue-quan-toan-hai-phong",
-    "name": "Mixue Quán Toan Hải Phòng",
+    "id": "ovt-06f227bc-e140-46",
+    "slug": "minh-nguyet-bakery",
+    "name": "Minh nguyệt bakery",
     "category": "food",
-    "subCategory": "ice-cream-shop",
+    "subCategory": "bakery",
     "tags": [],
     "location": {
       "cityId": "hai-phong",
       "districtId": "hong-bang",
-      "address": "10 Khu Đô Thị Quán Toan",
-      "lat": 20.893654,
-      "lng": 106.605118
+      "address": "Minh nguyệt bakery, 36 Hải Triều",
+      "lat": 20.89094,
+      "lng": 106.604202
     },
     "images": [],
-    "popularity": 64,
+    "popularity": 71,
     "source": "overture",
-    "sourceId": "a3618365-f008-43cf-91db-e6fb5391a932",
+    "sourceId": "06f227bc-e140-46b8-8af4-82a233625276",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a496bd88-8f82-40",
+    "slug": "nha-hang-hai-san-talata",
+    "name": "Nhà hàng hải sản Talata",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "20 Minh Khai",
+      "lat": 20.861214,
+      "lng": 106.68502
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "a496bd88-8f82-409c-a6d3-59c53e473eed",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-baef97bc-038d-4c",
+    "slug": "buffet-hai-san-hp3",
+    "name": "Buffet Hải Sản HP3",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "97 Bạch Đằng",
+      "lat": 20.861172,
+      "lng": 106.672691
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "baef97bc-038d-4cd8-b58f-4e21b0af0bf0",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-4863cc1a-e058-41",
+    "slug": "nha-hang-quoc-huong",
+    "name": "Nhà hàng Quốc Hương",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "1 Chương Dương",
+      "lat": 20.86211,
+      "lng": 106.67067
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "4863cc1a-e058-4116-b5a5-4d68a46205f1",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-35b397b0-6e72-44",
+    "slug": "nha-hang-gia-vien",
+    "name": "Nhà Hàng Gia Viên",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "97 Bạch Đằng",
+      "lat": 20.862186,
+      "lng": 106.676003
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "35b397b0-6e72-441d-ae66-4220fb7f8915",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-21f67151-c3e0-47",
+    "slug": "lau-nuong-hoang-giang",
+    "name": "Lẩu Nướng Hoàng Giang",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "228 Đ. Hùng Vương",
+      "lat": 20.890882,
+      "lng": 106.599533
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "21f67151-c3e0-4757-8f02-464d8b4ef871",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-9eff8d1c-f1c3-4d",
+    "slug": "thuc-phuc",
+    "name": "Thuc Phuc",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "222 P. Tam Bạc",
+      "lat": 20.857647,
+      "lng": 106.676826
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "9eff8d1c-f1c3-4d1f-9145-4cbd428362ac",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-48d43dfe-4632-4b",
@@ -880,7 +880,7 @@
     "source": "overture",
     "sourceId": "48d43dfe-4632-4b41-a3bc-7d99ad06f006",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-91a1ed57-01d3-49",
@@ -901,154 +901,7 @@
     "source": "overture",
     "sourceId": "91a1ed57-01d3-49eb-8517-9593844e1b31",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-836edc7b-e39a-4a",
-    "slug": "pizza-hut-ngo-quyen",
-    "name": "Pizza Hut",
-    "category": "food",
-    "subCategory": "pizza-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "ngo-quyen",
-      "address": "202 P. Văn Cao",
-      "lat": 20.834742,
-      "lng": 106.701553
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "836edc7b-e39a-4a5d-b9ec-f9ebc65a0868",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-57da4866-196f-4b",
-    "slug": "timi-bakery",
-    "name": "Timi Bakery",
-    "category": "food",
-    "subCategory": "bakery",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "ngo-quyen",
-      "address": "37 Phố Lương Khánh Thiện",
-      "lat": 20.859045,
-      "lng": 106.689857
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "57da4866-196f-4b09-bb7b-3bc8bf8f5bfc",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-6f37c705-30d8-40",
-    "slug": "trung-tam-tiec-cuoi-dai-loc",
-    "name": "Trung tâm tiệc cưới Đại Lộc",
-    "category": "food",
-    "subCategory": "seafood-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "ngo-quyen",
-      "address": "280 Phố Lạch Tray",
-      "lat": 20.83967,
-      "lng": 106.694351
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "6f37c705-30d8-4007-867b-ad8899e9a6b4",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-554c6b61-f944-41",
-    "slug": "banh-da-cua-ba-cu",
-    "name": "Bánh Đa Cua Bà Cụ",
-    "category": "food",
-    "subCategory": "vietnamese-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "ngo-quyen",
-      "address": "179 P. Cầu Đất",
-      "lat": 20.852663,
-      "lng": 106.685471
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "554c6b61-f944-41a2-9f68-fe4c3d0d567b",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-2f359656-27ef-4f",
-    "slug": "hai-dang-japanese-restaurant",
-    "name": "Hai Dang Japanese Restaurant",
-    "category": "food",
-    "subCategory": "japanese-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "ngo-quyen",
-      "address": "19 P. Trần Khánh Dư",
-      "lat": 20.86231,
-      "lng": 106.692459
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "2f359656-27ef-4fc7-a1dc-1adf1fbbdfaf",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-eea3fec2-ba56-44",
-    "slug": "lotteria-tran-phu-hai-phong",
-    "name": "Lotteria Trần Phú Hải Phòng",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "ngo-quyen",
-      "address": "88 P. Trần Phú",
-      "lat": 20.857582,
-      "lng": 106.685486
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "eea3fec2-ba56-4433-8c10-2a3cfeb7704c",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-193cace4-960e-4d",
-    "slug": "kp-yoga-and-vegetarian-restaurant",
-    "name": "KP Yoga and Vegetarian Restaurant",
-    "category": "food",
-    "subCategory": "vegetarian-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "ngo-quyen",
-      "address": "4/25 P.Điện Biên Phủ",
-      "lat": 20.861311,
-      "lng": 106.689629
-    },
-    "images": [],
-    "popularity": 65,
-    "source": "overture",
-    "sourceId": "193cace4-960e-4d0d-b405-0569891793fb",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-22e485e7-1fc3-4a",
@@ -1069,7 +922,154 @@
     "source": "overture",
     "sourceId": "22e485e7-1fc3-4a45-a4d2-cd0456080c0e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-836edc7b-e39a-4a",
+    "slug": "pizza-hut-ngo-quyen",
+    "name": "Pizza Hut",
+    "category": "food",
+    "subCategory": "pizza-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "202 P. Văn Cao",
+      "lat": 20.834742,
+      "lng": 106.701553
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "836edc7b-e39a-4a5d-b9ec-f9ebc65a0868",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-57da4866-196f-4b",
+    "slug": "timi-bakery",
+    "name": "Timi Bakery",
+    "category": "food",
+    "subCategory": "bakery",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "37 Phố Lương Khánh Thiện",
+      "lat": 20.859045,
+      "lng": 106.689857
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "57da4866-196f-4b09-bb7b-3bc8bf8f5bfc",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6f37c705-30d8-40",
+    "slug": "trung-tam-tiec-cuoi-dai-loc",
+    "name": "Trung tâm tiệc cưới Đại Lộc",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "280 Phố Lạch Tray",
+      "lat": 20.83967,
+      "lng": 106.694351
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "6f37c705-30d8-4007-867b-ad8899e9a6b4",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7401f257-2784-40",
+    "slug": "nha-hang-sieu-thi-hai-san-hai-dang",
+    "name": "Nhà hàng Siêu thị Hải sản Hải Đăng",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "19 Phố Trần Khánh Dư",
+      "lat": 20.862625,
+      "lng": 106.692421
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "7401f257-2784-40f9-bc7f-2a141599f1da",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-554c6b61-f944-41",
+    "slug": "banh-da-cua-ba-cu",
+    "name": "Bánh Đa Cua Bà Cụ",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "179 P. Cầu Đất",
+      "lat": 20.852663,
+      "lng": 106.685471
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "554c6b61-f944-41a2-9f68-fe4c3d0d567b",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5d65fdff-ec03-49",
+    "slug": "cha-ca-yen-the-34-van-cao-hp",
+    "name": "Chả Cá Yên Thế - 34 Văn Cao HP",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "Số 34 Văn Cao, Đằng Giang, Quận Ngô Quyền, TP. Hải Phòng",
+      "lat": 20.840136,
+      "lng": 106.699684
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "5d65fdff-ec03-497c-9cfc-a0ea76d31a28",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-585d0057-1969-4d",
+    "slug": "mai-hong-phuc-restaurant",
+    "name": "Mai Hong Phuc Restaurant",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "1 Phố Lê Lợi",
+      "lat": 20.829786,
+      "lng": 106.697144
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "585d0057-1969-4d0d-9468-a0c0fd6cebf4",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-9c10c156-0cd2-4b",
@@ -1092,78 +1092,7 @@
     "source": "overture",
     "sourceId": "9c10c156-0cd2-4b1e-b02d-625bbcdf5969",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-80f5c575-1f72-40",
-    "slug": "galaxy-cinema-hai-phong",
-    "name": "Galaxy Cinema Hải Phòng",
-    "category": "entertainment",
-    "subCategory": "cinema",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "ngo-quyen",
-      "address": "104 P. Lương Khánh Thiện",
-      "lat": 20.856171,
-      "lng": 106.686485
-    },
-    "images": [],
-    "popularity": 82,
-    "source": "overture",
-    "sourceId": "80f5c575-1f72-40ac-b9cb-ae6a96c7c172",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-7117a171-3d99-49",
-    "slug": "karaoke-deluxe",
-    "name": "Karaoke Deluxe",
-    "category": "entertainment",
-    "subCategory": "karaoke",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "ngo-quyen",
-      "address": "số 4, Đ. Lê Hồng Phong",
-      "lat": 20.854164,
-      "lng": 106.700035
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "7117a171-3d99-492c-a404-0cbc005a957e",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-7f6bfb88-47c6-40",
-    "slug": "nha-may-bia-hai-phong",
-    "name": "Nhà máy bia Hải Phòng",
-    "category": "entertainment",
-    "subCategory": "brewery",
-    "tags": [
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "ngo-quyen",
-      "address": "16 Phố Lạch Tray",
-      "lat": 20.850853,
-      "lng": 106.687241
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "7f6bfb88-47c6-40c7-b497-822a1ce02375",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-57d15810-0eb4-49",
@@ -1187,7 +1116,31 @@
     "source": "overture",
     "sourceId": "57d15810-0eb4-49b0-a001-f1200b367f41",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-80f5c575-1f72-40",
+    "slug": "galaxy-cinema-hai-phong",
+    "name": "Galaxy Cinema Hải Phòng",
+    "category": "entertainment",
+    "subCategory": "cinema",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "104 P. Lương Khánh Thiện",
+      "lat": 20.856171,
+      "lng": 106.686485
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "80f5c575-1f72-40ac-b9cb-ae6a96c7c172",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e9321b09-a9b4-4f",
@@ -1211,12 +1164,12 @@
     "source": "overture",
     "sourceId": "e9321b09-a9b4-4f83-8132-95eee775b461",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-3ffea13b-eeea-4b",
-    "slug": "ola-karaoke",
-    "name": "Ola Karaoke",
+    "id": "ovt-7117a171-3d99-49",
+    "slug": "karaoke-deluxe",
+    "name": "Karaoke Deluxe",
     "category": "entertainment",
     "subCategory": "karaoke",
     "tags": [
@@ -1226,40 +1179,39 @@
     "location": {
       "cityId": "hai-phong",
       "districtId": "ngo-quyen",
-      "address": "Số 155 Lô 7c - Đường, Đ. Lê Hồng Phong",
-      "lat": 20.851532,
-      "lng": 106.707108
+      "address": "số 4, Đ. Lê Hồng Phong",
+      "lat": 20.854164,
+      "lng": 106.700035
     },
     "images": [],
-    "popularity": 71,
+    "popularity": 72,
     "source": "overture",
-    "sourceId": "3ffea13b-eeea-4b2b-b271-7442c56ab26f",
+    "sourceId": "7117a171-3d99-492c-a404-0cbc005a957e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-36f28462-a02c-4d",
-    "slug": "mya-pub",
-    "name": "Mya Pub",
+    "id": "ovt-7f6bfb88-47c6-40",
+    "slug": "nha-may-bia-hai-phong",
+    "name": "Nhà máy bia Hải Phòng",
     "category": "entertainment",
-    "subCategory": "bar",
+    "subCategory": "brewery",
     "tags": [
-      "trong-nha",
-      "mo-khuya"
+      "trong-nha"
     ],
     "location": {
       "cityId": "hai-phong",
       "districtId": "ngo-quyen",
-      "address": "134 P. Văn Cao",
-      "lat": 20.837128,
-      "lng": 106.700615
+      "address": "16 Phố Lạch Tray",
+      "lat": 20.850853,
+      "lng": 106.687241
     },
     "images": [],
     "popularity": 84,
     "source": "overture",
-    "sourceId": "36f28462-a02c-4d02-9c7a-e159fc0cf427",
+    "sourceId": "7f6bfb88-47c6-40c7-b497-822a1ce02375",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-5c45ea3c-8258-43",
@@ -1283,7 +1235,55 @@
     "source": "overture",
     "sourceId": "5c45ea3c-8258-431f-8972-cf3ea448e9c5",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-3ffea13b-eeea-4b",
+    "slug": "ola-karaoke",
+    "name": "Ola Karaoke",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "Số 155 Lô 7c - Đường, Đ. Lê Hồng Phong",
+      "lat": 20.851532,
+      "lng": 106.707108
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "3ffea13b-eeea-4b2b-b271-7442c56ab26f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-36f28462-a02c-4d",
+    "slug": "mya-pub",
+    "name": "Mya Pub",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "134 P. Văn Cao",
+      "lat": 20.837128,
+      "lng": 106.700615
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "36f28462-a02c-4d02-9c7a-e159fc0cf427",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a980027d-7597-43",
@@ -1307,7 +1307,7 @@
     "source": "overture",
     "sourceId": "a980027d-7597-4337-90c1-963ca8fc3715",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-bc867117-1cb7-46",
@@ -1330,81 +1330,7 @@
     "source": "overture",
     "sourceId": "bc867117-1cb7-4642-bfec-aa7e9597c6f1",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-db3b8bb2-177e-47",
-    "slug": "hoa-hoe-garden-sen-da-hai-phong",
-    "name": "Hoa Hoe Garden. Sen đá Hải Phòng",
-    "category": "outdoor",
-    "subCategory": "park",
-    "tags": [
-      "ngoai-troi",
-      "cay-xanh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "25/73/229 miếu hai xã",
-      "lat": 20.838327,
-      "lng": 106.68663
-    },
-    "images": [],
-    "popularity": 65,
-    "source": "overture",
-    "sourceId": "db3b8bb2-177e-47d6-8be3-712c73001e30",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-7c033a55-5ffb-41",
-    "slug": "chua-ven",
-    "name": "Chua Ven",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "244 P. Tô Hiệu",
-      "lat": 20.85067,
-      "lng": 106.677559
-    },
-    "images": [],
-    "popularity": 69,
-    "source": "overture",
-    "sourceId": "7c033a55-5ffb-41d8-b576-e00aaedf6711",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-655e0d8d-fc29-4d",
-    "slug": "victory-hotel-and-apartment",
-    "name": "Victory Hotel and Apartment",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "119 P. Nguyễn Đức Cảnh",
-      "lat": 20.854259,
-      "lng": 106.672966
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "655e0d8d-fc29-4d93-aa23-c8d7a04794bf",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a8631b43-58da-4f",
@@ -1429,80 +1355,7 @@
     "source": "overture",
     "sourceId": "a8631b43-58da-4f98-bf94-6bcf51b5ef4d",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-10aa33f5-4322-42",
-    "slug": "dem-hoi-intex-hai-phong",
-    "name": "Đệm hơi INTEX Hải Phòng",
-    "category": "outdoor",
-    "subCategory": "cave",
-    "tags": [
-      "ngoai-troi"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "16 Đường Nguyễn Văn Linh",
-      "lat": 20.839504,
-      "lng": 106.691734
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "10aa33f5-4322-4241-a8dc-f619bc7855ec",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-63f1b955-467f-4f",
-    "slug": "phuc-thien-linh-sinh-tu",
-    "name": "Phúc Thiên Linh Sinh Tự",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "4/102/292 Lạch Tray, Kênh Dương, Lê Chân, Hải Phòng. ",
-      "lat": 20.833887,
-      "lng": 106.693871
-    },
-    "images": [],
-    "popularity": 58,
-    "source": "overture",
-    "sourceId": "63f1b955-467f-4f85-a946-582ff4aaf30c",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-5397bee6-2161-4c",
-    "slug": "rose-residence-vo-nguyen-giap-le-chan-hai-phong",
-    "name": "Rose Residence - Võ Nguyên Giáp, Lê Chân, Hải Phòng",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "Võ Nguyên Giáp, Kênh Dương, Lê Chân, Hải Phòng",
-      "lat": 20.827608,
-      "lng": 106.687019
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "5397bee6-2161-4c2e-9fd0-65a59f559a97",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-32e46585-6d5b-43",
@@ -1527,7 +1380,54 @@
     "source": "overture",
     "sourceId": "32e46585-6d5b-43c2-8663-96dad330bd7c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-db3b8bb2-177e-47",
+    "slug": "hoa-hoe-garden-sen-da-hai-phong",
+    "name": "Hoa Hoe Garden. Sen đá Hải Phòng",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "25/73/229 miếu hai xã",
+      "lat": 20.838327,
+      "lng": 106.68663
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "db3b8bb2-177e-47d6-8be3-712c73001e30",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-10aa33f5-4322-42",
+    "slug": "dem-hoi-intex-hai-phong",
+    "name": "Đệm hơi INTEX Hải Phòng",
+    "category": "outdoor",
+    "subCategory": "cave",
+    "tags": [
+      "ngoai-troi"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "16 Đường Nguyễn Văn Linh",
+      "lat": 20.839504,
+      "lng": 106.691734
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "10aa33f5-4322-4241-a8dc-f619bc7855ec",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-9ec710c4-bb2f-44",
@@ -1551,7 +1451,106 @@
     "source": "overture",
     "sourceId": "9ec710c4-bb2f-4495-954a-9987293874d8",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7c033a55-5ffb-41",
+    "slug": "chua-ven",
+    "name": "Chua Ven",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "244 P. Tô Hiệu",
+      "lat": 20.85067,
+      "lng": 106.677559
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "7c033a55-5ffb-41d8-b576-e00aaedf6711",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-655e0d8d-fc29-4d",
+    "slug": "victory-hotel-and-apartment",
+    "name": "Victory Hotel and Apartment",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "119 P. Nguyễn Đức Cảnh",
+      "lat": 20.854259,
+      "lng": 106.672966
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "655e0d8d-fc29-4d93-aa23-c8d7a04794bf",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-99ce643b-1c4b-48",
+    "slug": "tranh-son-dau-duy-khiem",
+    "name": "Tranh Sơn Dầu Duy Khiêm",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "5 P. Mê Linh",
+      "lat": 20.855583,
+      "lng": 106.681084
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "99ce643b-1c4b-4810-83ad-f6792ec42104",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ec31a89b-a8e3-4a",
+    "slug": "khu-vui-choi-khanh-vy-an-trang",
+    "name": "Khu Vui Chơi Khánh Vy - An Trang",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "Đường A4",
+      "lat": 20.847429,
+      "lng": 106.658409
+    },
+    "images": [],
+    "popularity": 47,
+    "source": "overture",
+    "sourceId": "ec31a89b-a8e3-4a69-8a92-5973ebb8529b",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c552f9f0-f3c8-42",
@@ -1572,7 +1571,7 @@
     "source": "overture",
     "sourceId": "c552f9f0-f3c8-4211-9468-5f39bde5fcc5",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-00ee36a1-a1d4-42",
@@ -1593,7 +1592,7 @@
     "source": "overture",
     "sourceId": "00ee36a1-a1d4-42f5-b89e-07d8b85780e2",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-bd03f96b-5cfb-47",
@@ -1614,112 +1613,7 @@
     "source": "overture",
     "sourceId": "bd03f96b-5cfb-470b-8833-02b8737e7165",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-6c97e794-63d8-40",
-    "slug": "khoi-bep",
-    "name": "Khói Bếp",
-    "category": "food",
-    "subCategory": "asian-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "thuy-nguyen",
-      "address": "76 Trần Hưng Đạo",
-      "lat": 20.919983,
-      "lng": 106.68013
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "6c97e794-63d8-40ba-9820-db1131b7965b",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-c4b63052-0a35-4b",
-    "slug": "dong-duong-bbq-lau-nuong-han-quoc",
-    "name": "ĐÔNG DƯƠNG BBQ - Lẩu Nướng Hàn Quốc",
-    "category": "food",
-    "subCategory": "barbecue-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "thuy-nguyen",
-      "address": "Khu đô thị Gò Gai - Núi Đèo -  Thủy Nguyên ",
-      "lat": 20.917048,
-      "lng": 106.668602
-    },
-    "images": [],
-    "popularity": 66,
-    "source": "overture",
-    "sourceId": "c4b63052-0a35-4b49-ae9a-a1f7e3832947",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-372032cd-def0-43",
-    "slug": "nga-ba-trinh",
-    "name": "Ngã ba Trịnh",
-    "category": "food",
-    "subCategory": "vietnamese-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "thuy-nguyen",
-      "address": "Đường 352",
-      "lat": 20.922323,
-      "lng": 106.642998
-    },
-    "images": [],
-    "popularity": 63,
-    "source": "overture",
-    "sourceId": "372032cd-def0-4340-803c-0f5a73ce0521",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-18d9df95-160c-4a",
-    "slug": "jollibee-thuy-nguyen",
-    "name": "Jollibee",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "thuy-nguyen",
-      "address": "151 Bạch Đằng",
-      "lat": 20.920204,
-      "lng": 106.679321
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "18d9df95-160c-4af4-9f3a-606e243b50b5",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-0d0bd25b-4298-43",
-    "slug": "la",
-    "name": "Lá",
-    "category": "food",
-    "subCategory": "bakery",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "thuy-nguyen",
-      "address": "Cầu Đen, Hoa Động, Thuỷ Nguyên",
-      "lat": 20.889067,
-      "lng": 106.668953
-    },
-    "images": [],
-    "popularity": 60,
-    "source": "overture",
-    "sourceId": "0d0bd25b-4298-43e7-8695-adb9f89d5025",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-5d3a385d-b95c-45",
@@ -1740,28 +1634,133 @@
     "source": "overture",
     "sourceId": "5d3a385d-b95c-45dd-8f8f-5f1536a505e6",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-59c21f2c-b9c7-47",
-    "slug": "nha-hang-song-que",
-    "name": "Nhà hàng Sông Quê",
+    "id": "ovt-6c97e794-63d8-40",
+    "slug": "khoi-bep",
+    "name": "Khói Bếp",
     "category": "food",
     "subCategory": "asian-restaurant",
     "tags": [],
     "location": {
       "cityId": "hai-phong",
       "districtId": "thuy-nguyen",
-      "address": "Đầu Cầu",
-      "lat": 20.910879,
-      "lng": 106.743454
+      "address": "76 Trần Hưng Đạo",
+      "lat": 20.919983,
+      "lng": 106.68013
     },
     "images": [],
-    "popularity": 73,
+    "popularity": 71,
     "source": "overture",
-    "sourceId": "59c21f2c-b9c7-4775-9b4d-7163ddcac167",
+    "sourceId": "6c97e794-63d8-40ba-9820-db1131b7965b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c4b63052-0a35-4b",
+    "slug": "dong-duong-bbq-lau-nuong-han-quoc",
+    "name": "ĐÔNG DƯƠNG BBQ - Lẩu Nướng Hàn Quốc",
+    "category": "food",
+    "subCategory": "barbecue-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "thuy-nguyen",
+      "address": "Khu đô thị Gò Gai - Núi Đèo -  Thủy Nguyên ",
+      "lat": 20.917048,
+      "lng": 106.668602
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "c4b63052-0a35-4b49-ae9a-a1f7e3832947",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c754ff33-6791-40",
+    "slug": "pho-nuong-buffet-lau-nuong-khong-khoi",
+    "name": "Phố Nướng - Buffet lẩu nướng không khói",
+    "category": "food",
+    "subCategory": "barbecue-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "thuy-nguyen",
+      "address": "Khu đô thị Gò Gai, Núi Đèo, Thuỷ Nguyên",
+      "lat": 20.917259,
+      "lng": 106.670662
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "c754ff33-6791-407e-b248-9c3a0fb07cf7",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-372032cd-def0-43",
+    "slug": "nga-ba-trinh",
+    "name": "Ngã ba Trịnh",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "thuy-nguyen",
+      "address": "Đường 352",
+      "lat": 20.922323,
+      "lng": 106.642998
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "372032cd-def0-4340-803c-0f5a73ce0521",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7229bab3-cc4a-48",
+    "slug": "cho-lam-quan",
+    "name": "Chợ Lâm Quán",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "thuy-nguyen",
+      "address": "Xã Lâm Động, huyện Thủy Nguyên, Hải Phòng",
+      "lat": 20.894127,
+      "lng": 106.647758
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "7229bab3-cc4a-48a1-86c0-fb7d2f780a09",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ec116027-f634-45",
+    "slug": "nha-hang-chi-ngoc",
+    "name": "Nhà Hàng Chí Ngọc",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "thuy-nguyen",
+      "address": "QL10",
+      "lat": 20.9147,
+      "lng": 106.632477
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "ec116027-f634-459d-85f2-d2154515787a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-af613042-e7e8-46",
@@ -1785,7 +1784,7 @@
     "source": "overture",
     "sourceId": "af613042-e7e8-46a5-9a07-32d32a6c000a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6405087e-af0a-47",
@@ -1809,7 +1808,7 @@
     "source": "overture",
     "sourceId": "6405087e-af0a-47d7-b8ae-058566853a7d",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-50bcb560-2be4-45",
@@ -1833,55 +1832,7 @@
     "source": "overture",
     "sourceId": "50bcb560-2be4-45a2-8eea-9cd9e62b99b2",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-af841533-933f-49",
-    "slug": "vua-cha-ca-aeon-mall-hai-phong",
-    "name": "Vua Chả Cá Aeon Mall Hải Phòng",
-    "category": "entertainment",
-    "subCategory": "arcade",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "Aeon Mall, 10 Võ Nguyên Giáp",
-      "lat": 20.832226,
-      "lng": 106.682579
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "af841533-933f-491d-bd26-143796267fb7",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-c69ad42e-6faf-4d",
-    "slug": "the-myth",
-    "name": "THE MYTH",
-    "category": "entertainment",
-    "subCategory": "pub",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "429 Phố Hoàng Minh Thảo",
-      "lat": 20.836308,
-      "lng": 106.676697
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "c69ad42e-6faf-4d3c-af40-bd0af479c425",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-0705ff76-9c36-4c",
@@ -1904,55 +1855,7 @@
     "source": "overture",
     "sourceId": "0705ff76-9c36-4cf5-a6cf-fb968e6bbcb9",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-eb91cb7e-0d37-4e",
-    "slug": "karaoke-69",
-    "name": "Karaoke 69",
-    "category": "entertainment",
-    "subCategory": "karaoke",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "69 P. Nguyễn Công Trứ",
-      "lat": 20.845797,
-      "lng": 106.682228
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "eb91cb7e-0d37-4e6a-a60e-ef4599618257",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-7550eadb-4fb8-48",
-    "slug": "wormmm-home-bar-classic",
-    "name": "Wormmm Home Bar Classic",
-    "category": "entertainment",
-    "subCategory": "cocktail-bar",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "76/84 Đ. Dân Lập",
-      "lat": 20.84,
-      "lng": 106.687309
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "7550eadb-4fb8-48f9-8e31-b431fc24f777",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-fa54afa0-5eb1-46",
@@ -1976,14 +1879,14 @@
     "source": "overture",
     "sourceId": "fa54afa0-5eb1-4616-a70f-578928e82dca",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-1ac50685-4cbb-4b",
-    "slug": "phuc-long-galaxy-billiards-club",
-    "name": "Phuc Long Galaxy Billiards Club",
+    "id": "ovt-af841533-933f-49",
+    "slug": "vua-cha-ca-aeon-mall-hai-phong",
+    "name": "Vua Chả Cá Aeon Mall Hải Phòng",
     "category": "entertainment",
-    "subCategory": "pool-billiards",
+    "subCategory": "arcade",
     "tags": [
       "trong-nha",
       "may-lanh"
@@ -1991,16 +1894,111 @@
     "location": {
       "cityId": "hai-phong",
       "districtId": "le-chan",
-      "address": "Tầng 3 tòa nhà KimQuocTien (Đối diện cổng A, TTTM Aeon Mall Lê Chân, Hải Phòng)",
-      "lat": 20.833687,
-      "lng": 106.679619
+      "address": "Aeon Mall, 10 Võ Nguyên Giáp",
+      "lat": 20.832226,
+      "lng": 106.682579
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "af841533-933f-491d-bd26-143796267fb7",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c69ad42e-6faf-4d",
+    "slug": "the-myth",
+    "name": "THE MYTH",
+    "category": "entertainment",
+    "subCategory": "pub",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "429 Phố Hoàng Minh Thảo",
+      "lat": 20.836308,
+      "lng": 106.676697
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "c69ad42e-6faf-4d3c-af40-bd0af479c425",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-1a745b55-896c-48",
+    "slug": "hai-phong-thanh-pho-my-nhan",
+    "name": "Hải Phòng - Thành phố Mỹ Nhân",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "2/76 Ngô Kim Tài",
+      "lat": 20.834311,
+      "lng": 106.689949
+    },
+    "images": [],
+    "popularity": 45,
+    "source": "overture",
+    "sourceId": "1a745b55-896c-48b7-9092-abc056a7f8dc",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-eb91cb7e-0d37-4e",
+    "slug": "karaoke-69",
+    "name": "Karaoke 69",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "69 P. Nguyễn Công Trứ",
+      "lat": 20.845797,
+      "lng": 106.682228
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "eb91cb7e-0d37-4e6a-a60e-ef4599618257",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7550eadb-4fb8-48",
+    "slug": "wormmm-home-bar-classic",
+    "name": "Wormmm Home Bar Classic",
+    "category": "entertainment",
+    "subCategory": "cocktail-bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "76/84 Đ. Dân Lập",
+      "lat": 20.84,
+      "lng": 106.687309
     },
     "images": [],
     "popularity": 71,
     "source": "overture",
-    "sourceId": "1ac50685-4cbb-4b82-909b-a685daebbb69",
+    "sourceId": "7550eadb-4fb8-48f9-8e31-b431fc24f777",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-deec9942-3b0f-49",
@@ -2023,7 +2021,28 @@
     "source": "overture",
     "sourceId": "deec9942-3b0f-4942-958f-7e06851bb732",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-cc8fdd09-464f-4e",
+    "slug": "minsu-tea-my-cay-so-10-bo-ho-hanh-phuc-kien-an",
+    "name": "Minsu Tea - Mỳ Cay số 10 Bờ Hồ Hạnh Phúc Kiến An",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "kien-an",
+      "address": "128 Phố Phan Đăng Lưu",
+      "lat": 20.810558,
+      "lng": 106.624046
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "cc8fdd09-464f-4efc-8999-9783c769f393",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-eb5e5a89-e4d8-41",
@@ -2046,28 +2065,7 @@
     "source": "overture",
     "sourceId": "eb5e5a89-e4d8-419e-a8ad-e9c6c99d7004",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-cc8fdd09-464f-4e",
-    "slug": "minsu-tea-my-cay-so-10-bo-ho-hanh-phuc-kien-an",
-    "name": "Minsu Tea - Mỳ Cay số 10 Bờ Hồ Hạnh Phúc Kiến An",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "kien-an",
-      "address": "128 Phố Phan Đăng Lưu",
-      "lat": 20.810558,
-      "lng": 106.624046
-    },
-    "images": [],
-    "popularity": 59,
-    "source": "overture",
-    "sourceId": "cc8fdd09-464f-4efc-8999-9783c769f393",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-51391a74-3595-4f",
@@ -2090,7 +2088,7 @@
     "source": "overture",
     "sourceId": "51391a74-3595-4f8c-be15-09eb677d9651",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-077b4dc3-1d1a-49",
@@ -2111,7 +2109,28 @@
     "source": "overture",
     "sourceId": "077b4dc3-1d1a-49fe-9e25-9d0956ef4f2c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-951df92d-a043-4b",
+    "slug": "may-house",
+    "name": "May House",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "kien-an",
+      "address": "5 Phố Đồng Hòa",
+      "lat": 20.821789,
+      "lng": 106.653816
+    },
+    "images": [],
+    "popularity": 52,
+    "source": "overture",
+    "sourceId": "951df92d-a043-4b3a-afdf-8c355641c0a8",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e4e05586-97ef-41",
@@ -2134,28 +2153,7 @@
     "source": "overture",
     "sourceId": "e4e05586-97ef-41ee-ab2a-5b2595d91573",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-951df92d-a043-4b",
-    "slug": "may-house",
-    "name": "May House",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "kien-an",
-      "address": "5 Phố Đồng Hòa",
-      "lat": 20.821789,
-      "lng": 106.653816
-    },
-    "images": [],
-    "popularity": 52,
-    "source": "overture",
-    "sourceId": "951df92d-a043-4b3a-afdf-8c355641c0a8",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-976df7ef-1f8c-4d",
@@ -2178,7 +2176,7 @@
     "source": "overture",
     "sourceId": "976df7ef-1f8c-4d8c-8f1a-a96941a1c111",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-9dfb14ef-aebe-41",
@@ -2201,7 +2199,7 @@
     "source": "overture",
     "sourceId": "9dfb14ef-aebe-4147-9074-5834e61437be",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a00c8110-c6b7-4e",
@@ -2224,7 +2222,7 @@
     "source": "overture",
     "sourceId": "a00c8110-c6b7-4e5b-a25d-f9ad7f6d0dc8",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-1f962301-efd3-47",
@@ -2245,7 +2243,7 @@
     "source": "overture",
     "sourceId": "1f962301-efd3-476b-af78-f8b8cf5fe2f8",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-fbccb052-abaf-49",
@@ -2266,7 +2264,28 @@
     "source": "overture",
     "sourceId": "fbccb052-abaf-49b2-96c0-86b52fdac912",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-0ded7728-9a45-46",
+    "slug": "tra-nhat-cuong",
+    "name": "Trà Nhất Cương",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "9 P. Mê Linh",
+      "lat": 20.855278,
+      "lng": 106.680092
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "0ded7728-9a45-4602-8787-f6cb380f96f9",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c4d0e01a-1848-48",
@@ -2289,28 +2308,7 @@
     "source": "overture",
     "sourceId": "c4d0e01a-1848-48f4-b25d-01a92f1fcea6",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-0ded7728-9a45-46",
-    "slug": "tra-nhat-cuong",
-    "name": "Trà Nhất Cương",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "9 P. Mê Linh",
-      "lat": 20.855278,
-      "lng": 106.680092
-    },
-    "images": [],
-    "popularity": 69,
-    "source": "overture",
-    "sourceId": "0ded7728-9a45-4602-8787-f6cb380f96f9",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-14d9a8de-5bc1-43",
@@ -2333,7 +2331,7 @@
     "source": "overture",
     "sourceId": "14d9a8de-5bc1-43be-8851-ba65a456efc6",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a17885a8-25b6-4e",
@@ -2356,30 +2354,7 @@
     "source": "overture",
     "sourceId": "a17885a8-25b6-4ea1-a6cf-5c9fc92b99d9",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-f75d7d21-a052-4e",
-    "slug": "kelicius-bistro",
-    "name": "Kêlicius Bistro",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "1B P. Thiên Lôi",
-      "lat": 20.829533,
-      "lng": 106.697426
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "f75d7d21-a052-4e7e-98d0-391868ce84f3",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-d8371c05-39ca-4a",
@@ -2402,7 +2377,30 @@
     "source": "overture",
     "sourceId": "d8371c05-39ca-4aca-a437-d73e8279cc79",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f75d7d21-a052-4e",
+    "slug": "kelicius-bistro",
+    "name": "Kêlicius Bistro",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "1B P. Thiên Lôi",
+      "lat": 20.829533,
+      "lng": 106.697426
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "f75d7d21-a052-4e7e-98d0-391868ce84f3",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-700da958-3615-49",
@@ -2425,7 +2423,7 @@
     "source": "overture",
     "sourceId": "700da958-3615-49ec-823f-fb0902d9b194",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-02518ceb-72cc-4a",
@@ -2446,7 +2444,7 @@
     "source": "overture",
     "sourceId": "02518ceb-72cc-4a9a-b72f-e2a8e9fe0f67",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-4ab5cd78-8073-41",
@@ -2467,7 +2465,7 @@
     "source": "overture",
     "sourceId": "4ab5cd78-8073-412d-947b-3d55cf23225c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7865287f-19b6-4e",
@@ -2488,7 +2486,7 @@
     "source": "overture",
     "sourceId": "7865287f-19b6-4efd-b267-b445876e278e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6c6caeb5-b47b-44",
@@ -2509,112 +2507,7 @@
     "source": "overture",
     "sourceId": "6c6caeb5-b47b-4410-a636-fcb0235bbdd8",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-914c2481-402c-4f",
-    "slug": "noi-that-phong-tho-minh-duc",
-    "name": "Nội Thất Phòng Thờ Minh Đức",
-    "category": "food",
-    "subCategory": "vietnamese-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "kien-an",
-      "address": "433 Đường Trần Nhân Tông",
-      "lat": 20.812843,
-      "lng": 106.644325
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "914c2481-402c-4fcc-be39-6c98d714c071",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-ba7869e1-494d-41",
-    "slug": "goofoo-gelato-kien-an-hai-phong-122-phan-dang-luu",
-    "name": "Goofoo Gelato Kiến An - Hải Phòng - 122 Phan Đăng Lưu",
-    "category": "food",
-    "subCategory": "ice-cream-shop",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "kien-an",
-      "address": "122 Phố Phan Đăng Lưu",
-      "lat": 20.80769,
-      "lng": 106.624245
-    },
-    "images": [],
-    "popularity": 75,
-    "source": "overture",
-    "sourceId": "ba7869e1-494d-414e-bb15-ca70cc9bcd07",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-4cb56cdc-5df4-46",
-    "slug": "vat-lieu-xay-dung-hai-phong",
-    "name": "Vật liệu xây dựng Hải Phòng",
-    "category": "food",
-    "subCategory": "korean-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "kien-an",
-      "address": "308/26 Đường Hoàng Quốc Việt",
-      "lat": 20.815617,
-      "lng": 106.616837
-    },
-    "images": [],
-    "popularity": 63,
-    "source": "overture",
-    "sourceId": "4cb56cdc-5df4-469d-abc1-2a1347784d20",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-39fd7f70-5a16-42",
-    "slug": "ahai-hongkong-hotpot-kien-an",
-    "name": "AHAI - HongKong hotpot Kiến An",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "kien-an",
-      "address": "846 Trần Nhân Tông",
-      "lat": 20.804947,
-      "lng": 106.637749
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "39fd7f70-5a16-428b-ab6e-4039031afd11",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-6df23f19-50a7-43",
-    "slug": "my-cay-redsun-7-cap-do",
-    "name": "Mỳ Cay RedSun 7 Cấp Độ",
-    "category": "food",
-    "subCategory": "fast-food-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "kien-an",
-      "address": "251 Phan Đăng Lưu",
-      "lat": 20.81266,
-      "lng": 106.623718
-    },
-    "images": [],
-    "popularity": 46,
-    "source": "overture",
-    "sourceId": "6df23f19-50a7-436c-a046-6579fa77e7e6",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-122f2bac-f6ae-49",
@@ -2635,7 +2528,28 @@
     "source": "overture",
     "sourceId": "122f2bac-f6ae-4907-b1e2-ff52ac6cc02b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-914c2481-402c-4f",
+    "slug": "noi-that-phong-tho-minh-duc",
+    "name": "Nội Thất Phòng Thờ Minh Đức",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "kien-an",
+      "address": "433 Đường Trần Nhân Tông",
+      "lat": 20.812843,
+      "lng": 106.644325
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "914c2481-402c-4fcc-be39-6c98d714c071",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ad34c525-d322-4f",
@@ -2656,7 +2570,91 @@
     "source": "overture",
     "sourceId": "ad34c525-d322-4fd7-889f-2e243de8faa3",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-91c642ca-fe97-4e",
+    "slug": "lyly-smoke",
+    "name": "Lyly Smoke",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "kien-an",
+      "address": "371 Đường Lê Duẩn",
+      "lat": 20.821428,
+      "lng": 106.63221
+    },
+    "images": [],
+    "popularity": 52,
+    "source": "overture",
+    "sourceId": "91c642ca-fe97-4e68-b1bb-5cee6cc80df8",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-1cf7aa4f-bd4f-49",
+    "slug": "nha-hang-hai-san-tuan-hung",
+    "name": "Nha Hang Hai San Tuan Hung",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "kien-an",
+      "address": "Hồng Thái An Dương Hải phòng",
+      "lat": 20.821539,
+      "lng": 106.624794
+    },
+    "images": [],
+    "popularity": 50,
+    "source": "overture",
+    "sourceId": "1cf7aa4f-bd4f-49b8-8260-9b7974a62d57",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ba7869e1-494d-41",
+    "slug": "goofoo-gelato-kien-an-hai-phong-122-phan-dang-luu",
+    "name": "Goofoo Gelato Kiến An - Hải Phòng - 122 Phan Đăng Lưu",
+    "category": "food",
+    "subCategory": "ice-cream-shop",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "kien-an",
+      "address": "122 Phố Phan Đăng Lưu",
+      "lat": 20.80769,
+      "lng": 106.624245
+    },
+    "images": [],
+    "popularity": 75,
+    "source": "overture",
+    "sourceId": "ba7869e1-494d-414e-bb15-ca70cc9bcd07",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-4cb56cdc-5df4-46",
+    "slug": "vat-lieu-xay-dung-hai-phong",
+    "name": "Vật liệu xây dựng Hải Phòng",
+    "category": "food",
+    "subCategory": "korean-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "kien-an",
+      "address": "308/26 Đường Hoàng Quốc Việt",
+      "lat": 20.815617,
+      "lng": 106.616837
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "4cb56cdc-5df4-469d-abc1-2a1347784d20",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-29f00b87-d96a-48",
@@ -2677,7 +2675,7 @@
     "source": "overture",
     "sourceId": "29f00b87-d96a-4818-bdb6-3c55db43282f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b97f0a37-b83c-45",
@@ -2698,7 +2696,7 @@
     "source": "overture",
     "sourceId": "b97f0a37-b83c-4555-8a8d-a6689e9bd6d3",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-1abf1b7b-d1e8-4e",
@@ -2719,112 +2717,7 @@
     "source": "overture",
     "sourceId": "1abf1b7b-d1e8-4e0e-a7b3-e09e46e171f0",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-cb2f0c98-54ae-43",
-    "slug": "quan-thuy-anh",
-    "name": "Quan Thuy Anh",
-    "category": "food",
-    "subCategory": "vietnamese-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "an-duong",
-      "address": "68-Cach Ha-Nam Son-An Duong-Hai Phong",
-      "lat": 20.876053,
-      "lng": 106.604515
-    },
-    "images": [],
-    "popularity": 51,
-    "source": "overture",
-    "sourceId": "cb2f0c98-54ae-4388-9327-aa0620b0d337",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-dcf1c467-9b8f-4d",
-    "slug": "nha-hang-bukang",
-    "name": "Nhà Hàng Bukang",
-    "category": "food",
-    "subCategory": "barbecue-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "an-duong",
-      "address": "Khu đô thị Seoul Ecohome, Tràng Duệ, An Dương, Hải Phòng.",
-      "lat": 20.854914,
-      "lng": 106.57235
-    },
-    "images": [],
-    "popularity": 65,
-    "source": "overture",
-    "sourceId": "dcf1c467-9b8f-4d34-bb0e-799522fbd091",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-de158f1e-2168-43",
-    "slug": "cam-do-duc-oanh",
-    "name": "Cầm đồ Đức Oanh",
-    "category": "food",
-    "subCategory": "fast-food-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "an-duong",
-      "address": "Đường hùng vương\\n",
-      "lat": 20.892195,
-      "lng": 106.594772
-    },
-    "images": [],
-    "popularity": 61,
-    "source": "overture",
-    "sourceId": "de158f1e-2168-43bb-850f-54a04e766528",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-9c714767-8d9f-48",
-    "slug": "lau-de-vuong-phuc",
-    "name": "Lẩu Dê Vượng Phúc",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "an-duong",
-      "address": "206 Đ. 208",
-      "lat": 20.863394,
-      "lng": 106.644028
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "9c714767-8d9f-4883-a9a6-a6773622ddb9",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d68162da-d378-44",
-    "slug": "nha-hang-han-quoc",
-    "name": "Nhà hàng Hàn Quốc_맛있으몡돼지",
-    "category": "food",
-    "subCategory": "korean-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "an-duong",
-      "address": "Lk3-17 pruksa town- An Đồng- An Dương- Hải Phòng",
-      "lat": 20.860891,
-      "lng": 106.639847
-    },
-    "images": [],
-    "popularity": 48,
-    "source": "overture",
-    "sourceId": "d68162da-d378-4456-ad89-2b0f710b62c7",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-76f05251-2ac4-44",
@@ -2845,7 +2738,28 @@
     "source": "overture",
     "sourceId": "76f05251-2ac4-44a7-bcc1-47d9e217dfab",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-cb2f0c98-54ae-43",
+    "slug": "quan-thuy-anh",
+    "name": "Quan Thuy Anh",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "an-duong",
+      "address": "68-Cach Ha-Nam Son-An Duong-Hai Phong",
+      "lat": 20.876053,
+      "lng": 106.604515
+    },
+    "images": [],
+    "popularity": 51,
+    "source": "overture",
+    "sourceId": "cb2f0c98-54ae-4388-9327-aa0620b0d337",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ce09eaab-9f70-45",
@@ -2866,7 +2780,91 @@
     "source": "overture",
     "sourceId": "ce09eaab-9f70-45fe-a137-bf512bec0b58",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-35c2b287-14aa-42",
+    "slug": "nha-hang-com-que-hai-troc",
+    "name": "Nhà Hàng Cơm Quê Hai Troc",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "an-duong",
+      "address": "Phan Đăng Lưu",
+      "lat": 20.867601,
+      "lng": 106.612717
+    },
+    "images": [],
+    "popularity": 47,
+    "source": "overture",
+    "sourceId": "35c2b287-14aa-42b0-982a-ff8f2bd1beaa",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-dcf1c467-9b8f-4d",
+    "slug": "nha-hang-bukang",
+    "name": "Nhà Hàng Bukang",
+    "category": "food",
+    "subCategory": "barbecue-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "an-duong",
+      "address": "Khu đô thị Seoul Ecohome, Tràng Duệ, An Dương, Hải Phòng.",
+      "lat": 20.854914,
+      "lng": 106.57235
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "dcf1c467-9b8f-4d34-bb0e-799522fbd091",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-503a3e87-14b5-45",
+    "slug": "nha-hang-bep-viet",
+    "name": "Nhà Hàng Bếp Việt",
+    "category": "food",
+    "subCategory": "barbecue-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "an-duong",
+      "address": "Chung cư An Hưng Tổ dân Phố Nam Hoà Hồng An Hải Phòng",
+      "lat": 20.896975,
+      "lng": 106.584991
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "503a3e87-14b5-45c4-83bd-41aee301549a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-de158f1e-2168-43",
+    "slug": "cam-do-duc-oanh",
+    "name": "Cầm đồ Đức Oanh",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "an-duong",
+      "address": "Đường hùng vương\\n",
+      "lat": 20.892195,
+      "lng": 106.594772
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "de158f1e-2168-43bb-850f-54a04e766528",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-3b3e416e-ea9f-4d",
@@ -2887,30 +2885,7 @@
     "source": "overture",
     "sourceId": "3b3e416e-ea9f-4d67-9f88-bb4b22f3d7ca",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-2c5d74c7-363b-42",
-    "slug": "sunshine-coffee",
-    "name": "Sunshine Coffee",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "an-lao",
-      "address": "96 Nguyễn Văn Trỗi",
-      "lat": 20.823853,
-      "lng": 106.556305
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "2c5d74c7-363b-42cd-894d-4ebe2776bb4e",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-0496c9ca-049b-4a",
@@ -2933,7 +2908,30 @@
     "source": "overture",
     "sourceId": "0496c9ca-049b-4aaf-bcce-60f2ea70d1f3",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2c5d74c7-363b-42",
+    "slug": "sunshine-coffee",
+    "name": "Sunshine Coffee",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "an-lao",
+      "address": "96 Nguyễn Văn Trỗi",
+      "lat": 20.823853,
+      "lng": 106.556305
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "2c5d74c7-363b-42cd-894d-4ebe2776bb4e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-91d925a2-9364-44",
@@ -2956,7 +2954,7 @@
     "source": "overture",
     "sourceId": "91d925a2-9364-44c7-9d57-c6a6dba8d9b6",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-da3cb4c1-a219-4a",
@@ -2979,7 +2977,7 @@
     "source": "overture",
     "sourceId": "da3cb4c1-a219-4a15-a228-7e9b0342c1a4",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-53dfb66d-b8ae-4e",
@@ -3002,7 +3000,7 @@
     "source": "overture",
     "sourceId": "53dfb66d-b8ae-4e6d-b1e8-787c0f38541c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-375ae297-ec43-46",
@@ -3025,7 +3023,7 @@
     "source": "overture",
     "sourceId": "375ae297-ec43-46db-9333-3cc3592b8191",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a3815341-965f-40",
@@ -3048,7 +3046,7 @@
     "source": "overture",
     "sourceId": "a3815341-965f-409e-ac7c-5f80aa718f68",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-55d1cce2-2c40-44",
@@ -3071,7 +3069,7 @@
     "source": "overture",
     "sourceId": "55d1cce2-2c40-443a-a493-8228ce0e22cb",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-8fd2d386-08bc-47",
@@ -3094,7 +3092,7 @@
     "source": "overture",
     "sourceId": "8fd2d386-08bc-476f-8b74-d75c6bc844a2",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-5d32185e-bfe4-4d",
@@ -3115,133 +3113,7 @@
     "source": "overture",
     "sourceId": "5d32185e-bfe4-4dd8-b071-dd6702036668",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-78ce48ae-a70d-46",
-    "slug": "family-pizza",
-    "name": "Family Pizza",
-    "category": "food",
-    "subCategory": "burger-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hai-an",
-      "address": "9 Phố Nguyễn Văn Hới",
-      "lat": 20.826937,
-      "lng": 106.711807
-    },
-    "images": [],
-    "popularity": 66,
-    "source": "overture",
-    "sourceId": "78ce48ae-a70d-4648-9c06-8741179c533d",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d175788a-349f-44",
-    "slug": "hen-cafe-view-ho",
-    "name": "Hẹn cafe view hồ",
-    "category": "food",
-    "subCategory": "vietnamese-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hai-an",
-      "address": "Số 45 Lạch Tray, Cung Thanh Thiếu Nhi, Thành phố Hải Phòng",
-      "lat": 20.836922,
-      "lng": 106.700119
-    },
-    "images": [],
-    "popularity": 82,
-    "source": "overture",
-    "sourceId": "d175788a-349f-4465-b986-a4f91014d9b7",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-241d47cb-2fd4-48",
-    "slug": "nha-hang-hai-san-gio-bien",
-    "name": "Nhà hàng hải sản Gió Biển",
-    "category": "food",
-    "subCategory": "seafood-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hai-an",
-      "address": "16 Đường Lê Hồng Phong",
-      "lat": 20.855034,
-      "lng": 106.701111
-    },
-    "images": [],
-    "popularity": 80,
-    "source": "overture",
-    "sourceId": "241d47cb-2fd4-483d-84c6-08d212f3c074",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-c038bdca-1a52-46",
-    "slug": "arirang-restaurant-191-van-cao",
-    "name": "Arirang Restaurant -191 Văn Cao",
-    "category": "food",
-    "subCategory": "korean-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hai-an",
-      "address": "191C/193 Đường Văn Cao",
-      "lat": 20.836109,
-      "lng": 106.701309
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "c038bdca-1a52-4662-a4f7-d928c95da6a4",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-f9eab4df-0576-4a",
-    "slug": "pistolet",
-    "name": "Pistolet",
-    "category": "food",
-    "subCategory": "bakery",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hai-an",
-      "address": "Vinmarina HD51",
-      "lat": 20.830982,
-      "lng": 106.702827
-    },
-    "images": [],
-    "popularity": 69,
-    "source": "overture",
-    "sourceId": "f9eab4df-0576-4a39-a250-685842cf2612",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-19799132-7e58-40",
-    "slug": "sunflower-garden-restaurant",
-    "name": "Sunflower Garden Restaurant",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hai-an",
-      "address": "26/17 Đường Văn Cao",
-      "lat": 20.836407,
-      "lng": 106.704498
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "19799132-7e58-40c6-8b5e-d4f1f0e9ae2c",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-8190a30d-fed6-47",
@@ -3262,28 +3134,49 @@
     "source": "overture",
     "sourceId": "8190a30d-fed6-4723-96cd-16e37722c228",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-6eb7dde4-89d5-4d",
-    "slug": "gem-decor-nha-xinh",
-    "name": "Gem Decor nhà xinh",
+    "id": "ovt-78ce48ae-a70d-46",
+    "slug": "family-pizza",
+    "name": "Family Pizza",
     "category": "food",
-    "subCategory": "fast-food-restaurant",
+    "subCategory": "burger-restaurant",
     "tags": [],
     "location": {
       "cityId": "hai-phong",
       "districtId": "hai-an",
-      "address": "116 Phố Ngô Gia Tự",
-      "lat": 20.82996,
-      "lng": 106.703125
+      "address": "9 Phố Nguyễn Văn Hới",
+      "lat": 20.826937,
+      "lng": 106.711807
     },
     "images": [],
-    "popularity": 46,
+    "popularity": 66,
     "source": "overture",
-    "sourceId": "6eb7dde4-89d5-4d95-b3ef-9d3031c5bb42",
+    "sourceId": "78ce48ae-a70d-4648-9c06-8741179c533d",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-d175788a-349f-44",
+    "slug": "hen-cafe-view-ho",
+    "name": "Hẹn cafe view hồ",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hai-an",
+      "address": "Số 45 Lạch Tray, Cung Thanh Thiếu Nhi, Thành phố Hải Phòng",
+      "lat": 20.836922,
+      "lng": 106.700119
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "d175788a-349f-4465-b986-a4f91014d9b7",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-13ca525a-64ff-4d",
@@ -3304,7 +3197,112 @@
     "source": "overture",
     "sourceId": "13ca525a-64ff-4d71-a304-972f32aa27d4",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e0e7dd5c-e6b7-44",
+    "slug": "pho-tu-te-pho-ga-trang-tay-ha-giang",
+    "name": "Phở Tử Tế - Phở Gà Tráng Tay Hà Giang",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hai-an",
+      "address": "48 hoàng minh thảo",
+      "lat": 20.853598,
+      "lng": 106.711296
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "e0e7dd5c-e6b7-447a-affb-3884a4ed40ed",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-66eaeeb8-ff3b-40",
+    "slug": "quay-nong-gia-truyen",
+    "name": "Quẩy Nóng Gia truyền",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hai-an",
+      "address": "99 Đường Trần Hưng Đạo",
+      "lat": 20.858835,
+      "lng": 106.687126
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "66eaeeb8-ff3b-40d9-b021-2d352c77b8d5",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-015885c0-15f7-4e",
+    "slug": "bun-cha-hue",
+    "name": "Bún Chả Huệ",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hai-an",
+      "address": "P. Đà Nẵng",
+      "lat": 20.861286,
+      "lng": 106.710381
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "015885c0-15f7-4e6b-acd9-804e5f7bc0c5",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-241d47cb-2fd4-48",
+    "slug": "nha-hang-hai-san-gio-bien",
+    "name": "Nhà hàng hải sản Gió Biển",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hai-an",
+      "address": "16 Đường Lê Hồng Phong",
+      "lat": 20.855034,
+      "lng": 106.701111
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "241d47cb-2fd4-483d-84c6-08d212f3c074",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-03177619-ba39-44",
+    "slug": "nha-hang-van-hai-san",
+    "name": "Nhà Hàng Vân Hải Sản",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hai-an",
+      "address": "541 Đường Đông Hải",
+      "lat": 20.83563,
+      "lng": 106.715149
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "03177619-ba39-4451-b58f-773a222ebfe7",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-0274c0a7-b545-43",
@@ -3325,30 +3323,7 @@
     "source": "overture",
     "sourceId": "0274c0a7-b545-4308-bebf-d4572c8f9542",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-21aac1ab-c351-4f",
-    "slug": "198x-book-and-coffee",
-    "name": "198X Book and Coffee",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "thuy-nguyen",
-      "address": "47 Bạch Đằng",
-      "lat": 20.918657,
-      "lng": 106.678345
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "21aac1ab-c351-4f17-807a-0f3f1e0fead9",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a645b332-5676-49",
@@ -3371,7 +3346,30 @@
     "source": "overture",
     "sourceId": "a645b332-5676-499d-85e8-25918d440ccd",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-21aac1ab-c351-4f",
+    "slug": "198x-book-and-coffee",
+    "name": "198X Book and Coffee",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "thuy-nguyen",
+      "address": "47 Bạch Đằng",
+      "lat": 20.918657,
+      "lng": 106.678345
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "21aac1ab-c351-4f17-807a-0f3f1e0fead9",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-0810d8e7-f672-47",
@@ -3394,7 +3392,7 @@
     "source": "overture",
     "sourceId": "0810d8e7-f672-4736-b2d7-482d0f093772",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-9c30b15f-669a-43",
@@ -3415,7 +3413,28 @@
     "source": "overture",
     "sourceId": "9c30b15f-669a-43ea-9cd8-3eef5c290112",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b742611d-6495-47",
+    "slug": "aichy-house-73-bach-dang-nui-deo-tn",
+    "name": "Aichy House 73 Bạch Đằng Núi Đèo TN",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "thuy-nguyen",
+      "address": "73 Đường Bạch Đằng",
+      "lat": 20.919333,
+      "lng": 106.677078
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "b742611d-6495-4727-afa8-98d6994402cd",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-4736168b-9136-43",
@@ -3438,28 +3457,7 @@
     "source": "overture",
     "sourceId": "4736168b-9136-43dd-9282-efb9d505a11a",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-b742611d-6495-47",
-    "slug": "aichy-house-73-bach-dang-nui-deo-tn",
-    "name": "Aichy House 73 Bạch Đằng Núi Đèo TN",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "thuy-nguyen",
-      "address": "73 Đường Bạch Đằng",
-      "lat": 20.919333,
-      "lng": 106.677078
-    },
-    "images": [],
-    "popularity": 63,
-    "source": "overture",
-    "sourceId": "b742611d-6495-4727-afa8-98d6994402cd",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b6a1808d-7eb9-48",
@@ -3482,7 +3480,7 @@
     "source": "overture",
     "sourceId": "b6a1808d-7eb9-4856-9300-2ffeb77ccfb9",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b1b02909-1f3d-48",
@@ -3505,30 +3503,28 @@
     "source": "overture",
     "sourceId": "b1b02909-1f3d-48a9-bd43-9457e6c3ad71",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-de4a9f5d-2e37-43",
-    "slug": "cafe-lop",
-    "name": "Cafe Lốp",
+    "id": "ovt-4b6272e9-36ce-44",
+    "slug": "woa-cha-japan-tea-tan-duong-thuy-nguyen-hai-phong",
+    "name": "Woa Cha Japan Tea Tân Dương Thuỷ Nguyên Hải Phòng",
     "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
+    "subCategory": "bubble-tea",
+    "tags": [],
     "location": {
       "cityId": "hai-phong",
       "districtId": "thuy-nguyen",
-      "address": "Đường bao phía bắc",
-      "lat": 20.922646,
-      "lng": 106.669189
+      "address": "151 Tân Dương - Thuỷ Nguyên",
+      "lat": 20.90093,
+      "lng": 106.672653
     },
     "images": [],
-    "popularity": 82,
+    "popularity": 50,
     "source": "overture",
-    "sourceId": "de4a9f5d-2e37-43c6-95a7-84b288e0a215",
+    "sourceId": "4b6272e9-36ce-44e6-8e2e-a4295273d58d",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7bfd6899-fb5b-4b",
@@ -3551,30 +3547,7 @@
     "source": "overture",
     "sourceId": "7bfd6899-fb5b-4b0c-aaef-005a7d43e06b",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-680ccfab-79df-47",
-    "slug": "lela-cafe-40-nguyen-tat-to",
-    "name": "Lela cafe - 40 Nguyễn Tất Tố",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hai-an",
-      "address": "40 Đường Nguyễn Văn Hới",
-      "lat": 20.836164,
-      "lng": 106.696068
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "680ccfab-79df-4799-b98d-548ae9711b8e",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-221fcbc1-876d-42",
@@ -3597,7 +3570,30 @@
     "source": "overture",
     "sourceId": "221fcbc1-876d-4298-8e98-22b02865930e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-680ccfab-79df-47",
+    "slug": "lela-cafe-40-nguyen-tat-to",
+    "name": "Lela cafe - 40 Nguyễn Tất Tố",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hai-an",
+      "address": "40 Đường Nguyễn Văn Hới",
+      "lat": 20.836164,
+      "lng": 106.696068
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "680ccfab-79df-4799-b98d-548ae9711b8e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b4df9eaa-b07c-43",
@@ -3620,7 +3616,7 @@
     "source": "overture",
     "sourceId": "b4df9eaa-b07c-43e2-bae1-f113322a3921",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-10c33945-1652-4a",
@@ -3641,7 +3637,28 @@
     "source": "overture",
     "sourceId": "10c33945-1652-4a02-99c6-97d75274dbdd",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-d1be68a5-8efb-4d",
+    "slug": "che-tam-quan",
+    "name": "Chè Tâm Quán",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hai-an",
+      "address": "55 P. Đoàn Kết",
+      "lat": 20.841696,
+      "lng": 106.71711
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "d1be68a5-8efb-4d12-9df4-9c4fc6796e1a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e5d783c9-17a2-46",
@@ -3664,28 +3681,7 @@
     "source": "overture",
     "sourceId": "e5d783c9-17a2-4613-b9db-d26e76f337fe",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d1be68a5-8efb-4d",
-    "slug": "che-tam-quan",
-    "name": "Chè Tâm Quán",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hai-an",
-      "address": "55 P. Đoàn Kết",
-      "lat": 20.841696,
-      "lng": 106.71711
-    },
-    "images": [],
-    "popularity": 59,
-    "source": "overture",
-    "sourceId": "d1be68a5-8efb-4d12-9df4-9c4fc6796e1a",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-9f6f5bab-e08b-42",
@@ -3708,7 +3704,7 @@
     "source": "overture",
     "sourceId": "9f6f5bab-e08b-4201-b7b0-4c60dbe79c7c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b37c1955-6ffa-4e",
@@ -3731,30 +3727,28 @@
     "source": "overture",
     "sourceId": "b37c1955-6ffa-4e0c-abf0-7699fb5ee4a7",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-1a53a5c7-edeb-43",
-    "slug": "cafe-hoi",
-    "name": "Cafe Hội",
+    "id": "ovt-9449769c-e862-4b",
+    "slug": "binbo-nghien-tra-sua",
+    "name": "Binbo - Nghiện Trà Sữa",
     "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
+    "subCategory": "bubble-tea",
+    "tags": [],
     "location": {
       "cityId": "hai-phong",
       "districtId": "hai-an",
-      "address": "19 Đường Trần Hưng Đạo",
-      "lat": 20.857977,
-      "lng": 106.727615
+      "address": "4 Ngõ 3 Nguyễn Bỉnh Khiêm",
+      "lat": 20.848267,
+      "lng": 106.718399
     },
     "images": [],
-    "popularity": 77,
+    "popularity": 40,
     "source": "overture",
-    "sourceId": "1a53a5c7-edeb-43bb-a492-fdfb4df5728e",
+    "sourceId": "9449769c-e862-4b64-9d54-a09f685a4618",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-fe344f8d-b4c2-45",
@@ -3775,7 +3769,7 @@
     "source": "overture",
     "sourceId": "fe344f8d-b4c2-453e-93e5-d7d5b1f8c914",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-4a798956-840e-47",
@@ -3796,7 +3790,7 @@
     "source": "overture",
     "sourceId": "4a798956-840e-472c-9fc7-9d2efe84cb0a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b89eb4ff-f7d3-4a",
@@ -3817,7 +3811,7 @@
     "source": "overture",
     "sourceId": "b89eb4ff-f7d3-4ad1-a1dd-cd90db7c047a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-08339314-b394-40",
@@ -3838,7 +3832,7 @@
     "source": "overture",
     "sourceId": "08339314-b394-4045-81e2-8da0ad0bfbc5",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-076d8e5d-3beb-43",
@@ -3859,7 +3853,7 @@
     "source": "overture",
     "sourceId": "076d8e5d-3beb-4355-ac60-fb3305fa77de",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-98063bb5-b0dd-41",
@@ -3880,7 +3874,7 @@
     "source": "overture",
     "sourceId": "98063bb5-b0dd-413e-8118-f6a178d77fcf",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-1b4057e1-c948-4f",
@@ -3901,7 +3895,7 @@
     "source": "overture",
     "sourceId": "1b4057e1-c948-4f73-99b5-a68413ce104d",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-198c6338-7022-41",
@@ -3922,7 +3916,7 @@
     "source": "overture",
     "sourceId": "198c6338-7022-41fe-87a7-e2c109f0d383",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-209d63f4-7440-4b",
@@ -3943,7 +3937,7 @@
     "source": "overture",
     "sourceId": "209d63f4-7440-4b0d-a1c4-192d30f0c6c7",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-83073bce-a149-47",
@@ -3964,7 +3958,7 @@
     "source": "overture",
     "sourceId": "83073bce-a149-47dd-bfb8-80c7c111e5d5",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-86551bcd-1593-4c",
@@ -3988,7 +3982,7 @@
     "source": "overture",
     "sourceId": "86551bcd-1593-4c57-9714-d421b2f3b2ba",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e8d065ec-e9b5-40",
@@ -4012,7 +4006,53 @@
     "source": "overture",
     "sourceId": "e8d065ec-e9b5-40e2-9382-0d81791258ee",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-45567d31-caea-45",
+    "slug": "c-a-n-piano-hai-phong",
+    "name": "C.A.N Piano Hải Phòng",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hai-an",
+      "address": "26C/681 Ngô Gia Tự, Đằng Lâm, Hải An, Hải Phòng",
+      "lat": 20.830904,
+      "lng": 106.716599
+    },
+    "images": [],
+    "popularity": 52,
+    "source": "overture",
+    "sourceId": "45567d31-caea-45d0-925f-9206124f8bf7",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2bee0088-0bda-4c",
+    "slug": "uy-ban-nhan-dan-phuong-dong-hai-khu-dan-cu-ha-doan-4",
+    "name": "Ủy Ban Nhân Dân Phường Đông Hải-Khu Dân Cư Hạ Đoạn 4",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hai-an",
+      "address": "ĐƯỜNG Đông Hải",
+      "lat": 20.841669,
+      "lng": 106.737747
+    },
+    "images": [],
+    "popularity": 40,
+    "source": "overture",
+    "sourceId": "2bee0088-0bda-4c54-aad7-6fc783a613c0",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-50104789-6c04-46",
@@ -4036,7 +4076,7 @@
     "source": "overture",
     "sourceId": "50104789-6c04-46db-9ef0-e78c96006685",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-eb194471-6cb7-44",
@@ -4060,7 +4100,7 @@
     "source": "overture",
     "sourceId": "eb194471-6cb7-4497-b194-5676b31175ad",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b5afb5ef-0dfc-45",
@@ -4084,30 +4124,7 @@
     "source": "overture",
     "sourceId": "b5afb5ef-0dfc-4521-9d84-ab6e6f499442",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-45567d31-caea-45",
-    "slug": "c-a-n-piano-hai-phong",
-    "name": "C.A.N Piano Hải Phòng",
-    "category": "entertainment",
-    "subCategory": "music-venue",
-    "tags": [
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hai-an",
-      "address": "26C/681 Ngô Gia Tự, Đằng Lâm, Hải An, Hải Phòng",
-      "lat": 20.830904,
-      "lng": 106.716599
-    },
-    "images": [],
-    "popularity": 52,
-    "source": "overture",
-    "sourceId": "45567d31-caea-45d0-925f-9206124f8bf7",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-cf41594b-14ed-47",
@@ -4131,7 +4148,7 @@
     "source": "overture",
     "sourceId": "cf41594b-14ed-47f3-a01e-d7b10fe9d054",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-31280f39-6ce8-41",
@@ -4155,30 +4172,7 @@
     "source": "overture",
     "sourceId": "31280f39-6ce8-4189-aca3-5c7d610e7926",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-2bee0088-0bda-4c",
-    "slug": "uy-ban-nhan-dan-phuong-dong-hai-khu-dan-cu-ha-doan-4",
-    "name": "Ủy Ban Nhân Dân Phường Đông Hải-Khu Dân Cư Hạ Đoạn 4",
-    "category": "entertainment",
-    "subCategory": "music-venue",
-    "tags": [
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hai-an",
-      "address": "ĐƯỜNG Đông Hải",
-      "lat": 20.841669,
-      "lng": 106.737747
-    },
-    "images": [],
-    "popularity": 40,
-    "source": "overture",
-    "sourceId": "2bee0088-0bda-4c54-aad7-6fc783a613c0",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-bb228d28-f1e5-43",
@@ -4202,7 +4196,7 @@
     "source": "overture",
     "sourceId": "bb228d28-f1e5-4362-bd02-ba5044555550",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-06f92441-911a-4b",
@@ -4225,7 +4219,7 @@
     "source": "overture",
     "sourceId": "06f92441-911a-4b09-8ff7-74333e5b3a4c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-d2cd1ed3-7407-4f",
@@ -4248,7 +4242,7 @@
     "source": "overture",
     "sourceId": "d2cd1ed3-7407-4fe6-b5c9-fce828cf40b9",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-2956fdeb-c658-46",
@@ -4271,7 +4265,7 @@
     "source": "overture",
     "sourceId": "2956fdeb-c658-4688-ac9b-6a9c8aa18421",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-d1f787dc-651c-4c",
@@ -4294,7 +4288,7 @@
     "source": "overture",
     "sourceId": "d1f787dc-651c-4c31-ad50-5a7f5b022feb",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ab97e52c-affa-4b",
@@ -4317,7 +4311,7 @@
     "source": "overture",
     "sourceId": "ab97e52c-affa-4b4f-b546-0871e758dd04",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e27b6dfe-159b-45",
@@ -4340,7 +4334,7 @@
     "source": "overture",
     "sourceId": "e27b6dfe-159b-45b7-8ade-c2398dab68ae",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-53ad4453-c6e9-42",
@@ -4363,7 +4357,7 @@
     "source": "overture",
     "sourceId": "53ad4453-c6e9-42ed-bad3-6bdbf98e7ea7",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-961d1bda-3a3c-4b",
@@ -4386,7 +4380,7 @@
     "source": "overture",
     "sourceId": "961d1bda-3a3c-4b30-93cd-6247a7998519",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a4208188-9b06-4d",
@@ -4409,7 +4403,7 @@
     "source": "overture",
     "sourceId": "a4208188-9b06-4d99-94fe-a9a61fbf69e8",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-4e662ecd-03c8-4a",
@@ -4432,7 +4426,7 @@
     "source": "overture",
     "sourceId": "4e662ecd-03c8-4a8e-b415-e9dcca0f63bb",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6ea8fa3e-c17d-4d",
@@ -4456,7 +4450,7 @@
     "source": "overture",
     "sourceId": "6ea8fa3e-c17d-4d20-a8e3-b1a81ea3aefd",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-267185ea-cd81-44",
@@ -4479,7 +4473,53 @@
     "source": "overture",
     "sourceId": "267185ea-cd81-4483-94cc-d46776571abd",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e7a400f7-b9e4-41",
+    "slug": "day-truot-patin-tai-hai-phong-roller-hai-phong",
+    "name": "Dạy trượt PATIN tại Hải Phòng - Roller Hải Phòng",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "1 Đường Hà Nội",
+      "lat": 20.864506,
+      "lng": 106.66394
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "e7a400f7-b9e4-4175-9985-7da15de79a70",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-fb63e944-49cc-4f",
+    "slug": "phong-thu-am-hai-phong-vietmusicstudio",
+    "name": "Phòng thu âm Hải Phòng - Vietmusicstudio",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "12 Phố Bãi Sậy",
+      "lat": 20.861198,
+      "lng": 106.662109
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "fb63e944-49cc-4f86-8b2e-d90db7962063",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7aff9c43-85e5-4b",
@@ -4503,7 +4543,7 @@
     "source": "overture",
     "sourceId": "7aff9c43-85e5-4b62-9d10-3f9665bc9b7e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a900b104-238f-48",
@@ -4527,30 +4567,7 @@
     "source": "overture",
     "sourceId": "a900b104-238f-48c6-8f5b-b5d099fcc273",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-e7a400f7-b9e4-41",
-    "slug": "day-truot-patin-tai-hai-phong-roller-hai-phong",
-    "name": "Dạy trượt PATIN tại Hải Phòng - Roller Hải Phòng",
-    "category": "entertainment",
-    "subCategory": "music-venue",
-    "tags": [
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "1 Đường Hà Nội",
-      "lat": 20.864506,
-      "lng": 106.66394
-    },
-    "images": [],
-    "popularity": 62,
-    "source": "overture",
-    "sourceId": "e7a400f7-b9e4-4175-9985-7da15de79a70",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b9fa9e37-5c58-40",
@@ -4574,7 +4591,7 @@
     "source": "overture",
     "sourceId": "b9fa9e37-5c58-403d-9176-719df44aecae",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-16d32ffb-e355-4d",
@@ -4598,30 +4615,7 @@
     "source": "overture",
     "sourceId": "16d32ffb-e355-4d2f-b614-643dc54c6284",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-fb63e944-49cc-4f",
-    "slug": "phong-thu-am-hai-phong-vietmusicstudio",
-    "name": "Phòng thu âm Hải Phòng - Vietmusicstudio",
-    "category": "entertainment",
-    "subCategory": "music-venue",
-    "tags": [
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "12 Phố Bãi Sậy",
-      "lat": 20.861198,
-      "lng": 106.662109
-    },
-    "images": [],
-    "popularity": 59,
-    "source": "overture",
-    "sourceId": "fb63e944-49cc-4f86-8b2e-d90db7962063",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-2bcdfd3a-29fa-47",
@@ -4645,7 +4639,7 @@
     "source": "overture",
     "sourceId": "2bcdfd3a-29fa-4736-93fb-d50d56a2326f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-722d3163-f7af-48",
@@ -4669,7 +4663,7 @@
     "source": "overture",
     "sourceId": "722d3163-f7af-484f-a383-2da4709d62c6",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-5bfff0ed-c932-4d",
@@ -4690,7 +4684,28 @@
     "source": "overture",
     "sourceId": "5bfff0ed-c932-4d48-8421-89a927cf230f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b65f8d0c-2fad-4b",
+    "slug": "boncha-quan-toan-milk-tea-coffee",
+    "name": "BonCha Quán Toan - Milk Tea & Coffee",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "an-duong",
+      "address": "K21 Đường Trang Quan",
+      "lat": 20.89114,
+      "lng": 106.597855
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "b65f8d0c-2fad-4b85-8b2f-4ed398c88d7a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ed30dbb8-01ab-49",
@@ -4713,28 +4728,7 @@
     "source": "overture",
     "sourceId": "ed30dbb8-01ab-4956-9d01-66c5fc6fd2c7",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-b65f8d0c-2fad-4b",
-    "slug": "boncha-quan-toan-milk-tea-coffee",
-    "name": "BonCha Quán Toan - Milk Tea & Coffee",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "an-duong",
-      "address": "K21 Đường Trang Quan",
-      "lat": 20.89114,
-      "lng": 106.597855
-    },
-    "images": [],
-    "popularity": 68,
-    "source": "overture",
-    "sourceId": "b65f8d0c-2fad-4b85-8b2f-4ed398c88d7a",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7c250996-fc22-4a",
@@ -4757,7 +4751,7 @@
     "source": "overture",
     "sourceId": "7c250996-fc22-4a72-95f1-f9d3b4c23824",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-5240343b-f4e9-44",
@@ -4778,7 +4772,28 @@
     "source": "overture",
     "sourceId": "5240343b-f4e9-44ab-9598-13c271a2c533",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-00141518-5a74-43",
+    "slug": "drinkship-dinh-ngo-0918689121",
+    "name": "DrinkShip Đình Ngọ - 0918689121",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "an-duong",
+      "address": "Đình Ngọ, Hồng Phong, An Dương, Hải Phòng",
+      "lat": 20.884027,
+      "lng": 106.561256
+    },
+    "images": [],
+    "popularity": 54,
+    "source": "overture",
+    "sourceId": "00141518-5a74-4374-baa4-e6d3311c8626",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7559371e-86c6-44",
@@ -4801,32 +4816,11 @@
     "source": "overture",
     "sourceId": "7559371e-86c6-44b1-b329-20d1d8630285",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-00141518-5a74-43",
-    "slug": "drinkship-dinh-ngo-0918689121",
-    "name": "DrinkShip Đình Ngọ - 0918689121",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "an-duong",
-      "address": "Đình Ngọ, Hồng Phong, An Dương, Hải Phòng",
-      "lat": 20.884027,
-      "lng": 106.561256
-    },
-    "images": [],
-    "popularity": 54,
-    "source": "overture",
-    "sourceId": "00141518-5a74-4374-baa4-e6d3311c8626",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-3bc7a819-a80a-4a",
-    "slug": "milano-coffee-an-duong",
+    "slug": "milano-coffee",
     "name": "Milano Coffee",
     "category": "cafe",
     "subCategory": "coffee-shop",
@@ -4845,7 +4839,7 @@
     "source": "overture",
     "sourceId": "3bc7a819-a80a-4af1-9fbb-b851b29fa2a9",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-90160fac-4242-49",
@@ -4868,7 +4862,7 @@
     "source": "overture",
     "sourceId": "90160fac-4242-496c-810a-1c729b1c3c9b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-45fee2f8-3b6c-4a",
@@ -4891,7 +4885,7 @@
     "source": "overture",
     "sourceId": "45fee2f8-3b6c-4aa5-8c7b-795098a9606b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ccd6bfd1-3aa9-48",
@@ -4912,7 +4906,7 @@
     "source": "overture",
     "sourceId": "ccd6bfd1-3aa9-485c-be7b-560807a200e5",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-97c93fd6-367b-41",
@@ -4936,7 +4930,7 @@
     "source": "overture",
     "sourceId": "97c93fd6-367b-41b7-b002-afd1d76092ef",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6415a9da-e03b-48",
@@ -4957,7 +4951,7 @@
     "source": "overture",
     "sourceId": "6415a9da-e03b-48ef-9f2a-64d0127739fa",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-32dbba5a-5cb6-45",
@@ -4981,7 +4975,7 @@
     "source": "overture",
     "sourceId": "32dbba5a-5cb6-451a-b5db-44b261daf1cc",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-eb0a6da1-2078-44",
@@ -5002,7 +4996,7 @@
     "source": "overture",
     "sourceId": "eb0a6da1-2078-44b0-ba20-50c5777db2ee",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-bb8da4f0-4ca9-43",
@@ -5026,7 +5020,7 @@
     "source": "overture",
     "sourceId": "bb8da4f0-4ca9-43ae-a158-520992f698fa",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-d48ddda6-ecda-40",
@@ -5047,7 +5041,7 @@
     "source": "overture",
     "sourceId": "d48ddda6-ecda-407d-8996-a50d5fd05c85",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-86c478b2-cc97-4a",
@@ -5071,7 +5065,7 @@
     "source": "overture",
     "sourceId": "86c478b2-cc97-4a76-9c6e-49ba57acf4cd",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-52c40617-b9f2-43",
@@ -5095,7 +5089,7 @@
     "source": "overture",
     "sourceId": "52c40617-b9f2-433a-84f0-0eb3eb0c14c1",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-29dc2409-e6e4-4c",
@@ -5119,52 +5113,7 @@
     "source": "overture",
     "sourceId": "29dc2409-e6e4-4caf-829c-7fc5153f5567",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-65008e71-9add-40",
-    "slug": "may-tinh-son-phuong",
-    "name": "Máy Tính Sơn Phương",
-    "category": "shopping",
-    "subCategory": "shopping-center",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "177 Đ. Quán Nam",
-      "lat": 20.833349,
-      "lng": 106.692802
-    },
-    "images": [],
-    "popularity": 81,
-    "source": "overture",
-    "sourceId": "65008e71-9add-4009-a7ca-f2d1fddf2871",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-bb6a62f7-d803-48",
-    "slug": "kho-truyen-nhat",
-    "name": "Kho truyện Nhật",
-    "category": "shopping",
-    "subCategory": "library",
-    "tags": [
-      "yen-tinh",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "cuối ngõ đồng tâm 274 lạch tray- Hải Phòng",
-      "lat": 20.831177,
-      "lng": 106.68782
-    },
-    "images": [],
-    "popularity": 60,
-    "source": "overture",
-    "sourceId": "bb6a62f7-d803-4880-a9a8-3dda0876046e",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-11014070-bb3b-48",
@@ -5188,35 +5137,35 @@
     "source": "overture",
     "sourceId": "11014070-bb3b-480c-b959-fd76b79bd2fd",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-b7cf2da5-f0ea-47",
-    "slug": "shop-bau-khanh-linh-hai-phong",
-    "name": "Shop Bầu Khánh Linh Hải Phòng",
+    "id": "ovt-65008e71-9add-40",
+    "slug": "may-tinh-son-phuong",
+    "name": "Máy Tính Sơn Phương",
     "category": "shopping",
     "subCategory": "shopping-center",
     "tags": [],
     "location": {
       "cityId": "hai-phong",
       "districtId": "le-chan",
-      "address": "189 Phố Hai Bà Trưng",
-      "lat": 20.859859,
-      "lng": 106.682991
+      "address": "177 Đ. Quán Nam",
+      "lat": 20.833349,
+      "lng": 106.692802
     },
     "images": [],
-    "popularity": 77,
+    "popularity": 81,
     "source": "overture",
-    "sourceId": "b7cf2da5-f0ea-475d-8510-2cc36d580b83",
+    "sourceId": "65008e71-9add-4009-a7ca-f2d1fddf2871",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-b6355e28-8691-4c",
-    "slug": "sach-nam-cuong",
-    "name": "Sách Nam Cường",
+    "id": "ovt-bb6a62f7-d803-48",
+    "slug": "kho-truyen-nhat",
+    "name": "Kho truyện Nhật",
     "category": "shopping",
-    "subCategory": "bookstore",
+    "subCategory": "library",
     "tags": [
       "yen-tinh",
       "trong-nha"
@@ -5224,16 +5173,16 @@
     "location": {
       "cityId": "hai-phong",
       "districtId": "le-chan",
-      "address": "Phan bội châu",
-      "lat": 20.857269,
-      "lng": 106.680138
+      "address": "cuối ngõ đồng tâm 274 lạch tray- Hải Phòng",
+      "lat": 20.831177,
+      "lng": 106.68782
     },
     "images": [],
-    "popularity": 63,
+    "popularity": 60,
     "source": "overture",
-    "sourceId": "b6355e28-8691-4c74-84e0-00eae9966def",
+    "sourceId": "bb6a62f7-d803-4880-a9a8-3dda0876046e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-f6b3f970-3700-4d",
@@ -5257,28 +5206,7 @@
     "source": "overture",
     "sourceId": "f6b3f970-3700-4de2-97a9-6a87c585338d",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-425f2dce-02d3-42",
-    "slug": "nha-phan-phoi-nuoc-giat-kabu",
-    "name": "Nhà Phân Phối Nước Giặt KABU",
-    "category": "shopping",
-    "subCategory": "shopping-center",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "thành phố Hải Phòng",
-      "lat": 20.85285,
-      "lng": 106.657051
-    },
-    "images": [],
-    "popularity": 75,
-    "source": "overture",
-    "sourceId": "425f2dce-02d3-4257-929c-7ac8a1e2e738",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ee15db3a-2e46-45",
@@ -5302,7 +5230,73 @@
     "source": "overture",
     "sourceId": "ee15db3a-2e46-4580-8c09-444d842cb0af",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b7cf2da5-f0ea-47",
+    "slug": "shop-bau-khanh-linh-hai-phong",
+    "name": "Shop Bầu Khánh Linh Hải Phòng",
+    "category": "shopping",
+    "subCategory": "shopping-center",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "189 Phố Hai Bà Trưng",
+      "lat": 20.859859,
+      "lng": 106.682991
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "b7cf2da5-f0ea-475d-8510-2cc36d580b83",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b6355e28-8691-4c",
+    "slug": "sach-nam-cuong",
+    "name": "Sách Nam Cường",
+    "category": "shopping",
+    "subCategory": "bookstore",
+    "tags": [
+      "yen-tinh",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "Phan bội châu",
+      "lat": 20.857269,
+      "lng": 106.680138
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "b6355e28-8691-4c74-84e0-00eae9966def",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-425f2dce-02d3-42",
+    "slug": "nha-phan-phoi-nuoc-giat-kabu",
+    "name": "Nhà Phân Phối Nước Giặt KABU",
+    "category": "shopping",
+    "subCategory": "shopping-center",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "thành phố Hải Phòng",
+      "lat": 20.85285,
+      "lng": 106.657051
+    },
+    "images": [],
+    "popularity": 75,
+    "source": "overture",
+    "sourceId": "425f2dce-02d3-4257-929c-7ac8a1e2e738",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-73813029-ae4b-4f",
@@ -5326,11 +5320,11 @@
     "source": "overture",
     "sourceId": "73813029-ae4b-4fe4-b0fa-867ebb93e4b2",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-5b28e621-d6e2-40",
-    "slug": "trung-tam-nghe-thuat-au-co",
+    "slug": "trung-tam-nghe-thuat-au-co-hong-bang",
     "name": "Trung Tâm Nghệ Thuật Âu Cơ",
     "category": "outdoor",
     "subCategory": "art-gallery",
@@ -5351,7 +5345,30 @@
     "source": "overture",
     "sourceId": "5b28e621-d6e2-40be-bbda-01433baf6e56",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f306f3ff-9ac1-48",
+    "slug": "vien-bao-tang-thanh-pho-hai-phong",
+    "name": "Viện Bảo Tàng Thành Phố Hải Phòng",
+    "category": "outdoor",
+    "subCategory": "community-museum",
+    "tags": [
+      "ngoai-troi"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "PHỐ Điện Biên Phủ",
+      "lat": 20.861799,
+      "lng": 106.682648
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "f306f3ff-9ac1-4857-8d7e-d4f605a9f538",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ce5e6eb5-bb19-4f",
@@ -5376,7 +5393,7 @@
     "source": "overture",
     "sourceId": "ce5e6eb5-bb19-4f83-81aa-1722d7fb2d19",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-451fa3ec-4420-40",
@@ -5401,30 +5418,7 @@
     "source": "overture",
     "sourceId": "451fa3ec-4420-40f4-9022-e2b8b7c4e1c8",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-f306f3ff-9ac1-48",
-    "slug": "vien-bao-tang-thanh-pho-hai-phong",
-    "name": "Viện Bảo Tàng Thành Phố Hải Phòng",
-    "category": "outdoor",
-    "subCategory": "community-museum",
-    "tags": [
-      "ngoai-troi"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "PHỐ Điện Biên Phủ",
-      "lat": 20.861799,
-      "lng": 106.682648
-    },
-    "images": [],
-    "popularity": 65,
-    "source": "overture",
-    "sourceId": "f306f3ff-9ac1-4857-8d7e-d4f605a9f538",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-df64ad3a-86f0-46",
@@ -5449,7 +5443,7 @@
     "source": "overture",
     "sourceId": "df64ad3a-86f0-4690-8556-a8f0461af288",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-27147332-c284-45",
@@ -5474,7 +5468,7 @@
     "source": "overture",
     "sourceId": "27147332-c284-45f2-a684-718fc555bc35",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6ba5ebf2-e049-41",
@@ -5499,7 +5493,7 @@
     "source": "overture",
     "sourceId": "6ba5ebf2-e049-41e8-9ca2-b76310ef4b00",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-2b31ddc6-5c0e-4d",
@@ -5524,7 +5518,7 @@
     "source": "overture",
     "sourceId": "2b31ddc6-5c0e-4d36-be35-a2e20a05c0a2",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7f9cc17c-bdd4-42",
@@ -5549,7 +5543,7 @@
     "source": "overture",
     "sourceId": "7f9cc17c-bdd4-42a8-9336-8ccfc3b971de",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-940c53a5-fe39-43",
@@ -5570,7 +5564,7 @@
     "source": "overture",
     "sourceId": "940c53a5-fe39-4340-8037-4c5e21b03701",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-1719fa03-e40a-42",
@@ -5591,7 +5585,7 @@
     "source": "overture",
     "sourceId": "1719fa03-e40a-428d-aaaf-859ed125bce7",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6c93516e-fac1-4d",
@@ -5612,7 +5606,7 @@
     "source": "overture",
     "sourceId": "6c93516e-fac1-4d01-ae7c-6dd8c193ffcd",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-4c56829f-e9e6-44",
@@ -5633,7 +5627,7 @@
     "source": "overture",
     "sourceId": "4c56829f-e9e6-4437-82ef-5cc17d433062",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e505d8d0-1c10-47",
@@ -5654,7 +5648,7 @@
     "source": "overture",
     "sourceId": "e505d8d0-1c10-476d-8338-f9167ca9e67b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-939d8932-bac1-45",
@@ -5675,7 +5669,7 @@
     "source": "overture",
     "sourceId": "939d8932-bac1-45e4-a7a7-fd838c2af414",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ad6f47b7-f6bb-45",
@@ -5696,7 +5690,7 @@
     "source": "overture",
     "sourceId": "ad6f47b7-f6bb-45ab-9af9-e3bbc168d395",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e500273d-112c-4e",
@@ -5717,7 +5711,7 @@
     "source": "overture",
     "sourceId": "e500273d-112c-4eb2-9336-bb1ca5dba2a8",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-24a97787-6587-42",
@@ -5738,7 +5732,7 @@
     "source": "overture",
     "sourceId": "24a97787-6587-4280-84c3-cca0c56be361",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-d9031a53-0d1d-43",
@@ -5759,7 +5753,7 @@
     "source": "overture",
     "sourceId": "d9031a53-0d1d-438f-950a-466e8b68d871",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-8e313852-cc10-43",
@@ -5782,7 +5776,7 @@
     "source": "overture",
     "sourceId": "8e313852-cc10-433b-99ef-16ac439eb2c8",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-2c374be7-d4a7-43",
@@ -5803,49 +5797,7 @@
     "source": "overture",
     "sourceId": "2c374be7-d4a7-437a-bc9f-5be9ef339d91",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-8aa561d3-4d5b-49",
-    "slug": "mixue-an-lao-hai-phong",
-    "name": "Mixue An Lão Hải Phòng",
-    "category": "food",
-    "subCategory": "ice-cream-shop",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "an-lao",
-      "address": "130A Trần Tất Văn",
-      "lat": 20.821455,
-      "lng": 106.560608
-    },
-    "images": [],
-    "popularity": 60,
-    "source": "overture",
-    "sourceId": "8aa561d3-4d5b-4944-b251-dd9338d74f98",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-22ac4ea2-821c-41",
-    "slug": "nha-hang-thanh-tung-336",
-    "name": "Nha Hang Thanh Tung 336",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "an-lao",
-      "address": "336 An Tràng - TT. Trường Sơn - H. An Lão Hải Phòng Haiphong City",
-      "lat": 20.816055,
-      "lng": 106.603905
-    },
-    "images": [],
-    "popularity": 69,
-    "source": "overture",
-    "sourceId": "22ac4ea2-821c-41a2-9ded-a5d9082588b4",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-9edd9f02-eee7-4c",
@@ -5866,49 +5818,7 @@
     "source": "overture",
     "sourceId": "9edd9f02-eee7-4c1b-a38b-d295f1a9b0c3",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-64b361cc-13a3-47",
-    "slug": "tiem-banh-duy-hoang",
-    "name": "Tiệm Bánh Duy Hoàng",
-    "category": "food",
-    "subCategory": "bakery",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "an-lao",
-      "address": "TL 357, 60 Phố Lê Lợi",
-      "lat": 20.823236,
-      "lng": 106.559799
-    },
-    "images": [],
-    "popularity": 61,
-    "source": "overture",
-    "sourceId": "64b361cc-13a3-4768-8c31-1a3c10558eb1",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-3dbe2c21-2a88-47",
-    "slug": "bun-ca-cay-huy-phuong",
-    "name": "Bún Cá Cay Huy Phương",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "an-lao",
-      "address": "34 Nguyễn Văn Trỗi",
-      "lat": 20.822258,
-      "lng": 106.556427
-    },
-    "images": [],
-    "popularity": 78,
-    "source": "overture",
-    "sourceId": "3dbe2c21-2a88-47cf-a153-17415a36c204",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-df7eccdf-4847-47",
@@ -5929,7 +5839,91 @@
     "source": "overture",
     "sourceId": "df7eccdf-4847-475e-afce-6e910d95f5bf",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-8aa561d3-4d5b-49",
+    "slug": "mixue-an-lao-hai-phong",
+    "name": "Mixue An Lão Hải Phòng",
+    "category": "food",
+    "subCategory": "ice-cream-shop",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "an-lao",
+      "address": "130A Trần Tất Văn",
+      "lat": 20.821455,
+      "lng": 106.560608
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "8aa561d3-4d5b-4944-b251-dd9338d74f98",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-22ac4ea2-821c-41",
+    "slug": "nha-hang-thanh-tung-336",
+    "name": "Nha Hang Thanh Tung 336",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "an-lao",
+      "address": "336 An Tràng - TT. Trường Sơn - H. An Lão Hải Phòng Haiphong City",
+      "lat": 20.816055,
+      "lng": 106.603905
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "22ac4ea2-821c-41a2-9ded-a5d9082588b4",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-64b361cc-13a3-47",
+    "slug": "tiem-banh-duy-hoang",
+    "name": "Tiệm Bánh Duy Hoàng",
+    "category": "food",
+    "subCategory": "bakery",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "an-lao",
+      "address": "TL 357, 60 Phố Lê Lợi",
+      "lat": 20.823236,
+      "lng": 106.559799
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "64b361cc-13a3-4768-8c31-1a3c10558eb1",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-3dbe2c21-2a88-47",
+    "slug": "bun-ca-cay-huy-phuong",
+    "name": "Bún Cá Cay Huy Phương",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "an-lao",
+      "address": "34 Nguyễn Văn Trỗi",
+      "lat": 20.822258,
+      "lng": 106.556427
+    },
+    "images": [],
+    "popularity": 78,
+    "source": "overture",
+    "sourceId": "3dbe2c21-2a88-47cf-a153-17415a36c204",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-f01a4fc5-d242-4a",
@@ -5950,7 +5944,7 @@
     "source": "overture",
     "sourceId": "f01a4fc5-d242-4af1-83c9-40e50c6a73c0",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-1f86b252-3c1f-49",
@@ -5971,7 +5965,7 @@
     "source": "overture",
     "sourceId": "1f86b252-3c1f-49cc-b6f5-7ac150e5309e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6701f579-fd2c-48",
@@ -5992,7 +5986,7 @@
     "source": "overture",
     "sourceId": "6701f579-fd2c-48ea-96b8-9d1b6e0d78e6",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ceca44fd-be13-46",
@@ -6017,81 +6011,7 @@
     "source": "overture",
     "sourceId": "ceca44fd-be13-46d4-b0d3-b251dec8d2f6",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-0b337657-3839-48",
-    "slug": "cong-vien-may-to",
-    "name": "Công Viên Máy Tơ",
-    "category": "outdoor",
-    "subCategory": "park",
-    "tags": [
-      "ngoai-troi",
-      "cay-xanh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "ngo-quyen",
-      "address": "16A P. Lê Lai",
-      "lat": 20.861963,
-      "lng": 106.696106
-    },
-    "images": [],
-    "popularity": 52,
-    "source": "overture",
-    "sourceId": "0b337657-3839-4823-9566-15284e1f03b9",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-82c68b91-196d-46",
-    "slug": "den-tien-nga",
-    "name": "Đền Tiên Nga",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "ngo-quyen",
-      "address": "53 Phố Lê Lợi",
-      "lat": 20.858816,
-      "lng": 106.693321
-    },
-    "images": [],
-    "popularity": 62,
-    "source": "overture",
-    "sourceId": "82c68b91-196d-4600-93f6-706ff7dc07b5",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-2a845ba8-aee0-42",
-    "slug": "diamond-crown-hai-phong",
-    "name": "Diamond Crown Hải Phòng",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "ngo-quyen",
-      "address": "19 Đ. Lê Hồng Phong",
-      "lat": 20.844753,
-      "lng": 106.709366
-    },
-    "images": [],
-    "popularity": 77,
-    "source": "overture",
-    "sourceId": "2a845ba8-aee0-425d-9edc-dc722e93c782",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-bd48ffa4-3e51-44",
@@ -6116,7 +6036,31 @@
     "source": "overture",
     "sourceId": "bd48ffa4-3e51-4459-8ec7-c5c484c9f088",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-0b337657-3839-48",
+    "slug": "cong-vien-may-to",
+    "name": "Công Viên Máy Tơ",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "16A P. Lê Lai",
+      "lat": 20.861963,
+      "lng": 106.696106
+    },
+    "images": [],
+    "popularity": 52,
+    "source": "overture",
+    "sourceId": "0b337657-3839-4823-9566-15284e1f03b9",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e02c4f26-3127-4e",
@@ -6140,7 +6084,81 @@
     "source": "overture",
     "sourceId": "e02c4f26-3127-4ed1-ae59-11cf97484238",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-73ba4514-1094-43",
+    "slug": "phuong-may-chai-hp",
+    "name": "Phường Máy Chai HP",
+    "category": "outdoor",
+    "subCategory": "hiking-trail",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "Ngô Quyền ",
+      "lat": 20.870132,
+      "lng": 106.701492
+    },
+    "images": [],
+    "popularity": 44,
+    "source": "overture",
+    "sourceId": "73ba4514-1094-4367-a2bf-6ad8856a7170",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-82c68b91-196d-46",
+    "slug": "den-tien-nga",
+    "name": "Đền Tiên Nga",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "53 Phố Lê Lợi",
+      "lat": 20.858816,
+      "lng": 106.693321
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "82c68b91-196d-4600-93f6-706ff7dc07b5",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2a845ba8-aee0-42",
+    "slug": "diamond-crown-hai-phong",
+    "name": "Diamond Crown Hải Phòng",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "19 Đ. Lê Hồng Phong",
+      "lat": 20.844753,
+      "lng": 106.709366
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "2a845ba8-aee0-425d-9edc-dc722e93c782",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-5aba6bd0-457c-46",
@@ -6165,7 +6183,7 @@
     "source": "overture",
     "sourceId": "5aba6bd0-457c-4601-a132-52de35b02fd5",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e8ee4bc5-eb90-44",
@@ -6190,31 +6208,7 @@
     "source": "overture",
     "sourceId": "e8ee4bc5-eb90-4430-bda2-9f83367372d5",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-73ba4514-1094-43",
-    "slug": "phuong-may-chai-hp",
-    "name": "Phường Máy Chai HP",
-    "category": "outdoor",
-    "subCategory": "hiking-trail",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "ngo-quyen",
-      "address": "Ngô Quyền ",
-      "lat": 20.870132,
-      "lng": 106.701492
-    },
-    "images": [],
-    "popularity": 44,
-    "source": "overture",
-    "sourceId": "73ba4514-1094-4367-a2bf-6ad8856a7170",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-fb623edd-cef0-46",
@@ -6239,7 +6233,7 @@
     "source": "overture",
     "sourceId": "fb623edd-cef0-46ad-a0b5-bf3b3de9da50",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-18925686-1750-49",
@@ -6263,7 +6257,7 @@
     "source": "overture",
     "sourceId": "18925686-1750-49c8-a9e4-96d76ecc5fe2",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-af3eb9a7-1e62-44",
@@ -6288,7 +6282,7 @@
     "source": "overture",
     "sourceId": "af3eb9a7-1e62-4484-90a5-280072f01f4c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-097bcb8f-96ee-45",
@@ -6313,7 +6307,7 @@
     "source": "overture",
     "sourceId": "097bcb8f-96ee-45bb-9121-49185d07e4a4",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7880c0d4-637f-4a",
@@ -6338,7 +6332,7 @@
     "source": "overture",
     "sourceId": "7880c0d4-637f-4a0b-8736-329c57097e7b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ccc96441-b14d-4d",
@@ -6363,7 +6357,7 @@
     "source": "overture",
     "sourceId": "ccc96441-b14d-4dd6-8b68-9769c6733173",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-89ebb216-32ed-41",
@@ -6388,7 +6382,7 @@
     "source": "overture",
     "sourceId": "89ebb216-32ed-41f8-84cf-d90abb3b13be",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7f212518-fc8e-4c",
@@ -6412,7 +6406,7 @@
     "source": "overture",
     "sourceId": "7f212518-fc8e-4c44-8baa-af57382d8050",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6de017f1-bdd7-40",
@@ -6436,7 +6430,7 @@
     "source": "overture",
     "sourceId": "6de017f1-bdd7-40b5-8fae-dcbc2d449761",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e8f9cae9-fd7d-40",
@@ -6460,7 +6454,7 @@
     "source": "overture",
     "sourceId": "e8f9cae9-fd7d-4088-ae53-d5fcbae16432",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c3dbbf53-eef0-45",
@@ -6484,7 +6478,7 @@
     "source": "overture",
     "sourceId": "c3dbbf53-eef0-45dc-ad44-f342978d23d7",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-96b797a5-dd3d-43",
@@ -6508,7 +6502,7 @@
     "source": "overture",
     "sourceId": "96b797a5-dd3d-435a-92b3-18fa11245ba6",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-3954b7b4-4261-42",
@@ -6532,7 +6526,7 @@
     "source": "overture",
     "sourceId": "3954b7b4-4261-4271-b7ea-a152714d0c34",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-488f1f98-8edf-45",
@@ -6556,7 +6550,7 @@
     "source": "overture",
     "sourceId": "488f1f98-8edf-4541-a732-d17f80bd2aee",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-caafde63-5832-48",
@@ -6580,7 +6574,7 @@
     "source": "overture",
     "sourceId": "caafde63-5832-48d3-a7c5-8f919a513b26",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-406f60e7-0592-41",
@@ -6604,28 +6598,7 @@
     "source": "overture",
     "sourceId": "406f60e7-0592-412b-a7a6-aa6611a1f7f0",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-43381313-7afc-40",
-    "slug": "head-huong-giang-quan-toan",
-    "name": "HEAD Hương Giang Quán Toan",
-    "category": "shopping",
-    "subCategory": "shopping-center",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "Số 537 Km 10, Quán Toan, Hồng Bàng",
-      "lat": 20.88909,
-      "lng": 106.604889
-    },
-    "images": [],
-    "popularity": 77,
-    "source": "overture",
-    "sourceId": "43381313-7afc-4006-9f70-670224e891a3",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-4e2c19ec-51fa-45",
@@ -6649,7 +6622,28 @@
     "source": "overture",
     "sourceId": "4e2c19ec-51fa-458d-9a6c-2dcd8b4932de",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-43381313-7afc-40",
+    "slug": "head-huong-giang-quan-toan",
+    "name": "HEAD Hương Giang Quán Toan",
+    "category": "shopping",
+    "subCategory": "shopping-center",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "Số 537 Km 10, Quán Toan, Hồng Bàng",
+      "lat": 20.88909,
+      "lng": 106.604889
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "43381313-7afc-4006-9f70-670224e891a3",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-cb44922a-bd5a-4c",
@@ -6670,7 +6664,7 @@
     "source": "overture",
     "sourceId": "cb44922a-bd5a-4ce2-9868-a3cdb2c4661c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ff0b7903-5b3d-42",
@@ -6691,7 +6685,7 @@
     "source": "overture",
     "sourceId": "ff0b7903-5b3d-42e0-844c-428a78b81fd1",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-be3bb35b-5d20-48",
@@ -6712,7 +6706,7 @@
     "source": "overture",
     "sourceId": "be3bb35b-5d20-48ac-84d7-62a927dc508a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7c66818d-a5f4-42",
@@ -6735,7 +6729,7 @@
     "source": "overture",
     "sourceId": "7c66818d-a5f4-42fc-8c97-d05bf1657322",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-9ecfce5e-331e-42",
@@ -6759,7 +6753,7 @@
     "source": "overture",
     "sourceId": "9ecfce5e-331e-425e-b44c-d6b7645ab3ab",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-f352fef3-8b0b-49",
@@ -6783,7 +6777,7 @@
     "source": "overture",
     "sourceId": "f352fef3-8b0b-4966-acfd-10db38a5c561",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b7eebcd9-aa28-4a",
@@ -6808,7 +6802,7 @@
     "source": "overture",
     "sourceId": "b7eebcd9-aa28-4a2a-8192-64eba572de38",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-63aa3352-40fe-4d",
@@ -6833,7 +6827,7 @@
     "source": "overture",
     "sourceId": "63aa3352-40fe-4d21-9fe3-af6f0b6b752a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-286de607-b138-40",
@@ -6858,7 +6852,7 @@
     "source": "overture",
     "sourceId": "286de607-b138-40a5-889d-896845b5abfc",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-91bc883b-32fe-49",
@@ -6883,7 +6877,7 @@
     "source": "overture",
     "sourceId": "91bc883b-32fe-49ec-ada6-cc6815b46300",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7eb1ec1f-6791-41",
@@ -6908,7 +6902,7 @@
     "source": "overture",
     "sourceId": "7eb1ec1f-6791-4194-b19f-fbeff1c21684",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-57b7a064-b858-48",
@@ -6933,7 +6927,7 @@
     "source": "overture",
     "sourceId": "57b7a064-b858-482f-b943-cbd90912c429",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b1d08455-02f7-41",
@@ -6958,7 +6952,7 @@
     "source": "overture",
     "sourceId": "b1d08455-02f7-41ef-9335-96f3b00b4f0c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-907582f5-0a5b-4a",
@@ -6983,7 +6977,7 @@
     "source": "overture",
     "sourceId": "907582f5-0a5b-4a84-9172-71aa18f9e969",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-4f629f45-5816-42",
@@ -7008,7 +7002,7 @@
     "source": "overture",
     "sourceId": "4f629f45-5816-42b3-bede-04bb096b5803",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-15fac22d-26b8-49",
@@ -7033,7 +7027,7 @@
     "source": "overture",
     "sourceId": "15fac22d-26b8-493b-95e4-2ec988bd3981",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b83cb2ea-6f1c-45",
@@ -7058,7 +7052,7 @@
     "source": "overture",
     "sourceId": "b83cb2ea-6f1c-4506-85bd-c5efb9c7cbf3",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-2e341e06-1d9f-4f",
@@ -7081,7 +7075,7 @@
     "source": "overture",
     "sourceId": "2e341e06-1d9f-4f43-b03a-24df7adb34c5",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-13eb31bc-bc19-4e",
@@ -7105,7 +7099,7 @@
     "source": "overture",
     "sourceId": "13eb31bc-bc19-4e7b-b663-10d1608cba3a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-0da8790f-d21e-46",
@@ -7126,7 +7120,7 @@
     "source": "overture",
     "sourceId": "0da8790f-d21e-4640-9947-3f886504491f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-d215bd51-dcf7-4e",
@@ -7150,7 +7144,7 @@
     "source": "overture",
     "sourceId": "d215bd51-dcf7-4e5b-ba09-c89a0b3938ed",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-519ab110-390f-4e",
@@ -7171,7 +7165,7 @@
     "source": "overture",
     "sourceId": "519ab110-390f-4e75-93f8-ae3d00dd58e0",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-bf62118e-caa3-4d",
@@ -7192,7 +7186,7 @@
     "source": "overture",
     "sourceId": "bf62118e-caa3-4d40-b2b8-e53ac9a1a81b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a8ebcaf2-8ced-46",
@@ -7213,7 +7207,7 @@
     "source": "overture",
     "sourceId": "a8ebcaf2-8ced-4660-950c-7750b9b0f0b4",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a4231cb4-97e2-46",
@@ -7234,7 +7228,7 @@
     "source": "overture",
     "sourceId": "a4231cb4-97e2-46e3-a6b5-b31e13f6cda2",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-5fd5a681-33c2-43",
@@ -7255,7 +7249,7 @@
     "source": "overture",
     "sourceId": "5fd5a681-33c2-4319-96ac-78982fa9e169",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a67c2939-dc67-40",
@@ -7279,7 +7273,7 @@
     "source": "overture",
     "sourceId": "a67c2939-dc67-40c8-8188-e624b304e8b8",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-34c18987-fae1-4f",
@@ -7303,7 +7297,7 @@
     "source": "overture",
     "sourceId": "34c18987-fae1-4f43-bd4d-3b89cc1f0c28",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7656c05c-7a53-41",
@@ -7326,7 +7320,7 @@
     "source": "overture",
     "sourceId": "7656c05c-7a53-4196-acad-edae458cdae7",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-5ba37796-1bf8-4b",
@@ -7350,7 +7344,7 @@
     "source": "overture",
     "sourceId": "5ba37796-1bf8-4b3b-86fe-9a81a524bc67",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-640b2113-5e5f-4f",
@@ -7374,7 +7368,7 @@
     "source": "overture",
     "sourceId": "640b2113-5e5f-4fea-9fff-e55f0e0921c2",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-66b79941-640c-4b",
@@ -7398,7 +7392,7 @@
     "source": "overture",
     "sourceId": "66b79941-640c-4b13-9d92-4331eb1e9c5b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-2801fc6b-bd49-40",
@@ -7422,7 +7416,7 @@
     "source": "overture",
     "sourceId": "2801fc6b-bd49-407e-9ef5-dd17d6c20e2a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-25aec38e-fe22-46",
@@ -7446,7 +7440,7 @@
     "source": "overture",
     "sourceId": "25aec38e-fe22-4627-8558-08db575ba452",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-1efaf470-c17a-47",
@@ -7470,7 +7464,7 @@
     "source": "overture",
     "sourceId": "1efaf470-c17a-47a4-b84b-114bca58cbc0",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-eeb4dd1d-f351-44",
@@ -7494,7 +7488,7 @@
     "source": "overture",
     "sourceId": "eeb4dd1d-f351-4493-b617-64f186df2d9a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-797a617f-15a5-43",
@@ -7515,7 +7509,7 @@
     "source": "overture",
     "sourceId": "797a617f-15a5-4317-a1a4-c6040b520d79",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ca167f62-5522-4a",
@@ -7538,7 +7532,7 @@
     "source": "overture",
     "sourceId": "ca167f62-5522-4a65-ae74-3517c3218954",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-821acffb-8aa1-45",
@@ -7561,7 +7555,7 @@
     "source": "overture",
     "sourceId": "821acffb-8aa1-45a6-819a-044a88205d38",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-44353cb2-83cc-43",
@@ -7582,7 +7576,7 @@
     "source": "overture",
     "sourceId": "44353cb2-83cc-4351-bbb6-7e98d6e57366",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7b4a0552-d5f9-40",
@@ -7603,7 +7597,7 @@
     "source": "overture",
     "sourceId": "7b4a0552-d5f9-4087-87b7-d5731208ad3f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c2b2c9c3-f7f7-4f",
@@ -7627,52 +7621,7 @@
     "source": "overture",
     "sourceId": "c2b2c9c3-f7f7-4f5d-87e3-5d395d439130",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d8217127-e7b2-4f",
-    "slug": "do-dung-hoc-tap-van-phong-pham-hai-phong-hieu-sach-mai",
-    "name": "Đồ dùng học tập Văn phòng phẩm Hải Phòng - Hiệu sách Mai",
-    "category": "shopping",
-    "subCategory": "bookstore",
-    "tags": [
-      "yen-tinh",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hai-an",
-      "address": "183 Ngô Gia Tự, Ngô Quyền, Hải Phòng",
-      "lat": 20.84223,
-      "lng": 106.693375
-    },
-    "images": [],
-    "popularity": 60,
-    "source": "overture",
-    "sourceId": "d8217127-e7b2-4fdb-a811-bdc260cadf2f",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-a8274f9f-77f4-46",
-    "slug": "sieu-thi-minh-thuan-mart",
-    "name": "Siêu Thị Minh Thuan Mart",
-    "category": "shopping",
-    "subCategory": "shopping-center",
-    "tags": [],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hai-an",
-      "address": "2 Phố Lũng Bắc",
-      "lat": 20.842888,
-      "lng": 106.716629
-    },
-    "images": [],
-    "popularity": 64,
-    "source": "overture",
-    "sourceId": "a8274f9f-77f4-46fb-98d9-aa66e48d061c",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-0bf42e91-e6e9-4d",
@@ -7696,7 +7645,52 @@
     "source": "overture",
     "sourceId": "0bf42e91-e6e9-4d92-ac49-6bba8cb3d6f2",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-d8217127-e7b2-4f",
+    "slug": "do-dung-hoc-tap-van-phong-pham-hai-phong-hieu-sach-mai",
+    "name": "Đồ dùng học tập Văn phòng phẩm Hải Phòng - Hiệu sách Mai",
+    "category": "shopping",
+    "subCategory": "bookstore",
+    "tags": [
+      "yen-tinh",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hai-an",
+      "address": "183 Ngô Gia Tự, Ngô Quyền, Hải Phòng",
+      "lat": 20.84223,
+      "lng": 106.693375
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "d8217127-e7b2-4fdb-a811-bdc260cadf2f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a8274f9f-77f4-46",
+    "slug": "sieu-thi-minh-thuan-mart",
+    "name": "Siêu Thị Minh Thuan Mart",
+    "category": "shopping",
+    "subCategory": "shopping-center",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hai-an",
+      "address": "2 Phố Lũng Bắc",
+      "lat": 20.842888,
+      "lng": 106.716629
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "a8274f9f-77f4-46fb-98d9-aa66e48d061c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-aaf10ed9-d56b-4b",
@@ -7720,7 +7714,7 @@
     "source": "overture",
     "sourceId": "aaf10ed9-d56b-4b8e-8911-7944777afdb1",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-247473bf-d13d-47",
@@ -7741,7 +7735,7 @@
     "source": "overture",
     "sourceId": "247473bf-d13d-47e7-ba10-2fab944269d2",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-eefa25f9-a4a1-4a",
@@ -7762,7 +7756,7 @@
     "source": "overture",
     "sourceId": "eefa25f9-a4a1-4a78-ab55-5e0dc7e88a4d",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-f73126d2-ad6c-47",
@@ -7786,7 +7780,7 @@
     "source": "overture",
     "sourceId": "f73126d2-ad6c-4734-9e84-fbe5725e585c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b7898178-1fb8-4f",
@@ -7810,7 +7804,7 @@
     "source": "overture",
     "sourceId": "b7898178-1fb8-4f3b-a059-446f2fe0f575",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7545678f-7b04-4f",
@@ -7834,7 +7828,7 @@
     "source": "overture",
     "sourceId": "7545678f-7b04-4fbf-a308-e7ea06da87b4",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-19325240-704f-4d",
@@ -7858,7 +7852,7 @@
     "source": "overture",
     "sourceId": "19325240-704f-4d0d-82f9-9d350a37556e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c2482e4d-0be2-4b",
@@ -7882,7 +7876,7 @@
     "source": "overture",
     "sourceId": "c2482e4d-0be2-4b2b-b105-c0f3b6e3370e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-8f0397b7-2a0b-40",
@@ -7906,7 +7900,7 @@
     "source": "overture",
     "sourceId": "8f0397b7-2a0b-4018-bb43-e8710a611a3f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-3ba93787-b397-48",
@@ -7930,7 +7924,7 @@
     "source": "overture",
     "sourceId": "3ba93787-b397-48f4-b87e-9199a274cc2b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-cee56bce-1d7b-45",
@@ -7951,7 +7945,7 @@
     "source": "overture",
     "sourceId": "cee56bce-1d7b-45a2-ba4e-6a6cfd92ce1a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-55f4fffb-7a6a-48",
@@ -7972,7 +7966,7 @@
     "source": "overture",
     "sourceId": "55f4fffb-7a6a-4812-9230-e7b77c5239bc",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-8540703a-8017-4c",
@@ -7996,7 +7990,7 @@
     "source": "overture",
     "sourceId": "8540703a-8017-4ce6-b38d-dd62e1e712cc",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b828e3fc-5374-45",
@@ -8021,7 +8015,7 @@
     "source": "overture",
     "sourceId": "b828e3fc-5374-4580-a7e0-9ea7fc2df01d",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-fc3c461b-2961-4f",
@@ -8046,7 +8040,7 @@
     "source": "overture",
     "sourceId": "fc3c461b-2961-4f86-ac1d-661a8c6e540c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-2efdd604-32f8-4f",
@@ -8071,7 +8065,7 @@
     "source": "overture",
     "sourceId": "2efdd604-32f8-4f2e-bcad-75f22e4df7ed",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-5b4db4db-dcbc-42",
@@ -8096,7 +8090,7 @@
     "source": "overture",
     "sourceId": "5b4db4db-dcbc-4283-887a-2fa635acb879",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-cadfe328-a8e1-49",
@@ -8121,7 +8115,7 @@
     "source": "overture",
     "sourceId": "cadfe328-a8e1-491d-a28f-0259c6f479d7",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e971c299-2197-4e",
@@ -8146,7 +8140,7 @@
     "source": "overture",
     "sourceId": "e971c299-2197-4e84-9fb1-394ab1e67ebf",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-2b1ca335-dce3-4a",
@@ -8171,7 +8165,7 @@
     "source": "overture",
     "sourceId": "2b1ca335-dce3-4a0e-938f-61d11826ca2c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-1d3a2202-e672-4b",
@@ -8196,7 +8190,7 @@
     "source": "overture",
     "sourceId": "1d3a2202-e672-4b37-af13-28c3476a867c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-fac4b28e-7220-45",
@@ -8221,7 +8215,7 @@
     "source": "overture",
     "sourceId": "fac4b28e-7220-4581-8eef-9f6c46c16709",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-53952ad4-9db7-45",
@@ -8245,7 +8239,7 @@
     "source": "overture",
     "sourceId": "53952ad4-9db7-45d5-ad13-f3fde824b618",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-613e14e8-dd3d-4c",
@@ -8270,7 +8264,7 @@
     "source": "overture",
     "sourceId": "613e14e8-dd3d-4c8f-aa12-da16c9c4bf81",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-cb46d051-e264-48",
@@ -8295,7 +8289,7 @@
     "source": "overture",
     "sourceId": "cb46d051-e264-4817-8a73-964ae33a2725",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-85ddcdfe-3f94-4f",
@@ -8320,7 +8314,7 @@
     "source": "overture",
     "sourceId": "85ddcdfe-3f94-4fc3-8203-ca8f86b4097f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7bc484bc-0eed-42",
@@ -8345,7 +8339,7 @@
     "source": "overture",
     "sourceId": "7bc484bc-0eed-420a-8b0d-a0e5fc27e05a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ba215c0c-97de-4a",
@@ -8370,7 +8364,7 @@
     "source": "overture",
     "sourceId": "ba215c0c-97de-4a34-9fee-1c23fd609b6e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-5811aaac-137f-4e",
@@ -8395,7 +8389,7 @@
     "source": "overture",
     "sourceId": "5811aaac-137f-4e1c-b90f-d60dbfa7b9db",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ffde1fd2-d7d1-4c",
@@ -8420,7 +8414,7 @@
     "source": "overture",
     "sourceId": "ffde1fd2-d7d1-4ce9-b0e3-cc4c91b70a78",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-105fa498-2a9c-4d",
@@ -8445,7 +8439,7 @@
     "source": "overture",
     "sourceId": "105fa498-2a9c-4d99-83b0-e9888ee157e4",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a53db4cf-3739-45",
@@ -8470,7 +8464,7 @@
     "source": "overture",
     "sourceId": "a53db4cf-3739-45e5-b799-27b227239834",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-f3c7a188-4cd6-48",
@@ -8494,7 +8488,7 @@
     "source": "overture",
     "sourceId": "f3c7a188-4cd6-48ff-93df-186208b83adc",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ad7d24eb-95f6-4a",
@@ -8519,7 +8513,7 @@
     "source": "overture",
     "sourceId": "ad7d24eb-95f6-4aba-9a7f-8ecacde2ecbb",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-1455cb51-a449-4a",
@@ -8544,7 +8538,7 @@
     "source": "overture",
     "sourceId": "1455cb51-a449-4a9d-b792-e0c276870eac",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-4cc1ba63-583a-4e",
@@ -8569,7 +8563,7 @@
     "source": "overture",
     "sourceId": "4cc1ba63-583a-4efc-b8a4-4579ddcca5dc",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-28da6278-36bb-46",
@@ -8594,7 +8588,7 @@
     "source": "overture",
     "sourceId": "28da6278-36bb-468b-b155-d9a15d37f81a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-eb29aeb3-7420-43",
@@ -8619,7 +8613,7 @@
     "source": "overture",
     "sourceId": "eb29aeb3-7420-4352-9a4c-6628421c2542",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-cac2272f-7a47-40",
@@ -8643,7 +8637,7 @@
     "source": "overture",
     "sourceId": "cac2272f-7a47-4080-935c-0764627d14fa",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ce4b8f98-4929-41",
@@ -8667,7 +8661,7 @@
     "source": "overture",
     "sourceId": "ce4b8f98-4929-41e4-b6eb-59057a1c38e1",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ed3e1068-1842-41",
@@ -8690,7 +8684,7 @@
     "source": "overture",
     "sourceId": "ed3e1068-1842-412f-b7f8-83e06efa814b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-7c3768a5-e780-49",
@@ -8711,7 +8705,7 @@
     "source": "overture",
     "sourceId": "7c3768a5-e780-49f2-b2a9-6238f8d80a07",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6b302713-7da4-4d",
@@ -8735,7 +8729,7 @@
     "source": "overture",
     "sourceId": "6b302713-7da4-4d61-ac63-cc6b944a4fdc",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a771c51d-9c5c-41",
@@ -8760,7 +8754,7 @@
     "source": "overture",
     "sourceId": "a771c51d-9c5c-41b0-8284-07defb792f21",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-8958c5a3-d28a-48",
@@ -8785,7 +8779,7 @@
     "source": "overture",
     "sourceId": "8958c5a3-d28a-4860-95ea-d2687996ee3f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b876707d-a9b8-43",
@@ -8810,7 +8804,7 @@
     "source": "overture",
     "sourceId": "b876707d-a9b8-43f4-8ca7-8d6ee9d54e72",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-09cf0f6a-cb3c-4c",
@@ -8834,7 +8828,7 @@
     "source": "overture",
     "sourceId": "09cf0f6a-cb3c-4c0d-bb58-e94205aac797",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-28b116d5-0cc0-4d",
@@ -8857,6 +8851,6 @@
     "source": "overture",
     "sourceId": "28b116d5-0cc0-4deb-b285-1f71f519e996",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   }
 ]

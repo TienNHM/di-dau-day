@@ -1,4 +1,5 @@
 import type { MetadataRoute } from 'next';
+import { DISHES } from '@/lib/dishes/catalogue';
 import { INTENTS } from '@/lib/intents/registry';
 import { getPlaceRepository } from '@/lib/places/static-repository';
 import { absoluteUrl } from '@/lib/site';
@@ -27,6 +28,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       url: absoluteUrl(`${intent.path}/`),
       changeFrequency: 'monthly' as const,
       priority: 0.8,
+    })),
+    // "Ăn phở ở đâu" is a search people actually make, and each dish is a real page
+    // answering it — higher priority than the about page, lower than an intent.
+    ...['/mon-an/', '/do-uong/'].map((path) => ({
+      url: absoluteUrl(path),
+      changeFrequency: 'monthly' as const,
+      priority: 0.8,
+    })),
+    ...DISHES.map((dish) => ({
+      url: absoluteUrl(`/mon/${dish.id}/`),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
     })),
     ...['/ve-chung-toi/', '/dong-gop/'].map((path) => ({
       url: absoluteUrl(path),

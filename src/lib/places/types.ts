@@ -221,6 +221,8 @@ export type PlaceSummary = {
   readonly name: string;
   readonly shortName?: string;
   readonly category: Category;
+  /** Overture'''s own classification. The only trustworthy link from a place to a dish. */
+  readonly subCategory?: string;
   readonly tags: readonly Tag[];
   readonly goodFor?: readonly Companion[];
   readonly priceRange?: PriceRange;
@@ -264,6 +266,7 @@ export function toPlaceSummary(place: Place): PlaceSummary {
     name: place.name,
     ...(place.shortName === undefined ? {} : { shortName: place.shortName }),
     category: place.category,
+    ...(place.subCategory === undefined ? {} : { subCategory: place.subCategory }),
     tags: place.tags,
     ...(place.goodFor === undefined ? {} : { goodFor: place.goodFor }),
     ...(place.priceRange === undefined ? {} : { priceRange: place.priceRange }),

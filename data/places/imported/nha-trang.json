@@ -18,7 +18,7 @@
     "source": "overture",
     "sourceId": "f7b27ade-a126-4996-9ca7-b3a76dc5c792",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-8e51d1cf-cfef-4b",
@@ -41,7 +41,28 @@
     "source": "overture",
     "sourceId": "8e51d1cf-cfef-4bac-9935-b92903c08d3d",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5ad7d240-93d1-4e",
+    "slug": "gong-cha-vietnam-nha-trang",
+    "name": "Gong Cha Vietnam",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "109 Đường Hồng Bàng",
+      "lat": 12.239368,
+      "lng": 109.1912
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "5ad7d240-93d1-4e77-84ce-c7249a92830d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-8e2a4d75-dc54-45",
@@ -64,49 +85,7 @@
     "source": "overture",
     "sourceId": "8e2a4d75-dc54-45df-9938-f1d8b50cb959",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-e2688005-d8e3-40",
-    "slug": "1994-healthy-drinks",
-    "name": "1994 Healthy Drinks",
-    "category": "cafe",
-    "subCategory": "smoothie-juice-bar",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "100 Đồng Nai",
-      "lat": 12.240864,
-      "lng": 109.180107
-    },
-    "images": [],
-    "popularity": 76,
-    "source": "overture",
-    "sourceId": "e2688005-d8e3-4056-bedc-acfabee41b2b",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-5ad7d240-93d1-4e",
-    "slug": "gong-cha-vietnam-nha-trang",
-    "name": "Gong Cha Vietnam",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "109 Đường Hồng Bàng",
-      "lat": 12.239368,
-      "lng": 109.1912
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "5ad7d240-93d1-4e77-84ce-c7249a92830d",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-5f094307-399e-47",
@@ -129,28 +108,28 @@
     "source": "overture",
     "sourceId": "5f094307-399e-479a-9abd-9472dc174959",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-d670caff-a2dc-45",
-    "slug": "vitamin-bar-smoothies-and-juices",
-    "name": "Vitamin Bar smoothies and juices",
+    "id": "ovt-e2688005-d8e3-40",
+    "slug": "1994-healthy-drinks",
+    "name": "1994 Healthy Drinks",
     "category": "cafe",
     "subCategory": "smoothie-juice-bar",
     "tags": [],
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "số mới Nguyễn Thiện Thuật",
-      "lat": 12.241869,
-      "lng": 109.193138
+      "address": "100 Đồng Nai",
+      "lat": 12.240864,
+      "lng": 109.180107
     },
     "images": [],
-    "popularity": 70,
+    "popularity": 76,
     "source": "overture",
-    "sourceId": "d670caff-a2dc-458b-ba95-3cda210325c6",
+    "sourceId": "e2688005-d8e3-4056-bedc-acfabee41b2b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-8f15ac61-2cac-4a",
@@ -171,51 +150,7 @@
     "source": "overture",
     "sourceId": "8f15ac61-2cac-4a5b-b953-cbc642270e41",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-7972bd6c-bf17-44",
-    "slug": "trung-nguyen-legend-cafe-nha-trang",
-    "name": "Trung Nguyên Legend Café",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "148 Đ. Võ Trứ",
-      "lat": 12.240653,
-      "lng": 109.192146
-    },
-    "images": [],
-    "popularity": 85,
-    "source": "overture",
-    "sourceId": "7972bd6c-bf17-4497-ac5a-7abd3e0405e4",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-8114dd41-c21b-4b",
-    "slug": "banh-mi-ngon-141-hong-bang-nha-trang",
-    "name": "BÁNH MÌ NGON - 141 Hồng Bàng, Nha Trang",
-    "category": "cafe",
-    "subCategory": "smoothie-juice-bar",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "141 Đường Hồng Bàng",
-      "lat": 12.238516,
-      "lng": 109.192093
-    },
-    "images": [],
-    "popularity": 69,
-    "source": "overture",
-    "sourceId": "8114dd41-c21b-4b06-a0f0-419ca625c447",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-634561e8-255d-43",
@@ -238,7 +173,30 @@
     "source": "overture",
     "sourceId": "634561e8-255d-4328-9f14-38eb72ea455d",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7972bd6c-bf17-44",
+    "slug": "trung-nguyen-legend-cafe-nha-trang",
+    "name": "Trung Nguyên Legend Café",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "148 Đ. Võ Trứ",
+      "lat": 12.240653,
+      "lng": 109.192146
+    },
+    "images": [],
+    "popularity": 85,
+    "source": "overture",
+    "sourceId": "7972bd6c-bf17-4497-ac5a-7abd3e0405e4",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ddd84b36-732e-4b",
@@ -261,28 +219,28 @@
     "source": "overture",
     "sourceId": "ddd84b36-732e-4b3e-a287-fe8fa5753c60",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-bbf187b2-fbdb-46",
-    "slug": "chin-coffee-09-phan-dinh-giot",
-    "name": "CHÍN.coffee - 09 phan đình giót",
+    "id": "ovt-d670caff-a2dc-45",
+    "slug": "vitamin-bar-smoothies-and-juices",
+    "name": "Vitamin Bar smoothies and juices",
     "category": "cafe",
     "subCategory": "smoothie-juice-bar",
     "tags": [],
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "9 Đường Phan Đình Giót",
-      "lat": 12.252015,
-      "lng": 109.185852
+      "address": "số mới Nguyễn Thiện Thuật",
+      "lat": 12.241869,
+      "lng": 109.193138
     },
     "images": [],
-    "popularity": 55,
+    "popularity": 70,
     "source": "overture",
-    "sourceId": "bbf187b2-fbdb-466f-b08c-d695ff92c067",
+    "sourceId": "d670caff-a2dc-458b-ba95-3cda210325c6",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a9c32e7e-36d6-4c",
@@ -303,7 +261,28 @@
     "source": "overture",
     "sourceId": "a9c32e7e-36d6-4cfb-85fd-4edb7534132e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-fc80a79b-7662-4c",
+    "slug": "leotea-62-nguyen-thi-minh-khai-nha-trang",
+    "name": "Leotea - 62 Nguyễn Thị Minh Khai, Nha Trang",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "62 Đường Nguyễn Thị Minh Khai",
+      "lat": 12.237785,
+      "lng": 109.190491
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "fc80a79b-7662-4c71-908f-0c1fe9b590b6",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-fc6cdce3-7063-4a",
@@ -326,49 +305,7 @@
     "source": "overture",
     "sourceId": "fc6cdce3-7063-4a77-9909-1c851f7bbbeb",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-b85d3c83-ce0d-47",
-    "slug": "sinh-to-quy",
-    "name": "Sinh TỐ QuÝ",
-    "category": "cafe",
-    "subCategory": "smoothie-juice-bar",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "60 Đường Phù Đổng",
-      "lat": 12.239772,
-      "lng": 109.186234
-    },
-    "images": [],
-    "popularity": 49,
-    "source": "overture",
-    "sourceId": "b85d3c83-ce0d-4764-b777-a46c5a5f51ff",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-fc80a79b-7662-4c",
-    "slug": "leotea-62-nguyen-thi-minh-khai-nha-trang",
-    "name": "Leotea - 62 Nguyễn Thị Minh Khai, Nha Trang",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "62 Đường Nguyễn Thị Minh Khai",
-      "lat": 12.237785,
-      "lng": 109.190491
-    },
-    "images": [],
-    "popularity": 82,
-    "source": "overture",
-    "sourceId": "fc80a79b-7662-4c71-908f-0c1fe9b590b6",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-446d50a3-6b96-40",
@@ -391,28 +328,28 @@
     "source": "overture",
     "sourceId": "446d50a3-6b96-40ac-8594-adf73d6d3bcf",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-cf02b02b-48db-4a",
-    "slug": "tiem-rau-ma-maxh-99-hoang-hoa-tham-tp-nha-trang",
-    "name": "Tiệm Rau Má - MAXH - 99 Hoàng Hoa Thám TP Nha Trang",
+    "id": "ovt-8114dd41-c21b-4b",
+    "slug": "banh-mi-ngon-141-hong-bang-nha-trang",
+    "name": "BÁNH MÌ NGON - 141 Hồng Bàng, Nha Trang",
     "category": "cafe",
     "subCategory": "smoothie-juice-bar",
     "tags": [],
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "99 Hoàng Hoa Thám, phường Lộc Thọ  thành phố Nha Trang, tỉnh Khánh Hoà",
-      "lat": 12.246165,
-      "lng": 109.193977
+      "address": "141 Đường Hồng Bàng",
+      "lat": 12.238516,
+      "lng": 109.192093
     },
     "images": [],
-    "popularity": 47,
+    "popularity": 69,
     "source": "overture",
-    "sourceId": "cf02b02b-48db-4ad1-b49b-44bb69586f50",
+    "sourceId": "8114dd41-c21b-4b06-a0f0-419ca625c447",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-813553c9-c8d1-48",
@@ -433,51 +370,7 @@
     "source": "overture",
     "sourceId": "813553c9-c8d1-48d6-9cc7-e2fa477046f1",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-888d7cda-1f68-4c",
-    "slug": "the-gioi-ca-phe-trung-nguyen-legend",
-    "name": "Thế Giới Cà Phê Trung Nguyên Legend",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "44-46 Đ. Lê Thánh Tôn",
-      "lat": 12.243222,
-      "lng": 109.193398
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "888d7cda-1f68-4c3d-9049-f2b2c03323ac",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-40308852-1d6e-40",
-    "slug": "yen-sao-khanh-hoa",
-    "name": "Yen Sao Khanh Hoa",
-    "category": "cafe",
-    "subCategory": "smoothie-juice-bar",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "19 Nguyen Thien Thuat",
-      "lat": 12.23612,
-      "lng": 109.19426
-    },
-    "images": [],
-    "popularity": 57,
-    "source": "overture",
-    "sourceId": "40308852-1d6e-403c-8088-cdbf2c53b57a",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-061b797d-2a24-41",
@@ -498,7 +391,30 @@
     "source": "overture",
     "sourceId": "061b797d-2a24-41f2-a247-39f80253b744",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-888d7cda-1f68-4c",
+    "slug": "the-gioi-ca-phe-trung-nguyen-legend-nha-trang",
+    "name": "Thế Giới Cà Phê Trung Nguyên Legend",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "44-46 Đ. Lê Thánh Tôn",
+      "lat": 12.243222,
+      "lng": 109.193398
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "888d7cda-1f68-4c3d-9049-f2b2c03323ac",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-04954102-1e7e-45",
@@ -521,28 +437,28 @@
     "source": "overture",
     "sourceId": "04954102-1e7e-45c1-88bb-1a584bf9de78",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-1eb43962-69cf-4e",
-    "slug": "sinh-to-thien-nhien-2",
-    "name": "Sinh To Thien Nhien 2",
+    "id": "ovt-bbf187b2-fbdb-46",
+    "slug": "chin-coffee-09-phan-dinh-giot",
+    "name": "CHÍN.coffee - 09 phan đình giót",
     "category": "cafe",
     "subCategory": "smoothie-juice-bar",
     "tags": [],
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "42 Đ. Lê Thành Phương",
-      "lat": 12.249957,
-      "lng": 109.188217
+      "address": "9 Đường Phan Đình Giót",
+      "lat": 12.252015,
+      "lng": 109.185852
     },
     "images": [],
-    "popularity": 57,
+    "popularity": 55,
     "source": "overture",
-    "sourceId": "1eb43962-69cf-4ef1-8a5f-ec0df9d56e55",
+    "sourceId": "bbf187b2-fbdb-466f-b08c-d695ff92c067",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-d758a2d8-95c7-47",
@@ -565,7 +481,28 @@
     "source": "overture",
     "sourceId": "d758a2d8-95c7-471f-a8ec-d8600e736925",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-80b68ee2-2f4d-49",
+    "slug": "brother-tea-coffee",
+    "name": "Brother Tea & Coffee",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "62b Đường Lê Đại Hành",
+      "lat": 12.23852,
+      "lng": 109.190193
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "80b68ee2-2f4d-4981-8487-cf8fa5b1bb88",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-4a1c695e-b044-4b",
@@ -588,49 +525,7 @@
     "source": "overture",
     "sourceId": "4a1c695e-b044-4b72-b18e-286a7c306c6d",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-224a5f82-dc05-43",
-    "slug": "sinh-to-84-quang-trung",
-    "name": "Sinh tố 84 Quang Trung",
-    "category": "cafe",
-    "subCategory": "smoothie-juice-bar",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "84 Đường Quang Trung",
-      "lat": 12.247092,
-      "lng": 109.191246
-    },
-    "images": [],
-    "popularity": 45,
-    "source": "overture",
-    "sourceId": "224a5f82-dc05-43dc-84d8-958d79fd7334",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-80b68ee2-2f4d-49",
-    "slug": "brother-tea-coffee",
-    "name": "Brother Tea & Coffee",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "62b Đường Lê Đại Hành",
-      "lat": 12.23852,
-      "lng": 109.190193
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "80b68ee2-2f4d-4981-8487-cf8fa5b1bb88",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-5ae4dff0-160d-41",
@@ -653,28 +548,28 @@
     "source": "overture",
     "sourceId": "5ae4dff0-160d-4187-b52b-6d70defb70cb",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-fd01c827-0d85-41",
-    "slug": "drink-sinh-to-an-vat",
-    "name": "Drink - Sinh tố & Ăn vặt",
+    "id": "ovt-b85d3c83-ce0d-47",
+    "slug": "sinh-to-quy",
+    "name": "Sinh TỐ QuÝ",
     "category": "cafe",
     "subCategory": "smoothie-juice-bar",
     "tags": [],
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "48 Đường Lê Quý Đôn",
-      "lat": 12.24383,
-      "lng": 109.191109
+      "address": "60 Đường Phù Đổng",
+      "lat": 12.239772,
+      "lng": 109.186234
     },
     "images": [],
-    "popularity": 45,
+    "popularity": 49,
     "source": "overture",
-    "sourceId": "fd01c827-0d85-41a8-a337-fc5f09c2e0f1",
+    "sourceId": "b85d3c83-ce0d-4764-b777-a46c5a5f51ff",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-863e2204-f036-40",
@@ -695,30 +590,7 @@
     "source": "overture",
     "sourceId": "863e2204-f036-4063-822c-91711bf3470f",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-6f4d2472-5e6e-4f",
-    "slug": "ga-concept",
-    "name": "Ga Concept",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "5a Lê Lợi",
-      "lat": 12.253428,
-      "lng": 109.195221
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "6f4d2472-5e6e-4fec-8b80-88fca1426dcc",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-60040f76-3f54-42",
@@ -741,7 +613,30 @@
     "source": "overture",
     "sourceId": "60040f76-3f54-42ac-b757-3e144fba2d47",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6f4d2472-5e6e-4f",
+    "slug": "ga-concept",
+    "name": "Ga Concept",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "5a Lê Lợi",
+      "lat": 12.253428,
+      "lng": 109.195221
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "6f4d2472-5e6e-4fec-8b80-88fca1426dcc",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e6c619a5-8e62-43",
@@ -764,7 +659,28 @@
     "source": "overture",
     "sourceId": "e6c619a5-8e62-43e2-a813-63082521f50a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-cf02b02b-48db-4a",
+    "slug": "tiem-rau-ma-maxh-99-hoang-hoa-tham-tp-nha-trang",
+    "name": "Tiệm Rau Má - MAXH - 99 Hoàng Hoa Thám TP Nha Trang",
+    "category": "cafe",
+    "subCategory": "smoothie-juice-bar",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "99 Hoàng Hoa Thám, phường Lộc Thọ  thành phố Nha Trang, tỉnh Khánh Hoà",
+      "lat": 12.246165,
+      "lng": 109.193977
+    },
+    "images": [],
+    "popularity": 47,
+    "source": "overture",
+    "sourceId": "cf02b02b-48db-4ad1-b49b-44bb69586f50",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6b3f1743-ef32-45",
@@ -785,30 +701,7 @@
     "source": "overture",
     "sourceId": "6b3f1743-ef32-45c6-addc-3e49c0b0cb08",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-e26219c1-c56d-4e",
-    "slug": "hon-kien-music-and-coffee",
-    "name": "Hon Kien Music and Coffee",
-    "category": "cafe",
-    "subCategory": "coffee-shop",
-    "tags": [
-      "chill"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "56 Đống Đa",
-      "lat": 12.240122,
-      "lng": 109.19088
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "e26219c1-c56d-4ed6-ab7a-ea6e2899705f",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-d79be17a-97df-40",
@@ -831,7 +724,30 @@
     "source": "overture",
     "sourceId": "d79be17a-97df-4070-83b3-3ecb0e964f03",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e26219c1-c56d-4e",
+    "slug": "hon-kien-music-and-coffee",
+    "name": "Hon Kien Music and Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "56 Đống Đa",
+      "lat": 12.240122,
+      "lng": 109.19088
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "e26219c1-c56d-4ed6-ab7a-ea6e2899705f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-2d1acd85-0985-4c",
@@ -854,7 +770,49 @@
     "source": "overture",
     "sourceId": "2d1acd85-0985-4c08-8219-7175070842b7",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-40308852-1d6e-40",
+    "slug": "yen-sao-khanh-hoa",
+    "name": "Yen Sao Khanh Hoa",
+    "category": "cafe",
+    "subCategory": "smoothie-juice-bar",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "19 Nguyen Thien Thuat",
+      "lat": 12.23612,
+      "lng": 109.19426
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "40308852-1d6e-403c-8088-cdbf2c53b57a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-17a1bb87-4f80-4b",
+    "slug": "tra-sua-green-tea",
+    "name": "Trà sữa Green Tea",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "72 Đ. Lương Định Của",
+      "lat": 12.256869,
+      "lng": 109.173302
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "17a1bb87-4f80-4b08-ba3a-72abc1e9f01b",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-93d01385-5648-46",
@@ -877,28 +835,7 @@
     "source": "overture",
     "sourceId": "93d01385-5648-4635-9b25-5f6d69c7e1fd",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-17a1bb87-4f80-4b",
-    "slug": "tra-sua-green-tea",
-    "name": "Trà sữa Green Tea",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "72 Đ. Lương Định Của",
-      "lat": 12.256869,
-      "lng": 109.173302
-    },
-    "images": [],
-    "popularity": 68,
-    "source": "overture",
-    "sourceId": "17a1bb87-4f80-4b08-ba3a-72abc1e9f01b",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a6825405-92ab-47",
@@ -921,30 +858,28 @@
     "source": "overture",
     "sourceId": "a6825405-92ab-470b-8e38-4cf80488b353",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-68747ea8-348f-4b",
-    "slug": "cafe-coconut",
-    "name": "Cafe Coconut",
+    "id": "ovt-1eb43962-69cf-4e",
+    "slug": "sinh-to-thien-nhien-2",
+    "name": "Sinh To Thien Nhien 2",
     "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
+    "subCategory": "smoothie-juice-bar",
+    "tags": [],
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "15 Hoàng Diệu",
-      "lat": 12.220766,
-      "lng": 109.201653
+      "address": "42 Đ. Lê Thành Phương",
+      "lat": 12.249957,
+      "lng": 109.188217
     },
     "images": [],
-    "popularity": 83,
+    "popularity": 57,
     "source": "overture",
-    "sourceId": "68747ea8-348f-4b68-a53c-40413138daec",
+    "sourceId": "1eb43962-69cf-4ef1-8a5f-ec0df9d56e55",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-311731e3-1231-47",
@@ -967,7 +902,30 @@
     "source": "overture",
     "sourceId": "311731e3-1231-47b2-bb3d-d2bb122171b1",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-68747ea8-348f-4b",
+    "slug": "cafe-coconut",
+    "name": "Cafe Coconut",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "15 Hoàng Diệu",
+      "lat": 12.220766,
+      "lng": 109.201653
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "68747ea8-348f-4b68-a53c-40413138daec",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b6f76f39-c345-4b",
@@ -990,7 +948,28 @@
     "source": "overture",
     "sourceId": "b6f76f39-c345-4b5b-b641-9c598dc39c3d",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-224a5f82-dc05-43",
+    "slug": "sinh-to-84-quang-trung",
+    "name": "Sinh tố 84 Quang Trung",
+    "category": "cafe",
+    "subCategory": "smoothie-juice-bar",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "84 Đường Quang Trung",
+      "lat": 12.247092,
+      "lng": 109.191246
+    },
+    "images": [],
+    "popularity": 45,
+    "source": "overture",
+    "sourceId": "224a5f82-dc05-43dc-84d8-958d79fd7334",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a3c2ceda-4dbf-4d",
@@ -1011,7 +990,7 @@
     "source": "overture",
     "sourceId": "a3c2ceda-4dbf-4d31-81d8-8ee013074250",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-74baf7ea-58d0-4f",
@@ -1034,7 +1013,7 @@
     "source": "overture",
     "sourceId": "74baf7ea-58d0-4f90-b0cb-0801cbe72684",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-adaeb2e9-db00-43",
@@ -1057,7 +1036,28 @@
     "source": "overture",
     "sourceId": "adaeb2e9-db00-43bd-8ebd-646a1e53ae08",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-fd01c827-0d85-41",
+    "slug": "drink-sinh-to-an-vat",
+    "name": "Drink - Sinh tố & Ăn vặt",
+    "category": "cafe",
+    "subCategory": "smoothie-juice-bar",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "48 Đường Lê Quý Đôn",
+      "lat": 12.24383,
+      "lng": 109.191109
+    },
+    "images": [],
+    "popularity": 45,
+    "source": "overture",
+    "sourceId": "fd01c827-0d85-41a8-a337-fc5f09c2e0f1",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-00b4ef59-a020-41",
@@ -1078,7 +1078,28 @@
     "source": "overture",
     "sourceId": "00b4ef59-a020-4146-98c2-3aaa9ec7bc6c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-cc8a4565-c159-4d",
+    "slug": "tra-sua-goodwill-nha-trang",
+    "name": "Trà sữa Goodwill Nha Trang",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "335 Đường Lê Hồng Phong",
+      "lat": 12.239419,
+      "lng": 109.181816
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "cc8a4565-c159-4de1-954e-9bf1e4e8d6f4",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-f2ff03cc-1ad8-4c",
@@ -1101,28 +1122,7 @@
     "source": "overture",
     "sourceId": "f2ff03cc-1ad8-4cd1-ab6c-d1058982d71f",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-cc8a4565-c159-4d",
-    "slug": "tra-sua-goodwill-nha-trang",
-    "name": "Trà sữa Goodwill Nha Trang",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "335 Đường Lê Hồng Phong",
-      "lat": 12.239419,
-      "lng": 109.181816
-    },
-    "images": [],
-    "popularity": 77,
-    "source": "overture",
-    "sourceId": "cc8a4565-c159-4de1-954e-9bf1e4e8d6f4",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-f020d0d6-654c-49",
@@ -1145,7 +1145,7 @@
     "source": "overture",
     "sourceId": "f020d0d6-654c-49b4-9a2c-69ece017390b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b27df3bf-79ac-4e",
@@ -1166,7 +1166,28 @@
     "source": "overture",
     "sourceId": "b27df3bf-79ac-4ec3-aa84-7e4933b3aa6c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b9fe9878-dca1-4c",
+    "slug": "tra-sua-a-mi-ty",
+    "name": "Trà sữa À Mí Tỳ",
+    "category": "cafe",
+    "subCategory": "bubble-tea",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "14 Đ. Chi Lăng",
+      "lat": 12.243625,
+      "lng": 109.184525
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "b9fe9878-dca1-4c90-a41d-df04d6cd7e8f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-f8820e8d-99e2-48",
@@ -1189,28 +1210,7 @@
     "source": "overture",
     "sourceId": "f8820e8d-99e2-484e-8447-275748ad3a14",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-b9fe9878-dca1-4c",
-    "slug": "tra-sua-a-mi-ty",
-    "name": "Trà sữa À Mí Tỳ",
-    "category": "cafe",
-    "subCategory": "bubble-tea",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "14 Đ. Chi Lăng",
-      "lat": 12.243625,
-      "lng": 109.184525
-    },
-    "images": [],
-    "popularity": 65,
-    "source": "overture",
-    "sourceId": "b9fe9878-dca1-4c90-a41d-df04d6cd7e8f",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-16704c11-31ae-45",
@@ -1231,7 +1231,7 @@
     "source": "overture",
     "sourceId": "16704c11-31ae-4507-8984-342a77e464d3",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c17ba08c-2303-44",
@@ -1252,154 +1252,7 @@
     "source": "overture",
     "sourceId": "c17ba08c-2303-4415-8330-4a8d3665e1a8",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-94ea7af6-1b18-4b",
-    "slug": "kfc-hoan-cau",
-    "name": "KFC Hoàn Cầu",
-    "category": "food",
-    "subCategory": "fast-food-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "20 Trần Phú",
-      "lat": 12.247672,
-      "lng": 109.19606
-    },
-    "images": [],
-    "popularity": 85,
-    "source": "overture",
-    "sourceId": "94ea7af6-1b18-4b5f-97f6-abb55073e7d4",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-df04468a-a4d1-49",
-    "slug": "viet54-goc-pho-am-thuc-viet",
-    "name": "Viet54 Góc phố ẩm thực Việt",
-    "category": "food",
-    "subCategory": "ice-cream-shop",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "103 Đường Thái Nguyên",
-      "lat": 12.241422,
-      "lng": 109.188499
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "df04468a-a4d1-493f-b424-d14e45585b25",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-ce9f3b23-c8dd-42",
-    "slug": "kiwami-japanese-restaurant",
-    "name": "Kiwami Japanese Restaurant",
-    "category": "food",
-    "subCategory": "japanese-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "105 A Đ. Hồng Bàng",
-      "lat": 12.239768,
-      "lng": 109.190804
-    },
-    "images": [],
-    "popularity": 85,
-    "source": "overture",
-    "sourceId": "ce9f3b23-c8dd-421d-936c-49f84181d76a",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-ee83a4af-8c00-4c",
-    "slug": "ngoc-trai-restaurant",
-    "name": "Ngoc Trai Restaurant",
-    "category": "food",
-    "subCategory": "seafood-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "97 Nguyễn Thị Minh Khai",
-      "lat": 12.237496,
-      "lng": 109.189919
-    },
-    "images": [],
-    "popularity": 85,
-    "source": "overture",
-    "sourceId": "ee83a4af-8c00-4c47-aa15-e25ffa78640f",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-22e2b382-789e-4e",
-    "slug": "nha-hang-yen-sao-khanh-hoa-sanest-restaurant",
-    "name": "Nhà hàng Yến Sào Khánh Hòa Sanest Restaurant",
-    "category": "food",
-    "subCategory": "vietnamese-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "4 Phạm Văn Đồng",
-      "lat": 12.266078,
-      "lng": 109.202728
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "22e2b382-789e-4ee2-9095-548c0a6bd481",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-42737e4b-7d80-4d",
-    "slug": "livin",
-    "name": "LIVIN",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "5a Đ. Ngô Thời Nhiệm",
-      "lat": 12.239139,
-      "lng": 109.190781
-    },
-    "images": [],
-    "popularity": 85,
-    "source": "overture",
-    "sourceId": "42737e4b-7d80-4d50-ba8c-16a0637eb0df",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-6b9ccee3-6776-4a",
-    "slug": "okale-vegetarian-restaurant",
-    "name": "Okale Vegetarian Restaurant",
-    "category": "food",
-    "subCategory": "vegetarian-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "118 Bạch Đằng",
-      "lat": 12.240754,
-      "lng": 109.190987
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "6b9ccee3-6776-4a19-bba0-49bf2a0f719e",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-dfc9e325-b6b4-47",
@@ -1420,70 +1273,91 @@
     "source": "overture",
     "sourceId": "dfc9e325-b6b4-470d-9183-a3a4ebcb30fb",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-422721f0-c508-46",
-    "slug": "lotteria-lotte-mart-nha-trang",
-    "name": "Lotteria - Lotte Mart - Nha Trang",
+    "id": "ovt-94ea7af6-1b18-4b",
+    "slug": "kfc-hoan-cau",
+    "name": "KFC Hoàn Cầu",
     "category": "food",
     "subCategory": "fast-food-restaurant",
     "tags": [],
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "10 Đường 23 Tháng 10",
-      "lat": 12.251616,
-      "lng": 109.177071
+      "address": "20 Trần Phú",
+      "lat": 12.247672,
+      "lng": 109.19606
     },
     "images": [],
     "popularity": 85,
     "source": "overture",
-    "sourceId": "422721f0-c508-4652-9390-94c3d4237a8b",
+    "sourceId": "94ea7af6-1b18-4b5f-97f6-abb55073e7d4",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-04cc61e9-3c42-4a",
-    "slug": "quan-kem-tuoi-3k",
-    "name": "Quán Kem Tươi 3K",
+    "id": "ovt-df04468a-a4d1-49",
+    "slug": "viet54-goc-pho-am-thuc-viet",
+    "name": "Viet54 Góc phố ẩm thực Việt",
     "category": "food",
     "subCategory": "ice-cream-shop",
     "tags": [],
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "Đ. Nguyễn Đình Chiểu",
-      "lat": 12.268571,
-      "lng": 109.200737
+      "address": "103 Đường Thái Nguyên",
+      "lat": 12.241422,
+      "lng": 109.188499
     },
     "images": [],
-    "popularity": 73,
+    "popularity": 83,
     "source": "overture",
-    "sourceId": "04cc61e9-3c42-4af5-a183-069d081bc3dd",
+    "sourceId": "df04468a-a4d1-493f-b424-d14e45585b25",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-c59bb1e8-4234-4d",
-    "slug": "nhat-phong-3-restaurant",
-    "name": "Nhat Phong 3 Restaurant",
+    "id": "ovt-ce9f3b23-c8dd-42",
+    "slug": "kiwami-japanese-restaurant",
+    "name": "Kiwami Japanese Restaurant",
     "category": "food",
-    "subCategory": "asian-restaurant",
+    "subCategory": "japanese-restaurant",
     "tags": [],
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "63B, Cù Lao Trung",
-      "lat": 12.264798,
-      "lng": 109.19828
+      "address": "105 A Đ. Hồng Bàng",
+      "lat": 12.239768,
+      "lng": 109.190804
     },
     "images": [],
-    "popularity": 84,
+    "popularity": 85,
     "source": "overture",
-    "sourceId": "c59bb1e8-4234-4df8-ac58-863667e811a5",
+    "sourceId": "ce9f3b23-c8dd-421d-936c-49f84181d76a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ee83a4af-8c00-4c",
+    "slug": "ngoc-trai-restaurant",
+    "name": "Ngoc Trai Restaurant",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "97 Nguyễn Thị Minh Khai",
+      "lat": 12.237496,
+      "lng": 109.189919
+    },
+    "images": [],
+    "popularity": 85,
+    "source": "overture",
+    "sourceId": "ee83a4af-8c00-4c47-aa15-e25ffa78640f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-2905556f-c64e-42",
@@ -1504,7 +1378,28 @@
     "source": "overture",
     "sourceId": "2905556f-c64e-42be-bd9a-19104086edb8",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-22e2b382-789e-4e",
+    "slug": "nha-hang-yen-sao-khanh-hoa-sanest-restaurant",
+    "name": "Nhà hàng Yến Sào Khánh Hòa Sanest Restaurant",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "4 Phạm Văn Đồng",
+      "lat": 12.266078,
+      "lng": 109.202728
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "22e2b382-789e-4ee2-9095-548c0a6bd481",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-5c704fd1-76b3-4d",
@@ -1525,154 +1420,7 @@
     "source": "overture",
     "sourceId": "5c704fd1-76b3-4dd5-b498-a11b64258902",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-6e48b46e-e926-46",
-    "slug": "bun-bo-huong-giang-nha-trang",
-    "name": "Bún bò Hương Giang - Nha Trang",
-    "category": "food",
-    "subCategory": "soup-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "133 Đường Nguyễn Thị Minh Khai",
-      "lat": 12.237066,
-      "lng": 109.188446
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "6e48b46e-e926-46e5-8a30-2f266a209ff8",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-b0ebaa12-1cff-4b",
-    "slug": "shakti",
-    "name": "Shakti",
-    "category": "food",
-    "subCategory": "vegetarian-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "31 Đ. Huỳnh Thúc Kháng",
-      "lat": 12.244664,
-      "lng": 109.18885
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "b0ebaa12-1cff-4b8b-bf22-f9056529aa35",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-185bc79c-be4f-44",
-    "slug": "hem-mini-hotpot-and-bbq",
-    "name": "Hẻm Mini Hotpot and BBQ",
-    "category": "food",
-    "subCategory": "barbecue-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "17 Đ. Huỳnh Thúc Kháng",
-      "lat": 12.244915,
-      "lng": 109.188591
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "185bc79c-be4f-447b-afef-7e4a3b0065fc",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-74276f0f-35c5-42",
-    "slug": "alpaca-homestyle-cafe",
-    "name": "Alpaca homestyle cafe",
-    "category": "food",
-    "subCategory": "italian-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "10/1B Nguyễn Thiện Thuật",
-      "lat": 12.241111,
-      "lng": 109.193283
-    },
-    "images": [],
-    "popularity": 75,
-    "source": "overture",
-    "sourceId": "74276f0f-35c5-4211-a6f8-01c17b0da802",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-b942ba8a-f288-43",
-    "slug": "breadtalk-vietnam",
-    "name": "BreadTalk Vietnam",
-    "category": "food",
-    "subCategory": "bakery",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "15 Đường Trần Hưng Đạo",
-      "lat": 12.242294,
-      "lng": 109.194954
-    },
-    "images": [],
-    "popularity": 82,
-    "source": "overture",
-    "sourceId": "b942ba8a-f288-43af-9b48-cb08fe495fd0",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-5ba156d8-ec6a-4e",
-    "slug": "mi-cay-seoul-nha-trang",
-    "name": "Mì Cay Seoul",
-    "category": "food",
-    "subCategory": "korean-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "88 Đ. Quang Trung",
-      "lat": 12.246439,
-      "lng": 109.191399
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "5ba156d8-ec6a-4e90-a003-984daa853049",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-0cf1bd11-2aa3-41",
-    "slug": "nha-trang-seafood",
-    "name": "Nha Trang- Seafood",
-    "category": "food",
-    "subCategory": "seafood-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "46 Đường Nguyễn Thị Minh Khai",
-      "lat": 12.238569,
-      "lng": 109.193779
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "0cf1bd11-2aa3-417a-9bef-e4ede097401a",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-fb0f5bd8-8cd0-4a",
@@ -1693,154 +1441,7 @@
     "source": "overture",
     "sourceId": "fb0f5bd8-8cd0-4aa0-9393-f311518bec0d",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-28ab5df1-1bdf-42",
-    "slug": "fork-n-lekker-garden-cafe",
-    "name": "Fork'n Lekker Garden Cafe",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "23 Đinh Lễ",
-      "lat": 12.218655,
-      "lng": 109.193932
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "28ab5df1-1bdf-4291-95db-cbe60d90acf8",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-76b635ed-a39d-4c",
-    "slug": "am-thuc-thuan-chay-bo-de-sao",
-    "name": "Ẩm Thực Thuần Chay Bồ Đề Sao",
-    "category": "food",
-    "subCategory": "vegetarian-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "11 Đ. Huỳnh Thúc Kháng",
-      "lat": 12.244956,
-      "lng": 109.188492
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "76b635ed-a39d-4cef-ada1-cfb7ea77ef40",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-8823536c-9510-4a",
-    "slug": "nuong-ngoi-subo",
-    "name": "Nướng ngói Subo",
-    "category": "food",
-    "subCategory": "barbecue-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "634 Đ. 2/4",
-      "lat": 12.273756,
-      "lng": 109.198013
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "8823536c-9510-4a6c-960f-caaa7a1fba97",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-f4421694-0572-4c",
-    "slug": "pizza-hut-go-mall-nha-trang",
-    "name": "Pizza Hut Go Mall Nha Trang",
-    "category": "food",
-    "subCategory": "pizza-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "4 Đường 19/5",
-      "lat": 12.256017,
-      "lng": 109.170532
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "f4421694-0572-4cc1-bbec-19cb74c51872",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-154ed21f-c8c2-44",
-    "slug": "kem-bo-vfruit",
-    "name": "Kem Bơ Vfruit",
-    "category": "food",
-    "subCategory": "ice-cream-shop",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "24 Tô Hiến Thành",
-      "lat": 12.23925,
-      "lng": 109.192177
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "154ed21f-c8c2-44cf-9231-b4c357472dda",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-ec300996-c1b8-4d",
-    "slug": "koko-sushi-bbq",
-    "name": "Koko Sushi Bbq",
-    "category": "food",
-    "subCategory": "sushi-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "862 Lê Hồng Phong",
-      "lat": 12.221533,
-      "lng": 109.185913
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "ec300996-c1b8-4de4-99d8-f5f8fee15788",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-931a095a-2c4e-47",
-    "slug": "hai-san-be-tan",
-    "name": "Hải sản Bé Tân",
-    "category": "food",
-    "subCategory": "seafood-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "128 Phạm Văn Đồng",
-      "lat": 12.335733,
-      "lng": 109.201706
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "931a095a-2c4e-4770-ac45-6ced536f9275",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c83dd94c-d5ca-47",
@@ -1861,154 +1462,7 @@
     "source": "overture",
     "sourceId": "c83dd94c-d5ca-477a-9f69-2e1f2f4fee6b",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-c0a7a108-cb73-4b",
-    "slug": "la-seaesta-coffee-wine-and-dine",
-    "name": "La SeaEsta- Coffee, Wine, and Dine",
-    "category": "food",
-    "subCategory": "restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Villa An Viên, C7 C8 1G Street",
-      "lat": 12.195796,
-      "lng": 109.211739
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "c0a7a108-cb73-4b51-b463-3e79e1993773",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-b324e756-6034-40",
-    "slug": "senta-vegetarian",
-    "name": "Senta Vegetarian",
-    "category": "food",
-    "subCategory": "vegetarian-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "11 Yersin",
-      "lat": 12.249111,
-      "lng": 109.194595
-    },
-    "images": [],
-    "popularity": 70,
-    "source": "overture",
-    "sourceId": "b324e756-6034-40cf-a1b8-4d04e8cd485f",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-ffc0d3c9-9380-43",
-    "slug": "bds-nha-trang",
-    "name": "BĐS Nha Trang",
-    "category": "food",
-    "subCategory": "barbecue-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": " Phường Bắc Nha Trang, Nha Trang",
-      "lat": 12.278415,
-      "lng": 109.2015
-    },
-    "images": [],
-    "popularity": 77,
-    "source": "overture",
-    "sourceId": "ffc0d3c9-9380-43ab-8334-9927006e572a",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-edcc46bd-b503-4b",
-    "slug": "kfc-le-thanh-phuong",
-    "name": "KFC Lê Thành Phương",
-    "category": "food",
-    "subCategory": "fast-food-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "67 Đ. Lê Thành Phương",
-      "lat": 12.247639,
-      "lng": 109.189117
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "edcc46bd-b503-4bc0-9a7c-3b801dbb4a1f",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-f4710318-b6a0-46",
-    "slug": "tiem-banh-doremon-ba-du-pl",
-    "name": "Tiệm Bánh Doremon Bà Dú PL",
-    "category": "food",
-    "subCategory": "bakery",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "134 Đ. Phước Long",
-      "lat": 12.210249,
-      "lng": 109.191788
-    },
-    "images": [],
-    "popularity": 70,
-    "source": "overture",
-    "sourceId": "f4710318-b6a0-46c2-b5b4-49d4304b4735",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-2496cc8b-836a-46",
-    "slug": "mitami-japanese-restaurant",
-    "name": "MITAMI Japanese Restaurant",
-    "category": "food",
-    "subCategory": "japanese-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "72 Nguyễn Thị Minh Khai",
-      "lat": 12.237532,
-      "lng": 109.189529
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "2496cc8b-836a-46e5-bba4-34380cba1558",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-e941c934-c3b1-41",
-    "slug": "costa-seafood",
-    "name": "Costa Seafood",
-    "category": "food",
-    "subCategory": "seafood-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "32 - 34 Trần Phú",
-      "lat": 12.245077,
-      "lng": 109.196114
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "e941c934-c3b1-4168-9e2b-68abdfcad2af",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e6978649-b552-49",
@@ -2029,154 +1483,196 @@
     "source": "overture",
     "sourceId": "e6978649-b552-49fc-8ead-ad8a4dd9ec35",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-a97cfba4-1b1e-49",
-    "slug": "khanhkat-mockba",
-    "name": "KhanhKat Mockba",
+    "id": "ovt-42737e4b-7d80-4d",
+    "slug": "livin",
+    "name": "LIVIN",
     "category": "food",
     "subCategory": "restaurant",
     "tags": [],
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "24 Trần Quang Khải",
-      "lat": 12.233298,
-      "lng": 109.195686
+      "address": "5a Đ. Ngô Thời Nhiệm",
+      "lat": 12.239139,
+      "lng": 109.190781
     },
     "images": [],
-    "popularity": 84,
+    "popularity": 85,
     "source": "overture",
-    "sourceId": "a97cfba4-1b1e-495d-8d5a-73bb058ca970",
+    "sourceId": "42737e4b-7d80-4d50-ba8c-16a0637eb0df",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-823950c9-517f-4c",
-    "slug": "sen-thien-quan",
-    "name": "Sen Thiền Quán",
+    "id": "ovt-6b9ccee3-6776-4a",
+    "slug": "okale-vegetarian-restaurant",
+    "name": "Okale Vegetarian Restaurant",
     "category": "food",
     "subCategory": "vegetarian-restaurant",
     "tags": [],
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "Thôn Thái Thông, Xã Vĩnh Thái",
-      "lat": 12.247539,
-      "lng": 109.156929
+      "address": "118 Bạch Đằng",
+      "lat": 12.240754,
+      "lng": 109.190987
     },
     "images": [],
-    "popularity": 68,
+    "popularity": 83,
     "source": "overture",
-    "sourceId": "823950c9-517f-4c75-a064-aa71aae4d4f8",
+    "sourceId": "6b9ccee3-6776-4a19-bba0-49bf2a0f719e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-0da6e3ac-3083-41",
-    "slug": "cuu-nuong-nha-trang-grilled-lamb-bbq",
-    "name": "Cừu Nướng Nha Trang | Grilled Lamb BBQ",
+    "id": "ovt-185bc79c-be4f-44",
+    "slug": "hem-mini-hotpot-and-bbq",
+    "name": "Hẻm Mini Hotpot and BBQ",
     "category": "food",
     "subCategory": "barbecue-restaurant",
     "tags": [],
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "1 Xóm Núi",
-      "lat": 12.29912,
-      "lng": 109.218567
+      "address": "17 Đ. Huỳnh Thúc Kháng",
+      "lat": 12.244915,
+      "lng": 109.188591
     },
     "images": [],
-    "popularity": 76,
+    "popularity": 72,
     "source": "overture",
-    "sourceId": "0da6e3ac-3083-410f-88b1-f5695edba62c",
+    "sourceId": "185bc79c-be4f-447b-afef-7e4a3b0065fc",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-2ff58359-00a9-43",
-    "slug": "jollibee-vincom-thai-nguyen-nha-trang",
-    "name": "Jollibee - Vincom Thái Nguyên Nha Trang",
+    "id": "ovt-8823536c-9510-4a",
+    "slug": "nuong-ngoi-subo",
+    "name": "Nướng ngói Subo",
+    "category": "food",
+    "subCategory": "barbecue-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "634 Đ. 2/4",
+      "lat": 12.273756,
+      "lng": 109.198013
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "8823536c-9510-4a6c-960f-caaa7a1fba97",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-422721f0-c508-46",
+    "slug": "lotteria-lotte-mart-nha-trang",
+    "name": "Lotteria - Lotte Mart - Nha Trang",
     "category": "food",
     "subCategory": "fast-food-restaurant",
     "tags": [],
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "4F., 60 Thái Nguyên",
-      "lat": 12.2483,
-      "lng": 109.18679
+      "address": "10 Đường 23 Tháng 10",
+      "lat": 12.251616,
+      "lng": 109.177071
     },
     "images": [],
-    "popularity": 74,
+    "popularity": 85,
     "source": "overture",
-    "sourceId": "2ff58359-00a9-4352-9368-e7554bccc389",
+    "sourceId": "422721f0-c508-4652-9390-94c3d4237a8b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-5cd56736-fd18-4e",
-    "slug": "banh-kem-thanh-nguyet",
-    "name": "Bánh Kem Thanh Nguyệt",
+    "id": "ovt-04cc61e9-3c42-4a",
+    "slug": "quan-kem-tuoi-3k",
+    "name": "Quán Kem Tươi 3K",
     "category": "food",
-    "subCategory": "bakery",
+    "subCategory": "ice-cream-shop",
     "tags": [],
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "567 Đ. 2/4",
-      "lat": 12.272018,
-      "lng": 109.198158
+      "address": "Đ. Nguyễn Đình Chiểu",
+      "lat": 12.268571,
+      "lng": 109.200737
     },
     "images": [],
-    "popularity": 70,
+    "popularity": 73,
     "source": "overture",
-    "sourceId": "5cd56736-fd18-4eed-8754-1043eabf9521",
+    "sourceId": "04cc61e9-3c42-4af5-a183-069d081bc3dd",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-9631396d-4e09-4b",
-    "slug": "kichi-kichi-ariyana-nha-trang",
-    "name": "Kichi Kichi Ariyana Nha Trang",
+    "id": "ovt-c59bb1e8-4234-4d",
+    "slug": "nhat-phong-3-restaurant",
+    "name": "Nhat Phong 3 Restaurant",
     "category": "food",
-    "subCategory": "chinese-restaurant",
+    "subCategory": "asian-restaurant",
     "tags": [],
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "18 Đ. Trần Hưng Đạo",
-      "lat": 12.244272,
-      "lng": 109.19455
+      "address": "63B, Cù Lao Trung",
+      "lat": 12.264798,
+      "lng": 109.19828
     },
     "images": [],
-    "popularity": 83,
+    "popularity": 84,
     "source": "overture",
-    "sourceId": "9631396d-4e09-4b4d-9f09-32186d0be7da",
+    "sourceId": "c59bb1e8-4234-4df8-ac58-863667e811a5",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-13b8808d-e0c1-4d",
-    "slug": "zallo-vien-trieu",
-    "name": "Zallo Viễn Triều",
+    "id": "ovt-0cf1bd11-2aa3-41",
+    "slug": "nha-trang-seafood",
+    "name": "Nha Trang- Seafood",
     "category": "food",
     "subCategory": "seafood-restaurant",
     "tags": [],
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "17 Cao Văn Bé",
-      "lat": 12.27286,
-      "lng": 109.201378
+      "address": "46 Đường Nguyễn Thị Minh Khai",
+      "lat": 12.238569,
+      "lng": 109.193779
     },
     "images": [],
-    "popularity": 83,
+    "popularity": 84,
     "source": "overture",
-    "sourceId": "13b8808d-e0c1-4d16-a0f9-38798abd5655",
+    "sourceId": "0cf1bd11-2aa3-417a-9bef-e4ede097401a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-931a095a-2c4e-47",
+    "slug": "hai-san-be-tan",
+    "name": "Hải sản Bé Tân",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "128 Phạm Văn Đồng",
+      "lat": 12.335733,
+      "lng": 109.201706
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "931a095a-2c4e-4770-ac45-6ced536f9275",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-da19e408-f61a-45",
@@ -2197,154 +1693,7 @@
     "source": "overture",
     "sourceId": "da19e408-f61a-4546-a107-006674a69c8b",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-b6f69e48-b5af-47",
-    "slug": "cuon-papa-s",
-    "name": "Cuốn Papa's",
-    "category": "food",
-    "subCategory": "diner",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "16 Lê Quý Đôn",
-      "lat": 12.24488,
-      "lng": 109.190018
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "b6f69e48-b5af-476e-a37f-b6dd07277231",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d94bb33d-aff7-41",
-    "slug": "phyto-bistro",
-    "name": "Phyto Bistro",
-    "category": "food",
-    "subCategory": "vegetarian-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "8/16 Nguyễn Thiện Thuật",
-      "lat": 12.241547,
-      "lng": 109.192764
-    },
-    "images": [],
-    "popularity": 64,
-    "source": "overture",
-    "sourceId": "d94bb33d-aff7-4180-b24a-5eb88d877a00",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-7438fd58-f250-4d",
-    "slug": "small-armenia",
-    "name": "Small Armenia",
-    "category": "food",
-    "subCategory": "barbecue-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "3/12 Tran Quang Khai",
-      "lat": 12.232047,
-      "lng": 109.195671
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "7438fd58-f250-4d22-bac9-ae9ca8b0bc93",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-2b11cd9b-e0cb-4a",
-    "slug": "la-cala",
-    "name": "La Cala",
-    "category": "food",
-    "subCategory": "italian-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Bạch Đằng",
-      "lat": 12.238758,
-      "lng": 109.192764
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "2b11cd9b-e0cb-4afb-a12d-de13a3b199b9",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-b78a6e90-c2dd-4c",
-    "slug": "tiem-banh-mi-rom-rop",
-    "name": "Tiệm Bánh Mì Rôm Rốp",
-    "category": "food",
-    "subCategory": "bakery",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "18 Đ. Mê Linh",
-      "lat": 12.240734,
-      "lng": 109.186729
-    },
-    "images": [],
-    "popularity": 68,
-    "source": "overture",
-    "sourceId": "b78a6e90-c2dd-4c47-9c9a-3ece616adc73",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-70daa80a-620b-4a",
-    "slug": "vuon-chieu-quan",
-    "name": "Vườn Chiều Quán",
-    "category": "food",
-    "subCategory": "indian-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "52/1 Trịnh Hoài Đức",
-      "lat": 12.286876,
-      "lng": 109.1922
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "70daa80a-620b-4a10-9823-b13a631276a7",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-40f97eb8-c07d-4d",
-    "slug": "quan-nhau-hai-san-gia-re",
-    "name": "Quán Nhậu Hải Sản Giá Rẻ",
-    "category": "food",
-    "subCategory": "seafood-restaurant",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "sân bay, khu tái định cư, Trần Nhật Duật",
-      "lat": 12.233344,
-      "lng": 109.184235
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "40f97eb8-c07d-4d7e-a05b-48ba04da339c",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-bb56e0fb-874d-41",
@@ -2365,7 +1714,658 @@
     "source": "overture",
     "sourceId": "bb56e0fb-874d-41c5-ae08-8908ad8c9987",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-25ef5a4e-a577-42",
+    "slug": "lang-ngon",
+    "name": "LÀNG NGON",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Hẻm 83 Nguyễn Thị Minh Khai",
+      "lat": 12.236073,
+      "lng": 109.189529
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "25ef5a4e-a577-427e-9e16-7717e6ca417d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-942a88ee-c4bb-4c",
+    "slug": "minsu-chicken",
+    "name": "Minsu Chicken",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "65 Đ. Trần Nguyên Hãn",
+      "lat": 12.240139,
+      "lng": 109.188858
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "942a88ee-c4bb-4c3b-a230-eb94d06f672d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-cd90b4a0-838e-4b",
+    "slug": "vit-van-dinh-minh-hieu-nha-trang",
+    "name": "Vịt Vân Đình- Minh Hiếu- Nha Trang",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "7D Châu Văn Liêm - phước long- nha trang",
+      "lat": 12.220159,
+      "lng": 109.192123
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "cd90b4a0-838e-4ba4-b8ce-f816ad56a58d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6e48b46e-e926-46",
+    "slug": "bun-bo-huong-giang-nha-trang",
+    "name": "Bún bò Hương Giang - Nha Trang",
+    "category": "food",
+    "subCategory": "soup-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "133 Đường Nguyễn Thị Minh Khai",
+      "lat": 12.237066,
+      "lng": 109.188446
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "6e48b46e-e926-46e5-8a30-2f266a209ff8",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b0ebaa12-1cff-4b",
+    "slug": "shakti",
+    "name": "Shakti",
+    "category": "food",
+    "subCategory": "vegetarian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "31 Đ. Huỳnh Thúc Kháng",
+      "lat": 12.244664,
+      "lng": 109.18885
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "b0ebaa12-1cff-4b8b-bf22-f9056529aa35",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ffc0d3c9-9380-43",
+    "slug": "bds-nha-trang",
+    "name": "BĐS Nha Trang",
+    "category": "food",
+    "subCategory": "barbecue-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": " Phường Bắc Nha Trang, Nha Trang",
+      "lat": 12.278415,
+      "lng": 109.2015
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "ffc0d3c9-9380-43ab-8334-9927006e572a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-0da6e3ac-3083-41",
+    "slug": "cuu-nuong-nha-trang-grilled-lamb-bbq",
+    "name": "Cừu Nướng Nha Trang | Grilled Lamb BBQ",
+    "category": "food",
+    "subCategory": "barbecue-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "1 Xóm Núi",
+      "lat": 12.29912,
+      "lng": 109.218567
+    },
+    "images": [],
+    "popularity": 76,
+    "source": "overture",
+    "sourceId": "0da6e3ac-3083-410f-88b1-f5695edba62c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-74276f0f-35c5-42",
+    "slug": "alpaca-homestyle-cafe",
+    "name": "Alpaca homestyle cafe",
+    "category": "food",
+    "subCategory": "italian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "10/1B Nguyễn Thiện Thuật",
+      "lat": 12.241111,
+      "lng": 109.193283
+    },
+    "images": [],
+    "popularity": 75,
+    "source": "overture",
+    "sourceId": "74276f0f-35c5-4211-a6f8-01c17b0da802",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b942ba8a-f288-43",
+    "slug": "breadtalk-vietnam",
+    "name": "BreadTalk Vietnam",
+    "category": "food",
+    "subCategory": "bakery",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "15 Đường Trần Hưng Đạo",
+      "lat": 12.242294,
+      "lng": 109.194954
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "b942ba8a-f288-43af-9b48-cb08fe495fd0",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5ba156d8-ec6a-4e",
+    "slug": "mi-cay-seoul-nha-trang",
+    "name": "Mì Cay Seoul",
+    "category": "food",
+    "subCategory": "korean-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "88 Đ. Quang Trung",
+      "lat": 12.246439,
+      "lng": 109.191399
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "5ba156d8-ec6a-4e90-a003-984daa853049",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e941c934-c3b1-41",
+    "slug": "costa-seafood",
+    "name": "Costa Seafood",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "32 - 34 Trần Phú",
+      "lat": 12.245077,
+      "lng": 109.196114
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "e941c934-c3b1-4168-9e2b-68abdfcad2af",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-13b8808d-e0c1-4d",
+    "slug": "zallo-vien-trieu",
+    "name": "Zallo Viễn Triều",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "17 Cao Văn Bé",
+      "lat": 12.27286,
+      "lng": 109.201378
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "13b8808d-e0c1-4d16-a0f9-38798abd5655",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-81ae4bc7-33d8-4a",
+    "slug": "linh-ca-keo",
+    "name": "Linh Cá Kèo",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "20 Đ. Pasteur",
+      "lat": 12.250331,
+      "lng": 109.194847
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "81ae4bc7-33d8-4a73-a46c-e20602f15987",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-bc95a4f4-b96f-43",
+    "slug": "nha-hang-chao-mao",
+    "name": "Nhà hàng Chào Mào",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "166 Đ. Mê Linh",
+      "lat": 12.237975,
+      "lng": 109.189911
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "bc95a4f4-b96f-43f3-994c-57d9d831af92",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ac2658b3-f335-4f",
+    "slug": "quan-com-binh-minh",
+    "name": "Quán cơm Bình Minh",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "64 Hoàng Văn Thụ",
+      "lat": 12.25133,
+      "lng": 109.189453
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "ac2658b3-f335-4f2a-8f34-a72ca08acb19",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2c241acd-2150-40",
+    "slug": "galangal",
+    "name": "Galangal",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "1-A Biệt Thự",
+      "lat": 12.235818,
+      "lng": 109.19677
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "2c241acd-2150-40ba-b888-c63df669ece2",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-fa4820ba-e74c-44",
+    "slug": "nha-hang-lang-xua",
+    "name": "Nhà Hàng Làng Xưa",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "35 Đường Thái Thông",
+      "lat": 12.247322,
+      "lng": 109.156441
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "fa4820ba-e74c-4420-b450-5dd474f671ee",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-28ab5df1-1bdf-42",
+    "slug": "fork-n-lekker-garden-cafe",
+    "name": "Fork'n Lekker Garden Cafe",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "23 Đinh Lễ",
+      "lat": 12.218655,
+      "lng": 109.193932
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "28ab5df1-1bdf-4291-95db-cbe60d90acf8",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-76b635ed-a39d-4c",
+    "slug": "am-thuc-thuan-chay-bo-de-sao",
+    "name": "Ẩm Thực Thuần Chay Bồ Đề Sao",
+    "category": "food",
+    "subCategory": "vegetarian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "11 Đ. Huỳnh Thúc Kháng",
+      "lat": 12.244956,
+      "lng": 109.188492
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "76b635ed-a39d-4cef-ada1-cfb7ea77ef40",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7438fd58-f250-4d",
+    "slug": "small-armenia",
+    "name": "Small Armenia",
+    "category": "food",
+    "subCategory": "barbecue-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "3/12 Tran Quang Khai",
+      "lat": 12.232047,
+      "lng": 109.195671
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "7438fd58-f250-4d22-bac9-ae9ca8b0bc93",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2cd76d18-11cc-45",
+    "slug": "hoa-bien-xanh-seafood-hot-pot-bbq",
+    "name": "HOA BIỂN XANH Seafood - Hot Pot & Bbq",
+    "category": "food",
+    "subCategory": "barbecue-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "10 Đường Phạm Văn Đồng",
+      "lat": 12.284349,
+      "lng": 109.20369
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "2cd76d18-11cc-452e-8ebe-091f2f21398d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f4421694-0572-4c",
+    "slug": "pizza-hut-go-mall-nha-trang",
+    "name": "Pizza Hut Go Mall Nha Trang",
+    "category": "food",
+    "subCategory": "pizza-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "4 Đường 19/5",
+      "lat": 12.256017,
+      "lng": 109.170532
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "f4421694-0572-4cc1-bbec-19cb74c51872",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-154ed21f-c8c2-44",
+    "slug": "kem-bo-vfruit",
+    "name": "Kem Bơ Vfruit",
+    "category": "food",
+    "subCategory": "ice-cream-shop",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "24 Tô Hiến Thành",
+      "lat": 12.23925,
+      "lng": 109.192177
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "154ed21f-c8c2-44cf-9231-b4c357472dda",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ec300996-c1b8-4d",
+    "slug": "koko-sushi-bbq",
+    "name": "Koko Sushi Bbq",
+    "category": "food",
+    "subCategory": "sushi-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "862 Lê Hồng Phong",
+      "lat": 12.221533,
+      "lng": 109.185913
+    },
+    "images": [],
+    "popularity": 84,
+    "source": "overture",
+    "sourceId": "ec300996-c1b8-4de4-99d8-f5f8fee15788",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-40f97eb8-c07d-4d",
+    "slug": "quan-nhau-hai-san-gia-re",
+    "name": "Quán Nhậu Hải Sản Giá Rẻ",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "sân bay, khu tái định cư, Trần Nhật Duật",
+      "lat": 12.233344,
+      "lng": 109.184235
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "40f97eb8-c07d-4d7e-a05b-48ba04da339c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-865e5752-e62b-45",
+    "slug": "nha-hang-cay-me-50-cu-huan",
+    "name": "Nhà hàng Cây Me - 50 Cù Huân.",
+    "category": "food",
+    "subCategory": "seafood-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "50 Đường Cù Huân",
+      "lat": 12.264459,
+      "lng": 109.197906
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "865e5752-e62b-454e-9acc-f8fc14d890de",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-27c35262-93db-4a",
+    "slug": "quan-map-79",
+    "name": "Quán Mập 79",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "31 Cửu Long",
+      "lat": 12.238037,
+      "lng": 109.182968
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "27c35262-93db-4a64-a87d-f6a47475085a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-69cd2b61-e077-49",
+    "slug": "com-nha-nha-trang",
+    "name": "Cơm Nhà Nha Trang",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "45 Đ. Lê Đại Hành",
+      "lat": 12.240172,
+      "lng": 109.188431
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "69cd2b61-e077-49ad-824c-3351b69ad068",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-4622ced8-1dec-45",
+    "slug": "lau-de-thanh-da",
+    "name": "Lẩu Dê Thanh Đa",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "124 Đường Nguyễn Thị Minh Khai",
+      "lat": 12.237577,
+      "lng": 109.190216
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "4622ced8-1dec-45b0-a461-b8e2084893b4",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-867ae20f-2482-42",
+    "slug": "quan-chay-co-tam",
+    "name": "Quán Chay Cô Tấm",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "01 Lạc Long Quân",
+      "lat": 12.243409,
+      "lng": 109.186272
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "867ae20f-2482-425e-94a9-3801eec7601b",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-064627b7-796a-40",
+    "slug": "chopsticks-restaurant",
+    "name": "Chopsticks Restaurant",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "640 Đ. Lương Định Của",
+      "lat": 12.268243,
+      "lng": 109.152962
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "064627b7-796a-40d0-99ae-6d9a78c56de2",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c19ae15b-d3ef-45",
@@ -2389,102 +2389,7 @@
     "source": "overture",
     "sourceId": "c19ae15b-d3ef-45c9-831d-cbe5c187cfa3",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-9559ee76-93d0-46",
-    "slug": "ngan-gia-cay",
-    "name": "Ngan GiẢ CẦY",
-    "category": "entertainment",
-    "subCategory": "beer-garden",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "36 Đường Dã Tượng",
-      "lat": 12.218786,
-      "lng": 109.203445
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "9559ee76-93d0-46c3-b1ce-986dd2135f5a",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-4a6ef23a-471c-44",
-    "slug": "clb-bong-ban-dkq",
-    "name": "CLB Bóng Bàn DKQ",
-    "category": "entertainment",
-    "subCategory": "music-venue",
-    "tags": [
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "75 Đường Nguyễn Thị Minh Khai",
-      "lat": 12.235284,
-      "lng": 109.18988
-    },
-    "images": [],
-    "popularity": 65,
-    "source": "overture",
-    "sourceId": "4a6ef23a-471c-4489-92d5-1b80c506db81",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-bb8b175b-ff89-46",
-    "slug": "clb-billiards-hoang-long",
-    "name": "CLB Billiards Hoàng Long",
-    "category": "entertainment",
-    "subCategory": "pool-billiards",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "39 Đường Lý Nam Đế",
-      "lat": 12.216785,
-      "lng": 109.191689
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "bb8b175b-ff89-4623-a9b2-925a2a87c881",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-552626d2-a089-43",
-    "slug": "hybrid-nha-trang",
-    "name": "Hybrid Nha Trang",
-    "category": "entertainment",
-    "subCategory": "cocktail-bar",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "51/19/2 Tuệ Tĩnh",
-      "lat": 12.22999,
-      "lng": 109.196579
-    },
-    "images": [],
-    "popularity": 69,
-    "source": "overture",
-    "sourceId": "552626d2-a089-43d5-b726-6f15b379fa20",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-75e37c51-ae6b-4a",
@@ -2508,12 +2413,12 @@
     "source": "overture",
     "sourceId": "75e37c51-ae6b-4adc-95e8-5997b422da86",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-de83afd4-d0c6-42",
-    "slug": "pho-xinh-beer",
-    "name": "Phố Xinh Beer",
+    "id": "ovt-9559ee76-93d0-46",
+    "slug": "ngan-gia-cay",
+    "name": "Ngan GiẢ CẦY",
     "category": "entertainment",
     "subCategory": "beer-garden",
     "tags": [
@@ -2523,16 +2428,39 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "Ngã Giao Cầu, Phong Châu Đường Vành Đai 2",
-      "lat": 12.23564,
-      "lng": 109.175995
+      "address": "36 Đường Dã Tượng",
+      "lat": 12.218786,
+      "lng": 109.203445
     },
     "images": [],
     "popularity": 71,
     "source": "overture",
-    "sourceId": "de83afd4-d0c6-42df-901f-dd9c8e4ef3e8",
+    "sourceId": "9559ee76-93d0-46c3-b1ce-986dd2135f5a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-4a6ef23a-471c-44",
+    "slug": "clb-bong-ban-dkq",
+    "name": "CLB Bóng Bàn DKQ",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "75 Đường Nguyễn Thị Minh Khai",
+      "lat": 12.235284,
+      "lng": 109.18988
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "4a6ef23a-471c-4489-92d5-1b80c506db81",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-d60f3da1-305a-42",
@@ -2556,14 +2484,37 @@
     "source": "overture",
     "sourceId": "d60f3da1-305a-4273-89a9-b64239a222c1",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-54b925a0-7134-4d",
-    "slug": "mai-linh-audio",
-    "name": "Mai Linh Audio",
+    "id": "ovt-da9ff54a-675a-42",
+    "slug": "day-dj-mina",
+    "name": "Day Dj Mina",
     "category": "entertainment",
-    "subCategory": "karaoke",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "33 Đường Khúc Thừa Dụ",
+      "lat": 12.216538,
+      "lng": 109.193008
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "da9ff54a-675a-42ce-a272-6a298a51c80a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-bb8b175b-ff89-46",
+    "slug": "clb-billiards-hoang-long",
+    "name": "CLB Billiards Hoàng Long",
+    "category": "entertainment",
+    "subCategory": "pool-billiards",
     "tags": [
       "trong-nha",
       "may-lanh"
@@ -2571,23 +2522,23 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "30/3 Đường Đoàn Trần Nghiệp",
-      "lat": 12.271153,
-      "lng": 109.200989
+      "address": "39 Đường Lý Nam Đế",
+      "lat": 12.216785,
+      "lng": 109.191689
     },
     "images": [],
-    "popularity": 72,
+    "popularity": 73,
     "source": "overture",
-    "sourceId": "54b925a0-7134-4dd9-ab31-dabafa4ed7e9",
+    "sourceId": "bb8b175b-ff89-4623-a9b2-925a2a87c881",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-c4027709-cdfc-42",
-    "slug": "yasaka-club-nha-trang",
-    "name": "Yasaka Club Nha Trang",
+    "id": "ovt-552626d2-a089-43",
+    "slug": "hybrid-nha-trang",
+    "name": "Hybrid Nha Trang",
     "category": "entertainment",
-    "subCategory": "bar",
+    "subCategory": "cocktail-bar",
     "tags": [
       "trong-nha",
       "mo-khuya"
@@ -2595,16 +2546,16 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "18 Trần Phú",
-      "lat": 12.24911,
-      "lng": 109.196068
+      "address": "51/19/2 Tuệ Tĩnh",
+      "lat": 12.22999,
+      "lng": 109.196579
     },
     "images": [],
-    "popularity": 74,
+    "popularity": 69,
     "source": "overture",
-    "sourceId": "c4027709-cdfc-426b-9d45-c23b58145d13",
+    "sourceId": "552626d2-a089-43d5-b726-6f15b379fa20",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ea76d9e6-d1ee-41",
@@ -2628,7 +2579,148 @@
     "source": "overture",
     "sourceId": "ea76d9e6-d1ee-41b6-b922-9ea1348bfd78",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-de83afd4-d0c6-42",
+    "slug": "pho-xinh-beer",
+    "name": "Phố Xinh Beer",
+    "category": "entertainment",
+    "subCategory": "beer-garden",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Ngã Giao Cầu, Phong Châu Đường Vành Đai 2",
+      "lat": 12.23564,
+      "lng": 109.175995
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "de83afd4-d0c6-42df-901f-dd9c8e4ef3e8",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-21b678f6-70b2-4f",
+    "slug": "phong-hoa-nhac-ma-maison",
+    "name": "Phòng Hoà Nhạc Ma Maison",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "78/28 Hẻm 78 Tuệ Tĩnh",
+      "lat": 12.230346,
+      "lng": 109.195816
+    },
+    "images": [],
+    "popularity": 52,
+    "source": "overture",
+    "sourceId": "21b678f6-70b2-4fa4-a0b8-7332af738aa2",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e12d6b42-d45f-48",
+    "slug": "convention-hall",
+    "name": "Convention Hall",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Đảo Hòn Tre, Vinpearl",
+      "lat": 12.207095,
+      "lng": 109.253876
+    },
+    "images": [],
+    "popularity": 50,
+    "source": "overture",
+    "sourceId": "e12d6b42-d45f-48fb-aacb-ce48f1b823cb",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-148e4088-8f35-45",
+    "slug": "bong-da-24-7",
+    "name": "BÓNg ĐÁ 24/7",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "8 Đường Mai Thị Dõng",
+      "lat": 12.282595,
+      "lng": 109.197182
+    },
+    "images": [],
+    "popularity": 53,
+    "source": "overture",
+    "sourceId": "148e4088-8f35-45bf-b0fd-47ecd3317221",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-54b925a0-7134-4d",
+    "slug": "mai-linh-audio",
+    "name": "Mai Linh Audio",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "30/3 Đường Đoàn Trần Nghiệp",
+      "lat": 12.271153,
+      "lng": 109.200989
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "54b925a0-7134-4dd9-ab31-dabafa4ed7e9",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c4027709-cdfc-42",
+    "slug": "yasaka-club-nha-trang",
+    "name": "Yasaka Club Nha Trang",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "18 Trần Phú",
+      "lat": 12.24911,
+      "lng": 109.196068
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "c4027709-cdfc-426b-9d45-c23b58145d13",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-81f705f9-0993-40",
@@ -2652,12 +2744,12 @@
     "source": "overture",
     "sourceId": "81f705f9-0993-40bd-a248-895ae1b93cef",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-da9ff54a-675a-42",
-    "slug": "day-dj-mina",
-    "name": "Day Dj Mina",
+    "id": "ovt-10829d5a-e087-44",
+    "slug": "ruby-wedding-vinh-luong-nha-trang",
+    "name": "Ruby Wedding - Vĩnh Lương - Nha Trang",
     "category": "entertainment",
     "subCategory": "music-venue",
     "tags": [
@@ -2666,16 +2758,62 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "33 Đường Khúc Thừa Dụ",
-      "lat": 12.216538,
-      "lng": 109.193008
+      "address": "52 Đường Nguyễn Phan Chánh",
+      "lat": 12.334288,
+      "lng": 109.20018
     },
     "images": [],
-    "popularity": 59,
+    "popularity": 48,
     "source": "overture",
-    "sourceId": "da9ff54a-675a-42ce-a272-6a298a51c80a",
+    "sourceId": "10829d5a-e087-44b8-9310-138740d60517",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a80af8fa-a7a1-43",
+    "slug": "dai-pt-th-khanh-hoa",
+    "name": "Đài PT-TH Khánh Hoà",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "70 Đường Trần Phú",
+      "lat": 12.234294,
+      "lng": 109.197083
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "a80af8fa-a7a1-43d9-ad69-c16924fb5d0b",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-acf61453-5753-4a",
+    "slug": "sao-viet-academy",
+    "name": "Sao Viet Academy",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "STH40/25 Đường Số 3",
+      "lat": 12.257197,
+      "lng": 109.166435
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "acf61453-5753-4a4e-91df-81f1ca760730",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-1739c46e-7dea-46",
@@ -2699,7 +2837,7 @@
     "source": "overture",
     "sourceId": "1739c46e-7dea-46c0-8d47-a61cd647d84c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-732f475b-90ff-4c",
@@ -2723,7 +2861,7 @@
     "source": "overture",
     "sourceId": "732f475b-90ff-4cfe-b34a-ef28598a83ae",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6b717838-2e0b-47",
@@ -2747,12 +2885,12 @@
     "source": "overture",
     "sourceId": "6b717838-2e0b-471d-8502-f04850c26c59",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-21b678f6-70b2-4f",
-    "slug": "phong-hoa-nhac-ma-maison",
-    "name": "Phòng Hoà Nhạc Ma Maison",
+    "id": "ovt-172dca23-b66f-4f",
+    "slug": "tram-huong-khanh-hoa-hoang-agarwood",
+    "name": "Trầm Hương Khánh Hoà - Hoang Agarwood",
     "category": "entertainment",
     "subCategory": "music-venue",
     "tags": [
@@ -2761,16 +2899,62 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "78/28 Hẻm 78 Tuệ Tĩnh",
-      "lat": 12.230346,
-      "lng": 109.195816
+      "address": "Thái Nguyên",
+      "lat": 12.248534,
+      "lng": 109.185715
     },
     "images": [],
-    "popularity": 52,
+    "popularity": 51,
     "source": "overture",
-    "sourceId": "21b678f6-70b2-4fa4-a0b8-7332af738aa2",
+    "sourceId": "172dca23-b66f-4fe5-bfa5-a4b6f665fce8",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7a284309-ceb3-41",
+    "slug": "trung-tam-am-nhac-sao-viet",
+    "name": "Trung Tâm Âm Nhạc Sao Việt",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "46 Đ. A2",
+      "lat": 12.257099,
+      "lng": 109.166351
+    },
+    "images": [],
+    "popularity": 51,
+    "source": "overture",
+    "sourceId": "7a284309-ceb3-41c7-a47a-ec929c78ba27",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-91c85e2a-5703-4f",
+    "slug": "happy-concept-nha-trang",
+    "name": "HAPPY Concept Nha Trang",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "20 Đường Phù Đổng",
+      "lat": 12.251559,
+      "lng": 109.192108
+    },
+    "images": [],
+    "popularity": 50,
+    "source": "overture",
+    "sourceId": "91c85e2a-5703-4f07-acfa-92671f7bed82",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6ad3e246-4329-44",
@@ -2794,7 +2978,7 @@
     "source": "overture",
     "sourceId": "6ad3e246-4329-4451-b46b-d6278349d75b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-100529a9-8fff-4b",
@@ -2818,7 +3002,7 @@
     "source": "overture",
     "sourceId": "100529a9-8fff-4b24-b66f-d799a0ea56de",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-99eef4c6-028b-44",
@@ -2842,767 +3026,7 @@
     "source": "overture",
     "sourceId": "99eef4c6-028b-445c-b1ab-16a7b9df48fc",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-e12d6b42-d45f-48",
-    "slug": "convention-hall",
-    "name": "Convention Hall",
-    "category": "entertainment",
-    "subCategory": "music-venue",
-    "tags": [
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Đảo Hòn Tre, Vinpearl",
-      "lat": 12.207095,
-      "lng": 109.253876
-    },
-    "images": [],
-    "popularity": 50,
-    "source": "overture",
-    "sourceId": "e12d6b42-d45f-48fb-aacb-ce48f1b823cb",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-99a2e73d-1872-44",
-    "slug": "karaoke-sweet",
-    "name": "Karaoke Sweet",
-    "category": "entertainment",
-    "subCategory": "karaoke",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "52 A Đ. Hồng Bàng",
-      "lat": 12.241101,
-      "lng": 109.188927
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "99a2e73d-1872-4428-9716-62071c2a86aa",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-1d9626c7-e03e-4f",
-    "slug": "tn-2-giay-nha-trang",
-    "name": "TN 2 Giây Nha Trang",
-    "category": "entertainment",
-    "subCategory": "pub",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "162 Đường Trần Quý Cáp",
-      "lat": 12.25186,
-      "lng": 109.186279
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "1d9626c7-e03e-4f3a-96e7-731ffd5c3532",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-ee016e5c-ac27-47",
-    "slug": "pho-lau-quan",
-    "name": "Phố Lẩu Quán",
-    "category": "entertainment",
-    "subCategory": "beer-garden",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "82 Đ.Song Hào",
-      "lat": 12.239663,
-      "lng": 109.176834
-    },
-    "images": [],
-    "popularity": 62,
-    "source": "overture",
-    "sourceId": "ee016e5c-ac27-4793-b7de-3bda93ba6c5e",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-148e4088-8f35-45",
-    "slug": "bong-da-24-7",
-    "name": "BÓNg ĐÁ 24/7",
-    "category": "entertainment",
-    "subCategory": "music-venue",
-    "tags": [
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "8 Đường Mai Thị Dõng",
-      "lat": 12.282595,
-      "lng": 109.197182
-    },
-    "images": [],
-    "popularity": 53,
-    "source": "overture",
-    "sourceId": "148e4088-8f35-45bf-b0fd-47ecd3317221",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-04684415-14a6-44",
-    "slug": "lasan-hill-karaoke",
-    "name": "Lasan Hill Karaoke",
-    "category": "entertainment",
-    "subCategory": "karaoke",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "8 Đ. Nguyễn Đình Chiểu",
-      "lat": 12.270205,
-      "lng": 109.202599
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "04684415-14a6-44be-93a2-64c5009a610e",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-41234f3e-f7fe-44",
-    "slug": "craft-beer-ub-eatrang",
-    "name": "Craft Beer UB Eatrang",
-    "category": "entertainment",
-    "subCategory": "pub",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "47 Nguyễn Đức Cảnh",
-      "lat": 12.216989,
-      "lng": 109.194527
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "41234f3e-f7fe-44be-9870-fcf482a01447",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-121a93c7-af97-4a",
-    "slug": "789-quan",
-    "name": "789 Quán",
-    "category": "entertainment",
-    "subCategory": "beer-garden",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Đường Nguyễn Trãi nối dài, Diên Toàn, Diên Khánh",
-      "lat": 12.24153,
-      "lng": 109.188538
-    },
-    "images": [],
-    "popularity": 60,
-    "source": "overture",
-    "sourceId": "121a93c7-af97-4ad9-a414-823715614da8",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-10829d5a-e087-44",
-    "slug": "ruby-wedding-vinh-luong-nha-trang",
-    "name": "Ruby Wedding - Vĩnh Lương - Nha Trang",
-    "category": "entertainment",
-    "subCategory": "music-venue",
-    "tags": [
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "52 Đường Nguyễn Phan Chánh",
-      "lat": 12.334288,
-      "lng": 109.20018
-    },
-    "images": [],
-    "popularity": 48,
-    "source": "overture",
-    "sourceId": "10829d5a-e087-44b8-9310-138740d60517",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-7eb5c9bc-d6c1-49",
-    "slug": "cafe-hana",
-    "name": "Café Hana",
-    "category": "entertainment",
-    "subCategory": "pool-billiards",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "6 Đường Thích Quảng Đức",
-      "lat": 12.213546,
-      "lng": 109.193855
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "7eb5c9bc-d6c1-49a8-8c5f-55c0a43ab40c",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-c607fcba-3e1b-44",
-    "slug": "sky-blu-lounge-nha-trang",
-    "name": "Sky Blu Lounge Nha Trang",
-    "category": "entertainment",
-    "subCategory": "bar",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "02 Nguyễn Thị Minh Khai",
-      "lat": 12.238763,
-      "lng": 109.195633
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "c607fcba-3e1b-4436-9159-779b3f54fd94",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-8ffe0189-a03b-44",
-    "slug": "quan-nhau-mo-ne-bia-hoi-binh-dan",
-    "name": "Quán Nhậu MỠ NÈ- Bia hơi bình dân",
-    "category": "entertainment",
-    "subCategory": "beer-garden",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "17 Đường Huỳnh Thúc Kháng",
-      "lat": 12.245217,
-      "lng": 109.188034
-    },
-    "images": [],
-    "popularity": 60,
-    "source": "overture",
-    "sourceId": "8ffe0189-a03b-4485-8e2d-e01ef8f39aeb",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-a80af8fa-a7a1-43",
-    "slug": "dai-pt-th-khanh-hoa",
-    "name": "Đài PT-TH Khánh Hoà",
-    "category": "entertainment",
-    "subCategory": "music-venue",
-    "tags": [
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "70 Đường Trần Phú",
-      "lat": 12.234294,
-      "lng": 109.197083
-    },
-    "images": [],
-    "popularity": 63,
-    "source": "overture",
-    "sourceId": "a80af8fa-a7a1-43d9-ad69-c16924fb5d0b",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-4d4bc96c-8e24-4f",
-    "slug": "bon-mua-karaoke",
-    "name": "Bon Mua Karaoke",
-    "category": "entertainment",
-    "subCategory": "karaoke",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "1A Phước Huệ",
-      "lat": 12.2846,
-      "lng": 109.191345
-    },
-    "images": [],
-    "popularity": 69,
-    "source": "overture",
-    "sourceId": "4d4bc96c-8e24-4f38-8f7c-c0af99496d06",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-8300927d-3857-48",
-    "slug": "quan-bia-set-hai-thao",
-    "name": "Quán Bia Sệt Hải Thảo",
-    "category": "entertainment",
-    "subCategory": "pub",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "35 Đ. Nhị Hà",
-      "lat": 12.236032,
-      "lng": 109.182007
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "8300927d-3857-48ed-9848-063a79c85d5a",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-faf6dc35-edb4-42",
-    "slug": "ven-song-quan",
-    "name": "Ven Sông Quán",
-    "category": "entertainment",
-    "subCategory": "beer-garden",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "STH 35A-15 Võ Văn Kiệt, KĐT Hà Quang 2 (Chân cầu Quán Trường , ngã tư đường Tố Hữu và đường Võ Văn Kiệt)",
-      "lat": 12.24149,
-      "lng": 109.174507
-    },
-    "images": [],
-    "popularity": 59,
-    "source": "overture",
-    "sourceId": "faf6dc35-edb4-4235-b2e3-a0de3e10388a",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-acf61453-5753-4a",
-    "slug": "sao-viet-academy",
-    "name": "Sao Viet Academy",
-    "category": "entertainment",
-    "subCategory": "music-venue",
-    "tags": [
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "STH40/25 Đường Số 3",
-      "lat": 12.257197,
-      "lng": 109.166435
-    },
-    "images": [],
-    "popularity": 57,
-    "source": "overture",
-    "sourceId": "acf61453-5753-4a4e-91df-81f1ca760730",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-ece538d3-737b-4d",
-    "slug": "nha-hang-nam-son",
-    "name": "Nhà Hàng Nam Sơn",
-    "category": "entertainment",
-    "subCategory": "arcade",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "196 Hương Lộ Ngọc Hiệp",
-      "lat": 12.260253,
-      "lng": 109.181244
-    },
-    "images": [],
-    "popularity": 79,
-    "source": "overture",
-    "sourceId": "ece538d3-737b-4de8-8dce-01e90fce5480",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-769c5589-e510-41",
-    "slug": "story-beach-club",
-    "name": "Story Beach Club",
-    "category": "entertainment",
-    "subCategory": "pub",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "B4 Trần Phú",
-      "lat": 12.227645,
-      "lng": 109.200218
-    },
-    "images": [],
-    "popularity": 82,
-    "source": "overture",
-    "sourceId": "769c5589-e510-419d-8dee-0e6d90c87b21",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-71dc250f-e3e0-40",
-    "slug": "om-bia",
-    "name": "Ôm Bia",
-    "category": "entertainment",
-    "subCategory": "beer-garden",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Đường Trần Nhật Duật nối dài (Khu Vườn Xoài)",
-      "lat": 12.233242,
-      "lng": 109.184059
-    },
-    "images": [],
-    "popularity": 58,
-    "source": "overture",
-    "sourceId": "71dc250f-e3e0-40e7-bb1f-7101ebfa5fcb",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-172dca23-b66f-4f",
-    "slug": "tram-huong-khanh-hoa-hoang-agarwood",
-    "name": "Trầm Hương Khánh Hoà - Hoang Agarwood",
-    "category": "entertainment",
-    "subCategory": "music-venue",
-    "tags": [
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Thái Nguyên",
-      "lat": 12.248534,
-      "lng": 109.185715
-    },
-    "images": [],
-    "popularity": 51,
-    "source": "overture",
-    "sourceId": "172dca23-b66f-4fe5-bfa5-a4b6f665fce8",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-54f0d88c-c515-4a",
-    "slug": "karaoke-sky-nha-trang",
-    "name": "Karaoke Sky Nha Trang",
-    "category": "entertainment",
-    "subCategory": "karaoke",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "169 Đường A3",
-      "lat": 12.214878,
-      "lng": 109.1838
-    },
-    "images": [],
-    "popularity": 69,
-    "source": "overture",
-    "sourceId": "54f0d88c-c515-4af2-bcea-7d56381ccb4d",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-7565cdd6-6afe-4d",
-    "slug": "titan-sky-lounge",
-    "name": "Titan Sky Lounge",
-    "category": "entertainment",
-    "subCategory": "bar",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "6 Phạm Văn Đồng",
-      "lat": 12.284797,
-      "lng": 109.203819
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "7565cdd6-6afe-4d4e-8761-c753eba0d106",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-fe71761b-c9e6-42",
-    "slug": "cayyyy-chill-di-dung-cayyyy",
-    "name": "Cayyyy - Chill đi Đừng cayyyy",
-    "category": "entertainment",
-    "subCategory": "beer-garden",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "27 Đường Mê Linh",
-      "lat": 12.240083,
-      "lng": 109.18766
-    },
-    "images": [],
-    "popularity": 67,
-    "source": "overture",
-    "sourceId": "fe71761b-c9e6-4200-ba9c-e90b1363ea90",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-7a284309-ceb3-41",
-    "slug": "trung-tam-am-nhac-sao-viet",
-    "name": "Trung Tâm Âm Nhạc Sao Việt",
-    "category": "entertainment",
-    "subCategory": "music-venue",
-    "tags": [
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "46 Đ. A2",
-      "lat": 12.257099,
-      "lng": 109.166351
-    },
-    "images": [],
-    "popularity": 51,
-    "source": "overture",
-    "sourceId": "7a284309-ceb3-41c7-a47a-ec929c78ba27",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-825f9b01-251d-4f",
-    "slug": "kids-time",
-    "name": "KIDS TIME",
-    "category": "entertainment",
-    "subCategory": "arcade",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "2 Đường Tôn Thất Tùng",
-      "lat": 12.266232,
-      "lng": 109.201164
-    },
-    "images": [],
-    "popularity": 68,
-    "source": "overture",
-    "sourceId": "825f9b01-251d-4f3a-8b51-48df53d3f300",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-f0159216-5509-47",
-    "slug": "sailing-club-nha-trang",
-    "name": "Sailing Club Nha Trang",
-    "category": "entertainment",
-    "subCategory": "bar",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "72 Đường Trần Phú",
-      "lat": 12.233974,
-      "lng": 109.197853
-    },
-    "images": [],
-    "popularity": 82,
-    "source": "overture",
-    "sourceId": "f0159216-5509-47c5-bad0-434971530174",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-bb58d8f1-b24c-41",
-    "slug": "pho-nuong-nha-trang",
-    "name": "Phố Nướng - Nha Trang",
-    "category": "entertainment",
-    "subCategory": "beer-garden",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "30A Đ. Hoa Lư",
-      "lat": 12.24332,
-      "lng": 109.187019
-    },
-    "images": [],
-    "popularity": 51,
-    "source": "overture",
-    "sourceId": "bb58d8f1-b24c-41f7-bbbd-580e8ff97d91",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-91c85e2a-5703-4f",
-    "slug": "happy-concept-nha-trang",
-    "name": "HAPPY Concept Nha Trang",
-    "category": "entertainment",
-    "subCategory": "music-venue",
-    "tags": [
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "20 Đường Phù Đổng",
-      "lat": 12.251559,
-      "lng": 109.192108
-    },
-    "images": [],
-    "popularity": 50,
-    "source": "overture",
-    "sourceId": "91c85e2a-5703-4f07-acfa-92671f7bed82",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-bb5dc1ce-9a6b-49",
-    "slug": "zen-billiards-club-nha-trang",
-    "name": "ZEN Billiards Club Nha Trang",
-    "category": "entertainment",
-    "subCategory": "pool-billiards",
-    "tags": [
-      "trong-nha",
-      "may-lanh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "03 Nguyễn Hữu Huân",
-      "lat": 12.241299,
-      "lng": 109.185463
-    },
-    "images": [],
-    "popularity": 77,
-    "source": "overture",
-    "sourceId": "bb5dc1ce-9a6b-4953-be8f-0dda86ba62f0",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-628cbf14-82e1-4c",
-    "slug": "nha-trang-pub",
-    "name": "Nha Trang PUB",
-    "category": "entertainment",
-    "subCategory": "bar",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "162 Ba Làng",
-      "lat": 12.290164,
-      "lng": 109.20507
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "628cbf14-82e1-4c0e-9e15-e2ee26d742ef",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-f65cba95-3568-4f",
-    "slug": "quan-cay-xoai-nha-trang",
-    "name": "Quán Cây Xoài",
-    "category": "entertainment",
-    "subCategory": "beer-garden",
-    "tags": [
-      "trong-nha",
-      "mo-khuya"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Đặng Tất",
-      "lat": 12.276527,
-      "lng": 109.19812
-    },
-    "images": [],
-    "popularity": 49,
-    "source": "overture",
-    "sourceId": "f65cba95-3568-4ffc-9deb-6abc13399407",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-01d18628-0375-48",
@@ -3626,12 +3050,273 @@
     "source": "overture",
     "sourceId": "01d18628-0375-4806-85c5-7b1015c64b53",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-3519cb36-76fd-43",
-    "slug": "galaxy-billiards-club-nha-trang-cau-lac-bo-bida-bi-a-lo",
-    "name": "Galaxy Billiards Club Nha Trang - Câu Lạc Bộ Bida Bi-a Lỗ",
+    "id": "ovt-36795b82-b335-40",
+    "slug": "doan-cmn-hai-dang-nha-hat-nghe-thuat-truyen-thong-tinh-khanh",
+    "name": "Đoàn CMN Hải Đăng - Nhà hát Nghệ thuật Truyền thống Tỉnh Khánh Hoà",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "128 Đường Hoàng Văn Thụ",
+      "lat": 12.250649,
+      "lng": 109.187065
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "36795b82-b335-4047-92f3-013980e74271",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-06086e8f-55c1-41",
+    "slug": "nha-trang-city-land",
+    "name": "Nha Trang City Land",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Nha Trang - Khánh Hòa",
+      "lat": 12.244806,
+      "lng": 109.18882
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "06086e8f-55c1-4184-97ed-d632de86aef5",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-99a2e73d-1872-44",
+    "slug": "karaoke-sweet",
+    "name": "Karaoke Sweet",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "52 A Đ. Hồng Bàng",
+      "lat": 12.241101,
+      "lng": 109.188927
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "99a2e73d-1872-4428-9716-62071c2a86aa",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-1d9626c7-e03e-4f",
+    "slug": "tn-2-giay-nha-trang",
+    "name": "TN 2 Giây Nha Trang",
+    "category": "entertainment",
+    "subCategory": "pub",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "162 Đường Trần Quý Cáp",
+      "lat": 12.25186,
+      "lng": 109.186279
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "1d9626c7-e03e-4f3a-96e7-731ffd5c3532",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ee016e5c-ac27-47",
+    "slug": "pho-lau-quan",
+    "name": "Phố Lẩu Quán",
+    "category": "entertainment",
+    "subCategory": "beer-garden",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "82 Đ.Song Hào",
+      "lat": 12.239663,
+      "lng": 109.176834
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "ee016e5c-ac27-4793-b7de-3bda93ba6c5e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b5b93b1e-d3a6-43",
+    "slug": "to-he-nha-trang",
+    "name": "Tò He Nha Trang",
+    "category": "entertainment",
+    "subCategory": "cultural-center",
+    "tags": [
+      "trong-nha",
+      "nghe-thuat"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "1 Đường Yersin",
+      "lat": 12.249148,
+      "lng": 109.195755
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "b5b93b1e-d3a6-433d-b758-407e8a6de369",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b68ba04c-ff52-49",
+    "slug": "trung-tam-van-hoa-thong-tin-va-the-thao-nha-trang",
+    "name": "Trung Tâm Văn Hóa Thông Tin và Thể Thao Nha Trang",
+    "category": "entertainment",
+    "subCategory": "cultural-center",
+    "tags": [
+      "trong-nha",
+      "nghe-thuat"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "35 Lê Quý Đôn",
+      "lat": 12.243748,
+      "lng": 109.192146
+    },
+    "images": [],
+    "popularity": 43,
+    "source": "overture",
+    "sourceId": "b68ba04c-ff52-4912-adc8-867083a01ad1",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-1b9f795b-ce86-41",
+    "slug": "lang-nghe-truyen-thong-cham-oasis",
+    "name": "Làng Nghề Truyền Thống Cham Oasis",
+    "category": "entertainment",
+    "subCategory": "music-venue",
+    "tags": [
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Đường 2 tháng 4",
+      "lat": 12.265867,
+      "lng": 109.188873
+    },
+    "images": [],
+    "popularity": 41,
+    "source": "overture",
+    "sourceId": "1b9f795b-ce86-417b-8880-bb06e0f1e0c8",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-04684415-14a6-44",
+    "slug": "lasan-hill-karaoke",
+    "name": "Lasan Hill Karaoke",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "8 Đ. Nguyễn Đình Chiểu",
+      "lat": 12.270205,
+      "lng": 109.202599
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "04684415-14a6-44be-93a2-64c5009a610e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-41234f3e-f7fe-44",
+    "slug": "craft-beer-ub-eatrang",
+    "name": "Craft Beer UB Eatrang",
+    "category": "entertainment",
+    "subCategory": "pub",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "47 Nguyễn Đức Cảnh",
+      "lat": 12.216989,
+      "lng": 109.194527
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "41234f3e-f7fe-44be-9870-fcf482a01447",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-121a93c7-af97-4a",
+    "slug": "789-quan",
+    "name": "789 Quán",
+    "category": "entertainment",
+    "subCategory": "beer-garden",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Đường Nguyễn Trãi nối dài, Diên Toàn, Diên Khánh",
+      "lat": 12.24153,
+      "lng": 109.188538
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "121a93c7-af97-4ad9-a414-823715614da8",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7eb5c9bc-d6c1-49",
+    "slug": "cafe-hana",
+    "name": "Café Hana",
     "category": "entertainment",
     "subCategory": "pool-billiards",
     "tags": [
@@ -3641,21 +3326,21 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "30c Nguyễn Thiện Thuật",
-      "lat": 12.237584,
-      "lng": 109.193573
+      "address": "6 Đường Thích Quảng Đức",
+      "lat": 12.213546,
+      "lng": 109.193855
     },
     "images": [],
-    "popularity": 66,
+    "popularity": 71,
     "source": "overture",
-    "sourceId": "3519cb36-76fd-4379-89b8-fac37bb72b2a",
+    "sourceId": "7eb5c9bc-d6c1-49a8-8c5f-55c0a43ab40c",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-f3644d10-bae6-4d",
-    "slug": "altitude-rooftop-bar-lounge",
-    "name": "Altitude Rooftop Bar & Lounge",
+    "id": "ovt-c607fcba-3e1b-44",
+    "slug": "sky-blu-lounge-nha-trang",
+    "name": "Sky Blu Lounge Nha Trang",
     "category": "entertainment",
     "subCategory": "bar",
     "tags": [
@@ -3665,16 +3350,328 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "Sheraton Nha Trang Hotel & Spa, 26-28 Trần Phú",
-      "lat": 12.246415,
-      "lng": 109.196053
+      "address": "02 Nguyễn Thị Minh Khai",
+      "lat": 12.238763,
+      "lng": 109.195633
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "c607fcba-3e1b-4436-9159-779b3f54fd94",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-8ffe0189-a03b-44",
+    "slug": "quan-nhau-mo-ne-bia-hoi-binh-dan",
+    "name": "Quán Nhậu MỠ NÈ- Bia hơi bình dân",
+    "category": "entertainment",
+    "subCategory": "beer-garden",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "17 Đường Huỳnh Thúc Kháng",
+      "lat": 12.245217,
+      "lng": 109.188034
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "8ffe0189-a03b-4485-8e2d-e01ef8f39aeb",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-4d4bc96c-8e24-4f",
+    "slug": "bon-mua-karaoke",
+    "name": "Bon Mua Karaoke",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "1A Phước Huệ",
+      "lat": 12.2846,
+      "lng": 109.191345
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "4d4bc96c-8e24-4f38-8f7c-c0af99496d06",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-8300927d-3857-48",
+    "slug": "quan-bia-set-hai-thao",
+    "name": "Quán Bia Sệt Hải Thảo",
+    "category": "entertainment",
+    "subCategory": "pub",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "35 Đ. Nhị Hà",
+      "lat": 12.236032,
+      "lng": 109.182007
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "8300927d-3857-48ed-9848-063a79c85d5a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-faf6dc35-edb4-42",
+    "slug": "ven-song-quan",
+    "name": "Ven Sông Quán",
+    "category": "entertainment",
+    "subCategory": "beer-garden",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "STH 35A-15 Võ Văn Kiệt, KĐT Hà Quang 2 (Chân cầu Quán Trường , ngã tư đường Tố Hữu và đường Võ Văn Kiệt)",
+      "lat": 12.24149,
+      "lng": 109.174507
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "faf6dc35-edb4-4235-b2e3-a0de3e10388a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ece538d3-737b-4d",
+    "slug": "nha-hang-nam-son",
+    "name": "Nhà Hàng Nam Sơn",
+    "category": "entertainment",
+    "subCategory": "arcade",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "196 Hương Lộ Ngọc Hiệp",
+      "lat": 12.260253,
+      "lng": 109.181244
+    },
+    "images": [],
+    "popularity": 79,
+    "source": "overture",
+    "sourceId": "ece538d3-737b-4de8-8dce-01e90fce5480",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-769c5589-e510-41",
+    "slug": "story-beach-club",
+    "name": "Story Beach Club",
+    "category": "entertainment",
+    "subCategory": "pub",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "B4 Trần Phú",
+      "lat": 12.227645,
+      "lng": 109.200218
     },
     "images": [],
     "popularity": 82,
     "source": "overture",
-    "sourceId": "f3644d10-bae6-4dd3-a378-9e2475f72b21",
+    "sourceId": "769c5589-e510-419d-8dee-0e6d90c87b21",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-71dc250f-e3e0-40",
+    "slug": "om-bia",
+    "name": "Ôm Bia",
+    "category": "entertainment",
+    "subCategory": "beer-garden",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Đường Trần Nhật Duật nối dài (Khu Vườn Xoài)",
+      "lat": 12.233242,
+      "lng": 109.184059
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "71dc250f-e3e0-40e7-bb1f-7101ebfa5fcb",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-54f0d88c-c515-4a",
+    "slug": "karaoke-sky-nha-trang",
+    "name": "Karaoke Sky Nha Trang",
+    "category": "entertainment",
+    "subCategory": "karaoke",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "169 Đường A3",
+      "lat": 12.214878,
+      "lng": 109.1838
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "54f0d88c-c515-4af2-bcea-7d56381ccb4d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7565cdd6-6afe-4d",
+    "slug": "titan-sky-lounge",
+    "name": "Titan Sky Lounge",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "6 Phạm Văn Đồng",
+      "lat": 12.284797,
+      "lng": 109.203819
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "7565cdd6-6afe-4d4e-8761-c753eba0d106",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-fe71761b-c9e6-42",
+    "slug": "cayyyy-chill-di-dung-cayyyy",
+    "name": "Cayyyy - Chill đi Đừng cayyyy",
+    "category": "entertainment",
+    "subCategory": "beer-garden",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "27 Đường Mê Linh",
+      "lat": 12.240083,
+      "lng": 109.18766
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "fe71761b-c9e6-4200-ba9c-e90b1363ea90",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-825f9b01-251d-4f",
+    "slug": "kids-time",
+    "name": "KIDS TIME",
+    "category": "entertainment",
+    "subCategory": "arcade",
+    "tags": [
+      "trong-nha",
+      "may-lanh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "2 Đường Tôn Thất Tùng",
+      "lat": 12.266232,
+      "lng": 109.201164
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "825f9b01-251d-4f3a-8b51-48df53d3f300",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f0159216-5509-47",
+    "slug": "sailing-club-nha-trang",
+    "name": "Sailing Club Nha Trang",
+    "category": "entertainment",
+    "subCategory": "bar",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "72 Đường Trần Phú",
+      "lat": 12.233974,
+      "lng": 109.197853
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "f0159216-5509-47c5-bad0-434971530174",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-bb58d8f1-b24c-41",
+    "slug": "pho-nuong-nha-trang",
+    "name": "Phố Nướng - Nha Trang",
+    "category": "entertainment",
+    "subCategory": "beer-garden",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "30A Đ. Hoa Lư",
+      "lat": 12.24332,
+      "lng": 109.187019
+    },
+    "images": [],
+    "popularity": 51,
+    "source": "overture",
+    "sourceId": "bb58d8f1-b24c-41f7-bbbd-580e8ff97d91",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b305f2c3-9f6a-43",
@@ -3698,7 +3695,7 @@
     "source": "overture",
     "sourceId": "b305f2c3-9f6a-4397-8a02-c6ba5822e6b3",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a50e990d-dd6a-4c",
@@ -3722,7 +3719,7 @@
     "source": "overture",
     "sourceId": "a50e990d-dd6a-4c1a-af86-10e3c28f4464",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-1fc748cf-efa2-4d",
@@ -3743,7 +3740,7 @@
     "source": "overture",
     "sourceId": "1fc748cf-efa2-4d36-ba44-6e33ba1b1981",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-6c4cccbb-c6e5-4b",
@@ -3767,7 +3764,28 @@
     "source": "overture",
     "sourceId": "6c4cccbb-c6e5-4bdc-917a-e6a5d467873e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7bdf2018-e07b-46",
+    "slug": "vincom-plaza",
+    "name": "Vincom Plaza",
+    "category": "shopping",
+    "subCategory": "shopping-center",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "60 Thái Nguyên",
+      "lat": 12.248292,
+      "lng": 109.186806
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "7bdf2018-e07b-463f-88bb-b4d682b1905b",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-911982ac-d08f-47",
@@ -3791,7 +3809,7 @@
     "source": "overture",
     "sourceId": "911982ac-d08f-47cb-b09c-8da0918c3b5a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-cd0db225-0caa-42",
@@ -3812,7 +3830,7 @@
     "source": "overture",
     "sourceId": "cd0db225-0caa-426c-a029-454396896d73",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-baf5c090-2061-46",
@@ -3836,7 +3854,7 @@
     "source": "overture",
     "sourceId": "baf5c090-2061-469e-9b8c-059b779378c2",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-fcc8b773-eba8-4c",
@@ -3860,7 +3878,7 @@
     "source": "overture",
     "sourceId": "fcc8b773-eba8-4cdd-be88-3a487901c4fa",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-2bd52087-2599-46",
@@ -3881,7 +3899,7 @@
     "source": "overture",
     "sourceId": "2bd52087-2599-4673-8a73-e146db674e29",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ee9bc93b-d447-47",
@@ -3905,7 +3923,7 @@
     "source": "overture",
     "sourceId": "ee9bc93b-d447-47fe-ae39-5fcf2c9c2309",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-b51764f2-9587-49",
@@ -3926,7 +3944,7 @@
     "source": "overture",
     "sourceId": "b51764f2-9587-49ed-bf50-36ff529b7d4b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-99e97de3-b7c6-44",
@@ -3950,28 +3968,7 @@
     "source": "overture",
     "sourceId": "99e97de3-b7c6-44fa-9d63-681f98d25dba",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-57ff13a0-f955-41",
-    "slug": "vincom-plaza-tran-phu",
-    "name": "Vincom Plaza Trần Phú",
-    "category": "shopping",
-    "subCategory": "shopping-center",
-    "tags": [],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "78-80 Trần Phú",
-      "lat": 12.233191,
-      "lng": 109.197365
-    },
-    "images": [],
-    "popularity": 80,
-    "source": "overture",
-    "sourceId": "57ff13a0-f955-41c1-811e-012eb7ac71f7",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-e3b13460-99a4-47",
@@ -3995,7 +3992,7 @@
     "source": "overture",
     "sourceId": "e3b13460-99a4-472f-86d9-a074cbf71212",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-cc6f90ef-8499-43",
@@ -4016,7 +4013,7 @@
     "source": "overture",
     "sourceId": "cc6f90ef-8499-4341-8e05-ebe2da728f59",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a394f6c2-dc9d-4b",
@@ -4040,7 +4037,7 @@
     "source": "overture",
     "sourceId": "a394f6c2-dc9d-4b63-af1e-c3eae4f1461d",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-cf31aa85-16c4-45",
@@ -4061,7 +4058,7 @@
     "source": "overture",
     "sourceId": "cf31aa85-16c4-451a-8cca-e02a15eb2e86",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-56524761-9b02-49",
@@ -4082,7 +4079,7 @@
     "source": "overture",
     "sourceId": "56524761-9b02-490b-ad3b-25c2d7bfb4fe",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-88a4da2d-78b3-46",
@@ -4103,7 +4100,7 @@
     "source": "overture",
     "sourceId": "88a4da2d-78b3-467d-9c16-69e192324600",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-97478ccd-e246-4e",
@@ -4124,7 +4121,7 @@
     "source": "overture",
     "sourceId": "97478ccd-e246-4ef7-9c06-e02f68018552",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-0a963bd1-1b41-48",
@@ -4145,7 +4142,7 @@
     "source": "overture",
     "sourceId": "0a963bd1-1b41-489f-801d-d67fd4143b81",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-498001a5-b9be-49",
@@ -4166,7 +4163,7 @@
     "source": "overture",
     "sourceId": "498001a5-b9be-4978-9337-ad4ffe7c4134",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-dea37327-6816-4e",
@@ -4187,7 +4184,7 @@
     "source": "overture",
     "sourceId": "dea37327-6816-4eff-ae9c-7c61fa803959",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c146fc06-05d9-41",
@@ -4208,7 +4205,7 @@
     "source": "overture",
     "sourceId": "c146fc06-05d9-41cc-80ed-8baba1a83d5e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-76e9dfd7-a2dd-40",
@@ -4233,81 +4230,7 @@
     "source": "overture",
     "sourceId": "76e9dfd7-a2dd-40eb-acb8-ace054ae302c",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-ffdcc3d6-1ac6-4e",
-    "slug": "z-beach-nha-trang",
-    "name": "Z Beach - Nha Trang",
-    "category": "outdoor",
-    "subCategory": "beach",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "98 Đường Trần Phú",
-      "lat": 12.228737,
-      "lng": 109.200096
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "ffdcc3d6-1ac6-4e94-8087-0da7fef9ca3a",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-e2da51ee-e201-47",
-    "slug": "paradise-plaza",
-    "name": "Paradise Plaza",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "13 Trịnh Hoài Đức",
-      "lat": 12.286532,
-      "lng": 109.195099
-    },
-    "images": [],
-    "popularity": 82,
-    "source": "overture",
-    "sourceId": "e2da51ee-e201-47ed-8111-4ef998e12ea2",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-828d16c8-44ce-40",
-    "slug": "httl-vinh-phuoc",
-    "name": "HTTL Vĩnh Phước",
-    "category": "outdoor",
-    "subCategory": "church-cathedral",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "4 Đường Số 6",
-      "lat": 12.271671,
-      "lng": 109.204102
-    },
-    "images": [],
-    "popularity": 82,
-    "source": "overture",
-    "sourceId": "828d16c8-44ce-40a8-8606-1a871ba18275",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-173092f7-3a1e-47",
@@ -4332,81 +4255,7 @@
     "source": "overture",
     "sourceId": "173092f7-3a1e-4781-ae6e-2da9fbe15c39",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-a8b7589d-5781-43",
-    "slug": "happy-beach",
-    "name": "Happy Beach",
-    "category": "outdoor",
-    "subCategory": "beach",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "40 Đường Trần Phú",
-      "lat": 12.242929,
-      "lng": 109.196899
-    },
-    "images": [],
-    "popularity": 83,
-    "source": "overture",
-    "sourceId": "a8b7589d-5781-43f0-8a08-dc1fe848478e",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-413fa462-7963-47",
-    "slug": "villa-kyothu",
-    "name": "Villa Kyothu",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Lky15, Road 2F",
-      "lat": 12.197876,
-      "lng": 109.204712
-    },
-    "images": [],
-    "popularity": 82,
-    "source": "overture",
-    "sourceId": "413fa462-7963-4719-bbfa-f32272828092",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-1ec00810-a49c-40",
-    "slug": "ancestral-temple-nghia-phuong",
-    "name": "Ancestral temple Nghia Phuong",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "2 Lý Thánh Tôn",
-      "lat": 12.251156,
-      "lng": 109.191315
-    },
-    "images": [],
-    "popularity": 70,
-    "source": "overture",
-    "sourceId": "1ec00810-a49c-409b-a70d-a772e9d010d4",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-900cff1c-73c6-4c",
@@ -4431,7 +4280,55 @@
     "source": "overture",
     "sourceId": "900cff1c-73c6-4c60-bace-9ac2d3134900",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ffdcc3d6-1ac6-4e",
+    "slug": "z-beach-nha-trang",
+    "name": "Z Beach - Nha Trang",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "98 Đường Trần Phú",
+      "lat": 12.228737,
+      "lng": 109.200096
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "ffdcc3d6-1ac6-4e94-8087-0da7fef9ca3a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a8b7589d-5781-43",
+    "slug": "happy-beach",
+    "name": "Happy Beach",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "40 Đường Trần Phú",
+      "lat": 12.242929,
+      "lng": 109.196899
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "a8b7589d-5781-43f0-8a08-dc1fe848478e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-29a27cf4-7609-4b",
@@ -4455,12 +4352,12 @@
     "source": "overture",
     "sourceId": "29a27cf4-7609-4b5c-864e-5b571b2e57dd",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-367600c5-1e00-40",
-    "slug": "green-house-spa",
-    "name": "Green House & Spa",
+    "id": "ovt-e2da51ee-e201-47",
+    "slug": "paradise-plaza",
+    "name": "Paradise Plaza",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -4471,23 +4368,23 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "247/20 Đ. 23 Tháng 10",
-      "lat": 12.251821,
-      "lng": 109.174156
+      "address": "13 Trịnh Hoài Đức",
+      "lat": 12.286532,
+      "lng": 109.195099
     },
     "images": [],
-    "popularity": 72,
+    "popularity": 82,
     "source": "overture",
-    "sourceId": "367600c5-1e00-40e4-963e-8d8b0ee5b022",
+    "sourceId": "e2da51ee-e201-47ed-8111-4ef998e12ea2",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-cb9aeae4-b3b7-4e",
-    "slug": "chua-tay-thien-tp-nha-trang",
-    "name": "Chùa Tây Thiên - Tp. Nha Trang",
+    "id": "ovt-828d16c8-44ce-40",
+    "slug": "httl-vinh-phuoc",
+    "name": "HTTL Vĩnh Phước",
     "category": "outdoor",
-    "subCategory": "buddhist-temple",
+    "subCategory": "church-cathedral",
     "tags": [
       "ngoai-troi",
       "lich-su",
@@ -4496,16 +4393,16 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "104/6 Hẻm 104 Trần Phú",
-      "lat": 12.211127,
-      "lng": 109.212555
+      "address": "4 Đường Số 6",
+      "lat": 12.271671,
+      "lng": 109.204102
     },
     "images": [],
-    "popularity": 80,
+    "popularity": 82,
     "source": "overture",
-    "sourceId": "cb9aeae4-b3b7-4ea7-ad34-29dc698336c9",
+    "sourceId": "828d16c8-44ce-40a8-8606-1a871ba18275",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-922a484d-5c6e-45",
@@ -4528,81 +4425,7 @@
     "source": "overture",
     "sourceId": "922a484d-5c6e-45b2-8db7-5552003bbb87",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-fe05c71f-20e0-44",
-    "slug": "nha-trang-beach",
-    "name": "Nha Trang Beach",
-    "category": "outdoor",
-    "subCategory": "beach",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Trần Phú, Nha Trang, Khánh Hòa",
-      "lat": 12.248419,
-      "lng": 109.19635
-    },
-    "images": [],
-    "popularity": 61,
-    "source": "overture",
-    "sourceId": "fe05c71f-20e0-44e3-9eb5-29acb3ee8f39",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-75cf6d9f-62bc-46",
-    "slug": "can-ho-ct9-vinh-diem-trung",
-    "name": "Căn hộ CT9 Vĩnh Điềm Trung",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "21 C1",
-      "lat": 12.256493,
-      "lng": 109.168167
-    },
-    "images": [],
-    "popularity": 78,
-    "source": "overture",
-    "sourceId": "75cf6d9f-62bc-4649-8d29-381bda27177d",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-67225ccf-78ad-40",
-    "slug": "lien-hoa-tinh-vien",
-    "name": "Liên Hoa Tịnh Viện",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Tổ 19 thôn Đồng Nhơn",
-      "lat": 12.250437,
-      "lng": 109.150826
-    },
-    "images": [],
-    "popularity": 77,
-    "source": "overture",
-    "sourceId": "67225ccf-78ad-4008-91c4-29c80943c32c",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-85cbd1c6-cb6a-4a",
@@ -4625,81 +4448,7 @@
     "source": "overture",
     "sourceId": "85cbd1c6-cb6a-4a6e-bf1e-12d29cd77651",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-265f62f6-0835-4a",
-    "slug": "kids-camp-nhatrang",
-    "name": "Kids Camp NhaTrang",
-    "category": "outdoor",
-    "subCategory": "park",
-    "tags": [
-      "ngoai-troi",
-      "cay-xanh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "1 Đường Trần Hưng Đạo",
-      "lat": 12.248753,
-      "lng": 109.194832
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "265f62f6-0835-4add-be20-944f527d45c8",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-1383a2fa-5b09-45",
-    "slug": "comfortzone",
-    "name": "Comfortzone",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "05 Phạm Văn Đồng",
-      "lat": 12.274282,
-      "lng": 109.201843
-    },
-    "images": [],
-    "popularity": 78,
-    "source": "overture",
-    "sourceId": "1383a2fa-5b09-4508-acc4-64740b61c19f",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-579acc18-b020-46",
-    "slug": "chua-cat-nha-trang",
-    "name": "ChÙA CÁT Nha Trang",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "153/2 Hẻm 153 Hoàng Văn Thụ",
-      "lat": 12.250287,
-      "lng": 109.187386
-    },
-    "images": [],
-    "popularity": 67,
-    "source": "overture",
-    "sourceId": "579acc18-b020-4646-957f-2d9d7c8eef54",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-4ac87228-7fdf-44",
@@ -4724,7 +4473,55 @@
     "source": "overture",
     "sourceId": "4ac87228-7fdf-4475-ba6e-40020e17fa4a",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-fe05c71f-20e0-44",
+    "slug": "nha-trang-beach-nha-trang",
+    "name": "Nha Trang Beach",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Trần Phú, Nha Trang, Khánh Hòa",
+      "lat": 12.248419,
+      "lng": 109.19635
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "fe05c71f-20e0-44e3-9eb5-29acb3ee8f39",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-265f62f6-0835-4a",
+    "slug": "kids-camp-nhatrang",
+    "name": "Kids Camp NhaTrang",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "1 Đường Trần Hưng Đạo",
+      "lat": 12.248753,
+      "lng": 109.194832
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "265f62f6-0835-4add-be20-944f527d45c8",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-2c9c6ddc-f4e7-49",
@@ -4748,12 +4545,12 @@
     "source": "overture",
     "sourceId": "2c9c6ddc-f4e7-4975-a890-6159f03f6b65",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-5ec9ca1c-f552-4f",
-    "slug": "chung-cu-ct5-vinh-diem-trung",
-    "name": "Chung Cu CT5 Vinh Diem Trung",
+    "id": "ovt-413fa462-7963-47",
+    "slug": "villa-kyothu",
+    "name": "Villa Kyothu",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -4764,21 +4561,21 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "107l Đ. Trần Hữu Duyệt",
-      "lat": 12.259915,
-      "lng": 109.165237
+      "address": "Lky15, Road 2F",
+      "lat": 12.197876,
+      "lng": 109.204712
     },
     "images": [],
-    "popularity": 68,
+    "popularity": 82,
     "source": "overture",
-    "sourceId": "5ec9ca1c-f552-4fdc-8b8c-02bad0f189e9",
+    "sourceId": "413fa462-7963-4719-bbfa-f32272828092",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-4d16b47e-8402-46",
-    "slug": "chua-vuong-xa",
-    "name": "Chùa Vương Xá",
+    "id": "ovt-1ec00810-a49c-40",
+    "slug": "ancestral-temple-nghia-phuong",
+    "name": "Ancestral temple Nghia Phuong",
     "category": "outdoor",
     "subCategory": "buddhist-temple",
     "tags": [
@@ -4789,16 +4586,16 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "44 Phương Sài",
-      "lat": 12.25141,
-      "lng": 109.184013
+      "address": "2 Lý Thánh Tôn",
+      "lat": 12.251156,
+      "lng": 109.191315
     },
     "images": [],
-    "popularity": 67,
+    "popularity": 70,
     "source": "overture",
-    "sourceId": "4d16b47e-8402-4632-ae83-db222c8be35e",
+    "sourceId": "1ec00810-a49c-409b-a70d-a772e9d010d4",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-8df004d7-1d21-42",
@@ -4823,7 +4620,7 @@
     "source": "overture",
     "sourceId": "8df004d7-1d21-42ca-ae3f-99a5f6552c3d",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ad8c1757-c02c-4e",
@@ -4847,7 +4644,543 @@
     "source": "overture",
     "sourceId": "ad8c1757-c02c-4ebe-93d7-71a33fa86f4d",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7c7b8353-d857-43",
+    "slug": "cong-vien-bo-bien-nha-trang",
+    "name": "Công Viên Bờ Biển Nha Trang",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "ĐƯỜNG Trần Phú",
+      "lat": 12.24574,
+      "lng": 109.19619
+    },
+    "images": [],
+    "popularity": 56,
+    "source": "overture",
+    "sourceId": "7c7b8353-d857-4378-b1e5-7ebae0339519",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-13540708-a2e8-45",
+    "slug": "four-seasons-garden-restaurant",
+    "name": "Four Seasons - Garden Restaurant",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "57 Đường Trần Phú",
+      "lat": 12.243053,
+      "lng": 109.196571
+    },
+    "images": [],
+    "popularity": 56,
+    "source": "overture",
+    "sourceId": "13540708-a2e8-45fe-b534-82bd7aa85397",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-367600c5-1e00-40",
+    "slug": "green-house-spa",
+    "name": "Green House & Spa",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "247/20 Đ. 23 Tháng 10",
+      "lat": 12.251821,
+      "lng": 109.174156
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "367600c5-1e00-40e4-963e-8d8b0ee5b022",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-cb9aeae4-b3b7-4e",
+    "slug": "chua-tay-thien-tp-nha-trang",
+    "name": "Chùa Tây Thiên - Tp. Nha Trang",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "104/6 Hẻm 104 Trần Phú",
+      "lat": 12.211127,
+      "lng": 109.212555
+    },
+    "images": [],
+    "popularity": 80,
+    "source": "overture",
+    "sourceId": "cb9aeae4-b3b7-4ea7-ad34-29dc698336c9",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-9af118c0-fb68-4c",
+    "slug": "ho-suoi-dau-cam-lam",
+    "name": "Hồ Suối Dầu - Cam Lâm",
+    "category": "outdoor",
+    "subCategory": "lake",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Thôn Suối Lau 2 - Xã Suối Dầu - Tỉnh Khánh Hòa",
+      "lat": 12.295803,
+      "lng": 109.189651
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "9af118c0-fb68-4cc5-8062-2d76e808c5d5",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7ec06c39-cc57-41",
+    "slug": "bai-dai-cam-ranh-nha-trang",
+    "name": "Bãi Dài Cam Ranh - Nha Trang",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "BQL Khu Du Lịch Bán Đảo Cam Ranh, 180 Đường Trần Quý Cáp",
+      "lat": 12.25153,
+      "lng": 109.185799
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "7ec06c39-cc57-4137-aecb-5348a45f0ed2",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-945cf5fd-6b7f-42",
+    "slug": "tp-bien-nha-trang",
+    "name": "Tp Biển Nha Trang",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "6 Hẻm 90 Đường A6",
+      "lat": 12.241798,
+      "lng": 109.178787
+    },
+    "images": [],
+    "popularity": 53,
+    "source": "overture",
+    "sourceId": "945cf5fd-6b7f-4206-ae93-50b70e02f39f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-75cf6d9f-62bc-46",
+    "slug": "can-ho-ct9-vinh-diem-trung",
+    "name": "Căn hộ CT9 Vĩnh Điềm Trung",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "21 C1",
+      "lat": 12.256493,
+      "lng": 109.168167
+    },
+    "images": [],
+    "popularity": 78,
+    "source": "overture",
+    "sourceId": "75cf6d9f-62bc-4649-8d29-381bda27177d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-67225ccf-78ad-40",
+    "slug": "lien-hoa-tinh-vien",
+    "name": "Liên Hoa Tịnh Viện",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Tổ 19 thôn Đồng Nhơn",
+      "lat": 12.250437,
+      "lng": 109.150826
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "67225ccf-78ad-4008-91c4-29c80943c32c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-dff8d976-1eac-4a",
+    "slug": "nha-trang-city-beach",
+    "name": "Nha Trang City Beach",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "68 Đường Trần Phú",
+      "lat": 12.236555,
+      "lng": 109.197823
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "dff8d976-1eac-4aee-90b6-dfeee58d58bf",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-022858f3-da3e-40",
+    "slug": "nha-trang-bien-goi",
+    "name": "Nha Trang Biển Gọi",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "304, Hoàng Hoa Thám",
+      "lat": 12.25031,
+      "lng": 109.194008
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "022858f3-da3e-4026-917f-0b8fa8908477",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-355f9418-ed3c-45",
+    "slug": "yang-bay-eco-park",
+    "name": "Yang Bay Eco Park",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Đường Trần Phú",
+      "lat": 12.226002,
+      "lng": 109.199821
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "355f9418-ed3c-4505-989d-06b21f628ffb",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-1383a2fa-5b09-45",
+    "slug": "comfortzone",
+    "name": "Comfortzone",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "05 Phạm Văn Đồng",
+      "lat": 12.274282,
+      "lng": 109.201843
+    },
+    "images": [],
+    "popularity": 78,
+    "source": "overture",
+    "sourceId": "1383a2fa-5b09-4508-acc4-64740b61c19f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-579acc18-b020-46",
+    "slug": "chua-cat-nha-trang",
+    "name": "ChÙA CÁT Nha Trang",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "153/2 Hẻm 153 Hoàng Văn Thụ",
+      "lat": 12.250287,
+      "lng": 109.187386
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "579acc18-b020-4646-957f-2d9d7c8eef54",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2e67ddff-bdaa-4f",
+    "slug": "an-vien-beach",
+    "name": "An Vien beach",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Nhà Xe Liên Hưng, 17 Đường Thái Nguyên",
+      "lat": 12.234796,
+      "lng": 109.194992
+    },
+    "images": [],
+    "popularity": 51,
+    "source": "overture",
+    "sourceId": "2e67ddff-bdaa-4fc1-8f7c-4fb18d5ff677",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-00422b6f-95ac-4d",
+    "slug": "mini-beach-nha-trang",
+    "name": "Mini Beach Nha Trang",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Bãi Mini Beach, Trí Nguyên - P Vĩnh Nguyên",
+      "lat": 12.194983,
+      "lng": 109.225433
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "00422b6f-95ac-4dce-8deb-af488874c1d9",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-dd2896be-cefe-42",
+    "slug": "san-banh-thanh-nien",
+    "name": "Sân Banh Thanh Niên",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Trần Phú",
+      "lat": 12.220237,
+      "lng": 109.203644
+    },
+    "images": [],
+    "popularity": 49,
+    "source": "overture",
+    "sourceId": "dd2896be-cefe-4294-b0c2-7367a785de87",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5ec9ca1c-f552-4f",
+    "slug": "chung-cu-ct5-vinh-diem-trung",
+    "name": "Chung Cu CT5 Vinh Diem Trung",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "107l Đ. Trần Hữu Duyệt",
+      "lat": 12.259915,
+      "lng": 109.165237
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "5ec9ca1c-f552-4fdc-8b8c-02bad0f189e9",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-4d16b47e-8402-46",
+    "slug": "chua-vuong-xa",
+    "name": "Chùa Vương Xá",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "44 Phương Sài",
+      "lat": 12.25141,
+      "lng": 109.184013
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "4d16b47e-8402-4632-ae83-db222c8be35e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-92f1b85c-4897-4a",
+    "slug": "bien-nha-trang",
+    "name": "Biển Nha Trang",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "102B Đường Trần Phú",
+      "lat": 12.22747,
+      "lng": 109.199577
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "92f1b85c-4897-4a13-a974-2450bd5ecd62",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-3dc93920-7d42-4f",
+    "slug": "tu-hai-tour-nha-trang",
+    "name": "Tứ Hải Tour Nha Trang",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "12/12 Hẻm 12 Trần Phú",
+      "lat": 12.21974,
+      "lng": 109.203606
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "3dc93920-7d42-4fb5-8e7e-29fc810c4e8e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-9a80d34b-b40c-47",
+    "slug": "yasaka-beach",
+    "name": "Yasaka Beach",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Tran Phu St.",
+      "lat": 12.248446,
+      "lng": 109.196815
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "9a80d34b-b40c-474b-b77f-62d5cfca7789",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-4517c871-0388-42",
@@ -4872,7 +5205,7 @@
     "source": "overture",
     "sourceId": "4517c871-0388-42ac-8d25-36de048a534f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-eb5c8694-be63-48",
@@ -4897,12 +5230,36 @@
     "source": "overture",
     "sourceId": "eb5c8694-be63-48b9-b011-f3d133c9e1cf",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-7c7b8353-d857-43",
-    "slug": "cong-vien-bo-bien-nha-trang",
-    "name": "Công Viên Bờ Biển Nha Trang",
+    "id": "ovt-e60ef351-1736-40",
+    "slug": "cong-vien-yen-phi",
+    "name": "Công viên Yến Phi",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "1 Đường Pasteur",
+      "lat": 12.254257,
+      "lng": 109.195717
+    },
+    "images": [],
+    "popularity": 47,
+    "source": "overture",
+    "sourceId": "e60ef351-1736-4060-84ef-ec6ac09d6999",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-594e93da-3048-4c",
+    "slug": "cong-vien-yersin-nha-trang",
+    "name": "Công Viên Yersin",
     "category": "outdoor",
     "subCategory": "park",
     "tags": [
@@ -4913,15 +5270,39 @@
       "cityId": "nha-trang",
       "districtId": "nha-trang",
       "address": "ĐƯỜNG Trần Phú",
-      "lat": 12.24574,
-      "lng": 109.19619
+      "lat": 12.258868,
+      "lng": 109.198196
     },
     "images": [],
-    "popularity": 56,
+    "popularity": 46,
     "source": "overture",
-    "sourceId": "7c7b8353-d857-4378-b1e5-7ebae0339519",
+    "sourceId": "594e93da-3048-4ccd-bce6-76db8eea7386",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f21ff6c7-0019-4c",
+    "slug": "abc-nha-trang-beach",
+    "name": "ABC Nha Trang Beach",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Nha Trang Beach, Nha Trang City, Khanh Hoa Province",
+      "lat": 12.234129,
+      "lng": 109.198753
+    },
+    "images": [],
+    "popularity": 51,
+    "source": "overture",
+    "sourceId": "f21ff6c7-0019-4c71-96eb-1adaf56e471e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-c78b3da1-27bd-4e",
@@ -4946,7 +5327,7 @@
     "source": "overture",
     "sourceId": "c78b3da1-27bd-4eda-8524-49096390853e",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-f88dd218-fe66-47",
@@ -4971,12 +5352,36 @@
     "source": "overture",
     "sourceId": "f88dd218-fe66-47b2-bae1-dc30ea674311",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-13540708-a2e8-45",
-    "slug": "four-seasons-garden-restaurant",
-    "name": "Four Seasons - Garden Restaurant",
+    "id": "ovt-cebe7674-c2a9-4b",
+    "slug": "khu-vui-choi-giai-tri-thieu-nhi-phu-xuong",
+    "name": "Khu Vui Chơi Giải Trí Thiếu Nhi Phú Xương",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "11 Phú Xương",
+      "lat": 12.282556,
+      "lng": 109.192223
+    },
+    "images": [],
+    "popularity": 49,
+    "source": "overture",
+    "sourceId": "cebe7674-c2a9-4b40-96c9-4923db76ebdf",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-edbb3973-e530-4c",
+    "slug": "hon-tam-bien-nha-trang",
+    "name": "Hòn Tằm Biển Nha Trang",
     "category": "outdoor",
     "subCategory": "beach",
     "tags": [
@@ -4986,16 +5391,40 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "57 Đường Trần Phú",
-      "lat": 12.243053,
-      "lng": 109.196571
+      "address": "86C Đường Trần Phú",
+      "lat": 12.229668,
+      "lng": 109.198677
+    },
+    "images": [],
+    "popularity": 46,
+    "source": "overture",
+    "sourceId": "edbb3973-e530-4c6b-aaea-1a68787baca3",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-90382476-6367-42",
+    "slug": "kdl-galina-lake-view",
+    "name": "KDL Galina Lake View",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Hồ Thủy Lợi, Kênh Hạ 1",
+      "lat": 12.188149,
+      "lng": 109.156586
     },
     "images": [],
     "popularity": 56,
     "source": "overture",
-    "sourceId": "13540708-a2e8-45fe-b534-82bd7aa85397",
+    "sourceId": "90382476-6367-421c-8c95-0c187e5c074f",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a2498a00-31a6-41",
@@ -5020,7 +5449,7 @@
     "source": "overture",
     "sourceId": "a2498a00-31a6-41d2-a1a0-ae83d10d18d8",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-ac9e3f4f-2186-4f",
@@ -5045,31 +5474,7 @@
     "source": "overture",
     "sourceId": "ac9e3f4f-2186-4f42-98d2-428ac54dbc4c",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-9af118c0-fb68-4c",
-    "slug": "ho-suoi-dau-cam-lam",
-    "name": "Hồ Suối Dầu - Cam Lâm",
-    "category": "outdoor",
-    "subCategory": "lake",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Thôn Suối Lau 2 - Xã Suối Dầu - Tỉnh Khánh Hòa",
-      "lat": 12.295803,
-      "lng": 109.189651
-    },
-    "images": [],
-    "popularity": 60,
-    "source": "overture",
-    "sourceId": "9af118c0-fb68-4cc5-8062-2d76e808c5d5",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a00bd540-c06c-42",
@@ -5094,7 +5499,7 @@
     "source": "overture",
     "sourceId": "a00bd540-c06c-42a9-9f8e-1e9c7761f2ff",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-4fd2c070-249c-42",
@@ -5119,31 +5524,7 @@
     "source": "overture",
     "sourceId": "4fd2c070-249c-42c7-acfa-41ea98cd8c73",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-7ec06c39-cc57-41",
-    "slug": "bai-dai-cam-ranh-nha-trang",
-    "name": "Bãi Dài Cam Ranh - Nha Trang",
-    "category": "outdoor",
-    "subCategory": "beach",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "BQL Khu Du Lịch Bán Đảo Cam Ranh, 180 Đường Trần Quý Cáp",
-      "lat": 12.25153,
-      "lng": 109.185799
-    },
-    "images": [],
-    "popularity": 69,
-    "source": "overture",
-    "sourceId": "7ec06c39-cc57-4137-aecb-5348a45f0ed2",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-aec44534-7a4c-47",
@@ -5168,402 +5549,7 @@
     "source": "overture",
     "sourceId": "aec44534-7a4c-4749-b358-f8f06a11f60a",
     "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d1131ad4-a1a4-4d",
-    "slug": "tinh-xa-ngoc-phap",
-    "name": "Tịnh xá Ngọc Pháp",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "06 Đ. Hồng Lĩnh",
-      "lat": 12.237301,
-      "lng": 109.184288
-    },
-    "images": [],
-    "popularity": 65,
-    "source": "overture",
-    "sourceId": "d1131ad4-a1a4-4d89-b652-97875879b0f1",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-945cf5fd-6b7f-42",
-    "slug": "tp-bien-nha-trang",
-    "name": "Tp Biển Nha Trang",
-    "category": "outdoor",
-    "subCategory": "beach",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "6 Hẻm 90 Đường A6",
-      "lat": 12.241798,
-      "lng": 109.178787
-    },
-    "images": [],
-    "popularity": 53,
-    "source": "overture",
-    "sourceId": "945cf5fd-6b7f-4206-ae93-50b70e02f39f",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-eaf5cb31-d361-49",
-    "slug": "khu-chung-cu-vinh-phuoc-tp-nha-trang",
-    "name": "Khu Chung Cu Vinh Phuoc Tp Nha Trang",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "khu chung cu vinh phuoc",
-      "lat": 12.273948,
-      "lng": 109.197922
-    },
-    "images": [],
-    "popularity": 59,
-    "source": "overture",
-    "sourceId": "eaf5cb31-d361-4997-9ef9-dc1933b3b65c",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-59e80ca5-ae12-4e",
-    "slug": "chua-sac-tu-kim-son",
-    "name": "Chùa Sắc Tứ Kim Sơn",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "261 Đ. Lương Định Của",
-      "lat": 12.262156,
-      "lng": 109.1707
-    },
-    "images": [],
-    "popularity": 60,
-    "source": "overture",
-    "sourceId": "59e80ca5-ae12-4e11-9128-e805b2e5cbe8",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-dff8d976-1eac-4a",
-    "slug": "nha-trang-city-beach",
-    "name": "Nha Trang City Beach",
-    "category": "outdoor",
-    "subCategory": "beach",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "68 Đường Trần Phú",
-      "lat": 12.236555,
-      "lng": 109.197823
-    },
-    "images": [],
-    "popularity": 68,
-    "source": "overture",
-    "sourceId": "dff8d976-1eac-4aee-90b6-dfeee58d58bf",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-024df229-ceb0-48",
-    "slug": "tran-anh-duy-bat-dong-san-nha-trang",
-    "name": "Trần Anh Duy Bất Động Sản Nha Trang",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Can Ho Muong Thanh Vien Trieu, 3 Đường Phạm Văn Đồng",
-      "lat": 12.273831,
-      "lng": 109.202057
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "024df229-ceb0-4842-a648-04eeb84cca11",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-37f07218-b6d3-4c",
-    "slug": "chua-da-bao",
-    "name": "Chùa Đa Bảo",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Đường Đệ, Phường Vĩnh Hòa, TP Nha Trang",
-      "lat": 12.304882,
-      "lng": 109.217842
-    },
-    "images": [],
-    "popularity": 65,
-    "source": "overture",
-    "sourceId": "37f07218-b6d3-4c78-93d6-e3357efdb959",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-022858f3-da3e-40",
-    "slug": "nha-trang-bien-goi",
-    "name": "Nha Trang Biển Gọi",
-    "category": "outdoor",
-    "subCategory": "beach",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "304, Hoàng Hoa Thám",
-      "lat": 12.25031,
-      "lng": 109.194008
-    },
-    "images": [],
-    "popularity": 67,
-    "source": "overture",
-    "sourceId": "022858f3-da3e-4026-917f-0b8fa8908477",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-fa6f21f1-b363-4e",
-    "slug": "ocean-sun-apartment-hon-chong-nha-trang",
-    "name": "Ocean Sun Apartment Hon Chong Nha Trang",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "5 Đường Phạm Văn Đồng",
-      "lat": 12.273744,
-      "lng": 109.202354
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "fa6f21f1-b363-4e28-a365-513ea970210f",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-c225a698-948a-4e",
-    "slug": "chua-vinh-tho",
-    "name": "Chùa Vĩnh Thọ",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Hai Mươi Ba Tháng Mười",
-      "lat": 12.257,
-      "lng": 109.130508
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "c225a698-948a-4e3f-a394-e14ea44e9887",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-355f9418-ed3c-45",
-    "slug": "yang-bay-eco-park",
-    "name": "Yang Bay Eco Park",
-    "category": "outdoor",
-    "subCategory": "park",
-    "tags": [
-      "ngoai-troi",
-      "cay-xanh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Đường Trần Phú",
-      "lat": 12.226002,
-      "lng": 109.199821
-    },
-    "images": [],
-    "popularity": 66,
-    "source": "overture",
-    "sourceId": "355f9418-ed3c-4505-989d-06b21f628ffb",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-d2f0273c-b6d4-4f",
-    "slug": "can-ho-napoleon-castle-nha-trang",
-    "name": "Căn Hộ Napoleon Castle Nha Trang",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "25 Đường Nguyễn Đình Chiểu",
-      "lat": 12.26977,
-      "lng": 109.201759
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "d2f0273c-b6d4-4f63-8409-5cfcac1eb44d",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-a7b0e938-bf5a-4f",
-    "slug": "nha-tho-chanh-toa",
-    "name": "Nhà thờ Chánh Tòa",
-    "category": "outdoor",
-    "subCategory": "church-cathedral",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Thái nguyên, Nha Trang",
-      "lat": 12.246811,
-      "lng": 109.188072
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "a7b0e938-bf5a-4f54-bb4b-d057c50b1f2e",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-2e67ddff-bdaa-4f",
-    "slug": "an-vien-beach",
-    "name": "An Vien beach",
-    "category": "outdoor",
-    "subCategory": "beach",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Nhà Xe Liên Hưng, 17 Đường Thái Nguyên",
-      "lat": 12.234796,
-      "lng": 109.194992
-    },
-    "images": [],
-    "popularity": 51,
-    "source": "overture",
-    "sourceId": "2e67ddff-bdaa-4fc1-8f7c-4fb18d5ff677",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-ef6ffc75-50a3-49",
-    "slug": "new-galaxy-nha-trang",
-    "name": "New Galaxy Nha Trang",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "Khu đô thị",
-      "lat": 12.198302,
-      "lng": 109.209435
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "ef6ffc75-50a3-49af-8743-e64ff10222bf",
-    "status": "active",
-    "updatedAt": "2026-09-12"
-  },
-  {
-    "id": "ovt-89dedbc5-f731-44",
-    "slug": "chua-dieu-nam",
-    "name": "Chùa Diệu Nam",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "nha-trang",
-      "districtId": "nha-trang",
-      "address": "9/7 hẽm Hương Điền, Đồng Nai",
-      "lat": 12.244273,
-      "lng": 109.180008
-    },
-    "images": [],
-    "popularity": 64,
-    "source": "overture",
-    "sourceId": "89dedbc5-f731-4456-86a9-6a9aa6b95bf8",
-    "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-bd4e6c21-6e31-41",
@@ -5586,7 +5572,7 @@
     "source": "overture",
     "sourceId": "bd4e6c21-6e31-4134-bd34-455f988090d2",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-a97773f7-5e56-42",
@@ -5609,7 +5595,7 @@
     "source": "overture",
     "sourceId": "a97773f7-5e56-421b-872f-08d1c0169553",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-4a8a0133-df2b-47",
@@ -5632,7 +5618,7 @@
     "source": "overture",
     "sourceId": "4a8a0133-df2b-4714-9447-3f36d03f1d42",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-db6c00c1-29da-44",
@@ -5655,7 +5641,7 @@
     "source": "overture",
     "sourceId": "db6c00c1-29da-4434-be2c-bc499cb1e6f6",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-9380bdb0-115f-47",
@@ -5678,7 +5664,7 @@
     "source": "overture",
     "sourceId": "9380bdb0-115f-47c2-b5d5-b905c24b179b",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   },
   {
     "id": "ovt-2e583705-7a0f-4f",
@@ -5701,6 +5687,6 @@
     "source": "overture",
     "sourceId": "2e583705-7a0f-4fb8-b50a-f75571724095",
     "status": "active",
-    "updatedAt": "2026-09-12"
+    "updatedAt": "2026-09-13"
   }
 ]

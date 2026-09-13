@@ -4,7 +4,6 @@ import { useEffect, useMemo, useState } from 'react';
 import { REEL_DURATION_MS, useSpinSequence } from './useSpinSequence';
 import { Confetti } from './Confetti';
 import type { Accent } from '@/lib/intents/registry';
-import type { PlaceSummary } from '@/lib/places/types';
 
 /**
  * The reveal.
@@ -20,7 +19,8 @@ import type { PlaceSummary } from '@/lib/places/types';
  * could not decelerate smoothly because each step was a discrete jump.
  */
 
-export type SpinCandidate = { readonly place: PlaceSummary; readonly label: string };
+/** Just the labels: the reel shows names, and never needed the records behind them. */
+export type SpinCandidate = string;
 
 /**
  * Height of one slot, in pixels.
@@ -38,6 +38,7 @@ export function SpinStage({
   candidates,
   winnerLabel,
   landedNote,
+  waitingNote,
   accent,
   onComplete,
 }: {
@@ -45,6 +46,8 @@ export function SpinStage({
   winnerLabel: string;
   /** Extra line under the winner — used by the itinerary to say "và 2 chặng nữa". */
   landedNote?: string;
+  /** What is being shuffled, for the line under the reel. Defaults to places. */
+  waitingNote?: string;
   accent: Accent;
   onComplete: () => void;
 }) {
@@ -84,7 +87,7 @@ export function SpinStage({
    * starting offset and the reel would visibly stutter.
    */
   const slots = useMemo(() => {
-    const labels = candidates.map((candidate) => candidate.label);
+    const labels = candidates;
     if (labels.length === 0) return [winnerLabel];
 
     const strip: string[] = [];
@@ -174,7 +177,7 @@ export function SpinStage({
       <p className="relative mt-6 text-sm opacity-75">
         {landed
           ? 'Đang mở kết quả…'
-          : `Đang cân nhắc ${candidates.length} lựa chọn hợp với bạn`}
+          : (waitingNote ?? `Đang cân nhắc ${candidates.length} lựa chọn hợp với bạn`)}
       </p>
     </div>
   );

@@ -204,10 +204,9 @@ export function IntentWizard({ intent }: { intent: Intent }) {
       const first = itinerary.stops[0]!;
       return (
         <SpinStage
-          candidates={itinerary.stops.map((stop) => ({
-            place: stop.place,
-            label: `${stop.definition.emoji} ${stop.place.shortName ?? stop.place.name}`,
-          }))}
+          candidates={itinerary.stops.map(
+            (stop) => `${stop.definition.emoji} ${stop.place.shortName ?? stop.place.name}`,
+          )}
           winnerLabel={`${first.place.shortName ?? first.place.name}`}
           landedNote={`và ${itinerary.stops.length - 1} chặng nữa`}
           accent={intent.accent}
@@ -231,10 +230,9 @@ export function IntentWizard({ intent }: { intent: Intent }) {
 
     return (
       <SpinStage
-        candidates={outcome.result.candidates.map((candidate) => ({
-          place: candidate.place,
-          label: candidate.place.shortName ?? candidate.place.name,
-        }))}
+        candidates={outcome.result.candidates.map(
+          (candidate) => candidate.place.shortName ?? candidate.place.name,
+        )}
         winnerLabel={outcome.result.winner.place.shortName ?? outcome.result.winner.place.name}
         accent={intent.accent}
         onComplete={handleRevealComplete}

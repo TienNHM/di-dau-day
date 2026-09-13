@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
 import { CityPicker } from '@/components/city/CityPicker';
 import { IntentCard } from '@/components/intent/IntentCard';
 import { PageShell } from '@/components/ui/PageShell';
@@ -62,6 +63,40 @@ export default async function HomePage() {
             />
           ))}
         </nav>
+
+        {/*
+          A different question from the five above, and kept visually apart for that
+          reason. Those five ask "where"; these two ask "what" — the case where
+          somebody has already decided to eat and still cannot get started.
+        */}
+        <section className="mt-8 border-t border-line pt-7">
+          <h2 className="text-sm font-semibold tracking-wider text-ink-faint uppercase">
+            Chưa biết ăn gì, uống gì?
+          </h2>
+          <div className="mt-3 grid grid-cols-2 gap-3">
+            <Link
+              href="/mon-an"
+              className="flex flex-col gap-1 rounded-2xl bg-white/70 px-4 py-4 ring-1 ring-line transition active:scale-[0.98] hover:bg-white"
+            >
+              <span aria-hidden className="text-3xl">
+                🍜
+              </span>
+              <span className="font-bold">Random món ăn</span>
+              <span className="text-sm text-ink-faint">Chọn món trước, quán sau</span>
+            </Link>
+
+            <Link
+              href="/do-uong"
+              className="flex flex-col gap-1 rounded-2xl bg-white/70 px-4 py-4 ring-1 ring-line transition active:scale-[0.98] hover:bg-white"
+            >
+              <span aria-hidden className="text-3xl">
+                🧋
+              </span>
+              <span className="font-bold">Random đồ uống</span>
+              <span className="text-sm text-ink-faint">Cà phê, trà sữa, bia…</span>
+            </Link>
+          </div>
+        </section>
       </main>
 
       <SiteFooter lead={`${places.length} địa điểm · ${available.length} thành phố`} />
