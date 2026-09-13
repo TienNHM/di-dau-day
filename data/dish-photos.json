@@ -78,6 +78,12 @@
     "sourceUrl": "https://www.pexels.com/photo/a-bowl-of-food-with-meat-and-vegetables-on-a-plate-27134987/"
   },
   {
+    "dishId": "bun-thit-nuong",
+    "file": "bun-thit-nuong.jpg",
+    "author": "Starzzz Studios",
+    "sourceUrl": "https://www.pexels.com/photo/brown-and-white-ceramic-bowls-with-food-on-brown-wooden-table-12027630/"
+  },
+  {
     "dishId": "burger",
     "file": "burger.jpg",
     "author": "Engin Akyurt",
@@ -132,6 +138,12 @@
     "sourceUrl": "https://www.pexels.com/photo/delicious-asian-meal-with-fish-rice-and-vegetables-37263740/"
   },
   {
+    "dishId": "ga-nuong",
+    "file": "ga-nuong.jpg",
+    "author": "quang vinh",
+    "sourceUrl": "https://www.pexels.com/photo/gourmet-platter-with-roast-chicken-and-sides-35468827/"
+  },
+  {
     "dishId": "ga-ran",
     "file": "ga-ran.jpg",
     "author": "Terrance Barksdale",
@@ -142,6 +154,12 @@
     "file": "goi-cuon.jpg",
     "author": "Quang Nguyen Vinh",
     "sourceUrl": "https://www.pexels.com/photo/seafood-on-a-plate-12386446/"
+  },
+  {
+    "dishId": "goi-vit",
+    "file": "goi-vit.jpg",
+    "author": "FOX ^.ᆽ.^= ∫",
+    "sourceUrl": "https://www.pexels.com/photo/vietnamese-salad-with-chicken-and-peanuts-37263739/"
   },
   {
     "dishId": "hai-san",
@@ -198,6 +216,12 @@
     "sourceUrl": "https://www.pexels.com/photo/soup-with-shrimps-served-in-a-restaurant-19879442/"
   },
   {
+    "dishId": "nuoc-ep",
+    "file": "nuoc-ep.jpg",
+    "author": "Thu Huynh",
+    "sourceUrl": "https://www.pexels.com/photo/yellow-drink-in-a-glass-18759422/"
+  },
+  {
     "dishId": "nuong",
     "file": "nuong.jpg",
     "author": "Theodore Nguyen",
@@ -244,6 +268,18 @@
     "file": "tra-sua.jpg",
     "author": "Telly Mina",
     "sourceUrl": "https://www.pexels.com/photo/milk-teas-with-tapioca-pearls-12666754/"
+  },
+  {
+    "dishId": "trai-cay-dam",
+    "file": "trai-cay-dam.jpg",
+    "author": "Theodore Nguyen",
+    "sourceUrl": "https://www.pexels.com/photo/two-glasses-of-fruit-and-ice-on-a-table-25568580/"
+  },
+  {
+    "dishId": "vit-lon",
+    "file": "vit-lon.jpg",
+    "author": "FOX ^.ᆽ.^= ∫",
+    "sourceUrl": "https://www.pexels.com/photo/street-food-platter-with-duck-eggs-and-spices-36752865/"
   },
   {
     "dishId": "xoi",

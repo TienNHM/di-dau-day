@@ -5801,6 +5801,115 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-3ca1ea24-3c90-49",
+    "slug": "hot-ga-nuong-9-8ad867",
+    "name": "Hột gà nướng\"9\"",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "157 Đường Hoàng Văn Thụ",
+      "lat": 10.039753,
+      "lng": 105.777908
+    },
+    "images": [],
+    "popularity": 53,
+    "source": "overture",
+    "sourceId": "3ca1ea24-3c90-493d-be13-078cefd5060b",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2ae1c037-95a4-4e",
+    "slug": "chan-ga-nuong-hoang-vu-6616b7",
+    "name": "Chân gà nướng Hoàng Vũ",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "Hẻm 72 Đ. Đề Thám",
+      "lat": 10.035364,
+      "lng": 105.782272
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "2ae1c037-95a4-4e66-8213-30c545c40e46",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-772aeae9-9ecf-4a",
+    "slug": "thu-hien-bun-mang-vit-xiem-bun-cari-mien-ga-12eb8b",
+    "name": "THU HIỀN Bún măng Vịt Xiêm - Bún cari - Miến gà",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "9A Đường Nguyễn Văn Linh",
+      "lat": 10.020426,
+      "lng": 105.766129
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "772aeae9-9ecf-4ada-8a7f-c3f0f0c46a0a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2cb6560b-b1cc-48",
+    "slug": "chao-goi-vit-diem-d19b29",
+    "name": "Cháo Gỏi Vịt Diễm",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "48 Đường Nguyễn Tri Phương",
+      "lat": 10.040255,
+      "lng": 105.757156
+    },
+    "images": [],
+    "popularity": 42,
+    "source": "overture",
+    "sourceId": "2cb6560b-b1cc-482c-a7b0-67c801405068",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-864cedb8-262f-44",
+    "slug": "nuoc-ep-sinh-to-c-plus-275aaa",
+    "name": "Nước Ép - Sinh Tố C Plus",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "162 Đường Huỳnh Cương",
+      "lat": 10.035799,
+      "lng": 105.779839
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "864cedb8-262f-44ec-b531-0a2dab869696",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-eb67f197-b0d8-4f",
     "slug": "tra-sua-su-kem-3b5d72",
     "name": "Trà Sữa Su Kem",
@@ -5993,6 +6102,50 @@
     "popularity": 64,
     "source": "overture",
     "sourceId": "2d3979b0-9a27-4393-9764-d0a9989d3783",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-3231d1fb-e80d-4c",
+    "slug": "huy-anh-coffee-tea-juice-a1e244",
+    "name": "Huy Anh Coffee.Tea.Juice",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "6 Đ. Đề Thám",
+      "lat": 10.03331,
+      "lng": 105.783546
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "3231d1fb-e80d-4cbf-b9ab-18499adb4829",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-491ab981-c6ae-48",
+    "slug": "nuoc-ep-a2dca3",
+    "name": "Nước Ép",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "can-tho",
+      "districtId": "ninh-kieu",
+      "address": "132/5 Đ. 3 Tháng 2",
+      "lat": 10.018428,
+      "lng": 105.761658
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "491ab981-c6ae-48c4-88d7-9f28bfa0b535",
     "status": "active",
     "updatedAt": "2026-09-13"
   }

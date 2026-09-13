@@ -5581,6 +5581,92 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-318b3861-3802-41",
+    "slug": "ba-long-bun-thit-nuong-5ecf50",
+    "name": "Ba Long - Bún thịt nướng",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "262 Đường Hai Bà Trưng",
+      "lat": 11.956935,
+      "lng": 108.441566
+    },
+    "images": [],
+    "popularity": 45,
+    "source": "overture",
+    "sourceId": "318b3861-3802-415b-9ebb-e54f63c69153",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5f534e7d-6e52-47",
+    "slug": "quan-chan-ga-nuong-tn-021450",
+    "name": "Quán Chân Gà Nướng TN",
+    "category": "food",
+    "subCategory": "asian-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "16B Đường Hoàng Văn Thụ",
+      "lat": 11.93992,
+      "lng": 108.426308
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "5f534e7d-6e52-47a1-9faf-4b54ab91bc5f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-56ce2011-f38f-48",
+    "slug": "ga-nuong-tuu-lau-2606fc",
+    "name": "Gà nướng Tửu Lầu",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "108 Đường Phù Đổng Thiên Vương",
+      "lat": 11.961919,
+      "lng": 108.442924
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "56ce2011-f38f-486c-84af-4bec0ca14e32",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-fab02947-6722-44",
+    "slug": "ga-nuong-com-lam-368-9dbd07",
+    "name": "Gà Nướng Cơm Lam 368",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "159 Ngô Quyền",
+      "lat": 11.956962,
+      "lng": 108.427795
+    },
+    "images": [],
+    "popularity": 82,
+    "source": "overture",
+    "sourceId": "fab02947-6722-446e-9f18-1f477127bb57",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-c373dd34-4f2d-43",
     "slug": "kem-bo-da-lat-e45ac5",
     "name": "Kem Bơ Đà Lạt",
@@ -5684,6 +5770,52 @@
     "popularity": 57,
     "source": "overture",
     "sourceId": "726cad79-a82a-4d29-bb4d-ae042c9f3e2e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-8537ebd8-85ee-4d",
+    "slug": "sinh-to-nuoc-ep-ba-trieu-tiem-tra-trai-cay-suri-6fdf77",
+    "name": "Sinh Tố Nước Ép Bà Triệu - Tiệm Trà Trái Cây Suri",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "34 Đường Bà Triệu",
+      "lat": 11.937338,
+      "lng": 108.433517
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "8537ebd8-85ee-4d79-8480-a16833ccbe99",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ec37c2ba-a1d4-4a",
+    "slug": "beep-cafe-juice-86547c",
+    "name": "Beep Cafe & Juice",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-lat",
+      "districtId": "da-lat",
+      "address": "11A Đường Nguyễn Chí Thanh",
+      "lat": 11.940968,
+      "lng": 108.436905
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "ec37c2ba-a1d4-4ae9-bbd4-98d7d48f8416",
     "status": "active",
     "updatedAt": "2026-09-13"
   }

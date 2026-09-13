@@ -11107,6 +11107,134 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-4108ba29-d1d4-42",
+    "slug": "quan-com-suon-bun-thit-nuong-tuan-phuong-aa563a",
+    "name": "Quán Cơm Sườn & Bún thịt nướng TUẤN PHƯƠNG",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "461 Ông Ích Khiêm",
+      "lat": 16.061205,
+      "lng": 108.216721
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "4108ba29-d1d4-42e7-b3f5-2902c8944b3d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ae0e946b-cb85-46",
+    "slug": "bun-thit-nuong-ba-hieu-da-nang-847776",
+    "name": "Bún thịt nướng Bà Hiểu - Đà Nẵng",
+    "category": "food",
+    "subCategory": "bar-and-grill-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "son-tra",
+      "address": "Trương Định",
+      "lat": 16.090271,
+      "lng": 108.245033
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "ae0e946b-cb85-4674-96b1-eca8472c2843",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-3d4d6965-08a8-4d",
+    "slug": "chan-ga-cho-chan-ga-nuong-bf1cc4",
+    "name": "Chân Gà Chờ Chân Gà Nướng",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "son-tra",
+      "address": "86 Nguyễn Thị Định",
+      "lat": 16.081999,
+      "lng": 108.231728
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "3d4d6965-08a8-4d80-8861-0030e79cda52",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-00e0454d-b668-48",
+    "slug": "ga-nuong-com-lam-601acf",
+    "name": "Gà Nướng Cơm Lam",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "cam-le",
+      "address": "100 Lê Đại Hành",
+      "lat": 16.023241,
+      "lng": 108.203278
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "00e0454d-b668-4865-b896-cf9b828b6a9c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-dedf24ae-fb6d-42",
+    "slug": "trung-ga-nuong-tra-sua-phu-minh-le-2-ba5e23",
+    "name": "Trứng Gà Nướng - Trà Sữa Phú Minh Lê 2",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "cam-le",
+      "address": "62 Nguyễn Hiến Lê",
+      "lat": 16.0152,
+      "lng": 108.228844
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "dedf24ae-fb6d-425c-8771-a0ab19909825",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-1596f070-e61d-45",
+    "slug": "chan-ga-nuong-hai-coi-d1be8b",
+    "name": "Chân Gà Nướng Hai Còi",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "77 Đường Núi Thành",
+      "lat": 16.048845,
+      "lng": 108.220757
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "1596f070-e61d-45be-930b-d4ab2b5b2c10",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-eb78ed0f-f341-48",
     "slug": "tranh-coffee-gelato-423e52",
     "name": "Tranh Coffee & Gelato",
@@ -11294,6 +11422,52 @@
     "popularity": 77,
     "source": "overture",
     "sourceId": "f2d54784-d63a-4e4f-a2ca-3f5df858cd78",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-769414ff-91ab-47",
+    "slug": "yusu-coffee-juice-45917f",
+    "name": "YUSU Coffee.Juice",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "480 Trưng Nữ Vương",
+      "lat": 16.049721,
+      "lng": 108.214401
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "769414ff-91ab-47c9-8cbd-be0e008f7116",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6d803a85-ce91-4d",
+    "slug": "mia-juice-d081b8",
+    "name": "Mía Juice",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "hai-chau",
+      "address": "424 Trưng Nữ Vương",
+      "lat": 16.050863,
+      "lng": 108.215614
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "6d803a85-ce91-4d80-9a57-97bebb360c95",
     "status": "active",
     "updatedAt": "2026-09-13"
   }

@@ -5759,25 +5759,107 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-33464bad-77d3-42",
-    "slug": "tra-sua-nuoc-ep-tata-192a33",
-    "name": "Trà Sữa Nước Ép Tata",
-    "category": "cafe",
-    "subCategory": "cafe",
-    "tags": [
-      "chill"
-    ],
+    "id": "ovt-caf7f7f1-796d-47",
+    "slug": "bun-thit-nuong-o-chau-co-so-2-nhu-ngoc-749c36",
+    "name": "Bún Thịt Nướng O Châu - Cơ Sở 2 Như Ngọc",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
     "location": {
       "cityId": "hue",
       "districtId": "hue",
-      "address": "88 Mai Thúc Loan",
-      "lat": 16.476727,
-      "lng": 107.582375
+      "address": "4 Đường Chùa Ông",
+      "lat": 16.478813,
+      "lng": 107.586975
     },
     "images": [],
-    "popularity": 71,
+    "popularity": 58,
     "source": "overture",
-    "sourceId": "33464bad-77d3-422d-8f3d-2a877dbca6ec",
+    "sourceId": "caf7f7f1-796d-47df-b46e-6ee1564f78ff",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-526972ff-d94c-4e",
+    "slug": "quan-ba-ty-bun-thit-nuong-va-nem-lui-co-so-2-3b8773",
+    "name": "Quán Bà Tý - bún thịt nướng và nem lụi (cơ sở 2)",
+    "category": "food",
+    "subCategory": "theme-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "10 Lê Minh",
+      "lat": 16.461004,
+      "lng": 107.605499
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "526972ff-d94c-4ed6-8c0e-fe652b9065f3",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-299e4eb0-242d-4f",
+    "slug": "quan-ga-nuong-khoi-chieu-e9177f",
+    "name": "Quán Gà Nướng - Khói Chiều",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "7 Huỳnh Tấn Phát",
+      "lat": 16.460342,
+      "lng": 107.602623
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "299e4eb0-242d-4f93-8cdd-93636bcae363",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f59896e1-985c-47",
+    "slug": "ga-nuong-muoi-ot-vit-nuong-mac-mat-ngan-56-ngu-bin-172480",
+    "name": "Gà Nướng Muối Ớt - Vịt Nướng Mắc Mật -Ngân 56 Ngự Bình",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "56 Đường Ngự Bình",
+      "lat": 16.451698,
+      "lng": 107.598869
+    },
+    "images": [],
+    "popularity": 46,
+    "source": "overture",
+    "sourceId": "f59896e1-985c-4723-882b-97937e1d243f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-cf63faaf-b6f5-4e",
+    "slug": "nha-tram-so-21-38aa05",
+    "name": "Nhà TRÂM số 21",
+    "category": "cafe",
+    "subCategory": "smoothie-juice-bar",
+    "tags": [],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "103 Đường Đinh Tiên Hoàng",
+      "lat": 16.47506,
+      "lng": 107.578552
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "cf63faaf-b6f5-4ed6-87ad-da6e73282df7",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -6038,6 +6120,98 @@
     "popularity": 51,
     "source": "overture",
     "sourceId": "1e7128a5-ef76-4e0d-b5e8-ff42d177b973",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-33464bad-77d3-42",
+    "slug": "tra-sua-nuoc-ep-tata-192a33",
+    "name": "Trà Sữa Nước Ép Tata",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "88 Mai Thúc Loan",
+      "lat": 16.476727,
+      "lng": 107.582375
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "33464bad-77d3-422d-8f3d-2a877dbca6ec",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7a61fb91-1506-49",
+    "slug": "habin-coffee-juice-bar-4da40f",
+    "name": "HABIN Coffee & Juice Bar",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "80 Đường Yết Kiêu",
+      "lat": 16.468851,
+      "lng": 107.572556
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "7a61fb91-1506-4982-978a-9c6d4966d0a2",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-45403fa1-f873-45",
+    "slug": "kim-ngan-juice-ea50d8",
+    "name": "Kim Ngân Juice",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "49 Chu Văn An",
+      "lat": 16.468454,
+      "lng": 107.59655
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "45403fa1-f873-45bd-b2e5-4ac07d4243e1",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-754cf0ea-253f-46",
+    "slug": "55-phan-tram-juice-va-cake-617f9a",
+    "name": "55 Phần Trăm Juice và Cake",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hue",
+      "districtId": "hue",
+      "address": "Chung cư, 317 Khu B, Đống Đa",
+      "lat": 16.461887,
+      "lng": 107.594513
+    },
+    "images": [],
+    "popularity": 49,
+    "source": "overture",
+    "sourceId": "754cf0ea-253f-4614-8782-7f3b2d9601b1",
     "status": "active",
     "updatedAt": "2026-09-13"
   }

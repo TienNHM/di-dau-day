@@ -481,6 +481,57 @@
     ]
   },
   {
+    "id": "bun-thit-nuong",
+    "kind": "mon-an",
+    "name": "Bún thịt nướng",
+    "emoji": "🍢",
+    "note": "Bún nguội, thịt nóng, chan nước mắm. Trưa nào cũng hợp.",
+    "subCategories": [],
+    "nameAliases": [
+      "bún thịt nướng",
+      "bun thit nuong"
+    ]
+  },
+  {
+    "id": "ga-nuong",
+    "kind": "mon-an",
+    "name": "Gà nướng",
+    "emoji": "🍗",
+    "note": "Da giòn, thịt ngọt. Hợp nhậu mà cũng hợp cơm.",
+    "subCategories": [],
+    "nameAliases": [
+      "gà nướng",
+      "ga nuong",
+      "gà ủ muối"
+    ]
+  },
+  {
+    "id": "goi-vit",
+    "kind": "mon-an",
+    "name": "Gỏi vịt",
+    "emoji": "🦆",
+    "note": "Vịt xé trộn rau răm, đậu phộng. Chua cay giòn cùng lúc.",
+    "subCategories": [],
+    "nameAliases": [
+      "gỏi vịt",
+      "goi vit",
+      "vịt xiêm"
+    ]
+  },
+  {
+    "id": "vit-lon",
+    "kind": "mon-an",
+    "name": "Trứng vịt lộn",
+    "emoji": "🥚",
+    "note": "Rau răm với muối tiêu chanh. Món khuya kinh điển.",
+    "subCategories": [],
+    "nameAliases": [
+      "vịt lộn",
+      "vit lon",
+      "cút lộn"
+    ]
+  },
+  {
     "id": "ca-phe",
     "kind": "do-uong",
     "name": "Cà phê",
@@ -540,20 +591,16 @@
   {
     "id": "sinh-to",
     "kind": "do-uong",
-    "name": "Sinh tố, nước ép",
+    "name": "Sinh tố",
     "emoji": "🥤",
-    "note": "Mát, có vitamin, và không làm mất ngủ.",
+    "note": "Đặc, mát, và no hơn bạn tưởng.",
     "subCategories": [
-      "smoothie-juice-bar",
-      "juice-bar"
+      "smoothie-juice-bar"
     ],
     "nameAliases": [
       "sinh tố",
       "sinh to",
-      "nước ép",
-      "nuoc ep",
-      "smoothie",
-      "juice"
+      "smoothie"
     ]
   },
   {
@@ -644,6 +691,32 @@
       "sa pô chê",
       "chế biến",
       "chế tạo"
+    ]
+  },
+  {
+    "id": "nuoc-ep",
+    "kind": "do-uong",
+    "name": "Nước ép",
+    "emoji": "🧃",
+    "note": "Loãng hơn sinh tố, tỉnh người hơn cà phê.",
+    "subCategories": [],
+    "nameAliases": [
+      "nước ép",
+      "nuoc ep",
+      "juice"
+    ]
+  },
+  {
+    "id": "trai-cay-dam",
+    "kind": "do-uong",
+    "name": "Trái cây dầm",
+    "emoji": "🍨",
+    "note": "Trái cây, sữa đặc, đá bào. Giải nhiệt kiểu vỉa hè.",
+    "subCategories": [],
+    "nameAliases": [
+      "trái cây dầm",
+      "trai cay dam",
+      "hoa quả dầm"
     ]
   }
 ]

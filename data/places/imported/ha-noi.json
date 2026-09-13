@@ -27714,6 +27714,132 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-0ae26f5f-6a3b-40",
+    "slug": "tiem-an-2anhzai-com-bun-thit-nuong-d44b59",
+    "name": "Tiệm ăn 2anhzai - cơm bún thịt nướng",
+    "category": "food",
+    "subCategory": "diner",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoan-kiem",
+      "address": "51 Phố Hàng Bồ",
+      "lat": 21.020559,
+      "lng": 105.852196
+    },
+    "images": [],
+    "popularity": 76,
+    "source": "overture",
+    "sourceId": "0ae26f5f-6a3b-4035-9a57-48da5a656485",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-25c35d82-829a-46",
+    "slug": "ga-nuong-lu-cd7635",
+    "name": "Gà Nướng Lu",
+    "category": "food",
+    "subCategory": "chicken-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hai-ba-trung",
+      "address": "26 P.Hàn Thuyên",
+      "lat": 21.018684,
+      "lng": 105.85643
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "25c35d82-829a-4620-abc4-526d490c66ce",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b649933e-d220-4e",
+    "slug": "chan-ga-nuong-thuy-khue-6496da",
+    "name": "Chân Gà Nướng Thuỵ Khuê",
+    "category": "food",
+    "subCategory": "chicken-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "tay-ho",
+      "address": "4 Đ. Thụy Khuê",
+      "lat": 21.042707,
+      "lng": 105.834061
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "b649933e-d220-4e7f-8832-442af1a76596",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-fea9fd9e-04c7-44",
+    "slug": "vua-ga-nuong-lu-83ce7c",
+    "name": "Vua Gà Nướng Lu",
+    "category": "food",
+    "subCategory": "chicken-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "dong-da",
+      "address": "104d1 P. Đặng Văn Ngữ",
+      "lat": 21.011564,
+      "lng": 105.831612
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "fea9fd9e-04c7-4494-99a7-a030be409b90",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5f66765a-9a3e-42",
+    "slug": "chan-ga-nuong-co-thai-c446c7",
+    "name": "Chân gà nướng cô thái",
+    "category": "food",
+    "subCategory": "chicken-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hai-ba-trung",
+      "address": "53 Đ. Trần Khát Chân",
+      "lat": 21.008453,
+      "lng": 105.864296
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "5f66765a-9a3e-42e8-9e65-7a0cdbe48ca1",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ea9aedb6-6369-44",
+    "slug": "chan-ga-nuong-a-phuong-31089a",
+    "name": "Chân Gà Nướng A Phương",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "nam-tu-liem",
+      "address": "22 Ng. 56 Đ. Lê Quang Đạo",
+      "lat": 21.011534,
+      "lng": 105.769829
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "ea9aedb6-6369-4491-9de5-17aebd0f3546",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-a9047fec-5667-42",
     "slug": "che-sau-lien-16a-quang-trung-ha-dong-097277",
     "name": "ChÈ SẦU LiÊN 16a Quang Trung HÀ ĐÔNg",
@@ -27754,6 +27880,92 @@
     "popularity": 70,
     "source": "overture",
     "sourceId": "dea09f56-b511-498f-8d90-d4be69c125f3",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f7711eae-d39c-49",
+    "slug": "hoa-qua-dam-quan-dream-6a4b63",
+    "name": "Hoa quả dầm Quán Dream",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoang-mai",
+      "address": "13 ngách 151/51, Nguyễn Đức Cảnh",
+      "lat": 20.989391,
+      "lng": 105.851677
+    },
+    "images": [],
+    "popularity": 83,
+    "source": "overture",
+    "sourceId": "f7711eae-d39c-4925-9fae-b5e10fbdc347",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-0b1f177e-1f3f-4f",
+    "slug": "hoa-qua-dam-46-hang-gai-e73cb4",
+    "name": "Hoa quả dầm 46 Hàng Gai",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoan-kiem",
+      "address": "46 P. Hàng Gai",
+      "lat": 21.0322,
+      "lng": 105.850334
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "0b1f177e-1f3f-4f14-b6f9-c979f27533de",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5d4d1776-6360-4b",
+    "slug": "green-sinh-to-nuoc-ep-hoa-qua-dam-be67e7",
+    "name": "Green - Sinh tố, nước ép, hoa quả dầm",
+    "category": "cafe",
+    "subCategory": "smoothie-juice-bar",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "tay-ho",
+      "address": "440 Đường Hoàng Hoa Thám",
+      "lat": 21.03104,
+      "lng": 105.785194
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "5d4d1776-6360-4b5f-b60d-013d67e36647",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-eeb2f5cd-c896-41",
+    "slug": "skyjuice-sinh-to-nuoc-ep-hoa-qua-dam-nuoc-mia-trai-5a7241",
+    "name": "Skyjuice Sinh tố Nước ép Hoa quả dầm Nước mía trái cây",
+    "category": "cafe",
+    "subCategory": "smoothie-juice-bar",
+    "tags": [],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hai-ba-trung",
+      "address": "25 Phố Lạc Trung",
+      "lat": 21.002895,
+      "lng": 105.864769
+    },
+    "images": [],
+    "popularity": 45,
+    "source": "overture",
+    "sourceId": "eeb2f5cd-c896-4171-a4a7-c855b0e1dcb7",
     "status": "active",
     "updatedAt": "2026-09-13"
   }

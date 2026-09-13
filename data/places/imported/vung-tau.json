@@ -7373,6 +7373,69 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-a8ca0e70-9e18-4d",
+    "slug": "chan-ga-nuong-5c484d",
+    "name": "Chân Gà Nướng",
+    "category": "food",
+    "subCategory": "fast-food-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "Ngã Tư Đồ Chiểu - Lý Thường Kiệt",
+      "lat": 10.34907,
+      "lng": 107.077003
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "a8ca0e70-9e18-4d5a-a144-82fa888b82e9",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f16cb86a-6b47-44",
+    "slug": "ga-nuong-o-o-o-vung-tau-99705c",
+    "name": "Gà nướng Ò Ó O-Vũng Tàu",
+    "category": "food",
+    "subCategory": "chicken-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "Đường 30 tháng 4",
+      "lat": 10.405313,
+      "lng": 107.132286
+    },
+    "images": [],
+    "popularity": 52,
+    "source": "overture",
+    "sourceId": "f16cb86a-6b47-445d-b12a-f706301bf3d6",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-1188b3a5-e56b-47",
+    "slug": "ga-nuong-quoc-tuan-2c6d61",
+    "name": "Gà Nướng Quốc Tuấn",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "22 Mai Thúc Loan",
+      "lat": 10.396375,
+      "lng": 107.105957
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "1188b3a5-e56b-47b9-9fd7-35e54b86d597",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-e04cf671-95bf-4c",
     "slug": "che-obai-che-thai-kem-dua-fa1ba9",
     "name": "Chè Ơbai- Chè Thái kem dừa",
@@ -7476,6 +7539,52 @@
     "popularity": 48,
     "source": "overture",
     "sourceId": "6231a030-7160-4c84-b370-6682016488e8",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-104e7c35-e446-4e",
+    "slug": "quan-minh-nuoc-ep-rau-cu-qua-autongon-9k-ngo-duc-k-5686cf",
+    "name": "QUÁN MÌNH - Nước ép rau củ quả AutoNgon, 9K Ngô Đức Kế",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "9k Đường Ngô Đức Kế",
+      "lat": 10.362529,
+      "lng": 107.080093
+    },
+    "images": [],
+    "popularity": 76,
+    "source": "overture",
+    "sourceId": "104e7c35-e446-4e36-8315-0c74e3036ee3",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-95cbffbe-97eb-4d",
+    "slug": "bang-lang-tim-coffee-sinh-to-nuoc-ep-dc2822",
+    "name": "Bằng Lăng Tím: Coffee - Sinh tố - Nước ép",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "36 Đường Trần Phú",
+      "lat": 10.353851,
+      "lng": 107.06311
+    },
+    "images": [],
+    "popularity": 49,
+    "source": "overture",
+    "sourceId": "95cbffbe-97eb-4d1c-850d-6342d6e13ab5",
     "status": "active",
     "updatedAt": "2026-09-13"
   }

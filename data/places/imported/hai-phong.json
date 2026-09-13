@@ -10148,6 +10148,69 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-7a49f252-fad0-44",
+    "slug": "ga-u-muoi-trang-myt-87fedb",
+    "name": "Gà Ủ Muối - TRANG MYT",
+    "category": "food",
+    "subCategory": "chicken-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "52 P. Tô Hiệu",
+      "lat": 20.852009,
+      "lng": 106.684509
+    },
+    "images": [],
+    "popularity": 79,
+    "source": "overture",
+    "sourceId": "7a49f252-fad0-448b-960a-d017406f5c35",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7a5b885a-0891-4b",
+    "slug": "chan-ga-nuong-dung-tay-5-241-lach-tray-0987260212-bb8486",
+    "name": "Chân Gà Nướng Dũng Tây 5/241 Lạch Tray 0987260212",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "ngo-quyen",
+      "address": "81 Phố Vũ Trọng Khánh",
+      "lat": 20.8335,
+      "lng": 106.698448
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "7a5b885a-0891-4bed-9dfb-4fc2c1673e80",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5f45a5ba-528d-49",
+    "slug": "ga-nuong-chicken-58-fb430e",
+    "name": "Gà nướng CHICKEN 58",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "58 P. Nguyễn Đức Cảnh",
+      "lat": 20.854908,
+      "lng": 106.676758
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "5f45a5ba-528d-4943-bbd9-6300ec7b56df",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-6a00f4e5-59a3-4f",
     "slug": "huong-che-cat-dai-9dbcf6",
     "name": "Hường Chè Cát Dài",
@@ -10230,6 +10293,115 @@
     "popularity": 61,
     "source": "overture",
     "sourceId": "a6d7d2e6-902c-4571-a711-6641847f5e47",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-773127a2-084b-47",
+    "slug": "ht8-fruit-juice-d86455",
+    "name": "HT8 - Fruit & Juice",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "173 Phố Hai Bà Trưng",
+      "lat": 20.852448,
+      "lng": 106.677383
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "773127a2-084b-477e-a7ba-e6ac8dc3b573",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-3d5323de-2b9b-43",
+    "slug": "dynamic-juice-e8cbc8",
+    "name": "Dynamic Juice",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "74 P. Lý Thường Kiệt",
+      "lat": 20.859753,
+      "lng": 106.679474
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "3d5323de-2b9b-4373-ab7c-220102a9b8b2",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-d90d69b8-df1e-4c",
+    "slug": "the-1993-coffee-juice-0e137a",
+    "name": "The 1993 Coffee & Juice",
+    "category": "cafe",
+    "subCategory": "cafe",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "16 Minh Khai",
+      "lat": 20.862392,
+      "lng": 106.684914
+    },
+    "images": [],
+    "popularity": 47,
+    "source": "overture",
+    "sourceId": "d90d69b8-df1e-4cce-aaf8-bd1c7ab58945",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-49e13e0c-d136-47",
+    "slug": "hoa-qua-dam-hoa-beo-89-duong-hung-vuong-doi-dien-b-f73bb1",
+    "name": "Hoa quả dầm Hoa Béo - 89 Đường Hùng Vương Đối diện bến xe Thượng Lý",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "số 89 sở dầu - đối diện bến xe Thượng Lý",
+      "lat": 20.861002,
+      "lng": 106.69191
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "49e13e0c-d136-4738-acf5-78ce6f8512a1",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-153e4f09-3d43-4f",
+    "slug": "hoa-qua-dam-linh-beo-1497a6",
+    "name": "Hoa Quả Dầm Linh Béo",
+    "category": "food",
+    "subCategory": "vietnamese-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "Số 8 đội văn trại chuối hồng bàng hải phòng ",
+      "lat": 20.855478,
+      "lng": 106.665207
+    },
+    "images": [],
+    "popularity": 49,
+    "source": "overture",
+    "sourceId": "153e4f09-3d43-4ff9-b120-a410d3a995ed",
     "status": "active",
     "updatedAt": "2026-09-13"
   }

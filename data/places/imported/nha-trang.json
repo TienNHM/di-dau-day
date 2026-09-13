@@ -7572,6 +7572,156 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-aa4dd48d-af3e-45",
+    "slug": "bun-thit-nuong-gai-map-145779",
+    "name": "Bún Thịt Nướng GÁI MẬP",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "259 Võ Thị Sáu",
+      "lat": 12.201458,
+      "lng": 109.202141
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "aa4dd48d-af3e-452e-af49-e6af903649d0",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c6a7a635-d47a-4a",
+    "slug": "chan-ga-nuong-co-hien-76cdbe",
+    "name": "Chân gà nướng Cô Hiền",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "Đối diện Khách sạn, 203, Đ. Nguyễn Bỉnh Khiêm/378 Trần Phú",
+      "lat": 12.257043,
+      "lng": 109.197182
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "c6a7a635-d47a-4a37-b23e-bf29c2c2bd86",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b1289994-6282-45",
+    "slug": "ga-nuong-ht-228-ed44e2",
+    "name": "Gà Nướng HT 228",
+    "category": "food",
+    "subCategory": "soup-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "386 Số 28",
+      "lat": 12.21419,
+      "lng": 109.184006
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "b1289994-6282-45b8-a803-fede7d5c47b0",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-16d51d9c-cc86-43",
+    "slug": "a-minh-ga-nuong-de7829",
+    "name": "A Minh Gà Nướng",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "9a Đ. Trần Văn Ơn",
+      "lat": 12.248478,
+      "lng": 109.19326
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "16d51d9c-cc86-43c4-a4c6-de5640789b4f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-d8d2ea83-b134-40",
+    "slug": "ga-nuong-com-lam-banh-bao-thien-phuc-9d42ea",
+    "name": "Gà Nướng Cơm Lam Bánh Bao Thiên Phúc",
+    "category": "food",
+    "subCategory": "chicken-restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "80 Tố Hữu",
+      "lat": 12.242146,
+      "lng": 109.179344
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "d8d2ea83-b134-4017-8741-4bc308bca5b9",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b57117ff-caaa-4a",
+    "slug": "ga-u-muoi-co-ba-165e6b",
+    "name": "Gà Ủ Muối Cô Ba",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "1162 Lê Hồng Phong",
+      "lat": 12.215663,
+      "lng": 109.190819
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "b57117ff-caaa-4a08-b0fe-9fcc3d8bf262",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-79d338ca-239b-4f",
+    "slug": "vit-lon-nguyen-trai-8995a9",
+    "name": "Vịt lộn Nguyễn Trãi",
+    "category": "entertainment",
+    "subCategory": "pub",
+    "tags": [
+      "trong-nha",
+      "mo-khuya"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "110 Nguyễn Trãi",
+      "lat": 12.24349,
+      "lng": 109.186699
+    },
+    "images": [],
+    "popularity": 67,
+    "source": "overture",
+    "sourceId": "79d338ca-239b-4fa9-89ac-446736c3d07d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-45bab7a9-9569-4e",
     "slug": "icepan-nha-trang-76d6b7",
     "name": "Icepan Nha Trang",
@@ -7719,6 +7869,119 @@
     "popularity": 60,
     "source": "overture",
     "sourceId": "27bfcab6-5dce-4e11-b317-6f083eb1b292",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5b241fc3-dd85-4e",
+    "slug": "wood-house-coffee-juice-864990",
+    "name": "Wood House Coffee & Juice",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "2 Thủy Xương",
+      "lat": 12.252574,
+      "lng": 109.177254
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "5b241fc3-dd85-4e9e-8afb-421d13464803",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-895db366-57ff-49",
+    "slug": "tra-sua-nuoc-ep-trai-cay-yummy-a92339",
+    "name": "Trà Sữa Nước Ép Trái Cây Yummy",
+    "category": "food",
+    "subCategory": "restaurant",
+    "tags": [],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "33 Đ. 2/4",
+      "lat": 12.256436,
+      "lng": 109.186264
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "895db366-57ff-4914-b2fc-2ec36a9ce69b",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-cf8411dd-3ec0-49",
+    "slug": "deli-juice-230308",
+    "name": "Deli Juice",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "4 Phạm Văn Đồng",
+      "lat": 12.266005,
+      "lng": 109.202827
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "cf8411dd-3ec0-4957-b1d9-192fe4af870f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-31099983-ce90-4f",
+    "slug": "mia-house-juice-coffee-83cf24",
+    "name": "Mia House Juice & Coffee",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "4 Đường Trần Bình Trọng",
+      "lat": 12.243655,
+      "lng": 109.189316
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "31099983-ce90-4fbf-97db-582a605bed46",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f5db94ba-b9af-41",
+    "slug": "green-coffee-and-juice-a6e332",
+    "name": "Green Coffee and Juice",
+    "category": "cafe",
+    "subCategory": "coffee-shop",
+    "tags": [
+      "chill"
+    ],
+    "location": {
+      "cityId": "nha-trang",
+      "districtId": "nha-trang",
+      "address": "11O CT3",
+      "lat": 12.257555,
+      "lng": 109.168266
+    },
+    "images": [],
+    "popularity": 56,
+    "source": "overture",
+    "sourceId": "f5db94ba-b9af-41c3-a504-9ade3db9b35b",
     "status": "active",
     "updatedAt": "2026-09-13"
   }
