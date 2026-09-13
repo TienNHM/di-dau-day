@@ -7,6 +7,7 @@ import { PageShell } from '@/components/ui/PageShell';
 import { SiteFooter } from '@/components/ui/SiteFooter';
 import { DishPlaces } from '@/components/dishes/DishPlaces';
 import { DISHES, getDish } from '@/lib/dishes/catalogue';
+import { dishPhoto } from '@/lib/dishes/photos';
 import { absoluteUrl, SITE_NAME } from '@/lib/site';
 
 /**
@@ -51,6 +52,7 @@ export default async function DishDetailPage({ params }: { params: Promise<{ slu
   const dish = getDish(slug);
   if (!dish) notFound();
 
+  const photo = dishPhoto(dish.id);
   const backPath = dish.kind === 'mon-an' ? '/mon-an' : '/do-uong';
   const backLabel = dish.kind === 'mon-an' ? 'Chọn món khác' : 'Chọn đồ uống khác';
 
@@ -81,6 +83,23 @@ export default async function DishDetailPage({ params }: { params: Promise<{ slu
                 'radial-gradient(120% 80% at 50% -10%, rgba(255,255,255,0.55), transparent 60%)',
             }}
           />
+          {/* A photograph when there is one, behind the gradient rather than instead
+              of it — the type has to stay readable and the card has to stay
+              recognisably the same object with or without an image. */}
+          {photo ? (
+            /* eslint-disable-next-line @next/next/no-img-element --
+               next/image needs a loader and an optimiser; this is a static export
+               with no server, and the file is already cut to exactly the size it is
+               displayed at. */
+            <img
+              src={photo.src}
+              alt={dish.name}
+              width={720}
+              height={480}
+              className="pointer-events-none absolute inset-0 size-full object-cover opacity-45 mix-blend-overlay"
+            />
+          ) : null}
+
           <div className="relative">
             <p className="text-xs font-semibold tracking-[0.22em] uppercase opacity-80">
               {dish.kind === 'mon-an' ? 'Tụi mình chọn món' : 'Tụi mình chọn đồ uống'}
@@ -121,6 +140,21 @@ export default async function DishDetailPage({ params }: { params: Promise<{ slu
           🎲 {backLabel}
         </Link>
       </main>
+
+      {photo ? (
+        <p className="text-center text-xs text-ink-faint">
+          Ảnh minh hoạ:{' '}
+          <a
+            href={photo.sourceUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline underline-offset-2 hover:text-ink"
+          >
+            {photo.author}
+          </a>{' '}
+          trên Pexels — không phải ảnh chụp tại quán.
+        </p>
+      ) : null}
 
       <SiteFooter />
     </PageShell>
