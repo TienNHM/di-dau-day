@@ -6,6 +6,18 @@
     "sourceUrl": "https://www.pexels.com/photo/gourmet-platter-with-empanadas-and-skewers-37180122/"
   },
   {
+    "dishId": "banh-canh",
+    "file": "banh-canh.jpg",
+    "author": "Khải Nguyễn Thanh",
+    "sourceUrl": "https://www.pexels.com/photo/delicious-vietnamese-noodle-soup-bowl-36769199/"
+  },
+  {
+    "dishId": "banh-cuon",
+    "file": "banh-cuon.jpg",
+    "author": "FOX ^.ᆽ.^= ∫",
+    "sourceUrl": "https://www.pexels.com/photo/food-in-a-styrofoam-box-13847417/"
+  },
+  {
     "dishId": "banh-mi",
     "file": "banh-mi.jpg",
     "author": "Hậu Mai",
@@ -100,6 +112,12 @@
     "file": "hai-san.jpg",
     "author": "Terje Sollie",
     "sourceUrl": "https://www.pexels.com/photo/bowl-of-mussels-and-shrimps-selective-focus-photography-566343/"
+  },
+  {
+    "dishId": "hu-tieu",
+    "file": "hu-tieu.jpg",
+    "author": "FOX ^.ᆽ.^= ∫",
+    "sourceUrl": "https://www.pexels.com/photo/delicious-asian-noodle-dish-with-toppings-29962612/"
   },
   {
     "dishId": "kem",
