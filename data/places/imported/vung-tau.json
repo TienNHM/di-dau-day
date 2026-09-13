@@ -4304,6 +4304,31 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-16e3cf31-9be4-4a",
+    "slug": "ruby-tower-vung-tau-564356",
+    "name": "Ruby Tower Vũng Tàu",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "3 Đường 3 Tháng 2",
+      "lat": 10.351713,
+      "lng": 107.094284
+    },
+    "images": [],
+    "popularity": 78,
+    "source": "overture",
+    "sourceId": "16e3cf31-9be4-4a28-926d-b22f15feae4b",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-ceeb9f2f-e870-4d",
     "slug": "chua-van-phuoc-tu-a4661c",
     "name": "Chùa Vạn Phước Tự",
@@ -4325,31 +4350,6 @@
     "popularity": 81,
     "source": "overture",
     "sourceId": "ceeb9f2f-e870-4da6-be44-c2a0d25b3777",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-97309670-66f8-48",
-    "slug": "can-ho-bien-oasky-mermaid-seaside-vung-tau-96636b",
-    "name": "Căn Hộ Biển Oasky & Mermaid Seaside Vũng Tàu",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "vung-tau",
-      "districtId": "vung-tau",
-      "address": "Lê Hồng Phong nối dài",
-      "lat": 10.34592,
-      "lng": 107.095551
-    },
-    "images": [],
-    "popularity": 79,
-    "source": "overture",
-    "sourceId": "97309670-66f8-4850-92f0-915ab9fbba91",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -4499,6 +4499,31 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-50470056-1fd5-42",
+    "slug": "vung-tau-plaza-4c3312",
+    "name": "Vung Tau Plaza",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "207 Lê Hồng Phong",
+      "lat": 10.351998,
+      "lng": 107.089249
+    },
+    "images": [],
+    "popularity": 75,
+    "source": "overture",
+    "sourceId": "50470056-1fd5-426c-a886-ff19d61af691",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-33d7c796-6abb-4c",
     "slug": "chua-ho-phap-019eb8",
     "name": "Chùa Hộ Pháp",
@@ -4520,31 +4545,6 @@
     "popularity": 70,
     "source": "overture",
     "sourceId": "33d7c796-6abb-4c08-923e-dca7aa5cfa29",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-1d224d19-7d9b-42",
-    "slug": "cung-homestay-82a8f6",
-    "name": "Cưng Homestay",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "vung-tau",
-      "districtId": "vung-tau",
-      "address": "2 Đường Lê Hồng Phong",
-      "lat": 10.349353,
-      "lng": 107.096069
-    },
-    "images": [],
-    "popularity": 79,
-    "source": "overture",
-    "sourceId": "1d224d19-7d9b-42fc-abea-c7ae8b4ab9c6",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -4621,6 +4621,31 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-8993aa61-65d7-41",
+    "slug": "khu-biet-thu-doi-su-tp-vung-tau-9fcb97",
+    "name": "Khu Biệt Thự Đồi Sứ - TP Vũng Tàu",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "12/6 Hẻm 12 Trần Phú",
+      "lat": 10.353597,
+      "lng": 107.065559
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "8993aa61-65d7-41cb-b948-2f33b9161f09",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-3a8886a0-0d78-4e",
     "slug": "chua-lien-tri-28f02e",
     "name": "Chua Lien Tri",
@@ -4642,31 +4667,6 @@
     "popularity": 78,
     "source": "overture",
     "sourceId": "3a8886a0-0d78-4e20-a8bd-81e22f340112",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-16e3cf31-9be4-4a",
-    "slug": "ruby-tower-vung-tau-564356",
-    "name": "Ruby Tower Vũng Tàu",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "vung-tau",
-      "districtId": "vung-tau",
-      "address": "3 Đường 3 Tháng 2",
-      "lat": 10.351713,
-      "lng": 107.094284
-    },
-    "images": [],
-    "popularity": 78,
-    "source": "overture",
-    "sourceId": "16e3cf31-9be4-4a28-926d-b22f15feae4b",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -4743,6 +4743,31 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-81ea8bef-5b0c-47",
+    "slug": "chung-cu-pvc-ic-3edd49",
+    "name": "Chung Cu Pvc-Ic",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "242 Nguyễn Hữu Cảnh",
+      "lat": 10.385215,
+      "lng": 107.108116
+    },
+    "images": [],
+    "popularity": 63,
+    "source": "overture",
+    "sourceId": "81ea8bef-5b0c-472b-9b30-97ea6199a5de",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-eab47126-1bb6-44",
     "slug": "chua-tam-bao-vung-tau-192743",
     "name": "Chùa Tam Bảo Vũng Tàu",
@@ -4764,31 +4789,6 @@
     "popularity": 62,
     "source": "overture",
     "sourceId": "eab47126-1bb6-44a9-b4f1-6f1f5c50489c",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-72d30400-9a83-4d",
-    "slug": "chung-cu-binh-an-9b36e2",
-    "name": "Chung Cư Bình An",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "vung-tau",
-      "districtId": "vung-tau",
-      "address": "Chung cư Bình An - Hodeco, 784 Bình Giã",
-      "lat": 10.392678,
-      "lng": 107.119133
-    },
-    "images": [],
-    "popularity": 77,
-    "source": "overture",
-    "sourceId": "72d30400-9a83-4d4e-8085-20776f2bca5e",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -4865,6 +4865,31 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-199a5ead-f0f7-4a",
+    "slug": "the-uji-vibes-0a738d",
+    "name": "The Uji Vibes",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "Chu Văn An",
+      "lat": 10.334544,
+      "lng": 107.087646
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "199a5ead-f0f7-4a67-a142-044a972703b6",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-ebf88dab-2f2f-49",
     "slug": "chua-linh-son-co-tu-phu-my-ba-ria-vung-tau-264d8b",
     "name": "Chùa Linh Sơn Cổ Tự - Phú Mỹ - Bà Rịa Vũng Tàu",
@@ -4886,31 +4911,6 @@
     "popularity": 77,
     "source": "overture",
     "sourceId": "ebf88dab-2f2f-4954-af0d-61342f86b731",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-30fd5e9a-c6a6-48",
-    "slug": "grand-villa-residence-edeb52",
-    "name": "Grand Villa Residence",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "vung-tau",
-      "districtId": "vung-tau",
-      "address": "196 Nguyễn An Ninh",
-      "lat": 10.369308,
-      "lng": 107.081894
-    },
-    "images": [],
-    "popularity": 76,
-    "source": "overture",
-    "sourceId": "30fd5e9a-c6a6-48bf-b985-b1324b868f9e",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -4987,6 +4987,31 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-857e21cb-2f18-45",
+    "slug": "gian-phoi-vung-tau-cua-luoi-chong-muoi-4c06ae",
+    "name": "Giàn phơi Vũng Tàu - Cửa lưới chống muỗi",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "462 Bình Giã Phường Tam thắng",
+      "lat": 10.378588,
+      "lng": 107.111649
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "857e21cb-2f18-458c-a30d-a4602a476eba",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-6ed11ce7-b3cc-4a",
     "slug": "tinh-xa-ngoc-duc-188d9a",
     "name": "Tịnh Xá Ngọc Đức",
@@ -5012,31 +5037,6 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-58c12b5d-0130-45",
-    "slug": "can-ho-mermaid-seaview-vung-tau-90c140",
-    "name": "Căn hộ Mermaid Seaview Vũng Tàu",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "vung-tau",
-      "districtId": "vung-tau",
-      "address": "164 Đường Trần Phú",
-      "lat": 10.37109,
-      "lng": 107.059059
-    },
-    "images": [],
-    "popularity": 65,
-    "source": "overture",
-    "sourceId": "58c12b5d-0130-4515-9daa-da05065aff6f",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
     "id": "ovt-39e8c6fb-60c6-46",
     "slug": "thap-tam-thang-vung-tau-dd3c38",
     "name": "Tháp Tam Thắng - Vũng Tàu",
@@ -5057,6 +5057,31 @@
     "popularity": 56,
     "source": "overture",
     "sourceId": "39e8c6fb-60c6-46c8-984b-febae125f388",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5c5f78ec-6237-4b",
+    "slug": "khu-do-thi-chi-linh-vung-tau-c8fb19",
+    "name": "Khu Đô Thị Chí Linh Vũng Tàu",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "vung-tau",
+      "districtId": "vung-tau",
+      "address": "Nguyễn Hữu Cảnh",
+      "lat": 10.378889,
+      "lng": 107.111794
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "5c5f78ec-6237-4be8-bb41-bf1a1090293c",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -5086,9 +5111,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-50470056-1fd5-42",
-    "slug": "vung-tau-plaza-4c3312",
-    "name": "Vung Tau Plaza",
+    "id": "ovt-61c708d9-ca18-42",
+    "slug": "diamond-sea-vung-tau-f2b897",
+    "name": "Diamond Sea Vung Tau",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -5099,14 +5124,14 @@
     "location": {
       "cityId": "vung-tau",
       "districtId": "vung-tau",
-      "address": "207 Lê Hồng Phong",
-      "lat": 10.351998,
-      "lng": 107.089249
+      "address": "33A Đường 30/4 Thành Phố Vũng Tàu",
+      "lat": 10.353688,
+      "lng": 107.063339
     },
     "images": [],
-    "popularity": 75,
+    "popularity": 70,
     "source": "overture",
-    "sourceId": "50470056-1fd5-426c-a886-ff19d61af691",
+    "sourceId": "61c708d9-ca18-4286-bdb5-997f4dadaf3a",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -5136,9 +5161,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-6b2b3984-f0da-4e",
-    "slug": "osc-land-apartment-building-97c2c3",
-    "name": "OSC Land Apartment Building",
+    "id": "ovt-5f98bf80-371f-4e",
+    "slug": "saigonres-tower-7904d3",
+    "name": "Saigonres Tower",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -5149,14 +5174,14 @@
     "location": {
       "cityId": "vung-tau",
       "districtId": "vung-tau",
-      "address": "110 Võ Thị Sáu",
-      "lat": 10.34117,
-      "lng": 107.089317
+      "address": "406 Lê Hồng Phong",
+      "lat": 10.351723,
+      "lng": 107.088173
     },
     "images": [],
-    "popularity": 75,
+    "popularity": 68,
     "source": "overture",
-    "sourceId": "6b2b3984-f0da-4e01-aec2-0f3a2b4814fe",
+    "sourceId": "5f98bf80-371f-4e76-a5a2-9c52ee58ddcf",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -5186,9 +5211,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-693268d7-2877-44",
-    "slug": "chung-cu-vung-tau-center-35b17c",
-    "name": "Chung Cư Vũng Tàu CenTer",
+    "id": "ovt-3b918432-9b5b-46",
+    "slug": "dien-lanh-vung-tau-no-1-2cc72a",
+    "name": "Điện lạnh Vũng Tàu No.1",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -5199,14 +5224,14 @@
     "location": {
       "cityId": "vung-tau",
       "districtId": "vung-tau",
-      "address": "91 Đường Lê Lợi",
-      "lat": 10.361799,
-      "lng": 107.074898
+      "address": "22A Đường Lê Phụng Hiểu",
+      "lat": 10.334044,
+      "lng": 107.089691
     },
     "images": [],
-    "popularity": 75,
+    "popularity": 67,
     "source": "overture",
-    "sourceId": "693268d7-2877-44ab-aaba-024b414ee532",
+    "sourceId": "3b918432-9b5b-46f1-bc2e-edca9bc5013a",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -5236,9 +5261,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-50bfd077-c186-44",
-    "slug": "chung-cu-cao-cap-vung-tau-centre-point-c7d698",
-    "name": "Chung Cư Cao Cấp Vung Tau Centre Point",
+    "id": "ovt-8ca2c0ec-a3e8-4d",
+    "slug": "gateway-vung-tau-1071ec",
+    "name": "Gateway Vũng Tàu",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -5249,14 +5274,14 @@
     "location": {
       "cityId": "vung-tau",
       "districtId": "vung-tau",
-      "address": "Khu Đô Thị Chí Linh Vũng tàu",
-      "lat": 10.375837,
-      "lng": 107.112129
+      "address": "2 Hẻm 61/17 Nguyễn An Ninh",
+      "lat": 10.361486,
+      "lng": 107.086349
     },
     "images": [],
-    "popularity": 74,
+    "popularity": 66,
     "source": "overture",
-    "sourceId": "50bfd077-c186-4441-8dbc-cfcd9fede98f",
+    "sourceId": "8ca2c0ec-a3e8-4d90-a143-69af508f292b",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -5286,9 +5311,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-8341976e-5304-42",
-    "slug": "homestay-villa-vung-tau-0956aa",
-    "name": "Homestay - Villa Vũng Tàu",
+    "id": "ovt-d0781aa1-1cd8-4f",
+    "slug": "dic-phoenix-vung-tau-009649",
+    "name": "DIC Phoenix Vũng Tàu",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -5299,14 +5324,14 @@
     "location": {
       "cityId": "vung-tau",
       "districtId": "vung-tau",
-      "address": "19/4 Hẻm 19 Hồ Quý Ly",
-      "lat": 10.339064,
-      "lng": 107.09008
+      "address": "110 Block B, Dic Phoenix Tower,, Chi linh Area,, Nguyen An Ninh Ward,",
+      "lat": 10.375857,
+      "lng": 107.111191
     },
     "images": [],
-    "popularity": 64,
+    "popularity": 55,
     "source": "overture",
-    "sourceId": "8341976e-5304-42c2-aeaa-857c5c743ef0",
+    "sourceId": "d0781aa1-1cd8-4f94-b73b-f67eccbd6757",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -5336,9 +5361,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-4cf1390f-aaa6-40",
-    "slug": "chung-cu-15-tang-90a9ed",
-    "name": "Chung Cư 15 Tầng",
+    "id": "ovt-00995b00-4b9f-4f",
+    "slug": "bai-phao-co-f713e1",
+    "name": "Bãi Pháo Cổ",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -5349,14 +5374,14 @@
     "location": {
       "cityId": "vung-tau",
       "districtId": "vung-tau",
-      "address": "Đường Ngô Đức Kế",
-      "lat": 10.367033,
-      "lng": 107.083771
+      "address": "Hẻm 444",
+      "lat": 10.380712,
+      "lng": 107.060417
     },
     "images": [],
-    "popularity": 64,
+    "popularity": 49,
     "source": "overture",
-    "sourceId": "4cf1390f-aaa6-4066-81a5-9346c521a14c",
+    "sourceId": "00995b00-4b9f-4fb2-9a62-10d04ccf73b5",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -5386,9 +5411,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-8993aa61-65d7-41",
-    "slug": "khu-biet-thu-doi-su-tp-vung-tau-9fcb97",
-    "name": "Khu Biệt Thự Đồi Sứ - TP Vũng Tàu",
+    "id": "ovt-e910e0bb-670b-4b",
+    "slug": "thap-tam-thang-80b1e0",
+    "name": "Tháp Tam Thắng",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -5399,21 +5424,21 @@
     "location": {
       "cityId": "vung-tau",
       "districtId": "vung-tau",
-      "address": "12/6 Hẻm 12 Trần Phú",
-      "lat": 10.353597,
-      "lng": 107.065559
+      "address": "THÁP TAM THẮNG, Bãi Sau, Vũng Tàu",
+      "lat": 10.334492,
+      "lng": 107.090912
     },
     "images": [],
     "popularity": 58,
     "source": "overture",
-    "sourceId": "8993aa61-65d7-41cb-b948-2f33b9161f09",
+    "sourceId": "e910e0bb-670b-4bc3-b19f-d369cf8bdd80",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-81ea8bef-5b0c-47",
-    "slug": "chung-cu-pvc-ic-3edd49",
-    "name": "Chung Cu Pvc-Ic",
+    "id": "ovt-bd1d1ba9-7731-4f",
+    "slug": "the-emerald-boulevard-f76a66",
+    "name": "The Emerald Boulevard",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -5424,14 +5449,14 @@
     "location": {
       "cityId": "vung-tau",
       "districtId": "vung-tau",
-      "address": "242 Nguyễn Hữu Cảnh",
-      "lat": 10.385215,
-      "lng": 107.108116
+      "address": "9 Đường Nguyễn An Ninh",
+      "lat": 10.37035,
+      "lng": 107.076958
     },
     "images": [],
-    "popularity": 63,
+    "popularity": 62,
     "source": "overture",
-    "sourceId": "81ea8bef-5b0c-472b-9b30-97ea6199a5de",
+    "sourceId": "bd1d1ba9-7731-4fed-9a55-feb9ae4a3f60",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -5461,9 +5486,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-dbdb129b-a5d8-48",
-    "slug": "chung-cu-lakeside-a2-9bd320",
-    "name": "Chung Cư Lakeside A2",
+    "id": "ovt-dc113159-f412-4e",
+    "slug": "blanca-city-by-sun-group-1aa125",
+    "name": "Blanca City By Sun Group",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -5474,39 +5499,14 @@
     "location": {
       "cityId": "vung-tau",
       "districtId": "vung-tau",
-      "address": "Lakeside Apartment - Block C, A1 Nguyễn Hữu Cảnh",
-      "lat": 10.377563,
-      "lng": 107.109787
+      "address": "3/2 Phường 11 , Thành Phố Vũng Tàu",
+      "lat": 10.396668,
+      "lng": 107.133797
     },
     "images": [],
-    "popularity": 62,
+    "popularity": 61,
     "source": "overture",
-    "sourceId": "dbdb129b-a5d8-487d-9079-efbc75aa3d74",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-e927a229-63b8-4d",
-    "slug": "chua-quang-minh-d4803c",
-    "name": "Chùa Quang Minh",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "vung-tau",
-      "districtId": "vung-tau",
-      "address": "2 Đường Hải Đăng",
-      "lat": 10.33482,
-      "lng": 107.073105
-    },
-    "images": [],
-    "popularity": 56,
-    "source": "overture",
-    "sourceId": "e927a229-63b8-4deb-b8c5-24cbac8d767b",
+    "sourceId": "dc113159-f412-4eb2-a3fb-47a3ad8224ce",
     "status": "active",
     "updatedAt": "2026-09-13"
   },

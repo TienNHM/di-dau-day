@@ -1310,249 +1310,6 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-bc867117-1cb7-46",
-    "slug": "trang-phuc-bieu-dien-n2-hai-phong-7e8957",
-    "name": "Trang phục biểu diễn N2 Hải Phòng",
-    "category": "outdoor",
-    "subCategory": "art-museum",
-    "tags": [
-      "ngoai-troi"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "Số nhà 34 . Khu phố 3.",
-      "lat": 20.85331,
-      "lng": 106.682457
-    },
-    "images": [],
-    "popularity": 68,
-    "source": "overture",
-    "sourceId": "bc867117-1cb7-4642-bfec-aa7e9597c6f1",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-a8631b43-58da-4f",
-    "slug": "trung-tam-trien-luan-va-my-thuat-thanh-pho-dc97d8",
-    "name": "Trung Tam Trien Luan Va My Thuat Thanh Pho",
-    "category": "outdoor",
-    "subCategory": "art-gallery",
-    "tags": [
-      "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "P. Quang Trung",
-      "lat": 20.855881,
-      "lng": 106.679031
-    },
-    "images": [],
-    "popularity": 61,
-    "source": "overture",
-    "sourceId": "a8631b43-58da-4f98-bf94-6bcf51b5ef4d",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-32e46585-6d5b-43",
-    "slug": "duy-khiem-gallery-80226e",
-    "name": "Duy Khiêm Gallery",
-    "category": "outdoor",
-    "subCategory": "art-gallery",
-    "tags": [
-      "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "267 Phố Tô Hiệu",
-      "lat": 20.850199,
-      "lng": 106.676514
-    },
-    "images": [],
-    "popularity": 48,
-    "source": "overture",
-    "sourceId": "32e46585-6d5b-43c2-8663-96dad330bd7c",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-db3b8bb2-177e-47",
-    "slug": "hoa-hoe-garden-sen-da-hai-phong-f6c057",
-    "name": "Hoa Hoe Garden. Sen đá Hải Phòng",
-    "category": "outdoor",
-    "subCategory": "park",
-    "tags": [
-      "ngoai-troi",
-      "cay-xanh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "25/73/229 miếu hai xã",
-      "lat": 20.838327,
-      "lng": 106.68663
-    },
-    "images": [],
-    "popularity": 65,
-    "source": "overture",
-    "sourceId": "db3b8bb2-177e-47d6-8be3-712c73001e30",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-10aa33f5-4322-42",
-    "slug": "dem-hoi-intex-hai-phong-106845",
-    "name": "Đệm hơi INTEX Hải Phòng",
-    "category": "outdoor",
-    "subCategory": "cave",
-    "tags": [
-      "ngoai-troi"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "16 Đường Nguyễn Văn Linh",
-      "lat": 20.839504,
-      "lng": 106.691734
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "10aa33f5-4322-4241-a8dc-f619bc7855ec",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-9ec710c4-bb2f-44",
-    "slug": "cong-vien-tam-bac-c4c644",
-    "name": "Công Viên Tam Bạc",
-    "category": "outdoor",
-    "subCategory": "park",
-    "tags": [
-      "ngoai-troi",
-      "cay-xanh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "Cầu Tam Bạc",
-      "lat": 20.854334,
-      "lng": 106.669197
-    },
-    "images": [],
-    "popularity": 56,
-    "source": "overture",
-    "sourceId": "9ec710c4-bb2f-4495-954a-9987293874d8",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-7c033a55-5ffb-41",
-    "slug": "chua-ven-e3cba5",
-    "name": "Chua Ven",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "244 P. Tô Hiệu",
-      "lat": 20.85067,
-      "lng": 106.677559
-    },
-    "images": [],
-    "popularity": 69,
-    "source": "overture",
-    "sourceId": "7c033a55-5ffb-41d8-b576-e00aaedf6711",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-655e0d8d-fc29-4d",
-    "slug": "victory-hotel-and-apartment-684efc",
-    "name": "Victory Hotel and Apartment",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "119 P. Nguyễn Đức Cảnh",
-      "lat": 20.854259,
-      "lng": 106.672966
-    },
-    "images": [],
-    "popularity": 84,
-    "source": "overture",
-    "sourceId": "655e0d8d-fc29-4d93-aa23-c8d7a04794bf",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-99ce643b-1c4b-48",
-    "slug": "tranh-son-dau-duy-khiem-9990f0",
-    "name": "Tranh Sơn Dầu Duy Khiêm",
-    "category": "outdoor",
-    "subCategory": "art-gallery",
-    "tags": [
-      "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "5 P. Mê Linh",
-      "lat": 20.855583,
-      "lng": 106.681084
-    },
-    "images": [],
-    "popularity": 48,
-    "source": "overture",
-    "sourceId": "99ce643b-1c4b-4810-83ad-f6792ec42104",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-ec31a89b-a8e3-4a",
-    "slug": "khu-vui-choi-khanh-vy-an-trang-931776",
-    "name": "Khu Vui Chơi Khánh Vy - An Trang",
-    "category": "outdoor",
-    "subCategory": "park",
-    "tags": [
-      "ngoai-troi",
-      "cay-xanh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "le-chan",
-      "address": "Đường A4",
-      "lat": 20.847429,
-      "lng": 106.658409
-    },
-    "images": [],
-    "popularity": 47,
-    "source": "overture",
-    "sourceId": "ec31a89b-a8e3-4a69-8a92-5973ebb8529b",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
     "id": "ovt-c552f9f0-f3c8-42",
     "slug": "halloween-chicken-thuy-nguyen-163ecd",
     "name": "Halloween Chicken Thuỷ Nguyên",
@@ -5068,6 +4825,249 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-bc867117-1cb7-46",
+    "slug": "trang-phuc-bieu-dien-n2-hai-phong-7e8957",
+    "name": "Trang phục biểu diễn N2 Hải Phòng",
+    "category": "outdoor",
+    "subCategory": "art-museum",
+    "tags": [
+      "ngoai-troi"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "Số nhà 34 . Khu phố 3.",
+      "lat": 20.85331,
+      "lng": 106.682457
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "bc867117-1cb7-4642-bfec-aa7e9597c6f1",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a8631b43-58da-4f",
+    "slug": "trung-tam-trien-luan-va-my-thuat-thanh-pho-dc97d8",
+    "name": "Trung Tam Trien Luan Va My Thuat Thanh Pho",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "P. Quang Trung",
+      "lat": 20.855881,
+      "lng": 106.679031
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "a8631b43-58da-4f98-bf94-6bcf51b5ef4d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-32e46585-6d5b-43",
+    "slug": "duy-khiem-gallery-80226e",
+    "name": "Duy Khiêm Gallery",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "267 Phố Tô Hiệu",
+      "lat": 20.850199,
+      "lng": 106.676514
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "32e46585-6d5b-43c2-8663-96dad330bd7c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-db3b8bb2-177e-47",
+    "slug": "hoa-hoe-garden-sen-da-hai-phong-f6c057",
+    "name": "Hoa Hoe Garden. Sen đá Hải Phòng",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "25/73/229 miếu hai xã",
+      "lat": 20.838327,
+      "lng": 106.68663
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "db3b8bb2-177e-47d6-8be3-712c73001e30",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-10aa33f5-4322-42",
+    "slug": "dem-hoi-intex-hai-phong-106845",
+    "name": "Đệm hơi INTEX Hải Phòng",
+    "category": "outdoor",
+    "subCategory": "cave",
+    "tags": [
+      "ngoai-troi"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "16 Đường Nguyễn Văn Linh",
+      "lat": 20.839504,
+      "lng": 106.691734
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "10aa33f5-4322-4241-a8dc-f619bc7855ec",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-9ec710c4-bb2f-44",
+    "slug": "cong-vien-tam-bac-c4c644",
+    "name": "Công Viên Tam Bạc",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "Cầu Tam Bạc",
+      "lat": 20.854334,
+      "lng": 106.669197
+    },
+    "images": [],
+    "popularity": 56,
+    "source": "overture",
+    "sourceId": "9ec710c4-bb2f-4495-954a-9987293874d8",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7c033a55-5ffb-41",
+    "slug": "chua-ven-e3cba5",
+    "name": "Chua Ven",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "244 P. Tô Hiệu",
+      "lat": 20.85067,
+      "lng": 106.677559
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "7c033a55-5ffb-41d8-b576-e00aaedf6711",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a7a90111-d692-4b",
+    "slug": "den-nghe-le-chan-hai-phong-091243",
+    "name": "Đền Nghè - Lê Chân - Hải Phòng",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "59 Phố Mê Linh",
+      "lat": 20.854601,
+      "lng": 106.680351
+    },
+    "images": [],
+    "popularity": 76,
+    "source": "overture",
+    "sourceId": "a7a90111-d692-4b66-989c-443542387c82",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-99ce643b-1c4b-48",
+    "slug": "tranh-son-dau-duy-khiem-9990f0",
+    "name": "Tranh Sơn Dầu Duy Khiêm",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "5 P. Mê Linh",
+      "lat": 20.855583,
+      "lng": 106.681084
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "99ce643b-1c4b-4810-83ad-f6792ec42104",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ec31a89b-a8e3-4a",
+    "slug": "khu-vui-choi-khanh-vy-an-trang-931776",
+    "name": "Khu Vui Chơi Khánh Vy - An Trang",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "le-chan",
+      "address": "Đường A4",
+      "lat": 20.847429,
+      "lng": 106.658409
+    },
+    "images": [],
+    "popularity": 47,
+    "source": "overture",
+    "sourceId": "ec31a89b-a8e3-4a69-8a92-5973ebb8529b",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-52c40617-b9f2-43",
     "slug": "nha-sach-trung-tam-5a7f02",
     "name": "Nhà sách trung tâm",
@@ -5295,253 +5295,6 @@
     "popularity": 75,
     "source": "overture",
     "sourceId": "425f2dce-02d3-4257-929c-7ac8a1e2e738",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-73813029-ae4b-4f",
-    "slug": "cong-vien-hong-bang-hai-phong-d5490c",
-    "name": "Công Viên Hồng Bàng Hải Phòng",
-    "category": "outdoor",
-    "subCategory": "park",
-    "tags": [
-      "ngoai-troi",
-      "cay-xanh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "Phố Trần Hưng Đạo",
-      "lat": 20.859182,
-      "lng": 106.685951
-    },
-    "images": [],
-    "popularity": 41,
-    "source": "overture",
-    "sourceId": "73813029-ae4b-4fe4-b0fa-867ebb93e4b2",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-5b28e621-d6e2-40",
-    "slug": "trung-tam-nghe-thuat-au-co-8e4fba",
-    "name": "Trung Tâm Nghệ Thuật Âu Cơ",
-    "category": "outdoor",
-    "subCategory": "art-gallery",
-    "tags": [
-      "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "105 P. Đinh Tiên Hoàng",
-      "lat": 20.858114,
-      "lng": 106.682236
-    },
-    "images": [],
-    "popularity": 68,
-    "source": "overture",
-    "sourceId": "5b28e621-d6e2-40be-bbda-01433baf6e56",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-f306f3ff-9ac1-48",
-    "slug": "vien-bao-tang-thanh-pho-hai-phong-c1ded2",
-    "name": "Viện Bảo Tàng Thành Phố Hải Phòng",
-    "category": "outdoor",
-    "subCategory": "community-museum",
-    "tags": [
-      "ngoai-troi"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "PHỐ Điện Biên Phủ",
-      "lat": 20.861799,
-      "lng": 106.682648
-    },
-    "images": [],
-    "popularity": 65,
-    "source": "overture",
-    "sourceId": "f306f3ff-9ac1-4857-8d7e-d4f605a9f538",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-ce5e6eb5-bb19-4f",
-    "slug": "hilton-hai-phong-luxury-apartment-65f64e",
-    "name": "Hilton Hải Phòng Luxury Apartment",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "14 Phố Trần Quang Khải",
-      "lat": 20.860937,
-      "lng": 106.684906
-    },
-    "images": [],
-    "popularity": 81,
-    "source": "overture",
-    "sourceId": "ce5e6eb5-bb19-4f83-81aa-1722d7fb2d19",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-451fa3ec-4420-40",
-    "slug": "nha-tho-lon-hai-phong-dfcaa5",
-    "name": "Nhà Thờ Lớn Hải Phòng",
-    "category": "outdoor",
-    "subCategory": "church-cathedral",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "46 Phố Hoàng Văn Thụ",
-      "lat": 20.860718,
-      "lng": 106.680656
-    },
-    "images": [],
-    "popularity": 77,
-    "source": "overture",
-    "sourceId": "451fa3ec-4420-40f4-9022-e2b8b7c4e1c8",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-df64ad3a-86f0-46",
-    "slug": "chung-cu-hera-hai-phong-e5db2c",
-    "name": "Chung cư Hera Hải Phòng",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "2 Đ. Hồng Bàng",
-      "lat": 20.864534,
-      "lng": 106.652298
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "df64ad3a-86f0-4690-8556-a8f0461af288",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-27147332-c284-45",
-    "slug": "den-co-bo-hai-phong-09a56c",
-    "name": "Đền Cô Bơ Hải Phòng",
-    "category": "outdoor",
-    "subCategory": "church-cathedral",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "16 P. Hạ Lý",
-      "lat": 20.861349,
-      "lng": 106.678009
-    },
-    "images": [],
-    "popularity": 66,
-    "source": "overture",
-    "sourceId": "27147332-c284-45f2-a684-718fc555bc35",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-6ba5ebf2-e049-41",
-    "slug": "can-ho-dang-cap-5-sao-brg-legend-hai-phong-970b85",
-    "name": "Căn Hộ Đẳng Cấp 5 Sao BRG Legend Hải Phòng",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "14 Phố Trần Quang Khải",
-      "lat": 20.860388,
-      "lng": 106.684547
-    },
-    "images": [],
-    "popularity": 62,
-    "source": "overture",
-    "sourceId": "6ba5ebf2-e049-41e8-9ca2-b76310ef4b00",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-2b31ddc6-5c0e-4d",
-    "slug": "chua-an-lac-a3d0ae",
-    "name": "Chùa An Lạc",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "Tôn Đức Thắng",
-      "lat": 20.86878,
-      "lng": 106.652473
-    },
-    "images": [],
-    "popularity": 58,
-    "source": "overture",
-    "sourceId": "2b31ddc6-5c0e-4d36-be35-a2e20a05c0a2",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-7f9cc17c-bdd4-42",
-    "slug": "rem-vinh-thu-3dec76",
-    "name": "Rèm Vinh Thu",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hong-bang",
-      "address": "5 Ngõ 1 Cù Chính Lan",
-      "lat": 20.865829,
-      "lng": 106.678238
-    },
-    "images": [],
-    "popularity": 51,
-    "source": "overture",
-    "sourceId": "7f9cc17c-bdd4-42a8-9336-8ccfc3b971de",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -5985,6 +5738,253 @@
     "popularity": 45,
     "source": "overture",
     "sourceId": "6701f579-fd2c-48ea-96b8-9d1b6e0d78e6",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-73813029-ae4b-4f",
+    "slug": "cong-vien-hong-bang-hai-phong-d5490c",
+    "name": "Công Viên Hồng Bàng Hải Phòng",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "Phố Trần Hưng Đạo",
+      "lat": 20.859182,
+      "lng": 106.685951
+    },
+    "images": [],
+    "popularity": 41,
+    "source": "overture",
+    "sourceId": "73813029-ae4b-4fe4-b0fa-867ebb93e4b2",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5b28e621-d6e2-40",
+    "slug": "trung-tam-nghe-thuat-au-co-8e4fba",
+    "name": "Trung Tâm Nghệ Thuật Âu Cơ",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "105 P. Đinh Tiên Hoàng",
+      "lat": 20.858114,
+      "lng": 106.682236
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "5b28e621-d6e2-40be-bbda-01433baf6e56",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f306f3ff-9ac1-48",
+    "slug": "vien-bao-tang-thanh-pho-hai-phong-c1ded2",
+    "name": "Viện Bảo Tàng Thành Phố Hải Phòng",
+    "category": "outdoor",
+    "subCategory": "community-museum",
+    "tags": [
+      "ngoai-troi"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "PHỐ Điện Biên Phủ",
+      "lat": 20.861799,
+      "lng": 106.682648
+    },
+    "images": [],
+    "popularity": 65,
+    "source": "overture",
+    "sourceId": "f306f3ff-9ac1-4857-8d7e-d4f605a9f538",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6ba5ebf2-e049-41",
+    "slug": "can-ho-dang-cap-5-sao-brg-legend-hai-phong-970b85",
+    "name": "Căn Hộ Đẳng Cấp 5 Sao BRG Legend Hải Phòng",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "14 Phố Trần Quang Khải",
+      "lat": 20.860388,
+      "lng": 106.684547
+    },
+    "images": [],
+    "popularity": 62,
+    "source": "overture",
+    "sourceId": "6ba5ebf2-e049-41e8-9ca2-b76310ef4b00",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-451fa3ec-4420-40",
+    "slug": "nha-tho-lon-hai-phong-dfcaa5",
+    "name": "Nhà Thờ Lớn Hải Phòng",
+    "category": "outdoor",
+    "subCategory": "church-cathedral",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "46 Phố Hoàng Văn Thụ",
+      "lat": 20.860718,
+      "lng": 106.680656
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "451fa3ec-4420-40f4-9022-e2b8b7c4e1c8",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-7f9cc17c-bdd4-42",
+    "slug": "rem-vinh-thu-3dec76",
+    "name": "Rèm Vinh Thu",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "5 Ngõ 1 Cù Chính Lan",
+      "lat": 20.865829,
+      "lng": 106.678238
+    },
+    "images": [],
+    "popularity": 51,
+    "source": "overture",
+    "sourceId": "7f9cc17c-bdd4-42a8-9336-8ccfc3b971de",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-27147332-c284-45",
+    "slug": "den-co-bo-hai-phong-09a56c",
+    "name": "Đền Cô Bơ Hải Phòng",
+    "category": "outdoor",
+    "subCategory": "church-cathedral",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "16 P. Hạ Lý",
+      "lat": 20.861349,
+      "lng": 106.678009
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "27147332-c284-45f2-a684-718fc555bc35",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-eeec6d18-1b17-44",
+    "slug": "cau-hoang-van-thu-55be70",
+    "name": "Cầu Hoàng Văn Thụ",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "quận Hồng Bàng",
+      "lat": 20.864107,
+      "lng": 106.655388
+    },
+    "images": [],
+    "popularity": 43,
+    "source": "overture",
+    "sourceId": "eeec6d18-1b17-44d9-86de-d61b722b251e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2b31ddc6-5c0e-4d",
+    "slug": "chua-an-lac-a3d0ae",
+    "name": "Chùa An Lạc",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "Tôn Đức Thắng",
+      "lat": 20.86878,
+      "lng": 106.652473
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "2b31ddc6-5c0e-4d36-be35-a2e20a05c0a2",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-f2220878-ae7d-4c",
+    "slug": "nha-tho-cong-my-e1308d",
+    "name": "Nhà Thờ Cống Mỹ",
+    "category": "outdoor",
+    "subCategory": "church-cathedral",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "hong-bang",
+      "address": "55 Phố Cống Mỹ",
+      "lat": 20.884811,
+      "lng": 106.613449
+    },
+    "images": [],
+    "popularity": 48,
+    "source": "overture",
+    "sourceId": "f2220878-ae7d-4c38-8680-12b16811da7f",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -6830,31 +6830,6 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-286de607-b138-40",
-    "slug": "doji-diamond-crown-hai-phong-zen-apartment-363014",
-    "name": "Doji Diamond Crown Hai Phong - Zen Apartment",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hai-an",
-      "address": "Diamond Crown Building, Lot 3C Le Hong Phong str",
-      "lat": 20.820328,
-      "lng": 106.700523
-    },
-    "images": [],
-    "popularity": 69,
-    "source": "overture",
-    "sourceId": "286de607-b138-40a5-889d-896845b5abfc",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
     "id": "ovt-91bc883b-32fe-49",
     "slug": "chua-vinh-khanh-chua-cam-la-4124ca",
     "name": "Chùa Vĩnh Khánh (chùa Cẩm La)",
@@ -6876,31 +6851,6 @@
     "popularity": 51,
     "source": "overture",
     "sourceId": "91bc883b-32fe-49ec-ada6-cc6815b46300",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-7eb1ec1f-6791-41",
-    "slug": "hk-hotel-0568b5",
-    "name": "HK hotel",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "hai-an",
-      "address": "lô 16 Đ. Lê Hồng Phong",
-      "lat": 20.838367,
-      "lng": 106.713493
-    },
-    "images": [],
-    "popularity": 59,
-    "source": "overture",
-    "sourceId": "7eb1ec1f-6791-4194-b19f-fbeff1c21684",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -7993,9 +7943,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-b828e3fc-5374-45",
-    "slug": "chung-cu-bac-son-82622a",
-    "name": "Chung cư Bắc Sơn",
+    "id": "ovt-2efdd604-32f8-4f",
+    "slug": "khuc-tri-ngoc-son-bd0207",
+    "name": "Khúc Trì Ngọc Sơn",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -8006,14 +7956,14 @@
     "location": {
       "cityId": "hai-phong",
       "districtId": "kien-an",
-      "address": "Khu chung cư Bắc Sơn, Khu, Chung Cư/14B Chu Huy Mân",
-      "lat": 20.818155,
-      "lng": 106.64579
+      "address": "73 Khúc Trì",
+      "lat": 20.811613,
+      "lng": 106.619957
     },
     "images": [],
-    "popularity": 53,
+    "popularity": 40,
     "source": "overture",
-    "sourceId": "b828e3fc-5374-4580-a7e0-9ea7fc2df01d",
+    "sourceId": "2efdd604-32f8-4f2e-bcad-75f22e4df7ed",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -8039,31 +7989,6 @@
     "popularity": 61,
     "source": "overture",
     "sourceId": "fc3c461b-2961-4f86-ac1d-661a8c6e540c",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-2efdd604-32f8-4f",
-    "slug": "khuc-tri-ngoc-son-bd0207",
-    "name": "Khúc Trì Ngọc Sơn",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "kien-an",
-      "address": "73 Khúc Trì",
-      "lat": 20.811613,
-      "lng": 106.619957
-    },
-    "images": [],
-    "popularity": 40,
-    "source": "overture",
-    "sourceId": "2efdd604-32f8-4f2e-bcad-75f22e4df7ed",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -8214,6 +8139,31 @@
     "popularity": 51,
     "source": "overture",
     "sourceId": "fac4b28e-7220-4581-8eef-9f6c46c16709",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-b89d2376-ba97-49",
+    "slug": "chua-dong-khe-ebacb6",
+    "name": "Chùa Đông Khê",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "kien-an",
+      "address": "Khu 1, Đường Đồng Hòa",
+      "lat": 20.82147,
+      "lng": 106.655838
+    },
+    "images": [],
+    "popularity": 50,
+    "source": "overture",
+    "sourceId": "b89d2376-ba97-49ff-ab1a-792e95f37508",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -8392,31 +8342,6 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-ffde1fd2-d7d1-4c",
-    "slug": "chung-cu-hoang-huy-1ab515",
-    "name": "Chung cư Hoàng Huy",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "hai-phong",
-      "districtId": "an-duong",
-      "address": "An Đồng, An Dương, Hải Phòng",
-      "lat": 20.861841,
-      "lng": 106.642525
-    },
-    "images": [],
-    "popularity": 47,
-    "source": "overture",
-    "sourceId": "ffde1fd2-d7d1-4ce9-b0e3-cc4c91b70a78",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
     "id": "ovt-105fa498-2a9c-4d",
     "slug": "chua-lang-cai-tat-2c89d3",
     "name": "Chùa Làng Cái Tắt",
@@ -8463,6 +8388,31 @@
     "popularity": 57,
     "source": "overture",
     "sourceId": "a53db4cf-3739-45e5-b799-27b227239834",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-46245513-f91e-4e",
+    "slug": "chua-but-moc-da5b58",
+    "name": "Chùa Bụt Mọc",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "hai-phong",
+      "districtId": "an-duong",
+      "address": "Bạch Mai",
+      "lat": 20.848309,
+      "lng": 106.639809
+    },
+    "images": [],
+    "popularity": 47,
+    "source": "overture",
+    "sourceId": "46245513-f91e-4ee9-b1a8-80717ef9234e",
     "status": "active",
     "updatedAt": "2026-09-13"
   },

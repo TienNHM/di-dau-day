@@ -23,7 +23,9 @@ export type AnalyticsEvent =
   | 'contribute_submit'
   /** The dish flow is a different question from the wizard, so it counts separately. */
   | 'dish_spin_start'
-  | 'dish_place_click';
+  | 'dish_place_click'
+  /** Opening the whole route in Google Maps, as opposed to one stop. */
+  | 'route_maps_click';
 
 type Props = Record<string, string | number | boolean | undefined>;
 

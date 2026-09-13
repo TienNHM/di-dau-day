@@ -2552,27 +2552,25 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-732b6e27-b8a3-4b",
-    "slug": "tada-dalat-apartments-e81a18",
-    "name": "Tada Dalat Apartments",
+    "id": "ovt-1304efff-6def-4f",
+    "slug": "nu-no-house-5631c6",
+    "name": "Nu Nơ House",
     "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
+    "subCategory": "palace",
     "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
+      "ngoai-troi"
     ],
     "location": {
       "cityId": "da-lat",
       "districtId": "da-lat",
-      "address": "90/12/2 Đ. Lữ Gia",
-      "lat": 11.955866,
-      "lng": 108.459572
+      "address": "38A Đường Trần Thái Tông",
+      "lat": 11.94708,
+      "lng": 108.467117
     },
     "images": [],
-    "popularity": 70,
+    "popularity": 66,
     "source": "overture",
-    "sourceId": "732b6e27-b8a3-4b47-a416-b503d554802c",
+    "sourceId": "1304efff-6def-4f0b-9f1b-9fb5295f3cda",
     "status": "active",
     "updatedAt": "2026-09-13"
   },

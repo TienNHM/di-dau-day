@@ -78,6 +78,8 @@ export function useItineraryCards(): ItineraryCardsState {
               category: place.category,
               districtName: districtNames.get(place.districtId) ?? null,
               address: extra.address,
+              lat: place.lat,
+              lng: place.lng,
               ...(place.avgPrice === undefined ? {} : { avgPrice: place.avgPrice }),
               ...(place.durationMinutes === undefined
                 ? {}

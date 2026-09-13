@@ -281,6 +281,26 @@ function tidyName(name: string): string {
   return name.normalize('NFKC').replace(/\s+/g, ' ').trim();
 }
 
+/**
+ * Buildings that are somewhere to live or work, not somewhere to go.
+ *
+ * Overture files a great deal under `landmark_and_historical_building`, and in
+ * Vietnamese cities most of it is apartment blocks: a generated route offered "Saigon
+ * Apartments" as its second stop, and 72 residential or office buildings had reached
+ * the catalogue the same way.
+ *
+ * Applied only to the heritage group. A café called "Coffee ngôi nhà nhỏ Chung Cư" is
+ * a café — the words only mean the place is the wrong kind when the classification
+ * already claimed it was a monument.
+ */
+const NOT_A_DESTINATION =
+  /(chung ?cư|căn hộ|apartment|condo|residence|officetel|office|văn phòng|tòa nhà|toa nha|khách sạn|hotel|nhà nghỉ|homestay|ký túc xá|bệnh viện|hospital|trường|school|ngân hàng|bank)/i;
+
+function isPlausibleLandmark(place: CachedPlace): boolean {
+  if (groupFor(place.category, place.ourCategory!) !== 'heritage') return true;
+  return !NOT_A_DESTINATION.test(place.name);
+}
+
 /** Junk names that are addresses, phone numbers or placeholders rather than places. */
 function isUsableName(name: string): boolean {
   if (name.length < 2 || name.length > 80) return false;
@@ -321,6 +341,7 @@ async function importCity(cityId: string, validDistricts: Set<string>, takenSlug
     .filter((place) => place.confidence >= MIN_CONFIDENCE)
     .filter((place) => place.ourCategory !== null)
     .filter((place) => isUsableName(tidyName(place.name)))
+    .filter(isPlausibleLandmark)
     // An address is what makes a suggestion actionable; without one the directions
     // button is the only thing left and there is nothing to show on the card.
     .filter((place) => place.address !== null && place.address.trim().length >= 4)

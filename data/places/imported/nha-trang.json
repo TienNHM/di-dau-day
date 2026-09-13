@@ -4817,9 +4817,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-75cf6d9f-62bc-46",
-    "slug": "can-ho-ct9-vinh-diem-trung-91e999",
-    "name": "Căn hộ CT9 Vĩnh Điềm Trung",
+    "id": "ovt-1383a2fa-5b09-45",
+    "slug": "comfortzone-4970b4",
+    "name": "Comfortzone",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -4830,14 +4830,14 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "21 C1",
-      "lat": 12.256493,
-      "lng": 109.168167
+      "address": "05 Phạm Văn Đồng",
+      "lat": 12.274282,
+      "lng": 109.201843
     },
     "images": [],
     "popularity": 78,
     "source": "overture",
-    "sourceId": "75cf6d9f-62bc-4649-8d29-381bda27177d",
+    "sourceId": "1383a2fa-5b09-4508-acc4-64740b61c19f",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -4939,9 +4939,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-1383a2fa-5b09-45",
-    "slug": "comfortzone-4970b4",
-    "name": "Comfortzone",
+    "id": "ovt-5ec9ca1c-f552-4f",
+    "slug": "chung-cu-ct5-vinh-diem-trung-d581ce",
+    "name": "Chung Cu CT5 Vinh Diem Trung",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -4952,14 +4952,14 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "05 Phạm Văn Đồng",
-      "lat": 12.274282,
-      "lng": 109.201843
+      "address": "107l Đ. Trần Hữu Duyệt",
+      "lat": 12.259915,
+      "lng": 109.165237
     },
     "images": [],
-    "popularity": 78,
+    "popularity": 68,
     "source": "overture",
-    "sourceId": "1383a2fa-5b09-4508-acc4-64740b61c19f",
+    "sourceId": "5ec9ca1c-f552-4fdc-8b8c-02bad0f189e9",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -5061,9 +5061,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-5ec9ca1c-f552-4f",
-    "slug": "chung-cu-ct5-vinh-diem-trung-d581ce",
-    "name": "Chung Cu CT5 Vinh Diem Trung",
+    "id": "ovt-4517c871-0388-42",
+    "slug": "imperium-town-nha-trang-acdfbb",
+    "name": "Imperium Town Nha Trang",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -5074,14 +5074,14 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "107l Đ. Trần Hữu Duyệt",
-      "lat": 12.259915,
-      "lng": 109.165237
+      "address": "16 Đường Phước Long",
+      "lat": 12.21546,
+      "lng": 109.200592
     },
     "images": [],
-    "popularity": 68,
+    "popularity": 78,
     "source": "overture",
-    "sourceId": "5ec9ca1c-f552-4fdc-8b8c-02bad0f189e9",
+    "sourceId": "4517c871-0388-42ac-8d25-36de048a534f",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -5183,9 +5183,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-4517c871-0388-42",
-    "slug": "imperium-town-nha-trang-acdfbb",
-    "name": "Imperium Town Nha Trang",
+    "id": "ovt-a2498a00-31a6-41",
+    "slug": "tram-huong-tower-eb90cc",
+    "name": "Tram Huong Tower",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -5196,14 +5196,14 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "16 Đường Phước Long",
-      "lat": 12.21546,
-      "lng": 109.200592
+      "address": "Trần Phú Quảng trường, Hai tháng Tư",
+      "lat": 12.240458,
+      "lng": 109.196915
     },
     "images": [],
-    "popularity": 78,
+    "popularity": 72,
     "source": "overture",
-    "sourceId": "4517c871-0388-42ac-8d25-36de048a534f",
+    "sourceId": "a2498a00-31a6-41d2-a1a0-ae83d10d18d8",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -5305,9 +5305,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-c78b3da1-27bd-4e",
-    "slug": "chung-cu-muong-thanh-vien-trieu-nha-trang-d71140",
-    "name": "Chung Cư Mường Thanh Viễn Triều Nha Trang",
+    "id": "ovt-aec44534-7a4c-47",
+    "slug": "po-nagar-temple-37ff59",
+    "name": "Po Nagar Temple",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -5318,14 +5318,14 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "3 Đường Phạm Văn Đồng",
-      "lat": 12.273473,
-      "lng": 109.201675
+      "address": "61 Hai Tháng Tư",
+      "lat": 12.265355,
+      "lng": 109.195404
     },
     "images": [],
-    "popularity": 67,
+    "popularity": 75,
     "source": "overture",
-    "sourceId": "c78b3da1-27bd-4eda-8524-49096390853e",
+    "sourceId": "aec44534-7a4c-4749-b358-f8f06a11f60a",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -5427,9 +5427,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-a2498a00-31a6-41",
-    "slug": "tram-huong-tower-eb90cc",
-    "name": "Tram Huong Tower",
+    "id": "ovt-eaf5cb31-d361-49",
+    "slug": "khu-chung-cu-vinh-phuoc-tp-nha-trang-43de4d",
+    "name": "Khu Chung Cu Vinh Phuoc Tp Nha Trang",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -5440,14 +5440,14 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "Trần Phú Quảng trường, Hai tháng Tư",
-      "lat": 12.240458,
-      "lng": 109.196915
+      "address": "khu chung cu vinh phuoc",
+      "lat": 12.273948,
+      "lng": 109.197922
     },
     "images": [],
-    "popularity": 72,
+    "popularity": 59,
     "source": "overture",
-    "sourceId": "a2498a00-31a6-41d2-a1a0-ae83d10d18d8",
+    "sourceId": "eaf5cb31-d361-4997-9ef9-dc1933b3b65c",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -5477,9 +5477,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-a00bd540-c06c-42",
-    "slug": "chung-cu-p-h-nha-trang-0962e5",
-    "name": "Chung cư P.H Nha Trang",
+    "id": "ovt-024df229-ceb0-48",
+    "slug": "tran-anh-duy-bat-dong-san-nha-trang-2b5581",
+    "name": "Trần Anh Duy Bất Động Sản Nha Trang",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -5490,14 +5490,14 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "Tô Hiệu",
-      "lat": 12.210105,
-      "lng": 109.202423
+      "address": "Can Ho Muong Thanh Vien Trieu, 3 Đường Phạm Văn Đồng",
+      "lat": 12.273831,
+      "lng": 109.202057
     },
     "images": [],
-    "popularity": 76,
+    "popularity": 73,
     "source": "overture",
-    "sourceId": "a00bd540-c06c-42a9-9f8e-1e9c7761f2ff",
+    "sourceId": "024df229-ceb0-4842-a648-04eeb84cca11",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -5527,9 +5527,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-aec44534-7a4c-47",
-    "slug": "po-nagar-temple-37ff59",
-    "name": "Po Nagar Temple",
+    "id": "ovt-ef6ffc75-50a3-49",
+    "slug": "new-galaxy-nha-trang-06d85f",
+    "name": "New Galaxy Nha Trang",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -5540,14 +5540,14 @@
     "location": {
       "cityId": "nha-trang",
       "districtId": "nha-trang",
-      "address": "61 Hai Tháng Tư",
-      "lat": 12.265355,
-      "lng": 109.195404
+      "address": "Khu đô thị",
+      "lat": 12.198302,
+      "lng": 109.209435
     },
     "images": [],
-    "popularity": 75,
+    "popularity": 72,
     "source": "overture",
-    "sourceId": "aec44534-7a4c-4749-b358-f8f06a11f60a",
+    "sourceId": "ef6ffc75-50a3-49af-8743-e64ff10222bf",
     "status": "active",
     "updatedAt": "2026-09-13"
   },

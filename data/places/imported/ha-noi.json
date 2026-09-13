@@ -6526,9 +6526,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-2f84a68e-a67e-45",
-    "slug": "chung-cu-ha-thanh-plaza-1498a0",
-    "name": "Chung Cư Hà Thành Plaza",
+    "id": "ovt-35864e74-e55c-45",
+    "slug": "gardenia-bich-cau-cc45c7",
+    "name": "Gardenia Bich Cau",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -6539,14 +6539,14 @@
     "location": {
       "cityId": "ha-noi",
       "districtId": "dong-da",
-      "address": "102 Phố Thái Thịnh",
-      "lat": 21.008741,
-      "lng": 105.819931
+      "address": "48 P. Bích Câu",
+      "lat": 21.027256,
+      "lng": 105.832115
     },
     "images": [],
-    "popularity": 82,
+    "popularity": 69,
     "source": "overture",
-    "sourceId": "2f84a68e-a67e-45d6-9d3c-1a46cbf27cb0",
+    "sourceId": "35864e74-e55c-45eb-87e0-d460a484d1dc",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -15844,31 +15844,6 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-6a1d3ac5-a1fc-45",
-    "slug": "chua-lien-phai-03bcb4",
-    "name": "Chùa Liên Phái",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "hai-ba-trung",
-      "address": "56 Ngõ Chùa Liên Phái, Bạch Mai",
-      "lat": 21.005384,
-      "lng": 105.848938
-    },
-    "images": [],
-    "popularity": 81,
-    "source": "overture",
-    "sourceId": "6a1d3ac5-a1fc-45da-aaf4-e6ee749fb891",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
     "id": "ovt-e7995003-0708-41",
     "slug": "hoa-binh-green-city-e227a2",
     "name": "Hòa Bình Green City",
@@ -15890,6 +15865,31 @@
     "popularity": 82,
     "source": "overture",
     "sourceId": "e7995003-0708-4162-a573-448e9470bda2",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6a1d3ac5-a1fc-45",
+    "slug": "chua-lien-phai-03bcb4",
+    "name": "Chùa Liên Phái",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hai-ba-trung",
+      "address": "56 Ngõ Chùa Liên Phái, Bạch Mai",
+      "lat": 21.005384,
+      "lng": 105.848938
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "6a1d3ac5-a1fc-45da-aaf4-e6ee749fb891",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -16150,252 +16150,6 @@
     "popularity": 66,
     "source": "overture",
     "sourceId": "f947cc35-248b-4fde-ab03-4e6a41435c8a",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-d03b4feb-1071-44",
-    "slug": "xuong-hoa-ogus-2f6ed0",
-    "name": "Xưởng Hoa Ogus",
-    "category": "outdoor",
-    "subCategory": "art-gallery",
-    "tags": [
-      "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "hoang-mai",
-      "address": "2 Ng. 254 P. Vĩnh Hưng",
-      "lat": 20.991476,
-      "lng": 105.879585
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "d03b4feb-1071-4420-bad7-3619a4e5f3cc",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-aa225db5-c5a1-42",
-    "slug": "chungpainter-gallery-0daf1b",
-    "name": "Chungpainter Gallery",
-    "category": "outdoor",
-    "subCategory": "art-gallery",
-    "tags": [
-      "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "hoang-mai",
-      "address": "282 Linh Nam Road – Hanoi, Vietnam (Building No1 –  5th floor – Room 505)",
-      "lat": 20.985756,
-      "lng": 105.870125
-    },
-    "images": [],
-    "popularity": 54,
-    "source": "overture",
-    "sourceId": "aa225db5-c5a1-42a8-8a61-3b1980765dc2",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-38784931-51a7-41",
-    "slug": "dep-cao-su-vua-dep-lop-vien-bao-tang-ho-chi-minh-1-0b562b",
-    "name": "Dép cao su - Vua dép lốp Viện Bảo tàng Hồ Chí Minh - 19 Ngọc Hà",
-    "category": "outdoor",
-    "subCategory": "museum",
-    "tags": [
-      "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "hoang-mai",
-      "address": "19 Ngọc Hà, Ba Đình, Hà Nội",
-      "lat": 20.991911,
-      "lng": 105.867699
-    },
-    "images": [],
-    "popularity": 61,
-    "source": "overture",
-    "sourceId": "38784931-51a7-4149-aa0d-ef27d27b3576",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-2000bdd1-aa52-47",
-    "slug": "ho-yen-so-a5b6d5",
-    "name": "Hồ Yên Sở",
-    "category": "outdoor",
-    "subCategory": "lake",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "hoang-mai",
-      "address": "Hồ Yên Sở",
-      "lat": 20.970995,
-      "lng": 105.869293
-    },
-    "images": [],
-    "popularity": 59,
-    "source": "overture",
-    "sourceId": "2000bdd1-aa52-476f-847c-fbc7337dc5e7",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-5b2675b6-ad2e-43",
-    "slug": "eco-lake-view-32-dai-tu-881260",
-    "name": "Eco Lake View 32 Đại Từ",
-    "category": "outdoor",
-    "subCategory": "lake",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "hoang-mai",
-      "address": "32 Đại Từ",
-      "lat": 20.9725,
-      "lng": 105.839363
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "5b2675b6-ad2e-43c2-b4b3-87852e71094d",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-a6765005-14cf-44",
-    "slug": "yen-so-park-da-ngoai-5c97f3",
-    "name": "Yên Sở Park - Dã ngoại",
-    "category": "outdoor",
-    "subCategory": "park",
-    "tags": [
-      "ngoai-troi",
-      "cay-xanh"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "hoang-mai",
-      "address": "2 Đường Vành Đai 3",
-      "lat": 20.96353,
-      "lng": 105.857109
-    },
-    "images": [],
-    "popularity": 58,
-    "source": "overture",
-    "sourceId": "a6765005-14cf-449e-8c2a-2017880e5e89",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-2ded0b9f-5248-43",
-    "slug": "chua-bang-d53f35",
-    "name": "Chùa Bằng",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "hoang-mai",
-      "address": "62 Phố Bằng Liệt",
-      "lat": 20.962822,
-      "lng": 105.818947
-    },
-    "images": [],
-    "popularity": 76,
-    "source": "overture",
-    "sourceId": "2ded0b9f-5248-4313-a235-c861a2efb088",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-3369b1c2-1eb4-41",
-    "slug": "chung-cu-hud3-60-nguyen-duc-canh-2e5015",
-    "name": "Chung cư HUD3 60 Nguyễn Đức Cảnh",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "hoang-mai",
-      "address": "60 Nguyễn Đức Cảnh",
-      "lat": 20.98716,
-      "lng": 105.849655
-    },
-    "images": [],
-    "popularity": 82,
-    "source": "overture",
-    "sourceId": "3369b1c2-1eb4-417e-b502-12a115c8222d",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-77ddacf4-f610-4c",
-    "slug": "trung-tam-nang-khieu-toki-88fd13",
-    "name": "Trung tâm năng khiếu TÔKI",
-    "category": "outdoor",
-    "subCategory": "art-gallery",
-    "tags": [
-      "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "hoang-mai",
-      "address": "Ng. 885 Đ. Tam Trinh",
-      "lat": 20.974918,
-      "lng": 105.869926
-    },
-    "images": [],
-    "popularity": 60,
-    "source": "overture",
-    "sourceId": "77ddacf4-f610-4c89-9192-fecf5528944a",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-850bab27-ac29-47",
-    "slug": "phuong-dong-green-park-b7ff6c",
-    "name": "Phương Đông Green Park",
-    "category": "outdoor",
-    "subCategory": "park",
-    "tags": [
-      "ngoai-troi",
-      "cay-xanh"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "hoang-mai",
-      "address": "1 Phố Trần Thủ Độ",
-      "lat": 20.95393,
-      "lng": 105.847015
-    },
-    "images": [],
-    "popularity": 72,
-    "source": "overture",
-    "sourceId": "850bab27-ac29-47ff-bb85-b9b9e0073e5e",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -18724,9 +18478,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-10013af2-7968-4c",
-    "slug": "tang-2-toa-nha-ct10a-chung-cu-dai-thanh-94eeac",
-    "name": "Tầng 2- Tòa Nhà Ct10a- Chung Cư Đại Thanh",
+    "id": "ovt-760bf2e4-3245-4f",
+    "slug": "pcc1-thanh-xuan-ec8bea",
+    "name": "PCC1 Thanh Xuân",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -18737,14 +18491,14 @@
     "location": {
       "cityId": "ha-noi",
       "districtId": "thanh-tri",
-      "address": "CT10A, Chung cư Đại Thanh",
-      "lat": 20.956341,
-      "lng": 105.808189
+      "address": "44 Đường Triều Khúc",
+      "lat": 20.985542,
+      "lng": 105.798363
     },
     "images": [],
-    "popularity": 74,
+    "popularity": 79,
     "source": "overture",
-    "sourceId": "10013af2-7968-4c25-b579-c4d532763911",
+    "sourceId": "760bf2e4-3245-4fee-b60a-7d9596c0cbb0",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -18774,9 +18528,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-760bf2e4-3245-4f",
-    "slug": "pcc1-thanh-xuan-ec8bea",
-    "name": "PCC1 Thanh Xuân",
+    "id": "ovt-8b4502a3-659b-4c",
+    "slug": "tecco-garden-thanh-tri-ac93fd",
+    "name": "Tecco Garden - Thanh Trì",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -18787,14 +18541,14 @@
     "location": {
       "cityId": "ha-noi",
       "districtId": "thanh-tri",
-      "address": "44 Đường Triều Khúc",
-      "lat": 20.985542,
-      "lng": 105.798363
+      "address": "Tecco Garden - Tứ Hiệp - Thanh Trì - Hà Nội",
+      "lat": 20.93737,
+      "lng": 105.854431
     },
     "images": [],
-    "popularity": 79,
+    "popularity": 66,
     "source": "overture",
-    "sourceId": "760bf2e4-3245-4fee-b60a-7d9596c0cbb0",
+    "sourceId": "8b4502a3-659b-4c2e-a880-02107c5376d5",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -19285,6 +19039,252 @@
     "popularity": 67,
     "source": "overture",
     "sourceId": "37ce3586-bddc-48d9-9377-4ac4831a4abb",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-d03b4feb-1071-44",
+    "slug": "xuong-hoa-ogus-2f6ed0",
+    "name": "Xưởng Hoa Ogus",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoang-mai",
+      "address": "2 Ng. 254 P. Vĩnh Hưng",
+      "lat": 20.991476,
+      "lng": 105.879585
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "d03b4feb-1071-4420-bad7-3619a4e5f3cc",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-aa225db5-c5a1-42",
+    "slug": "chungpainter-gallery-0daf1b",
+    "name": "Chungpainter Gallery",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoang-mai",
+      "address": "282 Linh Nam Road – Hanoi, Vietnam (Building No1 –  5th floor – Room 505)",
+      "lat": 20.985756,
+      "lng": 105.870125
+    },
+    "images": [],
+    "popularity": 54,
+    "source": "overture",
+    "sourceId": "aa225db5-c5a1-42a8-8a61-3b1980765dc2",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-38784931-51a7-41",
+    "slug": "dep-cao-su-vua-dep-lop-vien-bao-tang-ho-chi-minh-1-0b562b",
+    "name": "Dép cao su - Vua dép lốp Viện Bảo tàng Hồ Chí Minh - 19 Ngọc Hà",
+    "category": "outdoor",
+    "subCategory": "museum",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoang-mai",
+      "address": "19 Ngọc Hà, Ba Đình, Hà Nội",
+      "lat": 20.991911,
+      "lng": 105.867699
+    },
+    "images": [],
+    "popularity": 61,
+    "source": "overture",
+    "sourceId": "38784931-51a7-4149-aa0d-ef27d27b3576",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2000bdd1-aa52-47",
+    "slug": "ho-yen-so-a5b6d5",
+    "name": "Hồ Yên Sở",
+    "category": "outdoor",
+    "subCategory": "lake",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoang-mai",
+      "address": "Hồ Yên Sở",
+      "lat": 20.970995,
+      "lng": 105.869293
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "2000bdd1-aa52-476f-847c-fbc7337dc5e7",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-5b2675b6-ad2e-43",
+    "slug": "eco-lake-view-32-dai-tu-881260",
+    "name": "Eco Lake View 32 Đại Từ",
+    "category": "outdoor",
+    "subCategory": "lake",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoang-mai",
+      "address": "32 Đại Từ",
+      "lat": 20.9725,
+      "lng": 105.839363
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "5b2675b6-ad2e-43c2-b4b3-87852e71094d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-a6765005-14cf-44",
+    "slug": "yen-so-park-da-ngoai-5c97f3",
+    "name": "Yên Sở Park - Dã ngoại",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoang-mai",
+      "address": "2 Đường Vành Đai 3",
+      "lat": 20.96353,
+      "lng": 105.857109
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "a6765005-14cf-449e-8c2a-2017880e5e89",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2ded0b9f-5248-43",
+    "slug": "chua-bang-d53f35",
+    "name": "Chùa Bằng",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoang-mai",
+      "address": "62 Phố Bằng Liệt",
+      "lat": 20.962822,
+      "lng": 105.818947
+    },
+    "images": [],
+    "popularity": 76,
+    "source": "overture",
+    "sourceId": "2ded0b9f-5248-4313-a235-c861a2efb088",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-dbb19a23-b656-46",
+    "slug": "hoa-phat-nguyen-duc-canh-255e4a",
+    "name": "Hòa Phát Nguyễn Đức Cảnh",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoang-mai",
+      "address": "70 Phố Nguyễn Đức Cảnh",
+      "lat": 20.986919,
+      "lng": 105.850365
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "dbb19a23-b656-4695-92ae-3720eb15a564",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-77ddacf4-f610-4c",
+    "slug": "trung-tam-nang-khieu-toki-88fd13",
+    "name": "Trung tâm năng khiếu TÔKI",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoang-mai",
+      "address": "Ng. 885 Đ. Tam Trinh",
+      "lat": 20.974918,
+      "lng": 105.869926
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "77ddacf4-f610-4c89-9192-fecf5528944a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-850bab27-ac29-47",
+    "slug": "phuong-dong-green-park-b7ff6c",
+    "name": "Phương Đông Green Park",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "hoang-mai",
+      "address": "1 Phố Trần Thủ Độ",
+      "lat": 20.95393,
+      "lng": 105.847015
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "850bab27-ac29-47ff-bb85-b9b9e0073e5e",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -20847,9 +20847,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-f4924ef0-f719-44",
-    "slug": "chung-cu-gemek-premium-94acbc",
-    "name": "Chung cư Gemek Premium",
+    "id": "ovt-9805d6e4-88d3-40",
+    "slug": "moonlight-2-kdt-anlac-green-symphony-e3c68f",
+    "name": "Moonlight 2 - KĐT Anlac Green Symphony",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -20860,14 +20860,14 @@
     "location": {
       "cityId": "ha-noi",
       "districtId": "hoai-duc",
-      "address": "Lô A13-HH1, Khu A, Lê Trọng Tấn",
-      "lat": 21.003292,
-      "lng": 105.7323
+      "address": "Khu đô thị An Lạc Green Symphony, Vân Canh, An Khánh, Hoài Đức, Hà Nội",
+      "lat": 21.023884,
+      "lng": 105.729248
     },
     "images": [],
-    "popularity": 80,
+    "popularity": 68,
     "source": "overture",
-    "sourceId": "f4924ef0-f719-4436-89a4-9aa2deab8be4",
+    "sourceId": "9805d6e4-88d3-40f3-98af-fcbba8f52db3",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -20897,9 +20897,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-d171c01a-c42e-4d",
-    "slug": "chung-cu-az-van-canh-8b6db6",
-    "name": "Chung cư AZ Vân Canh",
+    "id": "ovt-41d91e60-4951-46",
+    "slug": "biet-thu-lien-ke-cienco-5-tan-lap-hoang-quoc-viet-1d2c19",
+    "name": "Biệt Thự Liền Kề Cienco 5 Tân Lập Hoàng Quốc Việt Kéo Dài",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -20910,14 +20910,14 @@
     "location": {
       "cityId": "ha-noi",
       "districtId": "hoai-duc",
-      "address": "Vân Canh",
-      "lat": 21.041506,
-      "lng": 105.725975
+      "address": "Hoàng quốc việt kéo dài",
+      "lat": 21.073841,
+      "lng": 105.711845
     },
     "images": [],
-    "popularity": 78,
+    "popularity": 67,
     "source": "overture",
-    "sourceId": "d171c01a-c42e-4d90-b8ef-af3d18c5d0b5",
+    "sourceId": "41d91e60-4951-46a0-b588-3ed13454a9b4",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -20947,9 +20947,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-db8e6032-620e-42",
-    "slug": "chung-cu-di-trach-f6941b",
-    "name": "Chung Cư Di Trạch",
+    "id": "ovt-61078cc7-6ebe-46",
+    "slug": "bright-city-toa-a2-92cad3",
+    "name": "Bright City Toa A2",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -20960,14 +20960,14 @@
     "location": {
       "cityId": "ha-noi",
       "districtId": "hoai-duc",
-      "address": "Di Trạch, Hoài Đức",
-      "lat": 21.053255,
-      "lng": 105.72654
+      "address": "tòa A2, Chung cư Bright City",
+      "lat": 21.062557,
+      "lng": 105.72123
     },
     "images": [],
-    "popularity": 73,
+    "popularity": 67,
     "source": "overture",
-    "sourceId": "db8e6032-620e-4281-b866-e179b740b1d4",
+    "sourceId": "61078cc7-6ebe-46d5-a674-48ee238d49b0",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -22609,31 +22609,6 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-108000fd-fac4-44",
-    "slug": "chung-cu-housinco-premium-nguyen-xien-ea8305",
-    "name": "Chung cư Housinco Premium Nguyễn Xiển",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "thanh-oai",
-      "address": "300 Đường Nguyễn Trực",
-      "lat": 20.987183,
-      "lng": 105.80587
-    },
-    "images": [],
-    "popularity": 48,
-    "source": "overture",
-    "sourceId": "108000fd-fac4-4462-ba6c-920713dd2a1c",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
     "id": "ovt-eeb1f997-e5bb-44",
     "slug": "nha-tho-giao-xu-van-phuc-9aedc4",
     "name": "Nhà Thờ Giáo Xứ Vạn Phúc",
@@ -22805,6 +22780,31 @@
     "popularity": 46,
     "source": "overture",
     "sourceId": "8eed87b8-684b-4c42-8aa5-80a9b04ec35d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-3f2cf2a6-f9c3-4b",
+    "slug": "chua-bui-lam-f34bdd",
+    "name": "Chùa Bùi Lâm",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "thanh-oai",
+      "address": "8 Đường Liên Thôn",
+      "lat": 20.911217,
+      "lng": 105.738693
+    },
+    "images": [],
+    "popularity": 41,
+    "source": "overture",
+    "sourceId": "3f2cf2a6-f9c3-4ba1-8532-13b6fe6320e9",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -23422,6 +23422,31 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-b92defa5-0097-4d",
+    "slug": "den-ly-bat-de-eb1c7a",
+    "name": "Đền Lý Bát Đế",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "tu-son",
+      "address": "Xóm Thượng, Làng Đình Bảng",
+      "lat": 21.106901,
+      "lng": 105.959892
+    },
+    "images": [],
+    "popularity": 51,
+    "source": "overture",
+    "sourceId": "b92defa5-0097-4dd1-8396-a27616f75a79",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-1fa010c1-04aa-49",
     "slug": "chua-vinh-lai-8b7799",
     "name": "Chùa Vĩnh Lại",
@@ -23447,9 +23472,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-1716b39f-403f-4b",
-    "slug": "chung-cu-cao-nguyen-tu-son-c8e50d",
-    "name": "Chung cư Cao Nguyên Từ Sơn",
+    "id": "ovt-75faad52-df72-4f",
+    "slug": "den-dam-tu-son-bac-ninh-0392c9",
+    "name": "Đền Đầm - Từ Sơn - Bắc Ninh",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -23460,14 +23485,14 @@
     "location": {
       "cityId": "ha-noi",
       "districtId": "tu-son",
-      "address": "Đường Lý Thánh Tông",
-      "lat": 21.118174,
-      "lng": 105.976364
+      "address": "Từ Sơn",
+      "lat": 21.114624,
+      "lng": 105.963661
     },
     "images": [],
-    "popularity": 65,
+    "popularity": 50,
     "source": "overture",
-    "sourceId": "1716b39f-403f-4b0c-b829-2339b4816381",
+    "sourceId": "75faad52-df72-4fb8-bd2c-dc171569476a",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -23497,9 +23522,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-f758deeb-8f55-44",
-    "slug": "do-go-truong-ly-4b7f5f",
-    "name": "Đồ Gỗ Trường Lý",
+    "id": "ovt-3de646db-b450-46",
+    "slug": "khu-pho-trinh-nguyen-6c50a3",
+    "name": "Khu phố Trịnh Nguyễn",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -23510,14 +23535,14 @@
     "location": {
       "cityId": "ha-noi",
       "districtId": "tu-son",
-      "address": "Khu đất mới Bờ Yên",
-      "lat": 21.149549,
-      "lng": 105.945358
+      "address": "đường 10/03, Châu Khê, Từ Sơn, Bắc Ninh",
+      "lat": 21.117521,
+      "lng": 105.934181
     },
     "images": [],
-    "popularity": 60,
+    "popularity": 65,
     "source": "overture",
-    "sourceId": "f758deeb-8f55-4432-aa89-ae6e787f82fc",
+    "sourceId": "3de646db-b450-46f9-9e0a-8de6f86f7bb2",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -23547,9 +23572,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-9f2cda26-fcd2-4c",
-    "slug": "chung-cu-long-vi-ninh-hiep-baza-gia-re-bat-ngo-e34f52",
-    "name": "Chung cư Long Vĩ, Ninh Hiệp, Baza giá rẻ bất ngờ",
+    "id": "ovt-7ea20033-6d48-4c",
+    "slug": "biet-thu-cua-ha-my-5f1c6c",
+    "name": "Biệt Thự Của Hà My",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -23560,14 +23585,14 @@
     "location": {
       "cityId": "ha-noi",
       "districtId": "tu-son",
-      "address": "Long Vĩ, Đình Bảng, Từ Sơn cạnh chợ Ninh Hiệp, Baza",
-      "lat": 21.089491,
-      "lng": 105.943314
+      "address": "Trang Liệt - Từ Sơn",
+      "lat": 21.120584,
+      "lng": 105.949799
     },
     "images": [],
-    "popularity": 69,
+    "popularity": 59,
     "source": "overture",
-    "sourceId": "9f2cda26-fcd2-4ce7-bc77-d1954170ecb9",
+    "sourceId": "7ea20033-6d48-4cd6-be47-bd5c3b69a6c2",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -23593,278 +23618,6 @@
     "popularity": 65,
     "source": "overture",
     "sourceId": "766c78a5-da47-415c-8fa9-ee5ca916f0a1",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-b92defa5-0097-4d",
-    "slug": "den-ly-bat-de-eb1c7a",
-    "name": "Đền Lý Bát Đế",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "tu-son",
-      "address": "Xóm Thượng, Làng Đình Bảng",
-      "lat": 21.106901,
-      "lng": 105.959892
-    },
-    "images": [],
-    "popularity": 51,
-    "source": "overture",
-    "sourceId": "b92defa5-0097-4dd1-8396-a27616f75a79",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-97c25a4c-f901-4a",
-    "slug": "cong-vien-cay-xanh-tam-xa-fd54b0",
-    "name": "Công Viên Cây Xanh Tàm Xá",
-    "category": "outdoor",
-    "subCategory": "park",
-    "tags": [
-      "ngoai-troi",
-      "cay-xanh"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "dong-anh",
-      "address": "Tàm xá,đông anh,Hà Nội",
-      "lat": 21.109709,
-      "lng": 105.845039
-    },
-    "images": [],
-    "popularity": 66,
-    "source": "overture",
-    "sourceId": "97c25a4c-f901-4a90-8e94-511642b3dbde",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-9d57aa60-c50e-44",
-    "slug": "sua-chua-dong-ho-hoang-long-3e363f",
-    "name": "Sửa Chữa Đồng Hồ Hoàng Long",
-    "category": "outdoor",
-    "subCategory": "lake",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "dong-anh",
-      "address": "51 Đường Tây Cao Tốc",
-      "lat": 21.129715,
-      "lng": 105.77932
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "9d57aa60-c50e-44a6-8dd7-83d03be8a36e",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-09d74ed7-242d-42",
-    "slug": "ho-cau-dai-hao-lo-6664ad",
-    "name": "Hồ Câu Đài Hảo Lớ",
-    "category": "outdoor",
-    "subCategory": "lake",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "dong-anh",
-      "address": "hồ câu đài hảo lớ đường gom Võ Nguyễn giáp nhật tân nội bài.trung oai tiên dương đông anh hà nội",
-      "lat": 21.137123,
-      "lng": 105.820534
-    },
-    "images": [],
-    "popularity": 64,
-    "source": "overture",
-    "sourceId": "09d74ed7-242d-42b5-85d7-998dc6a18674",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-3e9e7dc2-2a6e-47",
-    "slug": "chua-linh-thong-4b3bb3",
-    "name": "Chùa Linh Thông",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "dong-anh",
-      "address": "Chùa Linh Thông",
-      "lat": 21.144175,
-      "lng": 105.82795
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "3e9e7dc2-2a6e-4773-b53d-0520de5d61b4",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-60ae8f23-4bb1-4c",
-    "slug": "chung-cu-intracom-riverside-d6f750",
-    "name": "Chung cư Intracom Riverside",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "dong-anh",
-      "address": "Intracom Riverside, Vĩnh Ngọc, Đông Anh, Hà Nội",
-      "lat": 21.11223,
-      "lng": 105.828934
-    },
-    "images": [],
-    "popularity": 78,
-    "source": "overture",
-    "sourceId": "60ae8f23-4bb1-4c24-a565-0c6bb32be823",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-0efd753e-a454-48",
-    "slug": "chua-khanh-duc-171fb3",
-    "name": "chùa Khánh Đức",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "dong-anh",
-      "address": "Cổ Điển ,hải Bối,đông Anh,hà Nội",
-      "lat": 21.107586,
-      "lng": 105.788177
-    },
-    "images": [],
-    "popularity": 59,
-    "source": "overture",
-    "sourceId": "0efd753e-a454-481f-b0f5-8bc390db35b3",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-bbed2ffc-e8cf-4a",
-    "slug": "ct3-ct4-kim-chung-378d12",
-    "name": "Ct3 Ct4 Kim Chung",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "dong-anh",
-      "address": "Nằm tại lô đất CT3 CT4 xã Kim Chung, huyện Đông Anh, tp Hà Nội.",
-      "lat": 21.126534,
-      "lng": 105.775238
-    },
-    "images": [],
-    "popularity": 77,
-    "source": "overture",
-    "sourceId": "bbed2ffc-e8cf-4a54-b9fc-17df5fddb790",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-0fdb1ba3-1762-43",
-    "slug": "chua-tinh-am-33b5d2",
-    "name": "Chùa Tỉnh Âm",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "dong-anh",
-      "address": "Unnamed",
-      "lat": 21.114155,
-      "lng": 105.80793
-    },
-    "images": [],
-    "popularity": 52,
-    "source": "overture",
-    "sourceId": "0fdb1ba3-1762-43db-a663-13be4221d310",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-05435a14-99ee-41",
-    "slug": "thanh-co-loa-e8ad72",
-    "name": "Thành Cổ Loa",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "dong-anh",
-      "address": "Thôn Chùa, xã Đông Anh, thành phố Hà Nội",
-      "lat": 21.117008,
-      "lng": 105.874916
-    },
-    "images": [],
-    "popularity": 74,
-    "source": "overture",
-    "sourceId": "05435a14-99ee-4171-adc3-b614173765bf",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-98b24850-9e4a-43",
-    "slug": "chua-long-hung-tu-phuong-trach-vinh-ngoc-29508a",
-    "name": "Chùa Long Hưng Tự Phương Trạch Vĩnh Ngọc",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "dong-anh",
-      "address": "CỤM 3 PHƯƠNG TRẠCH VĨNH NGỌC ĐÔNG ANH HÀ NÔI",
-      "lat": 21.11462,
-      "lng": 105.812881
-    },
-    "images": [],
-    "popularity": 51,
-    "source": "overture",
-    "sourceId": "98b24850-9e4a-437a-b196-b3485679cdb8",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -24428,31 +24181,6 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-381e3546-ac96-4d",
-    "slug": "chung-cu-hoa-son-27ba6b",
-    "name": "Chung Cư Hoa Sơn",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "tien-du",
-      "address": "Thôn Đoài, Hoàn Sơn, Tiên Du",
-      "lat": 21.105991,
-      "lng": 105.999481
-    },
-    "images": [],
-    "popularity": 66,
-    "source": "overture",
-    "sourceId": "381e3546-ac96-4d46-9747-f790eeef47b3",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
     "id": "ovt-2c217ad9-f16d-42",
     "slug": "nha-tro-kcn-vsip-dai-dong-bac-ninh-a5723c",
     "name": "Nhà trọ KCN VSIP, Đại Đồng -Bắc Ninh",
@@ -24473,6 +24201,253 @@
     "popularity": 62,
     "source": "overture",
     "sourceId": "2c217ad9-f16d-429f-a4f6-98030bfc0f51",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-97c25a4c-f901-4a",
+    "slug": "cong-vien-cay-xanh-tam-xa-fd54b0",
+    "name": "Công Viên Cây Xanh Tàm Xá",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "dong-anh",
+      "address": "Tàm xá,đông anh,Hà Nội",
+      "lat": 21.109709,
+      "lng": 105.845039
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "97c25a4c-f901-4a90-8e94-511642b3dbde",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-9d57aa60-c50e-44",
+    "slug": "sua-chua-dong-ho-hoang-long-3e363f",
+    "name": "Sửa Chữa Đồng Hồ Hoàng Long",
+    "category": "outdoor",
+    "subCategory": "lake",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "dong-anh",
+      "address": "51 Đường Tây Cao Tốc",
+      "lat": 21.129715,
+      "lng": 105.77932
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "9d57aa60-c50e-44a6-8dd7-83d03be8a36e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-09d74ed7-242d-42",
+    "slug": "ho-cau-dai-hao-lo-6664ad",
+    "name": "Hồ Câu Đài Hảo Lớ",
+    "category": "outdoor",
+    "subCategory": "lake",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "dong-anh",
+      "address": "hồ câu đài hảo lớ đường gom Võ Nguyễn giáp nhật tân nội bài.trung oai tiên dương đông anh hà nội",
+      "lat": 21.137123,
+      "lng": 105.820534
+    },
+    "images": [],
+    "popularity": 64,
+    "source": "overture",
+    "sourceId": "09d74ed7-242d-42b5-85d7-998dc6a18674",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-3e9e7dc2-2a6e-47",
+    "slug": "chua-linh-thong-4b3bb3",
+    "name": "Chùa Linh Thông",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "dong-anh",
+      "address": "Chùa Linh Thông",
+      "lat": 21.144175,
+      "lng": 105.82795
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "3e9e7dc2-2a6e-4773-b53d-0520de5d61b4",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-bbed2ffc-e8cf-4a",
+    "slug": "ct3-ct4-kim-chung-378d12",
+    "name": "Ct3 Ct4 Kim Chung",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "dong-anh",
+      "address": "Nằm tại lô đất CT3 CT4 xã Kim Chung, huyện Đông Anh, tp Hà Nội.",
+      "lat": 21.126534,
+      "lng": 105.775238
+    },
+    "images": [],
+    "popularity": 77,
+    "source": "overture",
+    "sourceId": "bbed2ffc-e8cf-4a54-b9fc-17df5fddb790",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-0efd753e-a454-48",
+    "slug": "chua-khanh-duc-171fb3",
+    "name": "chùa Khánh Đức",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "dong-anh",
+      "address": "Cổ Điển ,hải Bối,đông Anh,hà Nội",
+      "lat": 21.107586,
+      "lng": 105.788177
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "0efd753e-a454-481f-b0f5-8bc390db35b3",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-05435a14-99ee-41",
+    "slug": "thanh-co-loa-e8ad72",
+    "name": "Thành Cổ Loa",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "dong-anh",
+      "address": "Thôn Chùa, xã Đông Anh, thành phố Hà Nội",
+      "lat": 21.117008,
+      "lng": 105.874916
+    },
+    "images": [],
+    "popularity": 74,
+    "source": "overture",
+    "sourceId": "05435a14-99ee-4171-adc3-b614173765bf",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-0fdb1ba3-1762-43",
+    "slug": "chua-tinh-am-33b5d2",
+    "name": "Chùa Tỉnh Âm",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "dong-anh",
+      "address": "Unnamed",
+      "lat": 21.114155,
+      "lng": 105.80793
+    },
+    "images": [],
+    "popularity": 52,
+    "source": "overture",
+    "sourceId": "0fdb1ba3-1762-43db-a663-13be4221d310",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-23fc2dd6-1123-4a",
+    "slug": "chua-xuan-trach-dong-anh-ha-noi-60d3a8",
+    "name": "Chùa Xuân Trạch - Đông Anh - Hà Nội",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "dong-anh",
+      "address": "Xuân Trạch, Xuân Canh, Đông Anh, ",
+      "lat": 21.079876,
+      "lng": 105.851189
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "23fc2dd6-1123-4aba-b908-beb0f64ea142",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-98b24850-9e4a-43",
+    "slug": "chua-long-hung-tu-phuong-trach-vinh-ngoc-29508a",
+    "name": "Chùa Long Hưng Tự Phương Trạch Vĩnh Ngọc",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "ha-noi",
+      "districtId": "dong-anh",
+      "address": "CỤM 3 PHƯƠNG TRẠCH VĨNH NGỌC ĐÔNG ANH HÀ NÔI",
+      "lat": 21.11462,
+      "lng": 105.812881
+    },
+    "images": [],
+    "popularity": 51,
+    "source": "overture",
+    "sourceId": "98b24850-9e4a-437a-b196-b3485679cdb8",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -24831,31 +24806,6 @@
     "popularity": 53,
     "source": "overture",
     "sourceId": "08e85bf9-7d9e-4ede-b73e-15751905dc66",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-5ef52c30-80c8-40",
-    "slug": "chung-cu-xphomes-star-tan-tay-do-a5f20f",
-    "name": "Chung cư Xphomes Star - Tân Tây Đô",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "ha-noi",
-      "districtId": "dan-phuong",
-      "address": "KĐT Tân Tây Đô- Tân Lập- Đan Phượng",
-      "lat": 21.074417,
-      "lng": 105.701736
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "5ef52c30-80c8-4009-aff7-0584a618021d",
     "status": "active",
     "updatedAt": "2026-09-13"
   },

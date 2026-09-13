@@ -3324,9 +3324,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-6e3fdf48-75a2-46",
-    "slug": "chung-cu-nhip-dieu-xanh-dreamhouse-552d0f",
-    "name": "Chung Cư Nhịp Điệu Xanh DreamHouse",
+    "id": "ovt-3e69841a-7f86-49",
+    "slug": "khu-dan-cu-586-b81f35",
+    "name": "Khu Dân Cư 586",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -3337,14 +3337,14 @@
     "location": {
       "cityId": "can-tho",
       "districtId": "cai-rang",
-      "address": "Lô DH6 - Đường Nguyễn Minh Quang, Khu nhà ở Nam Long, Hưng Thạnh, Cái Răng, Cần Thơ",
-      "lat": 10.009269,
-      "lng": 105.787231
+      "address": "Phường Phú Thứ, quận Cái Răng, Cần Thơ",
+      "lat": 10.006893,
+      "lng": 105.804848
     },
     "images": [],
-    "popularity": 67,
+    "popularity": 50,
     "source": "overture",
-    "sourceId": "6e3fdf48-75a2-46ab-a28a-9ae6846d9ff7",
+    "sourceId": "3e69841a-7f86-4998-8869-d658a883b014",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -3374,9 +3374,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-3e69841a-7f86-49",
-    "slug": "khu-dan-cu-586-b81f35",
-    "name": "Khu Dân Cư 586",
+    "id": "ovt-e717f5ce-f156-44",
+    "slug": "khu-dan-cu-dieu-hien-cadbd6",
+    "name": "Khu dân cư Diệu Hiền",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -3387,39 +3387,14 @@
     "location": {
       "cityId": "can-tho",
       "districtId": "cai-rang",
-      "address": "Phường Phú Thứ, quận Cái Răng, Cần Thơ",
-      "lat": 10.006893,
-      "lng": 105.804848
+      "address": "Số 20 Đường số 10",
+      "lat": 10.006697,
+      "lng": 105.793556
     },
     "images": [],
-    "popularity": 50,
+    "popularity": 49,
     "source": "overture",
-    "sourceId": "3e69841a-7f86-4998-8869-d658a883b014",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-bf84ff53-3a1e-4c",
-    "slug": "chung-cu-hung-phu-lo-a-3b5c76",
-    "name": "Chung Cư Hưng Phú Lô A",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "cai-rang",
-      "address": "Hưng Phú Block A, Đ. Lý Thái Tổ",
-      "lat": 10.020482,
-      "lng": 105.786362
-    },
-    "images": [],
-    "popularity": 60,
-    "source": "overture",
-    "sourceId": "bf84ff53-3a1e-4c8c-a8f6-b2cfe1f9d611",
+    "sourceId": "e717f5ce-f156-44c5-a253-65e8a36cd4fc",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -3510,31 +3485,6 @@
     "popularity": 55,
     "source": "overture",
     "sourceId": "2862f312-e709-4a29-9c1a-1a319cee582e",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-60a70268-cfe1-44",
-    "slug": "chung-cu-khu-c-mau-than-an-hoa-tp-can-tho-8538f9",
-    "name": "Chung Cư Khu C Mậu Thân, An Hòa, Tp Cần Thơ",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "can-tho",
-      "districtId": "binh-thuy",
-      "address": "Chung Cư C Mậu Thân, An Hòa, Ninh Kiều, Cần Thoe",
-      "lat": 10.045012,
-      "lng": 105.764824
-    },
-    "images": [],
-    "popularity": 65,
-    "source": "overture",
-    "sourceId": "60a70268-cfe1-44dd-83bf-5f705672a3b7",
     "status": "active",
     "updatedAt": "2026-09-13"
   },

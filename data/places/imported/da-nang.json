@@ -2936,9 +2936,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-e5416772-25fb-42",
-    "slug": "can-ho-fhome-da-nang-6fb12c",
-    "name": "Căn Hộ Fhome Đà Nẵng",
+    "id": "ovt-4c8e705b-2ab8-46",
+    "slug": "du-thuyen-7-stars-song-han-da-nang-7b6a06",
+    "name": "Du Thuyền 7 STARS - Sông Hàn - Đà Nẵng",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -2949,14 +2949,14 @@
     "location": {
       "cityId": "da-nang",
       "districtId": "hai-chau",
-      "address": "16 Đường Lý Thường Kiệt",
-      "lat": 16.080275,
-      "lng": 108.220207
+      "address": "Bến Du Thuyền Sông Hàn, đường Bạch Đằng ( ngã 3 Bạch Đằng - Nguyễn Du )",
+      "lat": 16.079155,
+      "lng": 108.22403
     },
     "images": [],
-    "popularity": 82,
+    "popularity": 81,
     "source": "overture",
-    "sourceId": "e5416772-25fb-428c-b02a-5334f942ee1b",
+    "sourceId": "4c8e705b-2ab8-46cf-8cc5-4ad4094f89bb",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -3441,249 +3441,6 @@
     "popularity": 70,
     "source": "overture",
     "sourceId": "e795968d-fbf1-4867-b48a-6d892f145495",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-c1f79761-6f7e-43",
-    "slug": "3d-museum-art-in-paradise-3e9a94",
-    "name": "3D Museum Art in Paradise",
-    "category": "outdoor",
-    "subCategory": "art-museum",
-    "tags": [
-      "ngoai-troi"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "son-tra",
-      "address": "Lô 10 Trần Nhân Tông",
-      "lat": 16.095434,
-      "lng": 108.243118
-    },
-    "images": [],
-    "popularity": 81,
-    "source": "overture",
-    "sourceId": "c1f79761-6f7e-4379-908e-0f82ec79996c",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-80699d26-baa6-47",
-    "slug": "nha-trung-bay-hoang-sa-b5a8e9",
-    "name": "Nhà Trưng bày Hoàng Sa",
-    "category": "outdoor",
-    "subCategory": "museum",
-    "tags": [
-      "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "son-tra",
-      "address": "284 Đường Dương Đình Nghệ",
-      "lat": 16.093466,
-      "lng": 108.25132
-    },
-    "images": [],
-    "popularity": 78,
-    "source": "overture",
-    "sourceId": "80699d26-baa6-475a-9ccd-7070c126b3ef",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-8e90e4d7-7497-4a",
-    "slug": "art-for-life-cafe-dacc0d",
-    "name": "ART for LIFE cafe",
-    "category": "outdoor",
-    "subCategory": "art-gallery",
-    "tags": [
-      "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "son-tra",
-      "address": "106 Đường Lý Nhật Quang",
-      "lat": 16.093765,
-      "lng": 108.226463
-    },
-    "images": [],
-    "popularity": 70,
-    "source": "overture",
-    "sourceId": "8e90e4d7-7497-4ac3-aea1-71c67397a036",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-6214397e-ae34-42",
-    "slug": "man-thai-beach-cho-ca-go-7a5076",
-    "name": "Mân Thái Beach - Chợ Cá Gỗ",
-    "category": "outdoor",
-    "subCategory": "beach",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "son-tra",
-      "address": "Mân Thái Beach - Chợ Cá Gỗ, Hoàng Sa, Mân Thái, Sơn Trà, Đà Nẵng",
-      "lat": 16.089174,
-      "lng": 108.249664
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "6214397e-ae34-428a-a7a2-ff107b5110e1",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-812f5fda-399b-47",
-    "slug": "da-nang-beach-c503a4",
-    "name": "Da Nang Beach",
-    "category": "outdoor",
-    "subCategory": "beach",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "son-tra",
-      "address": "2 Phạm Văn Đồng",
-      "lat": 16.070004,
-      "lng": 108.246948
-    },
-    "images": [],
-    "popularity": 57,
-    "source": "overture",
-    "sourceId": "812f5fda-399b-47ba-ac6d-fb3e1ba3a1de",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-ec9d83db-dae8-4e",
-    "slug": "cong-vien-bien-dong-da-nang-8fa616",
-    "name": "Công Viên Biển Đông Đà Nẵng",
-    "category": "outdoor",
-    "subCategory": "park",
-    "tags": [
-      "ngoai-troi",
-      "cay-xanh"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "son-tra",
-      "address": "Võ Nguyên Giáp, Phước Mỹ, Sơn Trà, Đà Nẵng ",
-      "lat": 16.070189,
-      "lng": 108.245583
-    },
-    "images": [],
-    "popularity": 56,
-    "source": "overture",
-    "sourceId": "ec9d83db-dae8-4e18-b040-79f419418aa6",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-87d2944c-2942-42",
-    "slug": "chua-lien-tri-597758",
-    "name": "Chùa Liên Trì",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "son-tra",
-      "address": "330 Ng. Quyền",
-      "lat": 16.089367,
-      "lng": 108.241753
-    },
-    "images": [],
-    "popularity": 66,
-    "source": "overture",
-    "sourceId": "87d2944c-2942-42a0-93f2-00b7bd9d44ab",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-2c4aef12-b1b5-4b",
-    "slug": "lento-hotel-and-apartment-6a8c1f",
-    "name": "Lento Hotel and Apartment",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "son-tra",
-      "address": "35 Nguyễn Thế Lộc",
-      "lat": 16.07881,
-      "lng": 108.230545
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "2c4aef12-b1b5-4b20-b97e-a6840d459dc4",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-3af4e639-e6ff-49",
-    "slug": "bao-tang-dong-dinh-594035",
-    "name": "Bảo tàng Đồng Đình",
-    "category": "outdoor",
-    "subCategory": "museum",
-    "tags": [
-      "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "son-tra",
-      "address": "Hoàng Sa",
-      "lat": 16.101147,
-      "lng": 108.275726
-    },
-    "images": [],
-    "popularity": 58,
-    "source": "overture",
-    "sourceId": "3af4e639-e6ff-493a-ba4d-201f51079184",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-6db7cfe8-8744-44",
-    "slug": "dong-dinh-museum-f6fb53",
-    "name": "Dong Dinh Museum",
-    "category": "outdoor",
-    "subCategory": "art-museum",
-    "tags": [
-      "ngoai-troi"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "son-tra",
-      "address": "Hoàng Sa",
-      "lat": 16.101202,
-      "lng": 108.275589
-    },
-    "images": [],
-    "popularity": 66,
-    "source": "overture",
-    "sourceId": "6db7cfe8-8744-44c2-aa27-6dbeae1ee4b0",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -5467,252 +5224,6 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-df803c20-2dd2-42",
-    "slug": "the-workshop-12bf2d",
-    "name": "The Workshop",
-    "category": "outdoor",
-    "subCategory": "art-gallery",
-    "tags": [
-      "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "ngu-hanh-son",
-      "address": "35 Đường Chế Lan Viên",
-      "lat": 16.042425,
-      "lng": 108.246262
-    },
-    "images": [],
-    "popularity": 65,
-    "source": "overture",
-    "sourceId": "df803c20-2dd2-4275-8646-95d97ca31251",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-0a30168d-fdca-4d",
-    "slug": "tadaa-workshop-and-studio-9213be",
-    "name": "Tadaa Workshop and Studio",
-    "category": "outdoor",
-    "subCategory": "art-gallery",
-    "tags": [
-      "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "ngu-hanh-son",
-      "address": "43 Phan Thúc Duyện",
-      "lat": 16.053392,
-      "lng": 108.24147
-    },
-    "images": [],
-    "popularity": 69,
-    "source": "overture",
-    "sourceId": "0a30168d-fdca-4d3a-b19a-425a45ce3ff3",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-ee852d13-4465-43",
-    "slug": "pq-art-gallery-tranh-tuong-tranh-son-dau-thu-phap-6ebf8b",
-    "name": "PQ Art Gallery - Tranh tường, Tranh sơn dầu, Thư pháp Đà Nẵng",
-    "category": "outdoor",
-    "subCategory": "art-gallery",
-    "tags": [
-      "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "ngu-hanh-son",
-      "address": "68 Đường Nguyễn Duy Trinh",
-      "lat": 16.044662,
-      "lng": 108.221153
-    },
-    "images": [],
-    "popularity": 58,
-    "source": "overture",
-    "sourceId": "ee852d13-4465-435b-b19d-d61ae2b87863",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-14198fb6-0492-4e",
-    "slug": "dong-huyen-khong-af6e50",
-    "name": "Động Huyền Không",
-    "category": "outdoor",
-    "subCategory": "cave",
-    "tags": [
-      "ngoai-troi"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "ngu-hanh-son",
-      "address": "Huyền Trân Công Chúa",
-      "lat": 16.004107,
-      "lng": 108.26265
-    },
-    "images": [],
-    "popularity": 58,
-    "source": "overture",
-    "sourceId": "14198fb6-0492-4e75-b517-d9798eed8e0e",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-41d52a3c-c865-41",
-    "slug": "bai-tam-non-nuoc-94a982",
-    "name": "Bãi Tắm Non Nước",
-    "category": "outdoor",
-    "subCategory": "beach",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "ngu-hanh-son",
-      "address": "Non Nước",
-      "lat": 16.002804,
-      "lng": 108.269989
-    },
-    "images": [],
-    "popularity": 66,
-    "source": "overture",
-    "sourceId": "41d52a3c-c865-41d7-804f-4c254e80ec48",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-797108e8-1af1-48",
-    "slug": "my-khe-beach-d66c6c",
-    "name": "My Khe Beach",
-    "category": "outdoor",
-    "subCategory": "beach",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "ngu-hanh-son",
-      "address": "48 Đường An Thượng 1",
-      "lat": 16.055405,
-      "lng": 108.248352
-    },
-    "images": [],
-    "popularity": 60,
-    "source": "overture",
-    "sourceId": "797108e8-1af1-48b3-b2fe-45d906034725",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-79926780-6229-46",
-    "slug": "dong-am-phu-54e74b",
-    "name": "Động Âm Phủ",
-    "category": "outdoor",
-    "subCategory": "buddhist-temple",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "yen-tinh"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "ngu-hanh-son",
-      "address": "Hòn Thủy Sơn",
-      "lat": 16.003109,
-      "lng": 108.26403
-    },
-    "images": [],
-    "popularity": 58,
-    "source": "overture",
-    "sourceId": "79926780-6229-46a3-880c-f73dc9acfad0",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-5b4afa28-8f54-4f",
-    "slug": "apartment-seaview-can-ho-muong-thanh-66d168",
-    "name": "Apartment SeaView - Căn Hộ Mường Thanh",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "ngu-hanh-son",
-      "address": "51 Đường Trần Bạch Đằng",
-      "lat": 16.053009,
-      "lng": 108.246758
-    },
-    "images": [],
-    "popularity": 82,
-    "source": "overture",
-    "sourceId": "5b4afa28-8f54-4fe8-a3e4-85cf53d2863b",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-2f1b7c68-b345-44",
-    "slug": "san-pham-da-my-nghe-cong-t-tnhh-hoang-le-nam-a5bd68",
-    "name": "Sản phẩm đá mỹ nghệ Công T TNHH Hoàng Lê Nam",
-    "category": "outdoor",
-    "subCategory": "art-gallery",
-    "tags": [
-      "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "ngu-hanh-son",
-      "address": "215 Đường Mai Đăng Chơn",
-      "lat": 15.991489,
-      "lng": 108.249504
-    },
-    "images": [],
-    "popularity": 57,
-    "source": "overture",
-    "sourceId": "2f1b7c68-b345-4448-80bf-eba4351403bc",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-93d54bee-dab6-4b",
-    "slug": "olive-gallery-593b2d",
-    "name": "Olive Gallery",
-    "category": "outdoor",
-    "subCategory": "art-gallery",
-    "tags": [
-      "ngoai-troi",
-      "nghe-thuat",
-      "trong-nha"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "ngu-hanh-son",
-      "address": "Lô 2 - B3.75",
-      "lat": 15.973043,
-      "lng": 108.266029
-    },
-    "images": [],
-    "popularity": 66,
-    "source": "overture",
-    "sourceId": "93d54bee-dab6-4bc4-a8ce-e7913d621be9",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
     "id": "ovt-2b887c33-ec36-4f",
     "slug": "khu-vui-choi-tre-em-happy-0f0201",
     "name": "Khu vui chơi trẻ em Happy",
@@ -5998,6 +5509,31 @@
     "updatedAt": "2026-09-13"
   },
   {
+    "id": "ovt-3fa39a0f-3370-43",
+    "slug": "thu-mua-xac-laptop-dien-thoai-gia-cao-tai-da-nang-2dcfc1",
+    "name": "Thu mua xác Laptop - Điện Thoại Giá Cao tại Đà Nẵng LH za.lo 0359030133",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "lien-chieu",
+      "address": "317/22 âu cơ thành phố Đà Nẵng ",
+      "lat": 16.073179,
+      "lng": 108.14579
+    },
+    "images": [],
+    "popularity": 68,
+    "source": "overture",
+    "sourceId": "3fa39a0f-3370-43d2-afe6-4500f331a1df",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
     "id": "ovt-255e9dbb-1506-49",
     "slug": "khu-vui-choi-tre-em-hoa-hiep-bac-1fc355",
     "name": "Khu Vui Chơi Trẻ Em Hòa Hiệp Bắc",
@@ -6070,31 +5606,6 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-3fa39a0f-3370-43",
-    "slug": "thu-mua-xac-laptop-dien-thoai-gia-cao-tai-da-nang-2dcfc1",
-    "name": "Thu mua xác Laptop - Điện Thoại Giá Cao tại Đà Nẵng LH za.lo 0359030133",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "lien-chieu",
-      "address": "317/22 âu cơ thành phố Đà Nẵng ",
-      "lat": 16.073179,
-      "lng": 108.14579
-    },
-    "images": [],
-    "popularity": 68,
-    "source": "overture",
-    "sourceId": "3fa39a0f-3370-43d2-afe6-4500f331a1df",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
     "id": "ovt-72d6de8b-52c5-4d",
     "slug": "hoamy-church-eb011f",
     "name": "HOAMY Church",
@@ -6120,30 +5631,6 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-2814dfee-a751-4f",
-    "slug": "hon-non-bo-ho-ca-koi-hoang-long-da-nang-f7f0d2",
-    "name": "Hòn non bộ hồ cá Koi Hoàng Long Đà Nẵng",
-    "category": "outdoor",
-    "subCategory": "lake",
-    "tags": [
-      "ngoai-troi",
-      "view-dep"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "lien-chieu",
-      "address": "Đối diện 252 Hoàng Thị Loan",
-      "lat": 16.03298,
-      "lng": 108.245537
-    },
-    "images": [],
-    "popularity": 46,
-    "source": "overture",
-    "sourceId": "2814dfee-a751-4f3d-bc1a-22e7609b04bf",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
     "id": "ovt-0eb69653-6381-49",
     "slug": "chua-quang-minh-13f369",
     "name": "Chùa Quang Minh",
@@ -6165,6 +5652,30 @@
     "popularity": 59,
     "source": "overture",
     "sourceId": "0eb69653-6381-49e7-91e7-d4100a782a5d",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2814dfee-a751-4f",
+    "slug": "hon-non-bo-ho-ca-koi-hoang-long-da-nang-f7f0d2",
+    "name": "Hòn non bộ hồ cá Koi Hoàng Long Đà Nẵng",
+    "category": "outdoor",
+    "subCategory": "lake",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "lien-chieu",
+      "address": "Đối diện 252 Hoàng Thị Loan",
+      "lat": 16.03298,
+      "lng": 108.245537
+    },
+    "images": [],
+    "popularity": 46,
+    "source": "overture",
+    "sourceId": "2814dfee-a751-4f3d-bc1a-22e7609b04bf",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -6342,9 +5853,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-d67e8ec0-8190-46",
-    "slug": "can-ho-hoang-anh-gia-lai-da-nang-491bd1",
-    "name": "Căn Hộ Hoàng Anh Gia Lai Đà Nẵng",
+    "id": "ovt-67e331c6-d218-41",
+    "slug": "khoa-van-tay-da-nang-bcc533",
+    "name": "Khoá Vân Tay Đà Nẵng",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -6355,14 +5866,14 @@
     "location": {
       "cityId": "da-nang",
       "districtId": "thanh-khe",
-      "address": "72 Đường Hàm Nghi",
-      "lat": 16.062117,
-      "lng": 108.210175
+      "address": "85 Đường Nguyễn Phước Thái",
+      "lat": 16.059238,
+      "lng": 108.182037
     },
     "images": [],
-    "popularity": 78,
+    "popularity": 59,
     "source": "overture",
-    "sourceId": "d67e8ec0-8190-4631-988b-419eac9f3721",
+    "sourceId": "67e331c6-d218-41a9-a8a9-829c22df937b",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -6392,9 +5903,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-1221a1d1-4f68-41",
-    "slug": "chung-cu-hoang-anh-gia-lai-15f112",
-    "name": "Chung cư Hoàng Anh Gia Lai",
+    "id": "ovt-d02fef8e-1519-4f",
+    "slug": "hoa-sen-da-nang-829e42",
+    "name": "Hoa Sen Đà Nẵng",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -6405,14 +5916,14 @@
     "location": {
       "cityId": "da-nang",
       "districtId": "thanh-khe",
-      "address": "72 Hàm Nghi",
-      "lat": 16.062439,
-      "lng": 108.210419
+      "address": "64/6 Đường Lê Đình Lý, tp Đà Nẵng",
+      "lat": 16.056959,
+      "lng": 108.211243
     },
     "images": [],
-    "popularity": 66,
+    "popularity": 48,
     "source": "overture",
-    "sourceId": "1221a1d1-4f68-416e-8a22-9877d25d9aff",
+    "sourceId": "d02fef8e-1519-4fe2-a51e-e37ddeacd6da",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -6442,9 +5953,9 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-93da83b5-f592-4c",
-    "slug": "phu-gia-compound-apartment-da-nang-da-nang-1701d9",
-    "name": "Phú Gia Compound Apartment Đà Nẵng | Da Nang",
+    "id": "ovt-53f3e843-a676-49",
+    "slug": "cong-ty-cp-dich-vu-bao-ve-sai-gon-nam-chinh-truc-d-e57905",
+    "name": "Công ty CP Dịch vụ Bảo vệ Sài Gòn Nam Chính Trực Đà Nẵng- Saigon Security",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
     "tags": [
@@ -6455,14 +5966,260 @@
     "location": {
       "cityId": "da-nang",
       "districtId": "thanh-khe",
-      "address": "144 Ông Ích Khiêm",
-      "lat": 16.074366,
-      "lng": 108.212471
+      "address": "1 Đường Lê Quang Sung",
+      "lat": 16.069418,
+      "lng": 108.199936
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "53f3e843-a676-498e-b287-37c28f64422b",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-df803c20-2dd2-42",
+    "slug": "the-workshop-12bf2d",
+    "name": "The Workshop",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "ngu-hanh-son",
+      "address": "35 Đường Chế Lan Viên",
+      "lat": 16.042425,
+      "lng": 108.246262
     },
     "images": [],
     "popularity": 65,
     "source": "overture",
-    "sourceId": "93da83b5-f592-4cb7-b242-c1e3b3fd458c",
+    "sourceId": "df803c20-2dd2-4275-8646-95d97ca31251",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-0a30168d-fdca-4d",
+    "slug": "tadaa-workshop-and-studio-9213be",
+    "name": "Tadaa Workshop and Studio",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "ngu-hanh-son",
+      "address": "43 Phan Thúc Duyện",
+      "lat": 16.053392,
+      "lng": 108.24147
+    },
+    "images": [],
+    "popularity": 69,
+    "source": "overture",
+    "sourceId": "0a30168d-fdca-4d3a-b19a-425a45ce3ff3",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ee852d13-4465-43",
+    "slug": "pq-art-gallery-tranh-tuong-tranh-son-dau-thu-phap-6ebf8b",
+    "name": "PQ Art Gallery - Tranh tường, Tranh sơn dầu, Thư pháp Đà Nẵng",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "ngu-hanh-son",
+      "address": "68 Đường Nguyễn Duy Trinh",
+      "lat": 16.044662,
+      "lng": 108.221153
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "ee852d13-4465-435b-b19d-d61ae2b87863",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-14198fb6-0492-4e",
+    "slug": "dong-huyen-khong-af6e50",
+    "name": "Động Huyền Không",
+    "category": "outdoor",
+    "subCategory": "cave",
+    "tags": [
+      "ngoai-troi"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "ngu-hanh-son",
+      "address": "Huyền Trân Công Chúa",
+      "lat": 16.004107,
+      "lng": 108.26265
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "14198fb6-0492-4e75-b517-d9798eed8e0e",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-41d52a3c-c865-41",
+    "slug": "bai-tam-non-nuoc-94a982",
+    "name": "Bãi Tắm Non Nước",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "ngu-hanh-son",
+      "address": "Non Nước",
+      "lat": 16.002804,
+      "lng": 108.269989
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "41d52a3c-c865-41d7-804f-4c254e80ec48",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-797108e8-1af1-48",
+    "slug": "my-khe-beach-d66c6c",
+    "name": "My Khe Beach",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "ngu-hanh-son",
+      "address": "48 Đường An Thượng 1",
+      "lat": 16.055405,
+      "lng": 108.248352
+    },
+    "images": [],
+    "popularity": 60,
+    "source": "overture",
+    "sourceId": "797108e8-1af1-48b3-b2fe-45d906034725",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-79926780-6229-46",
+    "slug": "dong-am-phu-54e74b",
+    "name": "Động Âm Phủ",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "ngu-hanh-son",
+      "address": "Hòn Thủy Sơn",
+      "lat": 16.003109,
+      "lng": 108.26403
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "79926780-6229-46a3-880c-f73dc9acfad0",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-4b456395-eb06-4e",
+    "slug": "aloka-suite-1aea7a",
+    "name": "Aloka Suite",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "ngu-hanh-son",
+      "address": "57 Hoàng Kế Viêm",
+      "lat": 16.048615,
+      "lng": 108.242592
+    },
+    "images": [],
+    "popularity": 72,
+    "source": "overture",
+    "sourceId": "4b456395-eb06-4e6a-99d0-732ec6af7400",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2f1b7c68-b345-44",
+    "slug": "san-pham-da-my-nghe-cong-t-tnhh-hoang-le-nam-a5bd68",
+    "name": "Sản phẩm đá mỹ nghệ Công T TNHH Hoàng Lê Nam",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "ngu-hanh-son",
+      "address": "215 Đường Mai Đăng Chơn",
+      "lat": 15.991489,
+      "lng": 108.249504
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "2f1b7c68-b345-4448-80bf-eba4351403bc",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-93d54bee-dab6-4b",
+    "slug": "olive-gallery-593b2d",
+    "name": "Olive Gallery",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "ngu-hanh-son",
+      "address": "Lô 2 - B3.75",
+      "lat": 15.973043,
+      "lng": 108.266029
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "93d54bee-dab6-4bc4-a8ce-e7913d621be9",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -7132,6 +6889,249 @@
     "popularity": 53,
     "source": "overture",
     "sourceId": "c53437e3-2b1b-4580-8cb0-1e4e70583c9f",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-c1f79761-6f7e-43",
+    "slug": "3d-museum-art-in-paradise-3e9a94",
+    "name": "3D Museum Art in Paradise",
+    "category": "outdoor",
+    "subCategory": "art-museum",
+    "tags": [
+      "ngoai-troi"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "son-tra",
+      "address": "Lô 10 Trần Nhân Tông",
+      "lat": 16.095434,
+      "lng": 108.243118
+    },
+    "images": [],
+    "popularity": 81,
+    "source": "overture",
+    "sourceId": "c1f79761-6f7e-4379-908e-0f82ec79996c",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-80699d26-baa6-47",
+    "slug": "nha-trung-bay-hoang-sa-b5a8e9",
+    "name": "Nhà Trưng bày Hoàng Sa",
+    "category": "outdoor",
+    "subCategory": "museum",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "son-tra",
+      "address": "284 Đường Dương Đình Nghệ",
+      "lat": 16.093466,
+      "lng": 108.25132
+    },
+    "images": [],
+    "popularity": 78,
+    "source": "overture",
+    "sourceId": "80699d26-baa6-475a-9ccd-7070c126b3ef",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-8e90e4d7-7497-4a",
+    "slug": "art-for-life-cafe-dacc0d",
+    "name": "ART for LIFE cafe",
+    "category": "outdoor",
+    "subCategory": "art-gallery",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "son-tra",
+      "address": "106 Đường Lý Nhật Quang",
+      "lat": 16.093765,
+      "lng": 108.226463
+    },
+    "images": [],
+    "popularity": 70,
+    "source": "overture",
+    "sourceId": "8e90e4d7-7497-4ac3-aea1-71c67397a036",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6214397e-ae34-42",
+    "slug": "man-thai-beach-cho-ca-go-7a5076",
+    "name": "Mân Thái Beach - Chợ Cá Gỗ",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "son-tra",
+      "address": "Mân Thái Beach - Chợ Cá Gỗ, Hoàng Sa, Mân Thái, Sơn Trà, Đà Nẵng",
+      "lat": 16.089174,
+      "lng": 108.249664
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "6214397e-ae34-428a-a7a2-ff107b5110e1",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-812f5fda-399b-47",
+    "slug": "da-nang-beach-c503a4",
+    "name": "Da Nang Beach",
+    "category": "outdoor",
+    "subCategory": "beach",
+    "tags": [
+      "ngoai-troi",
+      "view-dep"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "son-tra",
+      "address": "2 Phạm Văn Đồng",
+      "lat": 16.070004,
+      "lng": 108.246948
+    },
+    "images": [],
+    "popularity": 57,
+    "source": "overture",
+    "sourceId": "812f5fda-399b-47ba-ac6d-fb3e1ba3a1de",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-ec9d83db-dae8-4e",
+    "slug": "cong-vien-bien-dong-da-nang-8fa616",
+    "name": "Công Viên Biển Đông Đà Nẵng",
+    "category": "outdoor",
+    "subCategory": "park",
+    "tags": [
+      "ngoai-troi",
+      "cay-xanh"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "son-tra",
+      "address": "Võ Nguyên Giáp, Phước Mỹ, Sơn Trà, Đà Nẵng ",
+      "lat": 16.070189,
+      "lng": 108.245583
+    },
+    "images": [],
+    "popularity": 56,
+    "source": "overture",
+    "sourceId": "ec9d83db-dae8-4e18-b040-79f419418aa6",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e3db1345-9351-4e",
+    "slug": "hiyori-garden-tower-09129a",
+    "name": "Hiyori Garden Tower",
+    "category": "outdoor",
+    "subCategory": "landmark-and-historical-building",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "chup-anh"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "son-tra",
+      "address": "2 Đường Võ Văn Kiệt",
+      "lat": 16.061258,
+      "lng": 108.235649
+    },
+    "images": [],
+    "popularity": 78,
+    "source": "overture",
+    "sourceId": "e3db1345-9351-4e0c-a1ae-89959b754b71",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-87d2944c-2942-42",
+    "slug": "chua-lien-tri-597758",
+    "name": "Chùa Liên Trì",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "son-tra",
+      "address": "330 Ng. Quyền",
+      "lat": 16.089367,
+      "lng": 108.241753
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "87d2944c-2942-42a0-93f2-00b7bd9d44ab",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-3af4e639-e6ff-49",
+    "slug": "bao-tang-dong-dinh-594035",
+    "name": "Bảo tàng Đồng Đình",
+    "category": "outdoor",
+    "subCategory": "museum",
+    "tags": [
+      "ngoai-troi",
+      "nghe-thuat",
+      "trong-nha"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "son-tra",
+      "address": "Hoàng Sa",
+      "lat": 16.101147,
+      "lng": 108.275726
+    },
+    "images": [],
+    "popularity": 58,
+    "source": "overture",
+    "sourceId": "3af4e639-e6ff-493a-ba4d-201f51079184",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-6db7cfe8-8744-44",
+    "slug": "dong-dinh-museum-f6fb53",
+    "name": "Dong Dinh Museum",
+    "category": "outdoor",
+    "subCategory": "art-museum",
+    "tags": [
+      "ngoai-troi"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "son-tra",
+      "address": "Hoàng Sa",
+      "lat": 16.101202,
+      "lng": 108.275589
+    },
+    "images": [],
+    "popularity": 66,
+    "source": "overture",
+    "sourceId": "6db7cfe8-8744-44c2-aa27-6dbeae1ee4b0",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -7909,31 +7909,6 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-ed64bdb3-b876-47",
-    "slug": "coffee-ngoi-nha-nho-chung-cu-187522",
-    "name": "Coffee ngôi nhà nhỏ Chung Cư",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "cam-le",
-      "address": "Văn Tiến Dũng",
-      "lat": 16.005039,
-      "lng": 108.212868
-    },
-    "images": [],
-    "popularity": 73,
-    "source": "overture",
-    "sourceId": "ed64bdb3-b876-4767-b1e5-42041537f098",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
     "id": "ovt-05e4e24c-6099-48",
     "slug": "seventh-day-adventist-church-hoa-an-da-nang-966059",
     "name": "Seventh-Day Adventist Church Hoa An_ Da Nang",
@@ -7955,31 +7930,6 @@
     "popularity": 64,
     "source": "overture",
     "sourceId": "05e4e24c-6099-48bc-b5ef-bae7feb9f5e3",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
-    "id": "ovt-d0f423d2-0aa1-46",
-    "slug": "de-men-homestay-da-nang-6931c0",
-    "name": "Dế Mèn Homestay Đà Nẵng",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "cam-le",
-      "address": "135 Đường Thanh Hóa",
-      "lat": 16.048819,
-      "lng": 108.220894
-    },
-    "images": [],
-    "popularity": 71,
-    "source": "overture",
-    "sourceId": "d0f423d2-0aa1-46f5-a608-ab9cbc638e66",
     "status": "active",
     "updatedAt": "2026-09-13"
   },
@@ -8009,31 +7959,6 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-1c20735f-5a44-4e",
-    "slug": "peace-apartment-721576",
-    "name": "Peace apartment",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "da-nang",
-      "districtId": "cam-le",
-      "address": "184Tố Hữu",
-      "lat": 16.034138,
-      "lng": 108.21386
-    },
-    "images": [],
-    "popularity": 59,
-    "source": "overture",
-    "sourceId": "1c20735f-5a44-4e69-aa29-fba309a93161",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
     "id": "ovt-cb636ed1-931f-45",
     "slug": "nha-tho-giao-xu-cam-le-47b9c9",
     "name": "Nhà thờ Giáo xứ Cẩm Lệ",
@@ -8055,6 +7980,81 @@
     "popularity": 64,
     "source": "overture",
     "sourceId": "cb636ed1-931f-45c9-8fac-15bbc70b944a",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-889c038b-ed59-4d",
+    "slug": "chua-an-son-43774b",
+    "name": "Chùa An Sơn",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "cam-le",
+      "address": "7 Đường Nhơn Hòa Phước 2",
+      "lat": 16.046234,
+      "lng": 108.173553
+    },
+    "images": [],
+    "popularity": 59,
+    "source": "overture",
+    "sourceId": "889c038b-ed59-4d1d-b085-f92e6d7b0a60",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-2f28fd87-1d13-4b",
+    "slug": "chua-trung-luong-82b15f",
+    "name": "Chùa Trung Lương",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "cam-le",
+      "address": "Chùa Trung Lương, Hoàng Đình Ái",
+      "lat": 16.002592,
+      "lng": 108.214928
+    },
+    "images": [],
+    "popularity": 73,
+    "source": "overture",
+    "sourceId": "2f28fd87-1d13-4b44-9099-97adf7b82b96",
+    "status": "active",
+    "updatedAt": "2026-09-13"
+  },
+  {
+    "id": "ovt-e5295cb5-0151-47",
+    "slug": "an-son-co-tu-37fc7f",
+    "name": "An Sơn Cổ Tự",
+    "category": "outdoor",
+    "subCategory": "buddhist-temple",
+    "tags": [
+      "ngoai-troi",
+      "lich-su",
+      "yen-tinh"
+    ],
+    "location": {
+      "cityId": "da-nang",
+      "districtId": "cam-le",
+      "address": "15 Đường Nhơn Hòa 8",
+      "lat": 16.046162,
+      "lng": 108.173386
+    },
+    "images": [],
+    "popularity": 71,
+    "source": "overture",
+    "sourceId": "e5295cb5-0151-47c3-b301-7e9613a505c8",
     "status": "active",
     "updatedAt": "2026-09-13"
   },

@@ -9,6 +9,7 @@ import { accentFor } from '@/lib/intents/accents';
 import { ITINERARY_SLOTS, decodeItinerarySlugs } from '@/lib/recommend/itinerary';
 import { CITY_QUERY_KEY, PLAN_QUERY_KEY } from '@/lib/recommend/criteria';
 import { track } from '@/lib/analytics/track';
+import { RouteMap, routeDirectionsUrl } from './RouteMap';
 import { SITE_NAME } from '@/lib/site';
 import { useItineraryCards } from '@/lib/places/useItineraryCards';
 
@@ -27,6 +28,9 @@ export type ItineraryCard = {
   readonly category: Parameters<typeof accentFor>[0];
   readonly districtName: string | null;
   readonly address: string;
+  /** Carried for the route diagram, which draws the stops from their own coordinates. */
+  readonly lat: number;
+  readonly lng: number;
   readonly avgPrice?: number;
   readonly durationMinutes?: readonly [number, number];
   readonly editorialNote?: string;
@@ -58,6 +62,8 @@ export function ItineraryTimeline({ siteUrl }: { siteUrl: string }) {
     const back = intent === 'di-dau' || isTour ? '/di-dau' : '/hen-ho';
     return `${back}/?${params.toString()}`;
   }, [searchParams, isTour]);
+
+  const mapsHref = useMemo(() => routeDirectionsUrl(stops), [stops]);
 
   const totals = useMemo(() => {
     const prices = stops.map((stop) => stop.avgPrice);
@@ -175,6 +181,22 @@ export function ItineraryTimeline({ siteUrl }: { siteUrl: string }) {
           </p>
         ) : null}
       </header>
+
+      {/* The picture before the list: whether this is a tight loop or a trek across
+          town is the first thing anyone wants to know about a route. */}
+      <RouteMap points={stops} />
+
+      {mapsHref ? (
+        <a
+          href={mapsHref}
+          target="_blank"
+          rel="noopener noreferrer"
+          onClick={() => track('route_maps_click', { stops: stops.length })}
+          className="rounded-2xl bg-ink px-5 py-3.5 text-center font-semibold text-cream transition active:scale-[0.98]"
+        >
+          🗺️ Mở cả lộ trình trên Google Maps
+        </a>
+      ) : null}
 
       <ol className="flex flex-col">
         {stops.map((stop, index) => {

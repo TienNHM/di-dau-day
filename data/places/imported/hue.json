@@ -3381,31 +3381,6 @@
     "updatedAt": "2026-09-13"
   },
   {
-    "id": "ovt-d68000b7-d6d4-49",
-    "slug": "can-ho-de-1st-quantum-hue-2ceb09",
-    "name": "Căn Hộ De 1ST Quantum Huế",
-    "category": "outdoor",
-    "subCategory": "landmark-and-historical-building",
-    "tags": [
-      "ngoai-troi",
-      "lich-su",
-      "chup-anh"
-    ],
-    "location": {
-      "cityId": "hue",
-      "districtId": "huong-thuy",
-      "address": "QL49B, Thủy Dương, thị xã Hương Thủy",
-      "lat": 16.44026,
-      "lng": 107.626175
-    },
-    "images": [],
-    "popularity": 55,
-    "source": "overture",
-    "sourceId": "d68000b7-d6d4-496d-ab6b-a75f9904d59f",
-    "status": "active",
-    "updatedAt": "2026-09-13"
-  },
-  {
     "id": "ovt-2b3e2088-7d4b-48",
     "slug": "quan-chez-pub-coffee-58b013",
     "name": "Quán Chez Pub & Coffee",
