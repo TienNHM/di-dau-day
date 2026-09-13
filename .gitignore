@@ -23,6 +23,9 @@ Thumbs.db
 # test
 coverage/
 
+# dish photo contact sheet — rebuild with `pnpm data:photos:sheet`
+sheet.jpg
+
 # generated share images
 public/og/
 

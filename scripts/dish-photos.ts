@@ -31,6 +31,7 @@ import type { Dish } from '../src/lib/dishes/types';
 
 const OUT_DIR = join(process.cwd(), 'public', 'dish');
 const CREDITS_PATH = join(process.cwd(), 'data', 'dish-photos.json');
+const URLS_PATH = join(process.cwd(), 'data', 'dish-photo-urls.json');
 
 const WIDTH = 720;
 const HEIGHT = 480;
@@ -51,17 +52,17 @@ export type DishPhoto = {
  */
 const QUERIES: Record<string, string> = {
   pho: 'pho vietnamese noodle soup',
-  'bun-bo': 'vietnamese beef noodle soup',
+  'bun-bo': 'bun bo hue beef noodle',
   'bun-cha': 'grilled pork noodles vietnamese',
   'com-tam': 'grilled pork rice plate',
-  'com-ga': 'chicken rice plate',
+  'com-ga': 'chicken rice bowl asian',
   'banh-mi': 'banh mi sandwich',
-  'banh-xeo': 'vietnamese pancake',
+  'banh-xeo': 'banh xeo',
   'banh-canh': 'noodle soup bowl',
-  'banh-cuon': 'steamed rice rolls',
-  'hu-tieu': 'vietnamese noodle bowl',
+  'banh-cuon': 'steamed dumpling rolls plate',
+  'hu-tieu': 'pork noodle soup bowl',
   chao: 'rice porridge congee',
-  lau: 'hot pot',
+  lau: 'hotpot soup vegetables table',
   nuong: 'grilled skewers barbecue',
   'hai-san': 'seafood platter',
   oc: 'snails seafood',
@@ -69,15 +70,15 @@ const QUERIES: Record<string, string> = {
   'com-viet': 'vietnamese food rice',
   'mon-han': 'korean food',
   'mon-nhat': 'ramen japanese',
-  sushi: 'sushi',
+  sushi: 'sushi rolls plate salmon',
   'mon-hoa': 'dim sum',
-  'mon-thai': 'thai food',
+  'mon-thai': 'tom yum soup thai dish',
   pizza: 'pizza',
   'ga-ran': 'fried chicken',
   burger: 'burger',
-  'an-vat': 'street food',
+  'an-vat': 'fried snacks skewers plate',
   'ca-phe': 'vietnamese iced coffee',
-  'tra-sua': 'bubble tea',
+  'tra-sua': 'boba milk tea glass',
   tra: 'tea cup',
   'sinh-to': 'smoothie',
   kem: 'ice cream',
@@ -86,6 +87,18 @@ const QUERIES: Record<string, string> = {
   cocktail: 'cocktail',
 };
 
+/**
+ * Hand-picked photographs, and deliberate blanks.
+ *
+ *   "banh-xeo": "https://www.pexels.com/photo/.../12386427/"   use exactly this one
+ *   "banh-canh": null                                          no photo, stop looking
+ *
+ * Search cannot tell a bowl of bánh canh from any other noodle soup, and it kept
+ * confidently labelling the wrong dish. A person looking at a photo and saying "that
+ * one" is the only reliable step in this pipeline, so the file exists to record those
+ * decisions — and `null` records the decision that nothing suitable exists, which
+ * otherwise got silently overturned by the next run.
+ */
 type PexelsPhoto = {
   photographer: string;
   url: string;
@@ -94,6 +107,19 @@ type PexelsPhoto = {
 
 function queryFor(dish: Dish): string {
   return QUERIES[dish.id] ?? dish.name;
+}
+
+/** Pexels URLs end in the photo id: .../healthy-meal-with-sauce-on-plate-12386427/ */
+function photoIdFrom(url: string): string | null {
+  return /-(\d+)\/?$/.exec(url.trim())?.[1] ?? null;
+}
+
+async function fetchById(key: string, id: string): Promise<PexelsPhoto | null> {
+  const response = await fetch(`https://api.pexels.com/v1/photos/${id}`, {
+    headers: { Authorization: key },
+  });
+  if (!response.ok) return null;
+  return (await response.json()) as PexelsPhoto;
 }
 
 async function search(key: string, query: string): Promise<PexelsPhoto[]> {
@@ -115,6 +141,15 @@ async function search(key: string, query: string): Promise<PexelsPhoto[]> {
 }
 
 async function main() {
+  // The key lives in .env, which is gitignored. Loaded here so the command is just
+  // `pnpm data:photos` rather than something with a secret typed on the command line
+  // — shell history is a place secrets should not end up.
+  try {
+    process.loadEnvFile();
+  } catch {
+    // No .env at all is fine; the environment may carry the key directly.
+  }
+
   const key = process.env.PEXELS_API_KEY;
   if (!key) {
     console.error(
@@ -127,23 +162,90 @@ async function main() {
   }
 
   const force = process.argv.includes('--force');
+  /*
+   * `--only=pho,lau` refetches just those dishes.
+   *
+   * Choosing photographs is iterative — a query gets tuned, one dish is refetched and
+   * looked at again — and refetching everything each round would churn images that
+   * were already fine, and burn the quota doing it.
+   */
+  const onlyArg = process.argv.find((arg) => arg.startsWith('--only='));
+  const only = onlyArg ? new Set(onlyArg.slice('--only='.length).split(',')) : null;
+
   await mkdir(OUT_DIR, { recursive: true });
 
   const existing = JSON.parse(await readFile(CREDITS_PATH, 'utf8').catch(() => '[]')) as DishPhoto[];
   const credits = new Map(existing.map((photo) => [photo.dishId, photo]));
 
-  for (const dish of DISHES) {
-    if (!force && credits.has(dish.id)) continue;
+  /*
+   * `--drop=banh-cuon` removes a photo entirely.
+   *
+   * Some dishes have no usable stock photograph — bánh cuốn returns stacks of rice
+   * paper, bánh xèo returns an American breakfast. A wrong picture of a dish is worse
+   * than none: the emoji fallback is honest, and a photo of the wrong food beside the
+   * name is a small lie the reader has no way to catch.
+   */
+  const dropArg = process.argv.find((arg) => arg.startsWith('--drop='));
+  const dropped = new Set(dropArg ? dropArg.slice('--drop='.length).split(',') : []);
+  for (const dishId of dropped) {
+    credits.delete(dishId);
+    await rm(join(OUT_DIR, `${dishId}.jpg`), { force: true });
+    console.log(`  bỏ ảnh: ${dishId}`);
+  }
 
+  /*
+   * Two dishes must not share a photograph.
+   *
+   * "Bún bò" was handed the identical image as "Phở" — both are beef noodle soup and
+   * Pexels ranked the same photo first for each. On the page that reads as a bug, and
+   * worse, as a claim that the two dishes look the same.
+   */
+  const usedPhotos = new Set([...credits.values()].map((photo) => photo.sourceUrl));
+
+  const chosen = JSON.parse(
+    await readFile(URLS_PATH, 'utf8').catch(() => '{}'),
+  ) as Record<string, string | null>;
+
+  for (const dish of DISHES) {
+    // A deliberate blank. Recorded rather than merely absent, so the next run does
+    // not helpfully search again and reinstate the photo that was rejected.
+    if (dish.id in chosen && chosen[dish.id] === null) {
+      credits.delete(dish.id);
+      await rm(join(OUT_DIR, `${dish.id}.jpg`), { force: true });
+      continue;
+    }
+    // A dropped dish must stay dropped: removing its credit then falling into the
+    // fetch below would immediately download the same wrong photo again.
+    if (dropped.has(dish.id)) continue;
+    const isPinned = Boolean(chosen[dish.id]);
+    const alreadyPinned = isPinned && credits.get(dish.id)?.sourceUrl === chosen[dish.id];
+    if (only ? !only.has(dish.id) : !force && credits.has(dish.id) && (!isPinned || alreadyPinned)) {
+      continue;
+    }
+    if (only?.has(dish.id)) usedPhotos.delete(credits.get(dish.id)?.sourceUrl ?? '');
+
+    const pinned = chosen[dish.id];
     let photos: PexelsPhoto[];
     try {
-      photos = await search(key, queryFor(dish));
+      if (pinned) {
+        const id = photoIdFrom(pinned);
+        if (!id) {
+          console.log(`  ${dish.name.padEnd(20)} — link Pexels không đọc được id: ${pinned}`);
+          continue;
+        }
+        const one = await fetchById(key, id);
+        photos = one ? [one] : [];
+      } else {
+        photos = await search(key, queryFor(dish));
+      }
     } catch (error) {
       console.log(`  ${dish.name.padEnd(20)} — ${String(error)}`);
       continue;
     }
 
-    const photo = photos[0];
+    // A pinned photo is used even if another dish already has it: the person choosing
+    // it saw both and meant this one.
+    const photo = pinned ? photos[0] : photos.find((candidate) => !usedPhotos.has(candidate.url));
     const source = photo?.src.large2x ?? photo?.src.large ?? photo?.src.original;
     if (!photo || !source) {
       console.log(`  ${dish.name.padEnd(20)} — không có ảnh nào`);
@@ -166,6 +268,7 @@ async function main() {
     const file = `${dish.id}.jpg`;
     await writeFile(join(OUT_DIR, file), buffer);
 
+    usedPhotos.add(photo.url);
     credits.set(dish.id, {
       dishId: dish.id,
       file,

@@ -29,7 +29,8 @@
     "data:import": "tsx scripts/overture/import.ts",
     "data:taxonomy": "tsx scripts/overture/taxonomy.ts",
     "data:dishes": "tsx scripts/check-dishes.ts",
-    "data:photos": "tsx scripts/dish-photos.ts"
+    "data:photos": "tsx scripts/dish-photos.ts",
+    "data:photos:sheet": "tsx scripts/dish-sheet.ts"
   },
   "dependencies": {
     "next": "^16.3.5",
