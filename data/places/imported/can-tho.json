@@ -1,7 +1,7 @@
 [
   {
     "id": "ovt-3af13e41-ec6c-4d",
-    "slug": "huuvui-chay",
+    "slug": "huuvui-chay-d3edc5",
     "name": "HUUVUI Chay",
     "category": "food",
     "subCategory": "vegetarian-restaurant",
@@ -22,7 +22,7 @@
   },
   {
     "id": "ovt-9b9d946a-5b86-4f",
-    "slug": "noong-nuong",
+    "slug": "noong-nuong-7f1a7d",
     "name": "NoỌNg NƯỚNg",
     "category": "food",
     "subCategory": "barbecue-restaurant",
@@ -43,7 +43,7 @@
   },
   {
     "id": "ovt-651453f0-29f1-4a",
-    "slug": "soowon-bbq-can-tho-vo-van-kiet",
+    "slug": "soowon-bbq-can-tho-vo-van-kiet-dda321",
     "name": "Soowon BBQ Cần Thơ - Võ Văn Kiệt",
     "category": "food",
     "subCategory": "barbecue-restaurant",
@@ -64,7 +64,7 @@
   },
   {
     "id": "ovt-6a8ae38c-2a2e-40",
-    "slug": "nha-hang-sen-vang",
+    "slug": "nha-hang-sen-vang-f68442",
     "name": "Nhà Hàng Sen Vàng",
     "category": "food",
     "subCategory": "seafood-restaurant",
@@ -85,7 +85,7 @@
   },
   {
     "id": "ovt-7392f871-2059-47",
-    "slug": "k-k-crawfish",
+    "slug": "k-k-crawfish-bc4ec2",
     "name": "K & K Crawfish",
     "category": "food",
     "subCategory": "seafood-restaurant",
@@ -106,7 +106,7 @@
   },
   {
     "id": "ovt-c8cba7f9-7d51-4d",
-    "slug": "pizza-hut-ninh-kieu",
+    "slug": "pizza-hut-f302c7",
     "name": "Pizza Hut",
     "category": "food",
     "subCategory": "pizza-restaurant",
@@ -127,7 +127,7 @@
   },
   {
     "id": "ovt-26a102d0-cb29-41",
-    "slug": "la-baguette",
+    "slug": "la-baguette-69e640",
     "name": "La Baguette",
     "category": "food",
     "subCategory": "bakery",
@@ -148,7 +148,7 @@
   },
   {
     "id": "ovt-75ba0207-210c-45",
-    "slug": "quan-ca-loc-an",
+    "slug": "quan-ca-loc-an-ba95f4",
     "name": "Quán Cá Lóc An",
     "category": "food",
     "subCategory": "vietnamese-restaurant",
@@ -169,7 +169,7 @@
   },
   {
     "id": "ovt-36af4a49-2200-43",
-    "slug": "nam-bo-restaurant",
+    "slug": "nam-bo-restaurant-49c1af",
     "name": "Nam Bộ Restaurant",
     "category": "food",
     "subCategory": "vietnamese-restaurant",
@@ -190,7 +190,7 @@
   },
   {
     "id": "ovt-37657e00-00fe-41",
-    "slug": "quan-tuan-phat",
+    "slug": "quan-tuan-phat-cbc606",
     "name": "Quán Tuấn Phát",
     "category": "food",
     "subCategory": "vietnamese-restaurant",
@@ -211,7 +211,7 @@
   },
   {
     "id": "ovt-3847eacd-c541-4b",
-    "slug": "quan-cua-phuc",
+    "slug": "quan-cua-phuc-fa59e4",
     "name": "Quán của Phúc",
     "category": "cafe",
     "subCategory": "smoothie-juice-bar",
@@ -232,7 +232,7 @@
   },
   {
     "id": "ovt-44c35531-cd96-4a",
-    "slug": "tra-sua-qing-chun",
+    "slug": "tra-sua-qing-chun-cf8a62",
     "name": "Trà Sữa Qing Chun",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -253,7 +253,7 @@
   },
   {
     "id": "ovt-d65582a4-ecc5-4f",
-    "slug": "tysakids-store",
+    "slug": "tysakids-store-a04fb8",
     "name": "Tysakids Store",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -274,7 +274,7 @@
   },
   {
     "id": "ovt-dca62b31-68af-40",
-    "slug": "cafe-1985",
+    "slug": "cafe-1985-0efec5",
     "name": "Cafe 1985",
     "category": "cafe",
     "subCategory": "cafe",
@@ -297,7 +297,7 @@
   },
   {
     "id": "ovt-32f181fe-0114-40",
-    "slug": "trung-nguyen-e-coffee-ninh-kieu",
+    "slug": "trung-nguyen-e-coffee-5d4267",
     "name": "Trung Nguyên E-Coffee",
     "category": "cafe",
     "subCategory": "coffee-shop",
@@ -320,7 +320,7 @@
   },
   {
     "id": "ovt-d0bddbe5-f0a4-48",
-    "slug": "trai-cay-gao-dua-2-co",
+    "slug": "trai-cay-gao-dua-2-co-010591",
     "name": "Trái Cây Gáo Dừa - 2 CÔ",
     "category": "cafe",
     "subCategory": "smoothie-juice-bar",
@@ -341,7 +341,7 @@
   },
   {
     "id": "ovt-f7ec88aa-fc7b-47",
-    "slug": "tra-sua-gongcha-can-tho",
+    "slug": "tra-sua-gongcha-can-tho-df8b1a",
     "name": "Trà sữa Gongcha cần thơ",
     "category": "cafe",
     "subCategory": "tea-room",
@@ -364,7 +364,7 @@
   },
   {
     "id": "ovt-02465cf8-44c3-4d",
-    "slug": "phuc-tea-center",
+    "slug": "phuc-tea-center-44d3c9",
     "name": "Phúc Tea Center",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -385,7 +385,7 @@
   },
   {
     "id": "ovt-32ea4462-5ec8-4b",
-    "slug": "trung-nguyen-24-vo-van-kiet",
+    "slug": "trung-nguyen-24-vo-van-kiet-d3b014",
     "name": "Trung Nguyên 24 Võ Văn Kiệt",
     "category": "cafe",
     "subCategory": "coffee-shop",
@@ -408,7 +408,7 @@
   },
   {
     "id": "ovt-207efec2-9add-4d",
-    "slug": "coffee-sport-1",
+    "slug": "coffee-sport-1-2b0897",
     "name": "Coffee Sport 1",
     "category": "cafe",
     "subCategory": "coffee-shop",
@@ -431,7 +431,7 @@
   },
   {
     "id": "ovt-9871fd7f-da86-4f",
-    "slug": "cho-dem-ninh-kieu",
+    "slug": "cho-dem-ninh-kieu-d2f267",
     "name": "Chợ đêm Ninh Kiều",
     "category": "shopping",
     "subCategory": "night-market",
@@ -455,7 +455,7 @@
   },
   {
     "id": "ovt-7c933906-69ac-4b",
-    "slug": "tiem-sen-mang-nong-san-viet-den-tay-nguoi-viet",
+    "slug": "tiem-sen-mang-nong-san-viet-den-tay-nguoi-viet-ce03ce",
     "name": "Tiệm Sen - Mang nông sản Việt đến tay Người Việt",
     "category": "shopping",
     "subCategory": "farmers-market",
@@ -479,7 +479,7 @@
   },
   {
     "id": "ovt-c1aa522e-b2a5-4c",
-    "slug": "nha-hat-tay-do",
+    "slug": "nha-hat-tay-do-f49058",
     "name": "Nhà Hát Tây Đô",
     "category": "shopping",
     "subCategory": "bookstore",
@@ -503,7 +503,7 @@
   },
   {
     "id": "ovt-2748ecfc-5e52-42",
-    "slug": "vincom-plaza-xuan-khanh",
+    "slug": "vincom-plaza-xuan-khanh-732014",
     "name": "Vincom Plaza Xuân Khánh",
     "category": "shopping",
     "subCategory": "shopping-center",
@@ -524,7 +524,7 @@
   },
   {
     "id": "ovt-a3411843-735c-42",
-    "slug": "nha-sach-fahasa-ninh-kieu",
+    "slug": "nha-sach-fahasa-ninh-kieu-c7c0a4",
     "name": "Nhà sách Fahasa Ninh Kiều",
     "category": "shopping",
     "subCategory": "bookstore",
@@ -548,7 +548,7 @@
   },
   {
     "id": "ovt-b9de6e9d-f349-42",
-    "slug": "tttm-sense-city-can-tho",
+    "slug": "tttm-sense-city-can-tho-30286e",
     "name": "TTTM Sense City Cần Thơ",
     "category": "shopping",
     "subCategory": "shopping-center",
@@ -569,7 +569,7 @@
   },
   {
     "id": "ovt-8ae61476-a642-46",
-    "slug": "nha-sach-cong-giao-thien-an",
+    "slug": "nha-sach-cong-giao-thien-an-2bc227",
     "name": "Nhà sách Công Giáo Thiên Ân",
     "category": "shopping",
     "subCategory": "bookstore",
@@ -593,7 +593,7 @@
   },
   {
     "id": "ovt-c0a6490e-cd52-4b",
-    "slug": "cho-can-tho",
+    "slug": "cho-can-tho-e91528",
     "name": "Chợ Cần Thơ",
     "category": "shopping",
     "subCategory": "shopping-center",
@@ -614,7 +614,7 @@
   },
   {
     "id": "ovt-dc43f074-6d09-4d",
-    "slug": "thu-vien-dien-tu-dai-hoc-nam-can-tho",
+    "slug": "thu-vien-dien-tu-dai-hoc-nam-can-tho-bc3963",
     "name": "Thư viện Điện tử Đại học Nam Cần Thơ",
     "category": "shopping",
     "subCategory": "library",
@@ -638,7 +638,7 @@
   },
   {
     "id": "ovt-9ce236c9-8149-4e",
-    "slug": "vincomshophouse-can-tho",
+    "slug": "vincomshophouse-can-tho-896082",
     "name": "Vincomshophouse Cần Thơ",
     "category": "shopping",
     "subCategory": "shopping-center",
@@ -659,7 +659,7 @@
   },
   {
     "id": "ovt-204779ca-0000-47",
-    "slug": "tiem-tra-nuoc-ep-sun-s-tea",
+    "slug": "tiem-tra-nuoc-ep-sun-s-tea-5e7007",
     "name": "Tiệm trà, Nước Ép Sun’s Tea",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -680,7 +680,7 @@
   },
   {
     "id": "ovt-306b62b7-90cf-4a",
-    "slug": "tiem-tam",
+    "slug": "tiem-tam-fd756d",
     "name": "TIỆM TÁM",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -701,7 +701,7 @@
   },
   {
     "id": "ovt-685a348b-202d-4b",
-    "slug": "puka-coffee-tea",
+    "slug": "puka-coffee-tea-446cf9",
     "name": "Puka Coffee & Tea",
     "category": "cafe",
     "subCategory": "cafe",
@@ -724,7 +724,7 @@
   },
   {
     "id": "ovt-eb3c0829-89f1-42",
-    "slug": "ca-phe-369-2",
+    "slug": "ca-phe-369-2-dbf791",
     "name": "Cà Phê 369-2",
     "category": "cafe",
     "subCategory": "cafe",
@@ -747,7 +747,7 @@
   },
   {
     "id": "ovt-a918e9c3-5e8f-42",
-    "slug": "tra-sua-my-cay-sky",
+    "slug": "tra-sua-my-cay-sky-cdd78d",
     "name": "Trà Sữa Mỳ Cay SKY",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -768,7 +768,7 @@
   },
   {
     "id": "ovt-7b96d811-9324-4b",
-    "slug": "noy-kafe",
+    "slug": "noy-kafe-a00cae",
     "name": "Nọy Kafé",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -789,7 +789,7 @@
   },
   {
     "id": "ovt-22f5dc61-f56c-4f",
-    "slug": "cafe-lucky",
+    "slug": "cafe-lucky-e5cbcb",
     "name": "Cafe Lucky",
     "category": "cafe",
     "subCategory": "cafe",
@@ -812,7 +812,7 @@
   },
   {
     "id": "ovt-1268ce4f-3fea-4d",
-    "slug": "san-cau-long-tu-nghia-phong-dien-can-tho",
+    "slug": "san-cau-long-tu-nghia-phong-dien-can-tho-b6273a",
     "name": "Sân cầu lông Tư Nghĩa - Phong Điền Cần Thơ",
     "category": "cafe",
     "subCategory": "coffee-shop",
@@ -835,7 +835,7 @@
   },
   {
     "id": "ovt-3cb30f22-16aa-43",
-    "slug": "dong-dao-coffee",
+    "slug": "dong-dao-coffee-2b5d84",
     "name": "Đồng Dao Coffee",
     "category": "cafe",
     "subCategory": "coffee-shop",
@@ -858,7 +858,7 @@
   },
   {
     "id": "ovt-eaafa943-4d20-46",
-    "slug": "hoa-do-coffee-tea",
+    "slug": "hoa-do-coffee-tea-9bfe4e",
     "name": "Hoa Đô Coffee & Tea",
     "category": "cafe",
     "subCategory": "internet-cafe",
@@ -879,7 +879,7 @@
   },
   {
     "id": "ovt-372e08b2-468a-45",
-    "slug": "cgv-cinemas-vietnam-ninh-kieu",
+    "slug": "cgv-cinemas-vietnam-910871",
     "name": "CGV Cinemas Vietnam",
     "category": "entertainment",
     "subCategory": "cinema",
@@ -903,7 +903,7 @@
   },
   {
     "id": "ovt-da72b39a-3722-4c",
-    "slug": "lotte-cinema-can-tho-ninh-kieu",
+    "slug": "lotte-cinema-can-tho-ninh-kieu-3ca72a",
     "name": "LOTTE Cinema Cần Thơ Ninh Kiều",
     "category": "entertainment",
     "subCategory": "cinema",
@@ -927,7 +927,7 @@
   },
   {
     "id": "ovt-5c3159aa-90fc-46",
-    "slug": "them-nuong",
+    "slug": "them-nuong-9d014e",
     "name": "ThÈM. NƯỚNg",
     "category": "entertainment",
     "subCategory": "beer-garden",
@@ -951,7 +951,7 @@
   },
   {
     "id": "ovt-80ff2aa7-c61a-4b",
-    "slug": "cau-lac-bo-tin-hoc-nha-van-hoa-thieu-nhi-ninh-kieu",
+    "slug": "cau-lac-bo-tin-hoc-nha-van-hoa-thieu-nhi-ninh-kieu-12430b",
     "name": "Câu Lạc Bộ Tin Học - Nhà Văn Hóa Thiếu Nhi Ninh Kiều",
     "category": "entertainment",
     "subCategory": "cultural-center",
@@ -975,7 +975,7 @@
   },
   {
     "id": "ovt-4487e63d-32a2-46",
-    "slug": "san-khau-ca-nhac-v-music-2",
+    "slug": "san-khau-ca-nhac-v-music-2-6488bb",
     "name": "Sân Khấu Ca Nhạc V Music 2",
     "category": "entertainment",
     "subCategory": "music-venue",
@@ -998,7 +998,7 @@
   },
   {
     "id": "ovt-8555993d-e197-46",
-    "slug": "tay-do-model",
+    "slug": "tay-do-model-133116",
     "name": "Tây Đô Model",
     "category": "entertainment",
     "subCategory": "music-venue",
@@ -1021,7 +1021,7 @@
   },
   {
     "id": "ovt-e7c0cae9-3fc1-4a",
-    "slug": "karaoke-kingdom-can-tho",
+    "slug": "karaoke-kingdom-can-tho-4fc26c",
     "name": "Karaoke Kingdom Cần Thơ",
     "category": "entertainment",
     "subCategory": "karaoke",
@@ -1045,7 +1045,7 @@
   },
   {
     "id": "ovt-6bfacd92-d40c-43",
-    "slug": "dreibar-craftbeer-cocktail",
+    "slug": "dreibar-craftbeer-cocktail-ccdb99",
     "name": "Dreibar Craftbeer & Cocktail",
     "category": "entertainment",
     "subCategory": "cocktail-bar",
@@ -1069,7 +1069,7 @@
   },
   {
     "id": "ovt-c5eed16f-43ad-46",
-    "slug": "phuong-lau",
+    "slug": "phuong-lau-326ba2",
     "name": "Phương Lẩu",
     "category": "entertainment",
     "subCategory": "beer-garden",
@@ -1093,7 +1093,7 @@
   },
   {
     "id": "ovt-b3506493-435a-45",
-    "slug": "anh-thy-131",
+    "slug": "anh-thy-131-1403fc",
     "name": "Anh Thy 131",
     "category": "entertainment",
     "subCategory": "music-venue",
@@ -1116,7 +1116,7 @@
   },
   {
     "id": "ovt-096cb65e-adff-4c",
-    "slug": "nha-hang-chay-quy-lien",
+    "slug": "nha-hang-chay-quy-lien-8b6df8",
     "name": "Nhà Hàng Chay Quý Liên",
     "category": "food",
     "subCategory": "vegetarian-restaurant",
@@ -1137,7 +1137,7 @@
   },
   {
     "id": "ovt-916e130d-1f9d-4f",
-    "slug": "bun-rieu-cua-nguyen-long",
+    "slug": "bun-rieu-cua-nguyen-long-69f699",
     "name": "Bún riêu cua Nguyễn Long",
     "category": "food",
     "subCategory": "vietnamese-restaurant",
@@ -1158,7 +1158,7 @@
   },
   {
     "id": "ovt-131a5fea-fec9-40",
-    "slug": "pizza-hut-big-c",
+    "slug": "pizza-hut-big-c-31e5fa",
     "name": "Pizza Hut Big C",
     "category": "food",
     "subCategory": "pizza-restaurant",
@@ -1179,7 +1179,7 @@
   },
   {
     "id": "ovt-c54bb3eb-f769-41",
-    "slug": "nha-hang-han-quoc-yewongak",
+    "slug": "nha-hang-han-quoc-yewongak-194f8c",
     "name": "Nhà hàng Hàn Quốc YEWONGAK",
     "category": "food",
     "subCategory": "chinese-restaurant",
@@ -1200,7 +1200,7 @@
   },
   {
     "id": "ovt-6c58c752-2135-44",
-    "slug": "tiem-tra-banh-lyti",
+    "slug": "tiem-tra-banh-lyti-20ae15",
     "name": "Tiệm Trà Bánh Lyti",
     "category": "food",
     "subCategory": "bakery",
@@ -1221,7 +1221,7 @@
   },
   {
     "id": "ovt-0e22e8a0-65b4-4c",
-    "slug": "he-thong-nha-hang-cay-buoi",
+    "slug": "he-thong-nha-hang-cay-buoi-2f2d07",
     "name": "Hệ Thống Nhà Hàng Cây Bưởi",
     "category": "food",
     "subCategory": "seafood-restaurant",
@@ -1242,7 +1242,7 @@
   },
   {
     "id": "ovt-aa9e736b-0e68-41",
-    "slug": "quang-trung-quan",
+    "slug": "quang-trung-quan-def682",
     "name": "Quang Trung Quán",
     "category": "food",
     "subCategory": "seafood-restaurant",
@@ -1263,7 +1263,7 @@
   },
   {
     "id": "ovt-2534fb6c-933d-44",
-    "slug": "kfc-cai-rang",
+    "slug": "kfc-ef8fab",
     "name": "KFC",
     "category": "food",
     "subCategory": "chicken-restaurant",
@@ -1284,7 +1284,7 @@
   },
   {
     "id": "ovt-095a9591-e34c-4a",
-    "slug": "sushi-sachi",
+    "slug": "sushi-sachi-3bb78d",
     "name": "Sushi SaChi",
     "category": "food",
     "subCategory": "fast-food-restaurant",
@@ -1305,7 +1305,7 @@
   },
   {
     "id": "ovt-6d71ddae-9efa-46",
-    "slug": "oc-cay-can-tho",
+    "slug": "oc-cay-can-tho-1b26a9",
     "name": "Ốc Cay - Cần Thơ",
     "category": "food",
     "subCategory": "indian-restaurant",
@@ -1326,7 +1326,7 @@
   },
   {
     "id": "ovt-18f300e7-11b2-41",
-    "slug": "de-jus-nuoc-ep-gia-hao",
+    "slug": "de-jus-nuoc-ep-gia-hao-01090c",
     "name": "De.jus - nước ép Gia Hảo",
     "category": "cafe",
     "subCategory": "smoothie-juice-bar",
@@ -1347,7 +1347,7 @@
   },
   {
     "id": "ovt-9f464c84-aff0-47",
-    "slug": "tra-sua-phuc-tea-tra-noc",
+    "slug": "tra-sua-phuc-tea-tra-noc-4c1cda",
     "name": "Trà sữa Phúc Tea Trà Nóc",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -1368,7 +1368,7 @@
   },
   {
     "id": "ovt-c4459946-acbb-42",
-    "slug": "xe-tra-nha-vy",
+    "slug": "xe-tra-nha-vy-818b16",
     "name": "Xe Trà Nhà Vy",
     "category": "cafe",
     "subCategory": "tea-room",
@@ -1391,7 +1391,7 @@
   },
   {
     "id": "ovt-b4121d7f-aa44-4e",
-    "slug": "dee-coffee",
+    "slug": "dee-coffee-fb510e",
     "name": "DEE Coffee",
     "category": "cafe",
     "subCategory": "coffee-shop",
@@ -1414,7 +1414,7 @@
   },
   {
     "id": "ovt-79e6ce16-c5a6-43",
-    "slug": "milano-coffee-vo-van-kiet",
+    "slug": "milano-coffee-vo-van-kiet-1a2e1c",
     "name": "Milano Coffee - Võ Văn Kiệt",
     "category": "cafe",
     "subCategory": "coffee-shop",
@@ -1437,7 +1437,7 @@
   },
   {
     "id": "ovt-007b00e4-9754-49",
-    "slug": "phusa-coffee",
+    "slug": "phusa-coffee-50c52e",
     "name": "PhuSa Coffee",
     "category": "cafe",
     "subCategory": "tea-room",
@@ -1460,7 +1460,7 @@
   },
   {
     "id": "ovt-35a62e9b-b509-46",
-    "slug": "tra-sua-may-2",
+    "slug": "tra-sua-may-2-31cfab",
     "name": "Trà sữa Mây 2",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -1481,7 +1481,7 @@
   },
   {
     "id": "ovt-ee6595cd-da1d-43",
-    "slug": "apple-coffee",
+    "slug": "apple-coffee-6f4b66",
     "name": "Apple Coffee",
     "category": "cafe",
     "subCategory": "cafe",
@@ -1504,7 +1504,7 @@
   },
   {
     "id": "ovt-0aef6aea-e597-46",
-    "slug": "coffee-co-ngoan-can-tho",
+    "slug": "coffee-co-ngoan-can-tho-a21ea9",
     "name": "Coffee Cổ Ngoạn Cần Thơ",
     "category": "cafe",
     "subCategory": "cafe",
@@ -1527,7 +1527,7 @@
   },
   {
     "id": "ovt-a2100ffd-5f8f-4d",
-    "slug": "mixue-can-tho-kem-tra-sua-nuoc-hoa-qua-since1997",
+    "slug": "mixue-can-tho-kem-tra-sua-nuoc-hoa-qua-since1997-b9f6bd",
     "name": "Mixue Cần Thơ - Kem, trà sữa, nước hoa quả - Since1997",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -1548,7 +1548,7 @@
   },
   {
     "id": "ovt-62359a09-8dff-4d",
-    "slug": "tra-sua-be-heo",
+    "slug": "tra-sua-be-heo-8b3ead",
     "name": "Trà Sữa Bé Heo",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -1569,7 +1569,7 @@
   },
   {
     "id": "ovt-ef305608-7b13-46",
-    "slug": "banh-bao-tra-sua-nguyen-tam",
+    "slug": "banh-bao-tra-sua-nguyen-tam-f98df8",
     "name": "Bánh Bao Trà Sữa Nguyên Tâm",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -1590,7 +1590,7 @@
   },
   {
     "id": "ovt-50118165-1477-47",
-    "slug": "trung-nguyen-e-coffee-cai-rang",
+    "slug": "trung-nguyen-e-coffee-38470c",
     "name": "Trung Nguyen E-Coffee",
     "category": "cafe",
     "subCategory": "cafe",
@@ -1613,7 +1613,7 @@
   },
   {
     "id": "ovt-8233cd30-cfd5-46",
-    "slug": "hoa-lan-vien-coffee-food",
+    "slug": "hoa-lan-vien-coffee-food-a4fbb7",
     "name": "Hoa Lan Viên Coffee Food",
     "category": "cafe",
     "subCategory": "coffee-shop",
@@ -1636,7 +1636,7 @@
   },
   {
     "id": "ovt-a36eda9d-d57d-4c",
-    "slug": "tra-the-gioi",
+    "slug": "tra-the-gioi-51e27b",
     "name": "Trà Thế Giới",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -1657,7 +1657,7 @@
   },
   {
     "id": "ovt-be7bd677-da36-43",
-    "slug": "tra-sua-suntea",
+    "slug": "tra-sua-suntea-3d3250",
     "name": "Trà Sữa SunTea",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -1678,7 +1678,7 @@
   },
   {
     "id": "ovt-a77487b3-73cd-4f",
-    "slug": "tra-sua-hello-book",
+    "slug": "tra-sua-hello-book-341701",
     "name": "Trà Sữa Hello Book",
     "category": "cafe",
     "subCategory": "tea-room",
@@ -1701,7 +1701,7 @@
   },
   {
     "id": "ovt-f4cf64bc-261d-48",
-    "slug": "tra-sua-nong-duong",
+    "slug": "tra-sua-nong-duong-7c5a4d",
     "name": "Trà Sữa Nọng Đường",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -1722,7 +1722,7 @@
   },
   {
     "id": "ovt-3dc6a922-9b3e-4d",
-    "slug": "xanh-coffee",
+    "slug": "xanh-coffee-265719",
     "name": "Xanh Coffee",
     "category": "cafe",
     "subCategory": "cafe",
@@ -1745,7 +1745,7 @@
   },
   {
     "id": "ovt-134e70c5-6ee7-4d",
-    "slug": "coffee-cali",
+    "slug": "coffee-cali-1b5cf5",
     "name": "Coffee Cali",
     "category": "cafe",
     "subCategory": "cafe",
@@ -1768,7 +1768,7 @@
   },
   {
     "id": "ovt-f1509b0f-6ad9-43",
-    "slug": "padthai-am-thuc-thai-lan",
+    "slug": "padthai-am-thuc-thai-lan-d7ffb0",
     "name": "PadThai - Ẩm Thực Thái Lan",
     "category": "entertainment",
     "subCategory": "beer-garden",
@@ -1792,7 +1792,7 @@
   },
   {
     "id": "ovt-842825be-7804-47",
-    "slug": "chep-phim-4k-3d-can-tho",
+    "slug": "chep-phim-4k-3d-can-tho-1c072d",
     "name": "Chép Phim 4K-3D Cần Thơ",
     "category": "entertainment",
     "subCategory": "cinema",
@@ -1816,7 +1816,7 @@
   },
   {
     "id": "ovt-3f7636a7-3a41-4a",
-    "slug": "galaxy-cafe-and-beer-chill-out",
+    "slug": "galaxy-cafe-and-beer-chill-out-b3edbc",
     "name": "Galaxy Cafe and Beer Chill Out",
     "category": "entertainment",
     "subCategory": "bar",
@@ -1840,7 +1840,7 @@
   },
   {
     "id": "ovt-fe4990f4-e844-4f",
-    "slug": "karaoke-168",
+    "slug": "karaoke-168-09b0e1",
     "name": "Karaoke 168",
     "category": "entertainment",
     "subCategory": "karaoke",
@@ -1864,7 +1864,7 @@
   },
   {
     "id": "ovt-e60c53cc-4099-46",
-    "slug": "the-rum-bar-ctrl-alt-del",
+    "slug": "the-rum-bar-ctrl-alt-del-cac65e",
     "name": "The Rum Bar Ctrl Alt Del",
     "category": "entertainment",
     "subCategory": "bar",
@@ -1888,7 +1888,7 @@
   },
   {
     "id": "ovt-31da47c5-156b-42",
-    "slug": "karaoke-queen-bee",
+    "slug": "karaoke-queen-bee-8adb94",
     "name": "Karaoke Queen Bee",
     "category": "entertainment",
     "subCategory": "karaoke",
@@ -1912,7 +1912,7 @@
   },
   {
     "id": "ovt-c1a9c069-d384-4d",
-    "slug": "candy-kids-coffee",
+    "slug": "candy-kids-coffee-15a9c1",
     "name": "Candy KIDS Coffee",
     "category": "entertainment",
     "subCategory": "arcade",
@@ -1936,7 +1936,7 @@
   },
   {
     "id": "ovt-cfc026b1-40b3-47",
-    "slug": "banh-in-nha-lam",
+    "slug": "banh-in-nha-lam-4852ef",
     "name": "Bánh in nhà làm",
     "category": "food",
     "subCategory": "bakery",
@@ -1957,7 +1957,7 @@
   },
   {
     "id": "ovt-aa8f239c-c6fe-4d",
-    "slug": "bo-to-nam-sanh",
+    "slug": "bo-to-nam-sanh-c43aec",
     "name": "Bò tơ Năm Sánh",
     "category": "food",
     "subCategory": "vietnamese-restaurant",
@@ -1978,7 +1978,7 @@
   },
   {
     "id": "ovt-a9d4a907-0c5f-49",
-    "slug": "thai-nuong",
+    "slug": "thai-nuong-826559",
     "name": "Thái nướng",
     "category": "food",
     "subCategory": "vietnamese-restaurant",
@@ -1999,7 +1999,7 @@
   },
   {
     "id": "ovt-e91f8571-bdb2-45",
-    "slug": "quan-an-la-ghien-so-333-22-vo-van-kiet-tp-can-tho",
+    "slug": "quan-an-la-ghien-so-333-22-vo-van-kiet-tp-can-tho-897aab",
     "name": "Quán Ăn Là Ghiền-Số 333/22 Võ Văn Kiệt, TP Cần Thơ",
     "category": "food",
     "subCategory": "vietnamese-restaurant",
@@ -2020,7 +2020,7 @@
   },
   {
     "id": "ovt-e7477ef9-95ef-48",
-    "slug": "nha-khach-t80",
+    "slug": "nha-khach-t80-562ab5",
     "name": "Nha Khach T80",
     "category": "food",
     "subCategory": "vietnamese-restaurant",
@@ -2041,7 +2041,7 @@
   },
   {
     "id": "ovt-4e840bf5-2903-45",
-    "slug": "mi-cay-itada",
+    "slug": "mi-cay-itada-82b254",
     "name": "Mì Cay ITADA",
     "category": "food",
     "subCategory": "korean-restaurant",
@@ -2062,7 +2062,7 @@
   },
   {
     "id": "ovt-0c88b6a7-c608-4a",
-    "slug": "bo-ne-a-quan",
+    "slug": "bo-ne-a-quan-ae0654",
     "name": "Bò Né A Quắn",
     "category": "food",
     "subCategory": "fast-food-restaurant",
@@ -2083,7 +2083,7 @@
   },
   {
     "id": "ovt-7c44bbd6-0d1f-42",
-    "slug": "am-thuc-lang-tho",
+    "slug": "am-thuc-lang-tho-bee429",
     "name": "Ẩm Thực Làng Thỏ",
     "category": "food",
     "subCategory": "diner",
@@ -2104,7 +2104,7 @@
   },
   {
     "id": "ovt-daf0b426-79bc-4a",
-    "slug": "tiem-banh-sinh-nhat-thi-tran-cay-duong-huyen-phung-hiep-hau",
+    "slug": "tiem-banh-sinh-nhat-thi-tran-cay-duong-huyen-phung-e1a4fe",
     "name": "Tiêm bánh sinh nhật thị trấn Cây Dương huyện Phụng Hiệp - Hậu Giang",
     "category": "food",
     "subCategory": "bakery",
@@ -2125,7 +2125,7 @@
   },
   {
     "id": "ovt-cb12b7f2-bb16-42",
-    "slug": "cho-viec-lam-can-tho",
+    "slug": "cho-viec-lam-can-tho-d8faac",
     "name": "Chợ việc làm Cần Thơ",
     "category": "food",
     "subCategory": "korean-restaurant",
@@ -2146,7 +2146,7 @@
   },
   {
     "id": "ovt-efa46008-e79a-4a",
-    "slug": "hai-san-huong-cang",
+    "slug": "hai-san-huong-cang-5d917b",
     "name": "Hải sản Hương Cảng",
     "category": "food",
     "subCategory": "seafood-restaurant",
@@ -2167,7 +2167,7 @@
   },
   {
     "id": "ovt-06592b65-26b9-4d",
-    "slug": "mi-cay-seoul-binh-minh",
+    "slug": "mi-cay-seoul-binh-minh-71c4bb",
     "name": "Mì Cay SEOUL Bình Minh",
     "category": "food",
     "subCategory": "korean-restaurant",
@@ -2188,7 +2188,7 @@
   },
   {
     "id": "ovt-9307c0c9-d3f3-46",
-    "slug": "khoi-buffet-nuong-lau",
+    "slug": "khoi-buffet-nuong-lau-7a62ef",
     "name": "KHÓI Buffet Nướng Lẩu",
     "category": "food",
     "subCategory": "barbecue-restaurant",
@@ -2209,7 +2209,7 @@
   },
   {
     "id": "ovt-b2451256-be4d-47",
-    "slug": "tiem-tra-chanh-chi-hai",
+    "slug": "tiem-tra-chanh-chi-hai-c49cb9",
     "name": "Tiệm Trà Chanh Chị Hai",
     "category": "food",
     "subCategory": "fast-food-restaurant",
@@ -2230,7 +2230,7 @@
   },
   {
     "id": "ovt-fd5d9e9b-cfac-4c",
-    "slug": "omega-binh-minh",
+    "slug": "omega-binh-minh-2d33a7",
     "name": "Omega Bình Minh",
     "category": "food",
     "subCategory": "noodles-restaurant",
@@ -2251,7 +2251,7 @@
   },
   {
     "id": "ovt-43ff9321-2641-4e",
-    "slug": "quan-an-gia-dinh-ba-tuong",
+    "slug": "quan-an-gia-dinh-ba-tuong-fbed3f",
     "name": "Quan An Gia Dinh Ba Tuong",
     "category": "food",
     "subCategory": "vietnamese-restaurant",
@@ -2272,7 +2272,7 @@
   },
   {
     "id": "ovt-779d6863-2f11-48",
-    "slug": "hung-phat-bakery",
+    "slug": "hung-phat-bakery-f9f8be",
     "name": "Hưng Phát Bakery",
     "category": "food",
     "subCategory": "bakery",
@@ -2293,7 +2293,7 @@
   },
   {
     "id": "ovt-88507ef1-805f-4f",
-    "slug": "am-thuc-thanh-tra",
+    "slug": "am-thuc-thanh-tra-868e79",
     "name": "Ẩm Thực Thanh Trà",
     "category": "food",
     "subCategory": "diner",
@@ -2314,7 +2314,7 @@
   },
   {
     "id": "ovt-8e370188-36f2-48",
-    "slug": "thu-le-room-beauty",
+    "slug": "thu-le-room-beauty-a66ddc",
     "name": "Thư Lê Room Beauty",
     "category": "food",
     "subCategory": "ice-cream-shop",
@@ -2335,7 +2335,7 @@
   },
   {
     "id": "ovt-485e76f0-2e42-41",
-    "slug": "cu-lao-quan-binh-minh",
+    "slug": "cu-lao-quan-binh-minh-86c789",
     "name": "Cù Lao Quán - Bình Minh",
     "category": "food",
     "subCategory": "restaurant",
@@ -2356,7 +2356,7 @@
   },
   {
     "id": "ovt-ef9e459b-91dd-44",
-    "slug": "tiniworld-cai-rang",
+    "slug": "tiniworld-872588",
     "name": "TiNiWorld",
     "category": "shopping",
     "subCategory": "shopping-center",
@@ -2377,7 +2377,7 @@
   },
   {
     "id": "ovt-9fae1caa-05d3-48",
-    "slug": "go-can-tho",
+    "slug": "go-can-tho-360af5",
     "name": "GO Cần Thơ",
     "category": "shopping",
     "subCategory": "shopping-center",
@@ -2398,7 +2398,7 @@
   },
   {
     "id": "ovt-4f8d9ddf-96c3-40",
-    "slug": "shop-me-bap",
+    "slug": "shop-me-bap-c94c94",
     "name": "Shop Mẹ Bắp",
     "category": "shopping",
     "subCategory": "shopping-center",
@@ -2419,7 +2419,7 @@
   },
   {
     "id": "ovt-a184fef8-8a62-4a",
-    "slug": "red-door-wine-boutique",
+    "slug": "red-door-wine-boutique-2b3423",
     "name": "Red door Wine boutique",
     "category": "entertainment",
     "subCategory": "wine-bar",
@@ -2442,7 +2442,7 @@
   },
   {
     "id": "ovt-b244a971-96f8-44",
-    "slug": "karaoke-opera-can-tho",
+    "slug": "karaoke-opera-can-tho-f97479",
     "name": "Karaoke Opera Can Tho",
     "category": "entertainment",
     "subCategory": "karaoke",
@@ -2466,7 +2466,7 @@
   },
   {
     "id": "ovt-19353a2b-0054-4d",
-    "slug": "thi-tran-mua-dong-winter-town-can-tho",
+    "slug": "thi-tran-mua-dong-winter-town-can-tho-b305c9",
     "name": "Thị Trấn Mùa Đông - Winter Town Cần Thơ",
     "category": "entertainment",
     "subCategory": "arcade",
@@ -2490,7 +2490,7 @@
   },
   {
     "id": "ovt-3fd5c4d2-9742-42",
-    "slug": "trai-cay-xo-chuc-ly",
+    "slug": "trai-cay-xo-chuc-ly-4f3cd8",
     "name": "Trái cây xô Chúc Ly",
     "category": "cafe",
     "subCategory": "smoothie-juice-bar",
@@ -2511,7 +2511,7 @@
   },
   {
     "id": "ovt-125fcbd3-b8fd-49",
-    "slug": "tra-sua-phuc-tea-binh-minh",
+    "slug": "tra-sua-phuc-tea-binh-minh-88ebb7",
     "name": "Trà sữa Phúc Tea Bình Minh",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -2532,7 +2532,7 @@
   },
   {
     "id": "ovt-cda5c5b3-a49b-4c",
-    "slug": "mojito-beer-milk-tea-binh-minh",
+    "slug": "mojito-beer-milk-tea-binh-minh-275e4f",
     "name": "Mojito - Beer & Milk Tea Bình Minh",
     "category": "cafe",
     "subCategory": "tea-room",
@@ -2555,7 +2555,7 @@
   },
   {
     "id": "ovt-d1a56fdc-12d0-45",
-    "slug": "gold-tea-binh-minh",
+    "slug": "gold-tea-binh-minh-21315a",
     "name": "Gold Tea Bình Minh",
     "category": "cafe",
     "subCategory": "coffee-shop",
@@ -2578,7 +2578,7 @@
   },
   {
     "id": "ovt-6e99bf58-7cd5-4d",
-    "slug": "cty-thiet-ke-xay-dung-thien-phuoc-thinh",
+    "slug": "cty-thiet-ke-xay-dung-thien-phuoc-thinh-c9fc4e",
     "name": "Cty Thiết Kế Xây Dựng Thiên Phước Thịnh",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -2599,7 +2599,7 @@
   },
   {
     "id": "ovt-a2c43e3f-37b5-49",
-    "slug": "may-may-milktea",
+    "slug": "may-may-milktea-96b22c",
     "name": "Mây Mây Milktea",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -2620,7 +2620,7 @@
   },
   {
     "id": "ovt-d0be8635-e95c-48",
-    "slug": "binh-minh-coffee",
+    "slug": "binh-minh-coffee-80001d",
     "name": "Bình Minh Coffee",
     "category": "cafe",
     "subCategory": "coffee-shop",
@@ -2643,7 +2643,7 @@
   },
   {
     "id": "ovt-dd04e385-e4c0-45",
-    "slug": "1996-s-coffee",
+    "slug": "1996-s-coffee-20daa1",
     "name": "1996's Coffee",
     "category": "cafe",
     "subCategory": "coffee-shop",
@@ -2666,7 +2666,7 @@
   },
   {
     "id": "ovt-7e4a9eb4-2a45-45",
-    "slug": "ca-phe-viva",
+    "slug": "ca-phe-viva-9f62f4",
     "name": "Cà Phê Viva",
     "category": "cafe",
     "subCategory": "coffee-shop",
@@ -2689,7 +2689,7 @@
   },
   {
     "id": "ovt-83321b07-8455-4c",
-    "slug": "tam-viet-special-coffee",
+    "slug": "tam-viet-special-coffee-a94c78",
     "name": "Tâm Việt special coffee",
     "category": "cafe",
     "subCategory": "cafe",
@@ -2712,7 +2712,7 @@
   },
   {
     "id": "ovt-96938a80-3fdc-47",
-    "slug": "museum-of-tarot",
+    "slug": "museum-of-tarot-313191",
     "name": "Museum of Tarot",
     "category": "outdoor",
     "subCategory": "museum",
@@ -2737,7 +2737,7 @@
   },
   {
     "id": "ovt-b98026ca-1147-46",
-    "slug": "bao-tang-can-tho",
+    "slug": "bao-tang-can-tho-662b92",
     "name": "Bảo Tàng Cần Thơ",
     "category": "outdoor",
     "subCategory": "history-museum",
@@ -2760,7 +2760,7 @@
   },
   {
     "id": "ovt-518840d2-fe71-4b",
-    "slug": "tiem-cay-loi-nho",
+    "slug": "tiem-cay-loi-nho-bddf13",
     "name": "Tiệm cây Lối Nhỏ",
     "category": "outdoor",
     "subCategory": "park",
@@ -2784,7 +2784,7 @@
   },
   {
     "id": "ovt-a2e9a87d-aed7-4e",
-    "slug": "tu-bep-inox-he-module-cao-cap-can-tho",
+    "slug": "tu-bep-inox-he-module-cao-cap-can-tho-438d49",
     "name": "Tủ bếp inox hệ module cao cấp Cần Thơ",
     "category": "outdoor",
     "subCategory": "beach",
@@ -2808,7 +2808,7 @@
   },
   {
     "id": "ovt-d6038249-6599-45",
-    "slug": "cong-vien-luu-huu-phuoc",
+    "slug": "cong-vien-luu-huu-phuoc-6a3ac9",
     "name": "Công Viên Lưu Hữu Phước",
     "category": "outdoor",
     "subCategory": "park",
@@ -2832,7 +2832,7 @@
   },
   {
     "id": "ovt-7f0f6230-c4c3-43",
-    "slug": "dai-ngan-center-khu-do-thi-moi-dai-ngan",
+    "slug": "dai-ngan-center-khu-do-thi-moi-dai-ngan-7f0a8f",
     "name": "Đại Ngân Center - Khu đô thị mới Đại Ngân",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
@@ -2857,7 +2857,7 @@
   },
   {
     "id": "ovt-c701ea1e-b236-49",
-    "slug": "nha-tho-duc-me-vo-nhiem",
+    "slug": "nha-tho-duc-me-vo-nhiem-163d3d",
     "name": "Nha Tho Duc Me Vo Nhiem",
     "category": "outdoor",
     "subCategory": "church-cathedral",
@@ -2882,7 +2882,7 @@
   },
   {
     "id": "ovt-bf87ae43-1609-43",
-    "slug": "terrarium-can-tho",
+    "slug": "terrarium-can-tho-dab7fe",
     "name": "Terrarium Cần Thơ",
     "category": "outdoor",
     "subCategory": "park",
@@ -2906,7 +2906,7 @@
   },
   {
     "id": "ovt-c3650233-85a5-48",
-    "slug": "cong-vien-song-hau",
+    "slug": "cong-vien-song-hau-c115b6",
     "name": "Công Viên Sông Hậu",
     "category": "outdoor",
     "subCategory": "park",
@@ -2930,7 +2930,7 @@
   },
   {
     "id": "ovt-5c1b775c-6c35-46",
-    "slug": "cong-vien-hung-vuong",
+    "slug": "cong-vien-hung-vuong-62b4bf",
     "name": "Công viên Hùng Vương",
     "category": "outdoor",
     "subCategory": "park",
@@ -2954,7 +2954,7 @@
   },
   {
     "id": "ovt-a19ea840-80ee-46",
-    "slug": "chua-dong-phuoc",
+    "slug": "chua-dong-phuoc-44c9a8",
     "name": "Chùa Đông Phước",
     "category": "outdoor",
     "subCategory": "buddhist-temple",
@@ -2979,7 +2979,7 @@
   },
   {
     "id": "ovt-badd3955-c6f4-45",
-    "slug": "chua-ba-thien-hau",
+    "slug": "chua-ba-thien-hau-8926c1",
     "name": "Chùa Bà Thiên Hậu",
     "category": "outdoor",
     "subCategory": "church-cathedral",
@@ -3004,7 +3004,7 @@
   },
   {
     "id": "ovt-28d9e930-8b1c-4c",
-    "slug": "chua-dat-set",
+    "slug": "chua-dat-set-5bf13d",
     "name": "Chùa Đất Sét",
     "category": "outdoor",
     "subCategory": "buddhist-temple",
@@ -3029,7 +3029,7 @@
   },
   {
     "id": "ovt-4d4fd5b6-2d42-4f",
-    "slug": "haca-seafood",
+    "slug": "haca-seafood-3fd393",
     "name": "Haca-Seafood",
     "category": "food",
     "subCategory": "seafood-restaurant",
@@ -3050,7 +3050,7 @@
   },
   {
     "id": "ovt-fd96b7fb-9706-48",
-    "slug": "quan-lau-de-xu-nghe-42",
+    "slug": "quan-lau-de-xu-nghe-42-1a379b",
     "name": "Quán Lẩu Dê Xứ Nghệ 42",
     "category": "food",
     "subCategory": "chinese-restaurant",
@@ -3071,7 +3071,7 @@
   },
   {
     "id": "ovt-accc6223-9667-41",
-    "slug": "lo-thit-bo-sil-my",
+    "slug": "lo-thit-bo-sil-my-554282",
     "name": "Lò Thịt Bò Sìl Mỳ",
     "category": "food",
     "subCategory": "restaurant",
@@ -3092,7 +3092,7 @@
   },
   {
     "id": "ovt-4a6f89f1-8df9-41",
-    "slug": "de-tuoi-can-tho-79-si-va-le",
+    "slug": "de-tuoi-can-tho-79-si-va-le-84dadd",
     "name": "Dê Tươi Cần Thơ 79 sĩ và lẽ",
     "category": "food",
     "subCategory": "diner",
@@ -3113,7 +3113,7 @@
   },
   {
     "id": "ovt-fa2c2577-b36a-43",
-    "slug": "du-du-quan",
+    "slug": "du-du-quan-41f1b9",
     "name": "Đu Đủ Quán",
     "category": "food",
     "subCategory": "restaurant",
@@ -3134,7 +3134,7 @@
   },
   {
     "id": "ovt-c83af42d-1167-4d",
-    "slug": "quan-an-gia-dinh-huong-que",
+    "slug": "quan-an-gia-dinh-huong-que-a7f6fc",
     "name": "Quán Ăn gia đình Hương Quê",
     "category": "food",
     "subCategory": "diner",
@@ -3155,7 +3155,7 @@
   },
   {
     "id": "ovt-0e34966a-2c7c-44",
-    "slug": "nha-hang-luu-dong-thanh-tung",
+    "slug": "nha-hang-luu-dong-thanh-tung-180144",
     "name": "Nhà Hàng Lưu Động THANH TÙNG",
     "category": "food",
     "subCategory": "restaurant",
@@ -3176,7 +3176,7 @@
   },
   {
     "id": "ovt-cce9bf1c-c83d-4e",
-    "slug": "bo-ke-tay-nam-bo",
+    "slug": "bo-ke-tay-nam-bo-f6ad0b",
     "name": "Bờ Kè Tây Nam Bộ",
     "category": "outdoor",
     "subCategory": "park",
@@ -3200,7 +3200,7 @@
   },
   {
     "id": "ovt-fb2ec6dc-e07e-4b",
-    "slug": "ao-dai-xinh-can-tho",
+    "slug": "ao-dai-xinh-can-tho-ba91a2",
     "name": "Áo Dài Xinh - Cần Thơ",
     "category": "outdoor",
     "subCategory": "church-cathedral",
@@ -3225,7 +3225,7 @@
   },
   {
     "id": "ovt-367c811b-364d-45",
-    "slug": "khu-do-thi-my-hung-q-cai-rang-tp-can-tho-kdc-hong-loan",
+    "slug": "khu-do-thi-my-hung-q-cai-rang-tp-can-tho-kdc-hong-fafed0",
     "name": "Khu đô thị Mỹ Hưng, Q Cái Răng, TP Cần Thơ - KDC Hồng Loan",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
@@ -3250,7 +3250,7 @@
   },
   {
     "id": "ovt-2ac78905-b05b-46",
-    "slug": "chua-phuoc-thanh",
+    "slug": "chua-phuoc-thanh-044ade",
     "name": "chùa Phước Thạnh",
     "category": "outdoor",
     "subCategory": "buddhist-temple",
@@ -3275,7 +3275,7 @@
   },
   {
     "id": "ovt-34bd2a15-d19f-4b",
-    "slug": "tiem-ca-phe-may",
+    "slug": "tiem-ca-phe-may-ae3555",
     "name": "Tiệm cà phê MAY",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
@@ -3300,7 +3300,7 @@
   },
   {
     "id": "ovt-a26266c9-7e56-4b",
-    "slug": "hoi-thanh-tin-lanh-cai-rang",
+    "slug": "hoi-thanh-tin-lanh-cai-rang-27d962",
     "name": "Hội Thánh Tin Lành Cái Răng",
     "category": "outdoor",
     "subCategory": "church-cathedral",
@@ -3325,7 +3325,7 @@
   },
   {
     "id": "ovt-6e3fdf48-75a2-46",
-    "slug": "chung-cu-nhip-dieu-xanh-dreamhouse",
+    "slug": "chung-cu-nhip-dieu-xanh-dreamhouse-552d0f",
     "name": "Chung Cư Nhịp Điệu Xanh DreamHouse",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
@@ -3350,7 +3350,7 @@
   },
   {
     "id": "ovt-96aa9cfa-3ec0-44",
-    "slug": "chua-phuoc-long-cai-rang",
+    "slug": "chua-phuoc-long-cai-rang-48c8ff",
     "name": "Chùa Phước Long Cái Răng",
     "category": "outdoor",
     "subCategory": "buddhist-temple",
@@ -3375,7 +3375,7 @@
   },
   {
     "id": "ovt-3e69841a-7f86-49",
-    "slug": "khu-dan-cu-586",
+    "slug": "khu-dan-cu-586-b81f35",
     "name": "Khu Dân Cư 586",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
@@ -3400,7 +3400,7 @@
   },
   {
     "id": "ovt-bf84ff53-3a1e-4c",
-    "slug": "chung-cu-hung-phu-lo-a",
+    "slug": "chung-cu-hung-phu-lo-a-3b5c76",
     "name": "Chung Cư Hưng Phú Lô A",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
@@ -3425,7 +3425,7 @@
   },
   {
     "id": "ovt-c11bc58b-5864-49",
-    "slug": "tra-sua-josu",
+    "slug": "tra-sua-josu-024609",
     "name": "Trà sữa JOSU",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -3446,7 +3446,7 @@
   },
   {
     "id": "ovt-ca1b2c0d-faca-46",
-    "slug": "airlands-coffee",
+    "slug": "airlands-coffee-743cff",
     "name": "Airlands Coffee",
     "category": "cafe",
     "subCategory": "cafe",
@@ -3469,7 +3469,7 @@
   },
   {
     "id": "ovt-8a10062f-52c1-41",
-    "slug": "ca-phe-man-thi",
+    "slug": "ca-phe-man-thi-4d8e6a",
     "name": "Cà Phê Mẫn Thi",
     "category": "cafe",
     "subCategory": "cafe",
@@ -3492,7 +3492,7 @@
   },
   {
     "id": "ovt-2862f312-e709-4a",
-    "slug": "cafe-ngoc",
+    "slug": "cafe-ngoc-08ccd5",
     "name": "Cafe Ngọc",
     "category": "cafe",
     "subCategory": "cafe",
@@ -3515,7 +3515,7 @@
   },
   {
     "id": "ovt-60a70268-cfe1-44",
-    "slug": "chung-cu-khu-c-mau-than-an-hoa-tp-can-tho",
+    "slug": "chung-cu-khu-c-mau-than-an-hoa-tp-can-tho-8538f9",
     "name": "Chung Cư Khu C Mậu Thân, An Hòa, Tp Cần Thơ",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
@@ -3540,7 +3540,7 @@
   },
   {
     "id": "ovt-74d39f8a-1a80-47",
-    "slug": "cong-vien-ngan-thuan",
+    "slug": "cong-vien-ngan-thuan-6ecfde",
     "name": "Công Viên Ngân Thuận",
     "category": "outdoor",
     "subCategory": "park",
@@ -3564,7 +3564,7 @@
   },
   {
     "id": "ovt-2c8367c9-bc0a-41",
-    "slug": "chua-long-quang-co-tu",
+    "slug": "chua-long-quang-co-tu-b0bd82",
     "name": "Chùa Long Quang Cổ Tự",
     "category": "outdoor",
     "subCategory": "buddhist-temple",
@@ -3589,7 +3589,7 @@
   },
   {
     "id": "ovt-e6a27022-a3ed-45",
-    "slug": "nha-tho-dong-ho-nguyen-tran",
+    "slug": "nha-tho-dong-ho-nguyen-tran-f1e91a",
     "name": "Nhà Thờ Dòng Họ Nguyễn Trần.",
     "category": "outdoor",
     "subCategory": "church-cathedral",
@@ -3614,7 +3614,7 @@
   },
   {
     "id": "ovt-559df6da-c8ec-47",
-    "slug": "cong-vien-van-hoa-mien-tay",
+    "slug": "cong-vien-van-hoa-mien-tay-fef551",
     "name": "Cong vien Van hoa Mien Tay",
     "category": "family",
     "subCategory": "amusement-park",
@@ -3637,7 +3637,7 @@
   },
   {
     "id": "ovt-ff04f14f-aa57-4d",
-    "slug": "khu-vui-choi-thieu-nhi",
+    "slug": "khu-vui-choi-thieu-nhi-93f2b0",
     "name": "Khu Vui Chơi Thiếu Nhi",
     "category": "family",
     "subCategory": "amusement-park",
@@ -3660,7 +3660,7 @@
   },
   {
     "id": "ovt-dd714b7c-300a-45",
-    "slug": "tiem-banh-kem-thuy-tien-phong-dien",
+    "slug": "tiem-banh-kem-thuy-tien-phong-dien-d5a533",
     "name": "Tiệm Bánh Kem Thủy Tiên, Phong Điền",
     "category": "food",
     "subCategory": "bakery",
@@ -3681,7 +3681,7 @@
   },
   {
     "id": "ovt-4d02eee9-9fb9-4b",
-    "slug": "kdl-ong-de",
+    "slug": "kdl-ong-de-406fc6",
     "name": "KDL Ông Đề",
     "category": "food",
     "subCategory": "vietnamese-restaurant",
@@ -3702,7 +3702,7 @@
   },
   {
     "id": "ovt-01396b11-68d6-42",
-    "slug": "hoa-vien-hoang-phat",
+    "slug": "hoa-vien-hoang-phat-7fa8fd",
     "name": "Hoa Viên Hoàng Phát",
     "category": "food",
     "subCategory": "restaurant",
@@ -3723,7 +3723,7 @@
   },
   {
     "id": "ovt-342c6b7d-bd33-4a",
-    "slug": "nha-hang-luu-dong-kim-lien-gia-binh-dan",
+    "slug": "nha-hang-luu-dong-kim-lien-gia-binh-dan-e6f564",
     "name": "Nhà Hàng Lưu Động KIM LIÊN giá bình dân",
     "category": "food",
     "subCategory": "restaurant",
@@ -3744,7 +3744,7 @@
   },
   {
     "id": "ovt-30cfad64-ac78-49",
-    "slug": "tiem-dtdd-thanh-tu",
+    "slug": "tiem-dtdd-thanh-tu-a23041",
     "name": "Tiem Dtdđ Thanh Tú",
     "category": "food",
     "subCategory": "restaurant",
@@ -3765,7 +3765,7 @@
   },
   {
     "id": "ovt-1500300f-8e0e-45",
-    "slug": "khu-du-lich-lung-cot-cau",
+    "slug": "khu-du-lich-lung-cot-cau-6dd96a",
     "name": "Khu Du Lịch Lung Cột Cầu",
     "category": "family",
     "subCategory": "amusement-park",
@@ -3788,7 +3788,7 @@
   },
   {
     "id": "ovt-e366f649-47a1-46",
-    "slug": "bui-store-pham-ngoc-hung",
+    "slug": "bui-store-pham-ngoc-hung-c03839",
     "name": "Bụi Store - Phạm Ngọc Hưng",
     "category": "shopping",
     "subCategory": "shopping-center",
@@ -3809,7 +3809,7 @@
   },
   {
     "id": "ovt-371b6c5c-e4b9-44",
-    "slug": "san-pham-sach-huu-co",
+    "slug": "san-pham-sach-huu-co-bfbcf2",
     "name": "Sản phẩm sạch hữu cơ",
     "category": "shopping",
     "subCategory": "farmers-market",
@@ -3833,7 +3833,7 @@
   },
   {
     "id": "ovt-3590ecd1-bb43-44",
-    "slug": "chua-phuoc-khanh",
+    "slug": "chua-phuoc-khanh-b80fa6",
     "name": "Chùa Phước Khánh",
     "category": "outdoor",
     "subCategory": "buddhist-temple",
@@ -3858,7 +3858,7 @@
   },
   {
     "id": "ovt-ccc52b08-2c28-4a",
-    "slug": "vuon-du-lich-sinh-thai-phong-dien",
+    "slug": "vuon-du-lich-sinh-thai-phong-dien-f1ad16",
     "name": "Vườn Du Lịch Sinh Thái Phong Điền",
     "category": "outdoor",
     "subCategory": "landmark-and-historical-building",
@@ -3883,7 +3883,7 @@
   },
   {
     "id": "ovt-51639169-859c-43",
-    "slug": "khu-vui-choi-khi-con-can-tho",
+    "slug": "khu-vui-choi-khi-con-can-tho-861742",
     "name": "Khu vui chơi Khỉ Con Cần Thơ",
     "category": "family",
     "subCategory": "amusement-park",
@@ -3906,7 +3906,7 @@
   },
   {
     "id": "ovt-ece6cae9-1bb7-47",
-    "slug": "pk-vape-store",
+    "slug": "pk-vape-store-1f08f7",
     "name": "PK Vape Store",
     "category": "shopping",
     "subCategory": "shopping-center",
@@ -3927,7 +3927,7 @@
   },
   {
     "id": "ovt-90d9a57c-2d02-4b",
-    "slug": "dien-may-quoc-quang",
+    "slug": "dien-may-quoc-quang-30d468",
     "name": "ĐIỆN MÁY QuỐC Quang",
     "category": "shopping",
     "subCategory": "shopping-center",
@@ -3948,7 +3948,7 @@
   },
   {
     "id": "ovt-b287c6f2-5f92-4d",
-    "slug": "nhac-song-quoc-bao",
+    "slug": "nhac-song-quoc-bao-ef1d4e",
     "name": "Nhạc Sống Quốc Bảo",
     "category": "entertainment",
     "subCategory": "music-venue",
@@ -3971,7 +3971,7 @@
   },
   {
     "id": "ovt-20f8703b-ad29-42",
-    "slug": "trung-tam-day-nghe-huong-nghiep-bbc",
+    "slug": "trung-tam-day-nghe-huong-nghiep-bbc-3fc9f7",
     "name": "Trung Tâm Dạy Nghề Hướng Nghiệp BBC",
     "category": "activity",
     "subCategory": "cooking-school",
@@ -3994,7 +3994,7 @@
   },
   {
     "id": "ovt-127cf107-316f-41",
-    "slug": "quang-truong-tay-do-can-tho",
+    "slug": "quang-truong-tay-do-can-tho-54081c",
     "name": "Quảng Trường Tây Đô Cần Thơ",
     "category": "family",
     "subCategory": "amusement-park",
@@ -4017,7 +4017,7 @@
   },
   {
     "id": "ovt-9ee215a2-5949-47",
-    "slug": "pho-trang",
+    "slug": "pho-trang-d7d54f",
     "name": "Phở Trang",
     "category": "food",
     "subCategory": "vietnamese-restaurant",
@@ -4038,7 +4038,7 @@
   },
   {
     "id": "ovt-4b44ba36-290c-46",
-    "slug": "quan-pho-vi-da",
+    "slug": "quan-pho-vi-da-584c37",
     "name": "Quán Phở Vĩ Dạ",
     "category": "food",
     "subCategory": "restaurant",
@@ -4059,7 +4059,7 @@
   },
   {
     "id": "ovt-4efabe1d-0bbd-48",
-    "slug": "pho-nga-lau-bo-can-tho",
+    "slug": "pho-nga-lau-bo-can-tho-c3522d",
     "name": "Phở NGA - Lẩu bò Cần Thơ",
     "category": "food",
     "subCategory": "vietnamese-restaurant",
@@ -4080,7 +4080,7 @@
   },
   {
     "id": "ovt-959567d4-b225-4e",
-    "slug": "pho-z586",
+    "slug": "pho-z586-96ac4d",
     "name": "Pho Z586",
     "category": "food",
     "subCategory": "vietnamese-restaurant",
@@ -4101,7 +4101,7 @@
   },
   {
     "id": "ovt-71ea15eb-3a90-4b",
-    "slug": "bun-bo-hue-phi-long",
+    "slug": "bun-bo-hue-phi-long-752664",
     "name": "Bún bò huế Phi Long",
     "category": "food",
     "subCategory": "restaurant",
@@ -4122,7 +4122,7 @@
   },
   {
     "id": "ovt-43bc7031-19af-4b",
-    "slug": "bun-bo-hue-song-huong",
+    "slug": "bun-bo-hue-song-huong-1c0e6b",
     "name": "Bún Bò huế Sông hương",
     "category": "food",
     "subCategory": "restaurant",
@@ -4143,7 +4143,7 @@
   },
   {
     "id": "ovt-c8fb1444-1d34-42",
-    "slug": "bay-bun-bo",
+    "slug": "bay-bun-bo-fbbc3f",
     "name": "Bảy bún bò",
     "category": "food",
     "subCategory": "restaurant",
@@ -4164,7 +4164,7 @@
   },
   {
     "id": "ovt-0cfd8ef5-c441-4a",
-    "slug": "bun-bo-hue-huu-tho-2",
+    "slug": "bun-bo-hue-huu-tho-2-cff1cc",
     "name": "Bún bò Huế Hữu Thọ 2",
     "category": "food",
     "subCategory": "restaurant",
@@ -4185,7 +4185,7 @@
   },
   {
     "id": "ovt-32d95aa9-f67b-41",
-    "slug": "bun-bo-hue",
+    "slug": "bun-bo-hue-dd95be",
     "name": "Bún bò huế",
     "category": "food",
     "subCategory": "theme-restaurant",
@@ -4206,7 +4206,7 @@
   },
   {
     "id": "ovt-f5cde7d1-ac9f-4d",
-    "slug": "bun-cha-ha-noi",
+    "slug": "bun-cha-ha-noi-eaee49",
     "name": "Bún Chả Hà Nội",
     "category": "food",
     "subCategory": "restaurant",
@@ -4227,7 +4227,7 @@
   },
   {
     "id": "ovt-f1c48373-c317-41",
-    "slug": "bun-cha-ha-noi-co-kieu",
+    "slug": "bun-cha-ha-noi-co-kieu-67f495",
     "name": "bún chả hà nội cô kiều",
     "category": "food",
     "subCategory": "diner",
@@ -4248,7 +4248,7 @@
   },
   {
     "id": "ovt-7e4a83ce-96b1-44",
-    "slug": "bun-cha-ha-noi-kim-anh",
+    "slug": "bun-cha-ha-noi-kim-anh-100967",
     "name": "Bún Chả Hà Nội Kim Anh",
     "category": "food",
     "subCategory": "restaurant",
@@ -4269,7 +4269,7 @@
   },
   {
     "id": "ovt-65c83738-6ef5-47",
-    "slug": "com-tam-ba-tu",
+    "slug": "com-tam-ba-tu-714874",
     "name": "Cơm Tấm Bà Tư",
     "category": "food",
     "subCategory": "diner",
@@ -4290,7 +4290,7 @@
   },
   {
     "id": "ovt-efadf49b-9d0a-41",
-    "slug": "quan-com-tam-dong-ho",
+    "slug": "quan-com-tam-dong-ho-146553",
     "name": "Quán Cơm Tấm Đông Hồ",
     "category": "food",
     "subCategory": "restaurant",
@@ -4311,7 +4311,7 @@
   },
   {
     "id": "ovt-b872e61c-62ed-45",
-    "slug": "com-tam-long-xuyen-sau-phuong",
+    "slug": "com-tam-long-xuyen-sau-phuong-f6ab25",
     "name": "Cơm Tấm Long Xuyên Sáu Phương",
     "category": "food",
     "subCategory": "theme-restaurant",
@@ -4332,7 +4332,7 @@
   },
   {
     "id": "ovt-0c8661a3-1a24-40",
-    "slug": "com-tam-cay-sung",
+    "slug": "com-tam-cay-sung-a62bda",
     "name": "Cơm Tấm Cây Sung",
     "category": "food",
     "subCategory": "diner",
@@ -4353,7 +4353,7 @@
   },
   {
     "id": "ovt-e1dad1ad-c20f-41",
-    "slug": "com-tam-huynh-de-quan",
+    "slug": "com-tam-huynh-de-quan-6f855a",
     "name": "Cơm Tấm Huynh Đệ Quán",
     "category": "food",
     "subCategory": "diner",
@@ -4374,7 +4374,7 @@
   },
   {
     "id": "ovt-1849eaa3-e6e9-46",
-    "slug": "com-ga-huynh-chau",
+    "slug": "com-ga-huynh-chau-2f0176",
     "name": "Cơm gà Huỳnh Châu",
     "category": "food",
     "subCategory": "restaurant",
@@ -4395,7 +4395,7 @@
   },
   {
     "id": "ovt-519d5e00-e39b-4a",
-    "slug": "quan-com-ga-viet-hoa-1-so-17-duong-de-tham-can-tho-dt-090470",
+    "slug": "quan-com-ga-viet-hoa-1-so-17-duong-de-tham-can-tho-14bc30",
     "name": "Quán Cơm Gà Việt Hoa 1, Số 17 Đường Đề Thám.Cần Thơ.ĐT 0904707476",
     "category": "food",
     "subCategory": "vietnamese-restaurant",
@@ -4416,7 +4416,7 @@
   },
   {
     "id": "ovt-3838c885-9d5e-44",
-    "slug": "com-ga-6-quan",
+    "slug": "com-ga-6-quan-4419f3",
     "name": "Com Ga 6 Quan",
     "category": "food",
     "subCategory": "vietnamese-restaurant",
@@ -4437,7 +4437,7 @@
   },
   {
     "id": "ovt-03ab27d2-f02d-44",
-    "slug": "com-ga-bun-ca-chau-giang",
+    "slug": "com-ga-bun-ca-chau-giang-ca1f29",
     "name": "Cơm Gà - Bún cá Châu Giang",
     "category": "food",
     "subCategory": "restaurant",
@@ -4458,7 +4458,7 @@
   },
   {
     "id": "ovt-09761728-60a9-45",
-    "slug": "com-ga-hung-ky",
+    "slug": "com-ga-hung-ky-8247e7",
     "name": "Cơm Gà Hùng Ký",
     "category": "food",
     "subCategory": "chicken-restaurant",
@@ -4479,7 +4479,7 @@
   },
   {
     "id": "ovt-1eb74182-7b21-44",
-    "slug": "banh-mi-va-cafe-a-t",
+    "slug": "banh-mi-va-cafe-a-t-68103d",
     "name": "Bánh mì và café A.T",
     "category": "cafe",
     "subCategory": "cafe",
@@ -4502,7 +4502,7 @@
   },
   {
     "id": "ovt-1db37273-d901-40",
-    "slug": "tiem-banh-mi-da-beo",
+    "slug": "tiem-banh-mi-da-beo-0b4181",
     "name": "Tiệm Bánh Mì Da Beo",
     "category": "cafe",
     "subCategory": "cafe",
@@ -4525,7 +4525,7 @@
   },
   {
     "id": "ovt-c1756cd8-dd5e-45",
-    "slug": "banh-mi-ca-phe-24-gio",
+    "slug": "banh-mi-ca-phe-24-gio-9d7e7a",
     "name": "Bánh Mì Cà Phê 24 Giờ",
     "category": "food",
     "subCategory": "bakery",
@@ -4546,7 +4546,7 @@
   },
   {
     "id": "ovt-2d7feb9a-2fae-4d",
-    "slug": "banh-mi-huu-hiep",
+    "slug": "banh-mi-huu-hiep-0ba540",
     "name": "Bánh Mì Hữu Hiệp",
     "category": "food",
     "subCategory": "restaurant",
@@ -4567,7 +4567,7 @@
   },
   {
     "id": "ovt-e7e71362-0e73-4f",
-    "slug": "tiem-cafe-banh-mi-vot",
+    "slug": "tiem-cafe-banh-mi-vot-cb4b6c",
     "name": "Tiệm Café & Bánh Mì VỢT",
     "category": "food",
     "subCategory": "bakery",
@@ -4588,7 +4588,7 @@
   },
   {
     "id": "ovt-613570a3-e42b-4b",
-    "slug": "banh-xeo-mai-vang",
+    "slug": "banh-xeo-mai-vang-f39818",
     "name": "Bánh xèo Mai Vàng",
     "category": "food",
     "subCategory": "restaurant",
@@ -4609,7 +4609,7 @@
   },
   {
     "id": "ovt-f5e095f8-4f70-48",
-    "slug": "banh-xeo-tan-dinh",
+    "slug": "banh-xeo-tan-dinh-a837a4",
     "name": "Bánh Xèo Tân Định",
     "category": "food",
     "subCategory": "diner",
@@ -4630,7 +4630,7 @@
   },
   {
     "id": "ovt-a4732e2f-5cc6-4d",
-    "slug": "banh-xeo-7-toi",
+    "slug": "banh-xeo-7-toi-a71523",
     "name": "Bánh Xèo 7 Tới",
     "category": "food",
     "subCategory": "diner",
@@ -4651,7 +4651,7 @@
   },
   {
     "id": "ovt-05aa91b7-db9e-49",
-    "slug": "banh-xeo-phuong-hong-thuy",
+    "slug": "banh-xeo-phuong-hong-thuy-d55f40",
     "name": "Bánh Xèo Phương Hồng Thủy",
     "category": "food",
     "subCategory": "restaurant",
@@ -4672,7 +4672,7 @@
   },
   {
     "id": "ovt-baffd815-188c-47",
-    "slug": "banh-canh-cua-586",
+    "slug": "banh-canh-cua-586-c584c6",
     "name": "Bánh Canh Cua 586",
     "category": "food",
     "subCategory": "restaurant",
@@ -4693,7 +4693,7 @@
   },
   {
     "id": "ovt-30da925e-1540-46",
-    "slug": "banh-canh-cua-ankhanh",
+    "slug": "banh-canh-cua-ankhanh-0b2ea0",
     "name": "Bánh Canh Cua Ankhánh",
     "category": "food",
     "subCategory": "restaurant",
@@ -4714,7 +4714,7 @@
   },
   {
     "id": "ovt-3a931566-dbc2-46",
-    "slug": "banh-canh-cua-tho",
+    "slug": "banh-canh-cua-tho-9ee37a",
     "name": "Bánh canh cua THỐ",
     "category": "food",
     "subCategory": "restaurant",
@@ -4735,7 +4735,7 @@
   },
   {
     "id": "ovt-183562e4-62e1-4b",
-    "slug": "tiem-banh-canh-nha-trang",
+    "slug": "tiem-banh-canh-nha-trang-28fd1b",
     "name": "TiỆM BÁNh Canh Nha Trang",
     "category": "food",
     "subCategory": "restaurant",
@@ -4756,7 +4756,7 @@
   },
   {
     "id": "ovt-499d1912-e0ca-45",
-    "slug": "banh-canh-ghe-minh-hang",
+    "slug": "banh-canh-ghe-minh-hang-50472a",
     "name": "Bánh Canh Ghẹ Minh Hằng",
     "category": "food",
     "subCategory": "diner",
@@ -4777,7 +4777,7 @@
   },
   {
     "id": "ovt-d5a4b7a4-6b45-40",
-    "slug": "quan-phuc-hu-tieu-muc",
+    "slug": "quan-phuc-hu-tieu-muc-dc4fa9",
     "name": "Quán Phúc- Hủ tiếu mực",
     "category": "food",
     "subCategory": "diner",
@@ -4798,7 +4798,7 @@
   },
   {
     "id": "ovt-c6d3d569-0959-45",
-    "slug": "hu-tieu-de-hong-ky",
+    "slug": "hu-tieu-de-hong-ky-c50f63",
     "name": "Hủ tiếu dê Hồng Ký",
     "category": "food",
     "subCategory": "restaurant",
@@ -4819,7 +4819,7 @@
   },
   {
     "id": "ovt-1b36e838-c530-44",
-    "slug": "nhan-quan-hu-tieu-nam-vang",
+    "slug": "nhan-quan-hu-tieu-nam-vang-40d687",
     "name": "Nhân Quán Hủ Tiếu Nam Vang",
     "category": "food",
     "subCategory": "diner",
@@ -4840,7 +4840,7 @@
   },
   {
     "id": "ovt-22569d20-7034-47",
-    "slug": "hu-tieu-nam-vang-bun-goi-da-ngoc-ngan",
+    "slug": "hu-tieu-nam-vang-bun-goi-da-ngoc-ngan-655a9c",
     "name": "Hủ tiếu nam vang - Bún gỏi dà NGỌC NGÂN",
     "category": "food",
     "subCategory": "vietnamese-restaurant",
@@ -4861,7 +4861,7 @@
   },
   {
     "id": "ovt-daf4271a-6a81-4c",
-    "slug": "hu-tieu-mi-sa-dec-kieu-loan-can-tho",
+    "slug": "hu-tieu-mi-sa-dec-kieu-loan-can-tho-8302f9",
     "name": "Hủ Tiếu Mì SA ĐÉC KIỀU LOAN Cần Thơ",
     "category": "food",
     "subCategory": "soup-restaurant",
@@ -4882,7 +4882,7 @@
   },
   {
     "id": "ovt-eca16726-83df-40",
-    "slug": "chao-long-cai-tac-giang-thi-can-tho",
+    "slug": "chao-long-cai-tac-giang-thi-can-tho-33b3aa",
     "name": "Cháo Lòng Cái Tắc Giang Thị | Can Tho",
     "category": "food",
     "subCategory": "restaurant",
@@ -4903,7 +4903,7 @@
   },
   {
     "id": "ovt-24fd93db-8615-44",
-    "slug": "chao-ech-singapore-ninh-kieu",
+    "slug": "chao-ech-singapore-d9663d",
     "name": "Cháo Ếch Singapore",
     "category": "food",
     "subCategory": "restaurant",
@@ -4924,7 +4924,7 @@
   },
   {
     "id": "ovt-0bd02127-d38d-43",
-    "slug": "chao-ga-cau-treo",
+    "slug": "chao-ga-cau-treo-07bdbf",
     "name": "Cháo gà Cầu Treo",
     "category": "food",
     "subCategory": "diner",
@@ -4945,7 +4945,7 @@
   },
   {
     "id": "ovt-415d7964-dd4f-41",
-    "slug": "chao-ech-tran-gia",
+    "slug": "chao-ech-tran-gia-245ac3",
     "name": "Cháo Ếch Trần Gia",
     "category": "food",
     "subCategory": "restaurant",
@@ -4966,7 +4966,7 @@
   },
   {
     "id": "ovt-c6f64e2c-b97f-42",
-    "slug": "chao-ech-singapore-ninh-kieu-2",
+    "slug": "chao-ech-singapore-1692a4",
     "name": "Cháo Ếch Singapore",
     "category": "food",
     "subCategory": "theme-restaurant",
@@ -4987,7 +4987,7 @@
   },
   {
     "id": "ovt-74706ccd-38ea-4f",
-    "slug": "lau-mam-kieu-trinh",
+    "slug": "lau-mam-kieu-trinh-2e7234",
     "name": "Lẩu Mắm Kiều Trinh",
     "category": "food",
     "subCategory": "restaurant",
@@ -5008,7 +5008,7 @@
   },
   {
     "id": "ovt-c468d401-a7ff-4d",
-    "slug": "thich-oc",
+    "slug": "thich-oc-f5840b",
     "name": "Thích Ốc",
     "category": "food",
     "subCategory": "restaurant",
@@ -5029,7 +5029,7 @@
   },
   {
     "id": "ovt-890ece73-0bd4-48",
-    "slug": "oc-mau-than",
+    "slug": "oc-mau-than-8706e8",
     "name": "Ốc Mậu Thân",
     "category": "food",
     "subCategory": "seafood-restaurant",
@@ -5050,7 +5050,7 @@
   },
   {
     "id": "ovt-72ca51bd-67c7-43",
-    "slug": "quan-choen-lau-oc",
+    "slug": "quan-choen-lau-oc-a4ec4f",
     "name": "Quán CHOÉN LẨU & ỐC",
     "category": "food",
     "subCategory": "fast-food-restaurant",
@@ -5071,7 +5071,7 @@
   },
   {
     "id": "ovt-88e34cfe-a6a0-49",
-    "slug": "oc-hat-de-can-tho",
+    "slug": "oc-hat-de-can-tho-e2740f",
     "name": "Ốc Hạt Dẻ Cần Thơ",
     "category": "food",
     "subCategory": "seafood-restaurant",
@@ -5092,7 +5092,7 @@
   },
   {
     "id": "ovt-0f2a3fb4-66e4-4f",
-    "slug": "quan-an-chay-bach-thao",
+    "slug": "quan-an-chay-bach-thao-28b9d0",
     "name": "Quán Ăn Chay Bách Thảo",
     "category": "food",
     "subCategory": "vegetarian-restaurant",
@@ -5113,7 +5113,7 @@
   },
   {
     "id": "ovt-dffb513e-1b9f-4c",
-    "slug": "com-chay-trang-phan",
+    "slug": "com-chay-trang-phan-7d5ac7",
     "name": "Cơm Chay Tràng Phan",
     "category": "food",
     "subCategory": "restaurant",
@@ -5134,7 +5134,7 @@
   },
   {
     "id": "ovt-f257f5fc-2167-46",
-    "slug": "lau-chay-che-ut",
+    "slug": "lau-chay-che-ut-4ab42f",
     "name": "Lẩu Chay Chế Út",
     "category": "food",
     "subCategory": "vegetarian-restaurant",
@@ -5155,7 +5155,7 @@
   },
   {
     "id": "ovt-d5604ce4-5ad6-41",
-    "slug": "seoul-spicy-noodles-can-tho",
+    "slug": "seoul-spicy-noodles-can-tho-f056e4",
     "name": "Seoul Spicy Noodles Can Tho",
     "category": "food",
     "subCategory": "korean-restaurant",
@@ -5176,7 +5176,7 @@
   },
   {
     "id": "ovt-fcbac217-a0c6-4e",
-    "slug": "sushi-tokyo-2-can-tho",
+    "slug": "sushi-tokyo-2-can-tho-71e6b7",
     "name": "Sushi Tokyo 2 Cần Thơ",
     "category": "food",
     "subCategory": "japanese-restaurant",
@@ -5197,7 +5197,7 @@
   },
   {
     "id": "ovt-c03c7403-c661-49",
-    "slug": "sushi-sakura-can-tho",
+    "slug": "sushi-sakura-can-tho-db9265",
     "name": "Sushi Sakura Cần Thơ",
     "category": "food",
     "subCategory": "japanese-restaurant",
@@ -5218,7 +5218,7 @@
   },
   {
     "id": "ovt-568fe097-a2fe-45",
-    "slug": "clam-izakaya-sushi",
+    "slug": "clam-izakaya-sushi-04c16c",
     "name": "Clam Izakaya sushi",
     "category": "food",
     "subCategory": "japanese-restaurant",
@@ -5239,7 +5239,7 @@
   },
   {
     "id": "ovt-4f6ea171-db3d-4b",
-    "slug": "tho-tuyet",
+    "slug": "tho-tuyet-a172a8",
     "name": "Thỏ Tuyết",
     "category": "food",
     "subCategory": "japanese-restaurant",
@@ -5260,7 +5260,7 @@
   },
   {
     "id": "ovt-7043e1cd-0c74-40",
-    "slug": "tiem-com-nhat",
+    "slug": "tiem-com-nhat-39a6cf",
     "name": "Tiệm Cơm Nhật",
     "category": "food",
     "subCategory": "japanese-restaurant",
@@ -5281,7 +5281,7 @@
   },
   {
     "id": "ovt-632fc8d9-0cff-45",
-    "slug": "hay-sushi",
+    "slug": "hay-sushi-5f60ed",
     "name": "Hây Sushi",
     "category": "food",
     "subCategory": "sushi-restaurant",
@@ -5302,7 +5302,7 @@
   },
   {
     "id": "ovt-e207547c-01d2-4e",
-    "slug": "lau-tu-xuyen-ala-king",
+    "slug": "lau-tu-xuyen-ala-king-54ddf1",
     "name": "Lau Tu Xuyen - Ala King",
     "category": "food",
     "subCategory": "chinese-restaurant",
@@ -5323,7 +5323,7 @@
   },
   {
     "id": "ovt-747a7a6f-7265-42",
-    "slug": "hotpot-15-lau-ngon-can-tho",
+    "slug": "hotpot-15-lau-ngon-can-tho-ffdfcb",
     "name": "Hotpot 15 - Lẩu ngon Cần Thơ",
     "category": "food",
     "subCategory": "chinese-restaurant",
@@ -5344,7 +5344,7 @@
   },
   {
     "id": "ovt-4be703ad-f705-4e",
-    "slug": "pad-thai-tomato",
+    "slug": "pad-thai-tomato-65d3aa",
     "name": "Pad Thai Tomato",
     "category": "food",
     "subCategory": "asian-restaurant",
@@ -5365,7 +5365,7 @@
   },
   {
     "id": "ovt-522cf8ee-db6f-4a",
-    "slug": "banh-kep-thai-lan-ori",
+    "slug": "banh-kep-thai-lan-ori-f6382c",
     "name": "Bánh kếp Thái Lan Ori",
     "category": "cafe",
     "subCategory": "cafe",
@@ -5388,7 +5388,7 @@
   },
   {
     "id": "ovt-3051ae93-942f-43",
-    "slug": "lau-thai-chay-tu-dau-2",
+    "slug": "lau-thai-chay-tu-dau-2-3be833",
     "name": "Lẩu thái chay Tư Đậu 2",
     "category": "food",
     "subCategory": "thai-restaurant",
@@ -5409,7 +5409,7 @@
   },
   {
     "id": "ovt-bfec6e36-4a40-46",
-    "slug": "the-pizza-company-sense-city-can-tho",
+    "slug": "the-pizza-company-sense-city-can-tho-79f799",
     "name": "The Pizza Company Sense City Cần Thơ",
     "category": "food",
     "subCategory": "pizza-restaurant",
@@ -5430,7 +5430,7 @@
   },
   {
     "id": "ovt-d5c1dc5b-e515-47",
-    "slug": "pizza-hut-vn",
+    "slug": "pizza-hut-vn-47df69",
     "name": "Pizza Hut VN",
     "category": "food",
     "subCategory": "pizza-restaurant",
@@ -5451,7 +5451,7 @@
   },
   {
     "id": "ovt-1029c758-fb12-43",
-    "slug": "pizza-tasty-and-takoyaki",
+    "slug": "pizza-tasty-and-takoyaki-b09a25",
     "name": "Pizza Tasty and Takoyaki",
     "category": "food",
     "subCategory": "bakery",
@@ -5472,7 +5472,7 @@
   },
   {
     "id": "ovt-93144921-598a-42",
-    "slug": "burger-lam",
+    "slug": "burger-lam-71acef",
     "name": "Burger LAM",
     "category": "food",
     "subCategory": "restaurant",
@@ -5493,7 +5493,7 @@
   },
   {
     "id": "ovt-95530ae9-26ac-4a",
-    "slug": "hari-tea-tra-sua-va-an-vat",
+    "slug": "hari-tea-tra-sua-va-an-vat-c37d73",
     "name": "HARI TEA - Trà Sữa và Ăn Vặt",
     "category": "food",
     "subCategory": "diner",
@@ -5514,7 +5514,7 @@
   },
   {
     "id": "ovt-5a549703-d7ce-40",
-    "slug": "xien-que-panda",
+    "slug": "xien-que-panda-2b9f45",
     "name": "Xiên Que Panda",
     "category": "food",
     "subCategory": "restaurant",
@@ -5535,7 +5535,7 @@
   },
   {
     "id": "ovt-b60dd6fc-a550-41",
-    "slug": "tra-sua-an-vat-a-dzo",
+    "slug": "tra-sua-an-vat-a-dzo-7482a1",
     "name": "Trà sữa ăn vặt A Dzô",
     "category": "cafe",
     "subCategory": "coffee-shop",
@@ -5558,7 +5558,7 @@
   },
   {
     "id": "ovt-598f66a6-fb6c-43",
-    "slug": "pho-an-vat-ben-ninh-kieu",
+    "slug": "pho-an-vat-ben-ninh-kieu-496065",
     "name": "Phố Ăn Vặt Bến Ninh Kiều",
     "category": "food",
     "subCategory": "vietnamese-restaurant",
@@ -5579,7 +5579,7 @@
   },
   {
     "id": "ovt-96e3106d-2a7f-41",
-    "slug": "banh-trang-phoi-suong-dong-xanh-2",
+    "slug": "banh-trang-phoi-suong-dong-xanh-2-e62ea2",
     "name": "Bánh Tráng Phơi Sương Đồng Xanh 2",
     "category": "food",
     "subCategory": "diner",
@@ -5600,7 +5600,7 @@
   },
   {
     "id": "ovt-eb67f197-b0d8-4f",
-    "slug": "tra-sua-su-kem",
+    "slug": "tra-sua-su-kem-3b5d72",
     "name": "Trà Sữa Su Kem",
     "category": "cafe",
     "subCategory": "bubble-tea",
@@ -5621,7 +5621,7 @@
   },
   {
     "id": "ovt-9082b24e-3986-47",
-    "slug": "banh-plan-16-xua",
+    "slug": "banh-plan-16-xua-946a1f",
     "name": "Bánh Plan 16 (xưa)",
     "category": "food",
     "subCategory": "ice-cream-shop",
@@ -5642,7 +5642,7 @@
   },
   {
     "id": "ovt-a72aca9f-ab8f-44",
-    "slug": "kem-dua-con-dao",
+    "slug": "kem-dua-con-dao-8fee9c",
     "name": "Kem Dua Con Dao",
     "category": "food",
     "subCategory": "ice-cream-shop",
@@ -5663,7 +5663,7 @@
   },
   {
     "id": "ovt-abc8f9d2-1ba5-4f",
-    "slug": "deja-vu-cocktail-bar",
+    "slug": "deja-vu-cocktail-bar-805287",
     "name": "Déjà Vu Cocktail Bar",
     "category": "entertainment",
     "subCategory": "cocktail-bar",

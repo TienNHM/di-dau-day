@@ -1,9 +1,12 @@
+'use client';
+
+import { useCallback, useState } from 'react';
 import Link from 'next/link';
-import type { Metadata } from 'next';
 import { PageShell } from '@/components/ui/PageShell';
 import { SiteFooter } from '@/components/ui/SiteFooter';
 import { INTENTS } from '@/lib/intents/registry';
 import { SITE_NAME } from '@/lib/site';
+import { SlugRedirect } from '@/components/places/SlugRedirect';
 
 /**
  * The 404, written for the way people actually arrive at one here.
@@ -17,13 +20,23 @@ import { SITE_NAME } from '@/lib/site';
  * visitor came for placed directly in front of them: another suggestion, one tap away.
  */
 
-export const metadata: Metadata = {
-  title: 'Không tìm thấy trang',
-  // Nothing here is worth a search result, and indexing 404s dilutes the real pages.
-  robots: { index: false, follow: true },
-};
-
 export default function NotFound() {
+  // A stale place link is looked up before anything is said to the visitor: being
+  // told "chỗ này không còn nữa" and then redirected anyway would be worse than a
+  // moment of nothing.
+  const [resolved, setResolved] = useState(false);
+  const giveUp = useCallback(() => setResolved(true), []);
+
+  if (!resolved) {
+    return (
+      <PageShell>
+        <main className="flex flex-1 flex-col items-center justify-center py-10 text-center">
+          <SlugRedirect onGaveUp={giveUp} />
+        </main>
+      </PageShell>
+    );
+  }
+
   return (
     <PageShell>
       <main className="flex flex-1 flex-col justify-center py-10 text-center">

@@ -1,3 +1,4 @@
+import { createHash } from 'node:crypto';
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { CACHE_DIR, CITY_BOXES } from './config';
@@ -199,6 +200,30 @@ function groupFor(overtureCategory: string | null, category: Category): string {
   return `${category}-other`;
 }
 
+/**
+ * A slug that means the same place in every import, forever.
+ *
+ * The old scheme was `toSlug(name)` plus `-2`, `-3` on collision, and the number came
+ * from iteration order. Re-import with a different quota and "kfc-long-bien-2" became
+ * "kfc-long-bien" — every link ever shared to it now a 404, which is exactly what
+ * happened on the first rebalance.
+ *
+ * Appending a hash of the Overture id makes the slug a pure function of the place
+ * itself: nothing about what else is in the catalogue can move it. The suffix goes on
+ * every imported slug, not only the colliding ones, because "only on collision" is
+ * still order-dependent — whichever place happened to claim the bare name first would
+ * lose it the day a rival appeared or disappeared.
+ *
+ * Six hex characters, not four: 4,800 places against 65,536 values is a one-in-three
+ * chance of some pair colliding, and while the schema would catch it at build time,
+ * catching it is not the same as not causing it.
+ */
+function stableSlug(name: string, sourceId: string): string {
+  const base = toSlug(name).slice(0, 50).replace(/-+$/g, '');
+  const token = createHash('sha256').update(sourceId).digest('hex').slice(0, 6);
+  return base ? `${base}-${token}` : token;
+}
+
 function toSlug(value: string): string {
   return value
     .normalize('NFD')
@@ -391,16 +416,14 @@ async function importCity(cityId: string, validDistricts: Set<string>, takenSlug
     if (seenPosition.has(positionKey)) return false;
 
     const name = tidyName(place.name);
-    let slug = toSlug(name);
-    // Two characters is what the schema requires; a name made entirely of symbols
-    // cannot produce one and is not a place anybody searched for.
-    if (slug.length < 2) return false;
-    if (takenSlugs.has(slug)) slug = `${slug}-${districtId}`;
-    if (takenSlugs.has(slug)) {
-      let suffix = 2;
-      while (takenSlugs.has(`${slug}-${suffix}`)) suffix += 1;
-      slug = `${slug}-${suffix}`;
-    }
+    // A name made entirely of symbols is not a place anybody searched for.
+    if (toSlug(name).length < 2) return false;
+
+    const slug = stableSlug(name, place.id);
+    // Curated slugs are reserved first, so this can only fire if a hand-written slug
+    // happens to end in the same six hex characters — worth refusing rather than
+    // silently overwriting a URL a person chose.
+    if (takenSlugs.has(slug)) return false;
 
     takenSlugs.add(slug);
     seenPosition.add(positionKey);
@@ -463,6 +486,44 @@ async function importCity(cityId: string, validDistricts: Set<string>, takenSlug
   return { cityId, imported, reason: null, perDistrictPerCategory };
 }
 
+const ALIASES_PATH = join('data', 'places', 'slug-aliases.json');
+
+/**
+ * Every slug a place has ever been published under, pointing at its current one.
+ *
+ * Making slugs stable stops the bleeding; it does not heal what already bled. This
+ * change alone renames all 4,842 imported places, and every link shared before today
+ * would 404. So each import compares itself to the file it is replacing — matched on
+ * the Overture id, which is the one thing that never moves — and records any slug
+ * that changed.
+ *
+ * The map accumulates rather than being rewritten, because a place renamed twice has
+ * two dead URLs, not one. It is committed, small, and read by the 404 page.
+ */
+async function readAliases(): Promise<Record<string, string>> {
+  try {
+    return JSON.parse(await readFile(ALIASES_PATH, 'utf8')) as Record<string, string>;
+  } catch {
+    return {};
+  }
+}
+
+async function readPreviousSlugs(cityId: string): Promise<Map<string, string>> {
+  try {
+    const existing = JSON.parse(
+      await readFile(join('data', 'places', 'imported', `${cityId}.json`), 'utf8'),
+    ) as { slug: string; sourceId?: string }[];
+
+    return new Map(
+      existing
+        .filter((place): place is { slug: string; sourceId: string } => Boolean(place.sourceId))
+        .map((place) => [place.sourceId, place.slug]),
+    );
+  } catch {
+    return new Map();
+  }
+}
+
 async function main() {
   const write = process.argv.includes('--write');
 
@@ -478,6 +539,8 @@ async function main() {
 
   await mkdir(join('data', 'places', 'imported'), { recursive: true });
 
+  const aliases = await readAliases();
+  let renamed = 0;
   let total = 0;
   for (const city of CITY_BOXES) {
     const cityFile = JSON.parse(await readFile(join('data', 'cities', `${city.id}.json`), 'utf8')) as {
@@ -495,6 +558,17 @@ async function main() {
       continue;
     }
 
+    // Matched on the Overture id: the name and the slug may both have moved, but a
+    // record is the same record.
+    const previous = await readPreviousSlugs(city.id);
+    for (const place of imported) {
+      const before = previous.get(place.sourceId);
+      if (before && before !== place.slug) {
+        aliases[before] = place.slug;
+        renamed += 1;
+      }
+    }
+
     total += imported.length;
     console.log(
       `  ${city.name.padEnd(18)} ${String(imported.length).padStart(5)} địa điểm` +
@@ -509,7 +583,19 @@ async function main() {
     }
   }
 
+  if (write) {
+    // Stale entries are kept, not pruned: an alias pointing at a slug that has since
+    // moved again still resolves, because the 404 page follows the chain.
+    const sorted = Object.fromEntries(
+      Object.entries(aliases).sort(([a], [b]) => a.localeCompare(b)),
+    );
+    await writeFile(ALIASES_PATH, `${JSON.stringify(sorted, null, 2)}\n`);
+  }
+
   console.log(`\n[import] Tổng ${total} địa điểm ${write ? 'đã ghi' : 'sẽ ghi'}.`);
+  if (renamed > 0) {
+    console.log(`[import] ${renamed} slug đã đổi — ghi vào ${ALIASES_PATH} để link cũ không chết.`);
+  }
   if (!write) console.log('[import] Đây là chạy thử. Thêm --write để ghi vào file.');
 }
 

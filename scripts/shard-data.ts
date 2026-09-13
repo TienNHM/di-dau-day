@@ -113,6 +113,18 @@ async function main() {
   await mkdir(OUT_DIR, { recursive: true });
 
   await Promise.all(files.map(({ path, body }) => writeFile(path, body, 'utf8')));
+
+  /*
+   * The slug alias map, served rather than bundled.
+   *
+   * It is a few hundred kilobytes and only one page ever reads it — the 404 — so
+   * bundling it would put it in the JavaScript of every page to be used by almost
+   * none of them.
+   */
+  const aliases = await readFile(join(process.cwd(), 'data', 'places', 'slug-aliases.json'), 'utf8')
+    .catch(() => '{}');
+  await mkdir(join(process.cwd(), 'public', 'data'), { recursive: true });
+  await writeFile(join(process.cwd(), 'public', 'data', 'slug-aliases.json'), aliases, 'utf8');
   await writeFile(MANIFEST_PATH, manifest, 'utf8');
 
   const total = entries.reduce((sum, entry) => sum + entry.placeCount, 0);
